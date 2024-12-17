@@ -1,0 +1,13 @@
+# environment and credentials
+.env
+
+
+
+# app utilities
+**test.py
+
+
+# clutter
+*.pyc
+**__pycache__**
+.DS_Store
