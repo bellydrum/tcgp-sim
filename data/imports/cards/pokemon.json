@@ -1,0 +1,28 @@
+[
+    {
+        "name": "bulbasaur",
+        "name_display": "Bulbasaur",
+        "category": "pokemon",
+        "effect": {},
+        "rarity": 0,
+        "illustrator": "Narumi Sato",
+        "type": "grass",
+        "ex": false,
+        "stage": 0,
+        "hp": 70,
+        "weakness_type": "fire",
+        "weakness_amount": 20,
+        "retreat_cost": 1,
+        "attacks": [
+            "vine_whip"
+        ],
+        "sets": [
+            {
+                "code": "A1",
+                "number": "1",
+                "set_number": "A1-001",
+                "dex": "A1M"
+            }
+        ]
+    }
+]

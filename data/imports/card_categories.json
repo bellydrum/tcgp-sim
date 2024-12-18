@@ -1,0 +1,9 @@
+[
+    {
+        "name": "pokemon",
+        "name_display": "Pokemon"
+    }, {
+        "name": "trainer",
+        "name_display": "Trainer"
+    }
+]
