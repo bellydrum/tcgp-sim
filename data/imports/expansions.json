@@ -1,0 +1,26 @@
+[
+    {
+        "expansion_id": "A1",
+        "name": "Genetic Apex",
+        "name_display": "Genetic Apex",
+        "card_count": "226",
+        "is_promo": false,
+        "sort_number": 1
+    },
+    {
+        "expansion_id": "A1a",
+        "name": "Mythical Island",
+        "name_display": "Mythical Island",
+        "card_count": "068",
+        "is_promo": false,
+        "sort_number": 2
+    },
+    {
+        "expansion_id": "PROMO-A",
+        "name": "Promo A",
+        "name_display": "Promo A",
+        "card_count": null,
+        "is_promo": true,
+        "sort_number": 3
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Colorless",
+        "name_display": "Colorless"
+    },
+    {
+        "name": "Darkness",
+        "name_display": "Darkness"
+    },
+    {
+        "name": "Fighting",
+        "name_display": "Fighting"
+    },
+    {
+        "name": "Fire",
+        "name_display": "Fire"
+    },
+    {
+        "name": "Grass",
+        "name_display": "Grass"
+    },
+    {
+        "name": "Lightning",
+        "name_display": "Lightning"
+    },
+    {
+        "name": "Metal",
+        "name_display": "Metal"
+    },
+    {
+        "name": "Psychic",
+        "name_display": "Psychic"
+    },
+    {
+        "name": "Water",
+        "name_display": "Water"
+    }
+]

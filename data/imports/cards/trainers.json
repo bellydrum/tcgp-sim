@@ -1,0 +1,1260 @@
+[
+    {
+        "active": true,
+        "card_id": "TR_10_000080_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000080",
+        "card_type": "trainer",
+        "character_id": "KAINOKASEKI",
+        "collection_number": 216,
+        "description": "Play this card as if it were a 40-HP Basic Pokemon. At any time during your turn, you may discard this card from play. This card can't retreat.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "helix_fossil",
+        "name_display": "Helix Fossil",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "C",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0030_00_000"
+        ],
+        "illustrators": [
+            "Toyste Beach"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000080",
+            "trainer_type": "Fossil"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000090_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000090",
+        "card_type": "trainer",
+        "character_id": "KOURANOKASEKI",
+        "collection_number": 217,
+        "description": "Play this card as if it were a 40-HP Basic Pokemon. At any time during your turn, you may discard this card from play. This card can't retreat.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "dome_fossil",
+        "name_display": "Dome Fossil",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "C",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0020_00_000"
+        ],
+        "illustrators": [
+            "Toyste Beach"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000090",
+            "trainer_type": "Fossil"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000100_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000100",
+        "card_type": "trainer",
+        "character_id": "HIMITSUNOKOHAKU",
+        "collection_number": 218,
+        "description": "Play this card as if it were a 40-HP Basic Pokemon. At any time during your turn, you may discard this card from play. This card can't retreat.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "old_amber",
+        "name_display": "Old Amber",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "C",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN002_0010_00_000",
+            "AN001_0010_00_000"
+        ],
+        "illustrators": [
+            "Toyste Beach"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000100",
+            "trainer_type": "Fossil"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000110_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000110",
+        "card_type": "trainer",
+        "character_id": "ERIKA",
+        "collection_number": 219,
+        "description": "Heal 50 damage from 1 of your Pokemon.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "erika",
+        "name_display": "Erika",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0020_00_000"
+        ],
+        "illustrators": [
+            "kirisAki"
+        ],
+        "variants": [
+            "TR_20_000110_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000110",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000120_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000120",
+        "card_type": "trainer",
+        "character_id": "KASUMI",
+        "collection_number": 220,
+        "description": "Choose 1 of your Pokemon, and flip a coin until you get tails. For each heads, take a Energy from your Energy Zone and attach it to that Pokemon.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "misty",
+        "name_display": "Misty",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0030_00_000"
+        ],
+        "illustrators": [
+            "Sanosuke Sakuma"
+        ],
+        "variants": [
+            "TR_20_000120_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000120",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000130_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000130",
+        "card_type": "trainer",
+        "character_id": "KATSURA",
+        "collection_number": 221,
+        "description": "During this turn, attacks used by your Ninetales , Rapidash , or Magmar do +30 damage to your opponent's Active Pokemon.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "blaine",
+        "name_display": "Blaine",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0020_00_000"
+        ],
+        "illustrators": [
+            "GOSSAN"
+        ],
+        "variants": [
+            "TR_20_000130_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000130",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000140_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000140",
+        "card_type": "trainer",
+        "character_id": "KYOU",
+        "collection_number": 222,
+        "description": "Put your Muk or Weezing in the Active Spot into your hand.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "koga",
+        "name_display": "Koga",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0010_00_000"
+        ],
+        "illustrators": [
+            "Souichirou Gunjima"
+        ],
+        "variants": [
+            "TR_20_000140_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000140",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000150_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000150",
+        "card_type": "trainer",
+        "character_id": "SAKAKI",
+        "collection_number": 223,
+        "description": "During this turn, attacks used by your Pokemon do +10 damage to your opponent's Active Pokemon.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "giovanni",
+        "name_display": "Giovanni",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0010_00_000"
+        ],
+        "illustrators": [
+            "Hideki Ishikawa"
+        ],
+        "variants": [
+            "TR_20_000150_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000150",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000160_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000160",
+        "card_type": "trainer",
+        "character_id": "TAKESHI",
+        "collection_number": 224,
+        "description": "Take a Energy from your Energy Zone and attach it to Golem or Onix .",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "brock",
+        "name_display": "Brock",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0030_00_000"
+        ],
+        "illustrators": [
+            "Taira Akitsu"
+        ],
+        "variants": [
+            "TR_20_000160_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000160",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000170_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000170",
+        "card_type": "trainer",
+        "character_id": "NATSUME",
+        "collection_number": 225,
+        "description": "Switch out your opponent's Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.) ",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "sabrina",
+        "name_display": "Sabrina",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0020_00_000"
+        ],
+        "illustrators": [
+            "Yuu Nishida"
+        ],
+        "variants": [
+            "TR_20_000170_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000170",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000180_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000180",
+        "card_type": "trainer",
+        "character_id": "MATISSE",
+        "collection_number": 226,
+        "description": "Move all Energy from your Benched Pokemon to your Raichu , Electrode , or Electabuzz in the Active Spot.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "lt._surge",
+        "name_display": "Lt. Surge",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0030_00_000"
+        ],
+        "illustrators": [
+            "nagimiso"
+        ],
+        "variants": [
+            "TR_20_000180_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000180",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000190_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000190",
+        "card_type": "trainer",
+        "character_id": "MABOROSHINOSEKIBAN",
+        "collection_number": 65,
+        "description": "Look at the top card of your deck. If that card is a Pokemon, put it into your hand. If it is not a Pokemon, put it on the bottom of your deck.",
+        "dust_cost": null,
+        "expansion": "A1a",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "mythical_slab",
+        "name_display": "Mythical Slab",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN002_0010_00_000"
+        ],
+        "illustrators": [
+            "AYUMI ODASHIMA"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000190",
+            "trainer_type": "Item"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000200_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000200",
+        "card_type": "trainer",
+        "character_id": "POKEMONNOFUE",
+        "collection_number": 64,
+        "description": "Put a Basic Pokemon from your opponent's discard pile onto their Bench.",
+        "dust_cost": null,
+        "expansion": "A1a",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "pokemon_flute",
+        "name_display": "Pokémon Flute",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN002_0010_00_000"
+        ],
+        "illustrators": [
+            "Toyste Beach"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000200",
+            "trainer_type": "Item"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000210_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000210",
+        "card_type": "trainer",
+        "character_id": "GREEN",
+        "collection_number": 67,
+        "description": "During your opponent's next turn, all of your Pokemon take −10 damage from attacks from your opponent's Pokemon.",
+        "dust_cost": null,
+        "expansion": "A1a",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "blue",
+        "name_display": "Blue",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN002_0010_00_000"
+        ],
+        "illustrators": [
+            "Ryuta Fuse"
+        ],
+        "variants": [
+            "TR_20_000210_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000210",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000220_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000220",
+        "card_type": "trainer",
+        "character_id": "KAKEDASHICHOSAIN",
+        "collection_number": 66,
+        "description": "Put your Mew ex in the Active Spot into your hand.",
+        "dust_cost": null,
+        "expansion": "A1a",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "budding_expeditioner",
+        "name_display": "Budding Expeditioner",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN002_0010_00_000"
+        ],
+        "illustrators": [
+            "Yuu Nishida"
+        ],
+        "variants": [
+            "TR_20_000220_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000220",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_10_000230_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000230",
+        "card_type": "trainer",
+        "character_id": "LEAF",
+        "collection_number": 68,
+        "description": "During this turn, the Retreat Cost of your Active Pokemon is 2 less.",
+        "dust_cost": null,
+        "expansion": "A1a",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "leaf",
+        "name_display": "Leaf",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "U",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN002_0010_00_000"
+        ],
+        "illustrators": [
+            "En Morikura"
+        ],
+        "variants": [
+            "TR_20_000230_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000230",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000110_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000110",
+        "card_type": "trainer",
+        "character_id": "ERIKA",
+        "collection_number": 266,
+        "description": "Heal 50 damage from 1 of your Pokemon.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "erika",
+        "name_display": "Erika",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0020_00_000"
+        ],
+        "illustrators": [
+            "saino misaki"
+        ],
+        "variants": [
+            "TR_10_000110_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000110",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000120_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000120",
+        "card_type": "trainer",
+        "character_id": "KASUMI",
+        "collection_number": 267,
+        "description": "Choose 1 of your Pokemon, and flip a coin until you get tails. For each heads, take a Energy from your Energy Zone and attach it to that Pokemon.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "misty",
+        "name_display": "Misty",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0030_00_000"
+        ],
+        "illustrators": [
+            "Sanosuke Sakuma"
+        ],
+        "variants": [
+            "TR_10_000120_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000120",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000130_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000130",
+        "card_type": "trainer",
+        "character_id": "KATSURA",
+        "collection_number": 268,
+        "description": "During this turn, attacks used by your Ninetales , Rapidash , or Magmar do +30 damage to your opponent's Active Pokemon.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "blaine",
+        "name_display": "Blaine",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0020_00_000"
+        ],
+        "illustrators": [
+            "GOSSAN"
+        ],
+        "variants": [
+            "TR_10_000130_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000130",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000140_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000140",
+        "card_type": "trainer",
+        "character_id": "KYOU",
+        "collection_number": 269,
+        "description": "Put your Muk or Weezing in the Active Spot into your hand.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "koga",
+        "name_display": "Koga",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0010_00_000"
+        ],
+        "illustrators": [
+            "Souichirou Gunjima"
+        ],
+        "variants": [
+            "TR_10_000140_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000140",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000150_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000150",
+        "card_type": "trainer",
+        "character_id": "SAKAKI",
+        "collection_number": 270,
+        "description": "During this turn, attacks used by your Pokemon do +10 damage to your opponent's Active Pokemon.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "giovanni",
+        "name_display": "Giovanni",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0010_00_000"
+        ],
+        "illustrators": [
+            "Hideki Ishikawa"
+        ],
+        "variants": [
+            "TR_10_000150_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000150",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000160_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000160",
+        "card_type": "trainer",
+        "character_id": "TAKESHI",
+        "collection_number": 271,
+        "description": "Take a Energy from your Energy Zone and attach it to Golem or Onix .",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "brock",
+        "name_display": "Brock",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0030_00_000"
+        ],
+        "illustrators": [
+            "Ryuta Fuse"
+        ],
+        "variants": [
+            "TR_10_000160_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000160",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000170_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000170",
+        "card_type": "trainer",
+        "character_id": "NATSUME",
+        "collection_number": 272,
+        "description": "Switch out your opponent's Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.) ",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "sabrina",
+        "name_display": "Sabrina",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0020_00_000"
+        ],
+        "illustrators": [
+            "GIDORA"
+        ],
+        "variants": [
+            "TR_10_000170_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000170",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000180_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000180",
+        "card_type": "trainer",
+        "character_id": "MATISSE",
+        "collection_number": 273,
+        "description": "Move all Energy from your Benched Pokemon to your Raichu , Electrode , or Electabuzz in the Active Spot.",
+        "dust_cost": null,
+        "expansion": "A1",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "lt._surge",
+        "name_display": "Lt. Surge",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN001_0030_00_000"
+        ],
+        "illustrators": [
+            "nagimiso"
+        ],
+        "variants": [
+            "TR_10_000180_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000180",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000210_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000210",
+        "card_type": "trainer",
+        "character_id": "GREEN",
+        "collection_number": 81,
+        "description": "During your opponent's next turn, all of your Pokemon take −10 damage from attacks from your opponent's Pokemon.",
+        "dust_cost": null,
+        "expansion": "A1a",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "blue",
+        "name_display": "Blue",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN002_0010_00_000"
+        ],
+        "illustrators": [
+            "Ryuta Fuse"
+        ],
+        "variants": [
+            "TR_10_000210_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000210",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000220_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000220",
+        "card_type": "trainer",
+        "character_id": "KAKEDASHICHOSAIN",
+        "collection_number": 80,
+        "description": "Put your Mew ex in the Active Spot into your hand.",
+        "dust_cost": null,
+        "expansion": "A1a",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "budding_expeditioner",
+        "name_display": "Budding Expeditioner",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN002_0010_00_000"
+        ],
+        "illustrators": [
+            "Yuu Nishida"
+        ],
+        "variants": [
+            "TR_10_000220_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000220",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_20_000230_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000230",
+        "card_type": "trainer",
+        "character_id": "LEAF",
+        "collection_number": 82,
+        "description": "During this turn, the Retreat Cost of your Active Pokemon is 2 less.",
+        "dust_cost": null,
+        "expansion": "A1a",
+        "flavor_text": "",
+        "is_promo": false,
+        "is_serial": false,
+        "name": "leaf",
+        "name_display": "Leaf",
+        "pokedex_number": null,
+        "promotion_name": null,
+        "rarity": "SR",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [
+            "AN002_0010_00_000"
+        ],
+        "illustrators": [
+            "En Morikura"
+        ],
+        "variants": [
+            "TR_10_000230_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000230",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_90_000010_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000010",
+        "card_type": "trainer",
+        "character_id": "KIZUGUSURI",
+        "collection_number": 1,
+        "description": "Heal 20 damage from 1 of your Pokemon.",
+        "dust_cost": null,
+        "expansion": "PROMO-A",
+        "flavor_text": "",
+        "is_promo": true,
+        "is_serial": false,
+        "name": "potion",
+        "name_display": "Potion",
+        "pokedex_number": null,
+        "promotion_name": "PROMO-A",
+        "rarity": "C",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [],
+        "illustrators": [
+            "5ban Graphics"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000010",
+            "trainer_type": "Item"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_90_000020_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000020",
+        "card_type": "trainer",
+        "character_id": "SPEEDER",
+        "collection_number": 2,
+        "description": "During this turn, the Retreat Cost of your Active Pokemon is 1 less.",
+        "dust_cost": null,
+        "expansion": "PROMO-A",
+        "flavor_text": "",
+        "is_promo": true,
+        "is_serial": false,
+        "name": "x_speed",
+        "name_display": "X Speed",
+        "pokedex_number": null,
+        "promotion_name": "PROMO-A",
+        "rarity": "C",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [],
+        "illustrators": [
+            "Toyste Beach"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000020",
+            "trainer_type": "Item"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_90_000030_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000030",
+        "card_type": "trainer",
+        "character_id": "MONSTERBALL",
+        "collection_number": 5,
+        "description": "Put 1 random Basic Pokemon from your deck into your hand.",
+        "dust_cost": null,
+        "expansion": "PROMO-A",
+        "flavor_text": "",
+        "is_promo": true,
+        "is_serial": false,
+        "name": "poke_ball",
+        "name_display": "Poké Ball",
+        "pokedex_number": null,
+        "promotion_name": "PROMO-A",
+        "rarity": "C",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [],
+        "illustrators": [
+            "Ryo Ueda"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000030",
+            "trainer_type": "Item"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_90_000040_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000040",
+        "card_type": "trainer",
+        "character_id": "HAKASENOKENKYU",
+        "collection_number": 7,
+        "description": "Draw 2 cards.",
+        "dust_cost": null,
+        "expansion": "PROMO-A",
+        "flavor_text": "",
+        "is_promo": true,
+        "is_serial": false,
+        "name": "professor's_research",
+        "name_display": "Professor’s Research",
+        "pokedex_number": null,
+        "promotion_name": "PROMO-A",
+        "rarity": "C",
+        "rules_description": "You may play only 1 Supporter card during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [],
+        "illustrators": [
+            "Naoki Saito"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000040",
+            "trainer_type": "Supporter"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_90_000050_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000050",
+        "card_type": "trainer",
+        "character_id": "HANDSCOPE",
+        "collection_number": 3,
+        "description": "Your opponent reveals their hand.",
+        "dust_cost": null,
+        "expansion": "PROMO-A",
+        "flavor_text": "",
+        "is_promo": true,
+        "is_serial": false,
+        "name": "hand_scope",
+        "name_display": "Hand Scope",
+        "pokedex_number": null,
+        "promotion_name": "PROMO-A",
+        "rarity": "C",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [],
+        "illustrators": [
+            "Toyste Beach"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000050",
+            "trainer_type": "Item"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_90_000060_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000060",
+        "card_type": "trainer",
+        "character_id": "POKEMONZUKAN",
+        "collection_number": 4,
+        "description": "Look at the top 3 cards of your deck.",
+        "dust_cost": null,
+        "expansion": "PROMO-A",
+        "flavor_text": "",
+        "is_promo": true,
+        "is_serial": false,
+        "name": "pokedex",
+        "name_display": "Pokédex",
+        "pokedex_number": null,
+        "promotion_name": "PROMO-A",
+        "rarity": "C",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [],
+        "illustrators": [
+            "Ryo Ueda"
+        ],
+        "variants": [
+            "TR_90_000060_01"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000060",
+            "trainer_type": "Item"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_90_000060_01",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000060",
+        "card_type": "trainer",
+        "character_id": "POKEMONZUKAN",
+        "collection_number": 8,
+        "description": "Look at the top 3 cards of your deck.",
+        "dust_cost": null,
+        "expansion": "PROMO-A",
+        "flavor_text": "",
+        "is_promo": true,
+        "is_serial": false,
+        "name": "pokedex",
+        "name_display": "Pokédex",
+        "pokedex_number": null,
+        "promotion_name": "PROMO-A",
+        "rarity": "C",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [],
+        "illustrators": [
+            "Yuu Nishida"
+        ],
+        "variants": [
+            "TR_90_000060_00"
+        ],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000060",
+            "trainer_type": "Item"
+        }
+    },
+    {
+        "active": true,
+        "card_id": "TR_90_000070_00",
+        "card_pokemon_id": null,
+        "card_trainer_id": "TR_000070",
+        "card_type": "trainer",
+        "character_id": "REDCARD",
+        "collection_number": 6,
+        "description": "Your opponent shuffles their hand into their deck and draws 3 cards.",
+        "dust_cost": null,
+        "expansion": "PROMO-A",
+        "flavor_text": "",
+        "is_promo": true,
+        "is_serial": false,
+        "name": "red_card",
+        "name_display": "Red Card",
+        "pokedex_number": null,
+        "promotion_name": "PROMO-A",
+        "rarity": "C",
+        "rules_description": "You may play any number of Item cards during your turn.",
+        "series_id": "A",
+        "attack_ids": [],
+        "available_packs": [],
+        "illustrators": [
+            "5ban Graphics"
+        ],
+        "variants": [],
+        "pokemon_object": null,
+        "trainer_object": {
+            "trainer_id": "TR_000070",
+            "trainer_type": "Item"
+        }
+    }
+]

@@ -1,13 +1,13 @@
 # environment and credentials
 .env
 
-
-
 # app utilities
 **test.py
 
 
 # clutter
 *.pyc
+**exported**
 **__pycache__**
 .DS_Store
+__azur**

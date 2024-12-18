@@ -1,0 +1,51 @@
+[
+    {
+        "pack_id": "AP001_0010_00_000",
+        "name": "Promo Pack A Series Vol. 1",
+        "name_display": "Promo Pack A Series Vol. 1",
+        "expansion_id": "PROMO-A",
+        "sort_number": 1
+    },
+    {
+        "pack_id": "AP001_0020_00_000",
+        "name": "Promo Pack A Series Vol. 2",
+        "name_display": "Promo Pack A Series Vol. 2",
+        "expansion_id": "PROMO-A",
+        "sort_number": 1
+    },
+    {
+        "pack_id": "AP001_0030_00_000",
+        "name": "Promo Pack A Series Vol. 3",
+        "name_display": "Promo Pack A Series Vol. 3",
+        "expansion_id": "PROMO-A",
+        "sort_number": 1
+    },
+    {
+        "pack_id": "AN002_0010_00_000",
+        "name": "Mew Pack",
+        "name_display": "Mew Pack",
+        "expansion_id": "A1a",
+        "sort_number": 10
+    },
+    {
+        "pack_id": "AN001_0030_00_000",
+        "name": "Pikachu Pack",
+        "name_display": "Pikachu Pack",
+        "expansion_id": "A1",
+        "sort_number": 10
+    },
+    {
+        "pack_id": "AN001_0020_00_000",
+        "name": "Charizard Pack",
+        "name_display": "Charizard Pack",
+        "expansion_id": "A1",
+        "sort_number": 20
+    },
+    {
+        "pack_id": "AN001_0010_00_000",
+        "name": "Mewtwo Pack",
+        "name_display": "Mewtwo Pack",
+        "expansion_id": "A1",
+        "sort_number": 30
+    }
+]

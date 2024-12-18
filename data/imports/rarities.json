@@ -1,0 +1,47 @@
+[
+    {
+        "rarity_id": "C",
+        "name": "common",
+        "name_display": "Common"
+    },
+    {
+        "rarity_id": "U",
+        "name": "uncommon",
+        "name_display": "Uncommon"
+    },
+    {
+        "rarity_id": "R",
+        "name": "rare",
+        "name_display": "Rare"
+    },
+    {
+        "rarity_id": "RR",
+        "name": "double_rare",
+        "name_display": "Double Rare"
+    },
+    {
+        "rarity_id": "AR",
+        "name": "art_rare",
+        "name_display": "Art Rare"
+    },
+    {
+        "rarity_id": "SR",
+        "name": "super_rare",
+        "name_display": "Super Rare"
+    },
+    {
+        "rarity_id": "IM",
+        "name": "immersive_rare",
+        "name_display": "Immersive Rare"
+    },
+    {
+        "rarity_id": "UR",
+        "name": "crown_rare",
+        "name_display": "Crown Rare"
+    },
+    {
+        "rarity_id": "SAR",
+        "name": "special_art_rare",
+        "name_display": "Special Art Rare"
+    }
+]
