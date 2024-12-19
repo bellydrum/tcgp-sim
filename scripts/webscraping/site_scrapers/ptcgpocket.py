@@ -39,10 +39,14 @@ def scrape():
     formatted_response_data = format_response_data(response_data)
 
     attacks = formatted_response_data["attacks"]
+    illustrators = formatted_response_data["illustrators"]
     pokemon = formatted_response_data["pokemon"]
 
-    with open("data/imports/attacks.json", "w") as f:
-        f.write(json.dumps(attacks, indent=4, ensure_ascii=False))
+    # with open("data/imports/attacks.json", "w") as f:
+    #     f.write(json.dumps(attacks, indent=4, ensure_ascii=False))
     
-    with open("data/imports/cards/pokemon.json", "w") as f:
-        f.write(json.dumps(pokemon, indent=4, ensure_ascii=False))
+    # with open("data/imports/illustrators.json", "w") as f:
+    #     f.write(json.dumps(illustrators, indent=4, ensure_ascii=False))
+    
+    # with open("data/imports/cards/pokemon.json", "w") as f:
+    #     f.write(json.dumps(pokemon, indent=4, ensure_ascii=False))

@@ -42,7 +42,6 @@ def import_objects():
                 trainer_type = None,
                 effect = object_to_import.get("effect"),                                                        # eg. {}
                 # rarity = rarity_record,                                                                         # eg. 0
-                illustrator = object_to_import.get("illustrator"),                                              # eg. "Narumi Sato"
                 stage = object_to_import.get("stage"),                                                          # eg. "Basic"
 
                 # Pokemon-specific properties
@@ -67,7 +66,7 @@ def import_objects():
 
         # STEP 3b. Create relational (many-to-many) records associated with this Pokemon
 
-        # create PokemonAttack relations
+        # create CardAttack relations
         for attack in object_to_import.get("attacks"):
             try:
                 new_attack_relationship = CardAttack(
@@ -95,3 +94,16 @@ def import_objects():
             )
 
             new_set_relationship.save()
+
+        # create CardIllustrator relations
+        for illustrator_name in object_to_import.get("illustrators"):
+            try:
+                new_illustrator_relationship = CardIllustrator(
+                    card=new_object,
+                    illustrator=Illustrator.objects.get(name=illustrator_name)
+                )
+
+                new_illustrator_relationship.save()
+            except Exception as e:
+                print(f"ERROR: {str(e)}")
+                print(illustrator_name)

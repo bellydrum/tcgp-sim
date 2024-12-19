@@ -15,6 +15,10 @@ class Set(models.Model):
     code = models.CharField(max_length=32, unique=True, blank=False, null=False)
     name = models.CharField(max_length=128, unique=True, blank=False, null=False)
 
+class Illustrator(models.Model):
+    id = models.BigAutoField(primary_key=True)
+    name = models.CharField(max_length=200, blank=False, null=False)
+
 class Card(models.Model):
     id = models.BigAutoField(primary_key=True)
     card_id = models.CharField(max_length=200, blank=False, null=True)
@@ -24,7 +28,6 @@ class Card(models.Model):
     trainer_type = models.CharField(max_length=1, null=True, choices=TrainerTypes.choices)
     effect = models.JSONField(blank=False, null=True, verbose_name="card_effect")
     rarity = models.CharField(max_length=32, null=True, choices=Rarities.choices)
-    illustrator = models.CharField(max_length=200, unique=False, blank=False, null=True)
     stage = models.CharField(max_length=64, blank=False, null=True)
 
 class Attack(models.Model):
@@ -40,7 +43,7 @@ class Attack(models.Model):
     effect = models.JSONField(blank=False, null=True, verbose_name="attack_effect")
     effect_description = models.CharField(max_length=512, blank=False, null=True)
 
-# import destinations
+""" import destinations """
 
 class Pokemon(Card, models.Model):
     type = models.ForeignKey(EnergyType, on_delete=models.SET_NULL, blank=False, null=True)
@@ -76,6 +79,11 @@ class CardSet(models.Model):
     # "A1M" - reference to the sub Set this card belongs to
     dex = models.ForeignKey(Set, on_delete=models.RESTRICT, blank=False, null=True)
 
-
-# A1
-# model.number == 
+class CardIllustrator(models.Model):
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(fields=["card", "illustrator"], name="unique_card_illustrator")
+        ]
+    id = models.BigAutoField(primary_key=True)
+    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False)
+    illustrator = models.ForeignKey(Illustrator, on_delete=models.RESTRICT, blank=False, null=False)

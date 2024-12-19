@@ -5,7 +5,7 @@ from pprint import pprint
 
 from cards.enums import *
 from cards.models import *
-from scripts.webscraping.site_scrapers.example_responses.ptcgpocket_response import example_response_object
+# from scripts.webscraping.site_scrapers.example_responses.pokemonzone_response import example_response_object
 
 
 def format_response_data(response_data):

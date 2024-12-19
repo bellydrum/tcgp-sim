@@ -78,6 +78,13 @@ def format_response_data(response_data):
     existing_attack_names = [i["name"] for i in existing_attacks]
     new_attacks = []
 
+    existing_illustrators = [{
+        "name": i.name,
+    } for i in Illustrator.objects.all()]
+    existing_illustrator_names = [i["name"].lower() for i in existing_illustrators]
+    new_illustrators = []
+    
+
     formatted_pokemon = []
 
     for response_object in response_data:
@@ -107,6 +114,20 @@ def format_response_data(response_data):
                         existing_attacks.append(attack_object)
                         existing_attack_names.append(attack_object["name"])
                         new_attacks.append(attack_object)
+            
+            # check to see if this object's Illustrator exist locally
+            response_object_illustrator: str = response_object.get("illustrator") if response_object.get("illustrator") else None
+
+            illustrator_object = None
+
+            if response_object_illustrator:
+                if response_object_illustrator.lower() not in existing_illustrator_names:
+                    illustrator_object = {
+                        "name": response_object_illustrator
+                    }
+                    existing_illustrators.append(illustrator_object)
+                    existing_illustrator_names.append(response_object_illustrator.lower())
+                    new_illustrators.append(illustrator_object)
             
             # determine weakness_type
             
@@ -144,7 +165,7 @@ def format_response_data(response_data):
                 "trainer_type": trainer_type,
                 "effect": response_object.get("ability") if response_object.get("effect") else {},
                 "rarity": rarity,
-                "illustrator": response_object.get("illustrator"),
+                "illustrators": [illustrator_object.get("name")] if illustrator_object else [],
                 "type": response_object.get("color").lower(),
                 "ex": standardize_string(response_object.get("name", "")).endswith("ex"),
                 "stage": response_object.get("stage"),
@@ -171,4 +192,5 @@ def format_response_data(response_data):
     return {
         "pokemon": formatted_pokemon,
         "attacks": existing_attacks,
+        "illustrators": existing_illustrators,
     }
