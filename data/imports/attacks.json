@@ -6,13 +6,14 @@
             "grass": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "razor_leaf",
@@ -21,13 +22,14 @@
             "grass": 1,
             "colorless": 2
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "mega_drain",
@@ -36,13 +38,14 @@
             "grass": 2,
             "colorless": 2
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Heal 30 damage from this Pokémon."
-        }
+        },
+        "effect_description": "Heal 30 damage from this Pokémon."
     },
     {
         "name": "giant_bloom",
@@ -51,13 +54,14 @@
             "grass": 2,
             "colorless": 2
         },
-        "damage": 100,
+        "damage": "100",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Heal 30 damage from this Pokémon."
-        }
+        },
+        "effect_description": "Heal 30 damage from this Pokémon."
     },
     {
         "name": "find_a_friend",
@@ -67,11 +71,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Put 1 random {G} Pokémon from your deck into your hand."
-        }
+        },
+        "effect_description": "Put 1 random {G} Pokémon from your deck into your hand."
     },
     {
         "name": "bug_bite",
@@ -79,13 +84,14 @@
         "cost": {
             "colorless": 2
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "gust",
@@ -94,13 +100,14 @@
             "grass": 1,
             "colorless": 2
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "sting",
@@ -108,13 +115,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "sharp_sting",
@@ -122,13 +130,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "ram",
@@ -136,13 +145,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "drool",
@@ -151,13 +161,14 @@
             "grass": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "soothing_scent",
@@ -166,13 +177,14 @@
             "grass": 2,
             "colorless": 1
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Asleep."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Asleep."
     },
     {
         "name": "scratch",
@@ -181,13 +193,14 @@
             "grass": 1,
             "colorless": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "slash",
@@ -196,13 +209,14 @@
             "grass": 2,
             "colorless": 1
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "tackle",
@@ -210,13 +224,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "poison_powder",
@@ -224,13 +239,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Poisoned."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Poisoned."
     },
     {
         "name": "seed_bomb",
@@ -238,13 +254,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "stomp",
@@ -252,13 +269,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, this attack does 30 more damage."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, this attack does 30 more damage."
     },
     {
         "name": "tropical_swing",
@@ -266,13 +284,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, this attack does 40 more damage."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, this attack does 40 more damage."
     },
     {
         "name": "absorb",
@@ -281,13 +300,14 @@
             "grass": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Heal 10 damage from this Pokémon."
-        }
+        },
+        "effect_description": "Heal 10 damage from this Pokémon."
     },
     {
         "name": "sharp_scythe",
@@ -295,13 +315,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "double_horn",
@@ -309,13 +330,14 @@
         "cost": {
             "grass": 2
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip 2 coins. This attack does 50 damage for each heads."
-        }
+        },
+        "effect_description": "Flip 2 coins. This attack does 50 damage for each heads."
     },
     {
         "name": "attach",
@@ -323,13 +345,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "rolling_tackle",
@@ -337,13 +360,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "blot",
@@ -351,13 +375,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Heal 10 damage from this Pokémon."
-        }
+        },
+        "effect_description": "Heal 10 damage from this Pokémon."
     },
     {
         "name": "leaf_supply",
@@ -365,13 +390,14 @@
         "cost": {
             "grass": 2
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Take a {G} Energy from your Energy Zone and attach it to 1 of your Benched {G} Pokémon."
-        }
+        },
+        "effect_description": "Take a {G} Energy from your Energy Zone and attach it to 1 of your Benched {G} Pokémon."
     },
     {
         "name": "surprise_attack",
@@ -379,13 +405,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If tails, this attack does nothing."
-        }
+        },
+        "effect_description": "Flip a coin. If tails, this attack does nothing."
     },
     {
         "name": "ember",
@@ -393,13 +420,14 @@
         "cost": {
             "fire": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard a {R} Energy from this Pokémon."
-        }
+        },
+        "effect_description": "Discard a {R} Energy from this Pokémon."
     },
     {
         "name": "fire_claws",
@@ -408,13 +436,14 @@
             "fire": 1,
             "colorless": 2
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "fire_spin",
@@ -423,13 +452,14 @@
             "fire": 2,
             "colorless": 2
         },
-        "damage": 150,
+        "damage": "150",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard 2 {R} Energy from this Pokémon."
-        }
+        },
+        "effect_description": "Discard 2 {R} Energy from this Pokémon."
     },
     {
         "name": "crimson_storm",
@@ -438,13 +468,14 @@
             "fire": 2,
             "colorless": 2
         },
-        "damage": 200,
+        "damage": "200",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard 2 {R} Energy from this Pokémon."
-        }
+        },
+        "effect_description": "Discard 2 {R} Energy from this Pokémon."
     },
     {
         "name": "tail_whip",
@@ -454,11 +485,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
     },
     {
         "name": "flamethrower",
@@ -466,13 +498,14 @@
         "cost": {
             "fire": 2
         },
-        "damage": 90,
+        "damage": "90",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard a {R} Energy from this Pokémon."
-        }
+        },
+        "effect_description": "Discard a {R} Energy from this Pokémon."
     },
     {
         "name": "bite",
@@ -480,13 +513,14 @@
         "cost": {
             "colorless": 2
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "heat_tackle",
@@ -495,13 +529,14 @@
             "fire": 2,
             "colorless": 1
         },
-        "damage": 100,
+        "damage": "100",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This Pokémon also does 20 damage to itself."
-        }
+        },
+        "effect_description": "This Pokémon also does 20 damage to itself."
     },
     {
         "name": "inferno_onrush",
@@ -510,13 +545,14 @@
             "fire": 2,
             "colorless": 1
         },
-        "damage": 120,
+        "damage": "120",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This Pokémon also does 20 damage to itself."
-        }
+        },
+        "effect_description": "This Pokémon also does 20 damage to itself."
     },
     {
         "name": "flare",
@@ -524,13 +560,14 @@
         "cost": {
             "fire": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "fire_mane",
@@ -538,13 +575,14 @@
         "cost": {
             "fire": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "magma_punch",
@@ -552,13 +590,14 @@
         "cost": {
             "fire": 2
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "sky_attack",
@@ -567,13 +606,14 @@
             "fire": 1,
             "colorless": 2
         },
-        "damage": 130,
+        "damage": "130",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If tails, this attack does nothing."
-        }
+        },
+        "effect_description": "Flip a coin. If tails, this attack does nothing."
     },
     {
         "name": "inferno_dance",
@@ -583,11 +623,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip 3 coins. Take an amount of {R} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {R} Pokémon in any way you like."
-        }
+        },
+        "effect_description": "Flip 3 coins. Take an amount of {R} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {R} Pokémon in any way you like."
     },
     {
         "name": "heat_blast",
@@ -596,13 +637,14 @@
             "fire": 1,
             "colorless": 2
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "combustion",
@@ -610,13 +652,14 @@
         "cost": {
             "fire": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "gnaw",
@@ -624,13 +667,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "fire_blast",
@@ -639,13 +683,14 @@
             "fire": 1,
             "colorless": 3
         },
-        "damage": 130,
+        "damage": "130",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard a {R} Energy from this Pokémon."
-        }
+        },
+        "effect_description": "Discard a {R} Energy from this Pokémon."
     },
     {
         "name": "water_gun",
@@ -653,13 +698,14 @@
         "cost": {
             "water": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "wave_splash",
@@ -668,13 +714,14 @@
             "water": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "hydro_pump",
@@ -683,13 +730,14 @@
             "water": 2,
             "colorless": 1
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "If this Pokémon has at least 2 extra {W} Energy attached, this attack does 60 more damage."
-        }
+        },
+        "effect_description": "If this Pokémon has at least 2 extra {W} Energy attached, this attack does 60 more damage."
     },
     {
         "name": "surf",
@@ -698,13 +746,14 @@
             "water": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "hydro_bazooka",
@@ -713,13 +762,14 @@
             "water": 2,
             "colorless": 1
         },
-        "damage": 100,
+        "damage": "100",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "If this Pokémon has at least 2 extra {W} Energy attached, this attack does 60 more damage."
-        }
+        },
+        "effect_description": "If this Pokémon has at least 2 extra {W} Energy attached, this attack does 60 more damage."
     },
     {
         "name": "headache",
@@ -727,13 +777,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent can't use any Supporter cards from their hand during their next turn."
-        }
+        },
+        "effect_description": "Your opponent can't use any Supporter cards from their hand during their next turn."
     },
     {
         "name": "aqua_edge",
@@ -741,13 +792,14 @@
         "cost": {
             "water": 2
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "razor_fin",
@@ -755,13 +807,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "knuckle_punch",
@@ -769,13 +822,14 @@
         "cost": {
             "colorless": 2
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "mega_punch",
@@ -784,13 +838,14 @@
             "water": 1,
             "colorless": 2
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "gentle_slap",
@@ -798,13 +853,14 @@
         "cost": {
             "water": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "poison_tentacles",
@@ -813,13 +869,14 @@
             "water": 1,
             "colorless": 1
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Poisoned."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Poisoned."
     },
     {
         "name": "headbutt",
@@ -827,13 +884,14 @@
         "cost": {
             "colorless": 2
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "tongue_slap",
@@ -841,13 +899,14 @@
         "cost": {
             "water": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "vise_grip",
@@ -856,13 +915,14 @@
             "water": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "ko_crab",
@@ -871,13 +931,14 @@
             "water": 2,
             "colorless": 1
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip 2 coins. If both of them are heads, this attack does 80 more damage."
-        }
+        },
+        "effect_description": "Flip 2 coins. If both of them are heads, this attack does 80 more damage."
     },
     {
         "name": "water_arrow",
@@ -887,11 +948,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack does 50 damage to 1 of your opponent's Pokémon."
-        }
+        },
+        "effect_description": "This attack does 50 damage to 1 of your opponent's Pokémon."
     },
     {
         "name": "flop",
@@ -899,13 +961,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "horn_hazard",
@@ -913,13 +976,14 @@
         "cost": {
             "water": 1
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If tails, this attack does nothing."
-        }
+        },
+        "effect_description": "Flip a coin. If tails, this attack does nothing."
     },
     {
         "name": "smack",
@@ -927,13 +991,14 @@
         "cost": {
             "water": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "hydro_splash",
@@ -941,13 +1006,14 @@
         "cost": {
             "water": 2
         },
-        "damage": 90,
+        "damage": "90",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "splash",
@@ -955,13 +1021,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "hyper_beam",
@@ -969,13 +1036,14 @@
         "cost": {
             "water": 4
         },
-        "damage": 100,
+        "damage": "100",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard a random Energy from your opponent's Active Pokémon."
-        }
+        },
+        "effect_description": "Discard a random Energy from your opponent's Active Pokémon."
     },
     {
         "name": "bubble_drain",
@@ -984,13 +1052,14 @@
             "water": 1,
             "colorless": 2
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Heal 30 damage from this Pokémon."
-        }
+        },
+        "effect_description": "Heal 30 damage from this Pokémon."
     },
     {
         "name": "ancient_whirlpool",
@@ -999,13 +1068,14 @@
             "water": 1,
             "colorless": 2
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "During your opponent's next turn, the Defending Pokémon can't attack."
-        }
+        },
+        "effect_description": "During your opponent's next turn, the Defending Pokémon can't attack."
     },
     {
         "name": "ice_beam",
@@ -1014,13 +1084,14 @@
             "water": 2,
             "colorless": 1
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
     },
     {
         "name": "ice_wing",
@@ -1029,13 +1100,14 @@
             "water": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "blizzard",
@@ -1043,13 +1115,14 @@
         "cost": {
             "water": 3
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
-        }
+        },
+        "effect_description": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
     },
     {
         "name": "flap",
@@ -1057,13 +1130,14 @@
         "cost": {
             "colorless": 2
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "wing_attack",
@@ -1071,13 +1145,14 @@
         "cost": {
             "colorless": 3
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "water_drip",
@@ -1085,13 +1160,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "mist_slash",
@@ -1100,13 +1176,14 @@
             "water": 1,
             "colorless": 1
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "rain_splash",
@@ -1114,13 +1191,14 @@
         "cost": {
             "water": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "second_strike",
@@ -1129,13 +1207,14 @@
             "water": 1,
             "colorless": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
-        }
+        },
+        "effect_description": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
     },
     {
         "name": "powder_snow",
@@ -1144,13 +1223,14 @@
             "water": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Asleep."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Asleep."
     },
     {
         "name": "thunderbolt",
@@ -1158,13 +1238,14 @@
         "cost": {
             "lightning": 3
         },
-        "damage": 140,
+        "damage": "140",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard all Energy from this Pokémon."
-        }
+        },
+        "effect_description": "Discard all Energy from this Pokémon."
     },
     {
         "name": "circle_circuit",
@@ -1172,13 +1253,14 @@
         "cost": {
             "lightning": 2
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack does 30 damage for each of your Benched {L} Pokémon."
-        }
+        },
+        "effect_description": "This attack does 30 damage for each of your Benched {L} Pokémon."
     },
     {
         "name": "lightning_ball",
@@ -1186,28 +1268,30 @@
         "cost": {
             "lightning": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "spinning_attack",
         "name_display": "Spinning Attack",
         "cost": {
-            "colorless": 3,
-            "lightning": 1
+            "lightning": 1,
+            "colorless": 3
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "electro_ball",
@@ -1215,13 +1299,14 @@
         "cost": {
             "lightning": 2
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "thunder_punch",
@@ -1229,43 +1314,46 @@
         "cost": {
             "lightning": 2
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokémon also does 20 damage to itself."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokémon also does 20 damage to itself."
     },
     {
         "name": "pin_missile",
         "name_display": "Pin Missile",
         "cost": {
-            "colorless": 1,
-            "lightning": 1
+            "lightning": 1,
+            "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip 4 coins. This attack does 40 damage for each heads."
-        }
+        },
+        "effect_description": "Flip 4 coins. This attack does 40 damage for each heads."
     },
     {
         "name": "raging_thunder",
         "name_display": "Raging Thunder",
         "cost": {
-            "colorless": 1,
-            "lightning": 2
+            "lightning": 2,
+            "colorless": 1
         },
-        "damage": 100,
+        "damage": "100",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack also does 30 damage to 1 of your Benched Pokémon."
-        }
+        },
+        "effect_description": "This attack also does 30 damage to 1 of your Benched Pokémon."
     },
     {
         "name": "peck",
@@ -1273,13 +1361,14 @@
         "cost": {
             "lightning": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "thundering_hurricane",
@@ -1287,13 +1376,14 @@
         "cost": {
             "lightning": 3
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip 4 coins. This attack does 50 damage for each heads."
-        }
+        },
+        "effect_description": "Flip 4 coins. This attack does 50 damage for each heads."
     },
     {
         "name": "zap_kick",
@@ -1301,13 +1391,14 @@
         "cost": {
             "lightning": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "thunder_spear",
@@ -1317,11 +1408,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack does 30 damage to 1 of your opponent's Pokémon."
-        }
+        },
+        "effect_description": "This attack does 30 damage to 1 of your opponent's Pokémon."
     },
     {
         "name": "tiny_charge",
@@ -1329,13 +1421,14 @@
         "cost": {
             "lightning": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "head_bolt",
@@ -1343,28 +1436,30 @@
         "cost": {
             "lightning": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "thunder_fang",
         "name_display": "Thunder Fang",
         "cost": {
-            "colorless": 1,
-            "lightning": 2
+            "lightning": 2,
+            "colorless": 1
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
     },
     {
         "name": "tail_whap",
@@ -1372,13 +1467,14 @@
         "cost": {
             "lightning": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "quick_attack",
@@ -1386,13 +1482,14 @@
         "cost": {
             "colorless": 2
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, this attack does 40 more damage."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, this attack does 40 more damage."
     },
     {
         "name": "thunder_shock",
@@ -1400,13 +1497,14 @@
         "cost": {
             "lightning": 2
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
     },
     {
         "name": "slap",
@@ -1414,13 +1512,14 @@
         "cost": {
             "psychic": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "magical_shot",
@@ -1428,13 +1527,14 @@
         "cost": {
             "psychic": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "teleport",
@@ -1444,11 +1544,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Switch this Pokémon with 1 of your Benched Pokémon."
-        }
+        },
+        "effect_description": "Switch this Pokémon with 1 of your Benched Pokémon."
     },
     {
         "name": "super_psy_bolt",
@@ -1457,13 +1558,14 @@
             "psychic": 1,
             "colorless": 2
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "psychic",
@@ -1472,13 +1574,14 @@
             "psychic": 1,
             "colorless": 2
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
-        }
+        },
+        "effect_description": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
     },
     {
         "name": "suffocating_gas",
@@ -1486,13 +1589,14 @@
         "cost": {
             "psychic": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "will-o-wisp",
@@ -1500,13 +1604,14 @@
         "cost": {
             "psychic": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "bother",
@@ -1514,13 +1619,14 @@
         "cost": {
             "psychic": 1
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent can't use any Supporter cards from their hand during their next turn."
-        }
+        },
+        "effect_description": "Your opponent can't use any Supporter cards from their hand during their next turn."
     },
     {
         "name": "spooky_shot",
@@ -1528,13 +1634,14 @@
         "cost": {
             "psychic": 3
         },
-        "damage": 100,
+        "damage": "100",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "mumble",
@@ -1543,13 +1650,14 @@
             "psychic": 1,
             "colorless": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "psypunch",
@@ -1558,13 +1666,14 @@
             "psychic": 2,
             "colorless": 1
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "barrier_attack",
@@ -1573,13 +1682,14 @@
             "psychic": 1,
             "colorless": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "During your opponent's next turn, this Pokémon takes -20 damage from attacks."
-        }
+        },
+        "effect_description": "During your opponent's next turn, this Pokémon takes -20 damage from attacks."
     },
     {
         "name": "power_blast",
@@ -1588,13 +1698,14 @@
             "psychic": 2,
             "colorless": 2
         },
-        "damage": 120,
+        "damage": "120",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard 2 {P} Energy from this Pokémon."
-        }
+        },
+        "effect_description": "Discard 2 {P} Energy from this Pokémon."
     },
     {
         "name": "psychic_sphere",
@@ -1603,13 +1714,14 @@
             "psychic": 1,
             "colorless": 1
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "psydrive",
@@ -1618,13 +1730,14 @@
             "psychic": 2,
             "colorless": 2
         },
-        "damage": 150,
+        "damage": "150",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard 2 {P} Energy from this Pokémon."
-        }
+        },
+        "effect_description": "Discard 2 {P} Energy from this Pokémon."
     },
     {
         "name": "psyshot",
@@ -1633,13 +1746,14 @@
             "psychic": 2,
             "colorless": 1
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "heart_stamp",
@@ -1648,13 +1762,14 @@
             "psychic": 1,
             "colorless": 1
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "double_lariat",
@@ -1663,13 +1778,14 @@
             "psychic": 2,
             "colorless": 2
         },
-        "damage": 100,
+        "damage": "100",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip 2 coins. This attack does 100 damage for each heads."
-        }
+        },
+        "effect_description": "Flip 2 coins. This attack does 100 damage for each heads."
     },
     {
         "name": "mud-slap",
@@ -1677,13 +1793,14 @@
         "cost": {
             "fighting": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "dig",
@@ -1691,13 +1808,14 @@
         "cost": {
             "fighting": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
     },
     {
         "name": "low_kick",
@@ -1705,13 +1823,14 @@
         "cost": {
             "fighting": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "fight_back",
@@ -1719,13 +1838,14 @@
         "cost": {
             "fighting": 2
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "If this Pokémon has damage on it, this attack does 60 more damage."
-        }
+        },
+        "effect_description": "If this Pokémon has damage on it, this attack does 60 more damage."
     },
     {
         "name": "strength",
@@ -1733,13 +1853,14 @@
         "cost": {
             "fighting": 2
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "seismic_toss",
@@ -1747,13 +1868,14 @@
         "cost": {
             "fighting": 3
         },
-        "damage": 100,
+        "damage": "100",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "rollout",
@@ -1762,13 +1884,14 @@
             "fighting": 1,
             "colorless": 2
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "double-edge",
@@ -1777,13 +1900,14 @@
             "fighting": 1,
             "colorless": 3
         },
-        "damage": 150,
+        "damage": "150",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This Pokémon also does 50 damage to itself."
-        }
+        },
+        "effect_description": "This Pokémon also does 50 damage to itself."
     },
     {
         "name": "land_crush",
@@ -1791,13 +1915,14 @@
         "cost": {
             "fighting": 3
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "growl",
@@ -1807,11 +1932,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
-        }
+        },
+        "effect_description": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
     },
     {
         "name": "bone_beatdown",
@@ -1819,13 +1945,14 @@
         "cost": {
             "fighting": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "bonemerang",
@@ -1833,13 +1960,14 @@
         "cost": {
             "fighting": 2
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip 2 coins. This attack does 80 damage for each heads."
-        }
+        },
+        "effect_description": "Flip 2 coins. This attack does 80 damage for each heads."
     },
     {
         "name": "stretch_kick",
@@ -1849,11 +1977,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
-        }
+        },
+        "effect_description": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
     },
     {
         "name": "jab",
@@ -1861,13 +1990,14 @@
         "cost": {
             "fighting": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "horn_drill",
@@ -1876,13 +2006,14 @@
             "fighting": 3,
             "colorless": 1
         },
-        "damage": 100,
+        "damage": "100",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "shell_attack",
@@ -1890,13 +2021,14 @@
         "cost": {
             "fighting": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "leech_life",
@@ -1904,13 +2036,14 @@
         "cost": {
             "fighting": 1
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
-        }
+        },
+        "effect_description": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
     },
     {
         "name": "pound",
@@ -1918,13 +2051,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "spiral_kick",
@@ -1932,13 +2066,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "knock_back",
@@ -1947,13 +2082,14 @@
             "fighting": 2,
             "colorless": 1
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Switch out your opponent's Active Pokémon to the Bench. <span class=\"reminder-text\">(Your opponent chooses the new Active Pokémon.)</span>"
-        }
+        },
+        "effect_description": "Switch out your opponent's Active Pokémon to the Bench. <span class=\"reminder-text\">(Your opponent chooses the new Active Pokémon.)</span>"
     },
     {
         "name": "corner",
@@ -1962,13 +2098,14 @@
             "darkness": 1,
             "colorless": 1
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "During your opponent's next turn, the Defending Pokémon can't retreat."
-        }
+        },
+        "effect_description": "During your opponent's next turn, the Defending Pokémon can't retreat."
     },
     {
         "name": "call_for_family",
@@ -1978,11 +2115,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Put 1 random Nidoran♂ from your deck onto your Bench."
-        }
+        },
+        "effect_description": "Put 1 random Nidoran♂ from your deck onto your Bench."
     },
     {
         "name": "lovestrike",
@@ -1991,13 +2129,14 @@
             "darkness": 2,
             "colorless": 1
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack does 50 more damage for each of your Benched Nidoking."
-        }
+        },
+        "effect_description": "This attack does 50 more damage for each of your Benched Nidoking."
     },
     {
         "name": "horn_attack",
@@ -2006,13 +2145,14 @@
             "darkness": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "poison_horn",
@@ -2021,13 +2161,14 @@
             "darkness": 2,
             "colorless": 1
         },
-        "damage": 90,
+        "damage": "90",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Poisoned."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Poisoned."
     },
     {
         "name": "glide",
@@ -2035,13 +2176,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "poison_gas",
@@ -2049,13 +2191,14 @@
         "cost": {
             "darkness": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Poisoned."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Poisoned."
     },
     {
         "name": "venoshock",
@@ -2064,13 +2207,14 @@
             "darkness": 2,
             "colorless": 1
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage."
-        }
+        },
+        "effect_description": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage."
     },
     {
         "name": "crunch",
@@ -2078,13 +2222,14 @@
         "cost": {
             "metal": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
     },
     {
         "name": "pierce",
@@ -2092,13 +2237,14 @@
         "cost": {
             "metal": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "metal_claw",
@@ -2106,13 +2252,14 @@
         "cost": {
             "metal": 2
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "amass",
@@ -2122,11 +2269,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Take 1 {M} Energy from your Energy Zone and attach it to this Pokémon."
-        }
+        },
+        "effect_description": "Take 1 {M} Energy from your Energy Zone and attach it to this Pokémon."
     },
     {
         "name": "heavy_impact",
@@ -2135,45 +2283,48 @@
             "metal": 3,
             "colorless": 1
         },
-        "damage": 120,
+        "damage": "120",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "tail_smack",
         "name_display": "Tail Smack",
         "cost": {
             "water": 1,
-            "colorless": 1,
-            "lightning": 1
+            "lightning": 1,
+            "colorless": 1
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "draco_meteor",
         "name_display": "Draco Meteor",
         "cost": {
             "water": 1,
-            "colorless": 2,
-            "lightning": 1
+            "lightning": 1,
+            "colorless": 2
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it."
-        }
+        },
+        "effect_description": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it."
     },
     {
         "name": "drill_run",
@@ -2181,13 +2332,14 @@
         "cost": {
             "colorless": 2
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
     },
     {
         "name": "hyper_voice",
@@ -2195,13 +2347,14 @@
         "cost": {
             "colorless": 2
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "sleepy_song",
@@ -2209,13 +2362,14 @@
         "cost": {
             "colorless": 3
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Asleep."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Asleep."
     },
     {
         "name": "pay_day",
@@ -2223,13 +2377,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Draw 1 card."
-        }
+        },
+        "effect_description": "Draw 1 card."
     },
     {
         "name": "shadow_claw",
@@ -2237,13 +2392,14 @@
         "cost": {
             "colorless": 2
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, discard a random card from your opponent's hand."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, discard a random card from your opponent's hand."
     },
     {
         "name": "leek_slap",
@@ -2251,13 +2407,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "drill_peck",
@@ -2265,13 +2422,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "continuous_lick",
@@ -2279,13 +2437,14 @@
         "cost": {
             "colorless": 3
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin until you get tails. This attack does 60 damage for each heads."
-        }
+        },
+        "effect_description": "Flip a coin until you get tails. This attack does 60 damage for each heads."
     },
     {
         "name": "dizzy_punch",
@@ -2293,13 +2452,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip 2 coins. This attack does 30 damage for each heads."
-        }
+        },
+        "effect_description": "Flip 2 coins. This attack does 30 damage for each heads."
     },
     {
         "name": "copy_anything",
@@ -2309,11 +2469,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
-        }
+        },
+        "effect_description": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
     },
     {
         "name": "sharpen",
@@ -2321,13 +2482,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "primal_wingbeat",
@@ -2337,11 +2499,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck."
     },
     {
         "name": "do_the_wave",
@@ -2349,13 +2512,14 @@
         "cost": {
             "colorless": 3
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack does 30 damage for each of your Benched Pokémon."
-        }
+        },
+        "effect_description": "This attack does 30 damage for each of your Benched Pokémon."
     },
     {
         "name": "psy_report",
@@ -2363,13 +2527,14 @@
         "cost": {
             "psychic": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent reveals their hand."
-        }
+        },
+        "effect_description": "Your opponent reveals their hand."
     },
     {
         "name": "reckless_charge",
@@ -2377,13 +2542,14 @@
         "cost": {
             "fighting": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This Pokémon also does 10 damage to itself."
-        }
+        },
+        "effect_description": "This Pokémon also does 10 damage to itself."
     },
     {
         "name": "sing",
@@ -2393,11 +2559,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Asleep."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Asleep."
     },
     {
         "name": "volcanic_ash",
@@ -2408,11 +2575,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard 2 {R} Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon."
-        }
+        },
+        "effect_description": "Discard 2 {R} Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon."
     },
     {
         "name": "growth_spurt",
@@ -2422,25 +2590,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Take a {G} Energy from your Energy Zone and attach it to this Pokémon."
-        }
-    },
-    {
-        "name": "poison_sting",
-        "name_display": "Poison Sting",
-        "cost": {
-            "darkness": 1
         },
-        "damage": 20,
-        "effect": {
-            "type": null,
-            "action": null,
-            "amount": null,
-            "description": "Your opponent's Active Pokémon is now Poisoned."
-        }
+        "effect_description": "Take a {G} Energy from your Energy Zone and attach it to this Pokémon."
     },
     {
         "name": "powerful_bloom",
@@ -2449,13 +2604,14 @@
             "grass": 1,
             "colorless": 1
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
-        }
+        },
+        "effect_description": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
     },
     {
         "name": "solar_beam",
@@ -2464,13 +2620,14 @@
             "grass": 1,
             "colorless": 3
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "flickering_spores",
@@ -2478,13 +2635,14 @@
         "cost": {
             "grass": 2
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Asleep."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Asleep."
     },
     {
         "name": "energy_whip",
@@ -2492,13 +2650,14 @@
         "cost": {
             "grass": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "If this Pokémon has at least 3 extra {G} Energy attached, this attack does 70 more damage."
-        }
+        },
+        "effect_description": "If this Pokémon has at least 3 extra {G} Energy attached, this attack does 70 more damage."
     },
     {
         "name": "rising_lunge",
@@ -2507,13 +2666,14 @@
             "fire": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, this attack does 60 more damage."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, this attack does 60 more damage."
     },
     {
         "name": "poison_claws",
@@ -2521,13 +2681,14 @@
         "cost": {
             "fire": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Poisoned."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Poisoned."
     },
     {
         "name": "leap_out",
@@ -2537,11 +2698,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Switch this Pokémon with 1 of your Benched Pokémon."
-        }
+        },
+        "effect_description": "Switch this Pokémon with 1 of your Benched Pokémon."
     },
     {
         "name": "rampaging_whirlpool",
@@ -2550,13 +2712,14 @@
             "water": 3,
             "colorless": 1
         },
-        "damage": 140,
+        "damage": "140",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Discard a random Energy from among the Energy attached to all Pokémon <span class=\"reminder-text\">(both yours and your opponent's)</span>."
-        }
+        },
+        "effect_description": "Discard a random Energy from among the Energy attached to all Pokémon <span class=\"reminder-text\">(both yours and your opponent's)</span>."
     },
     {
         "name": "aqua_liner",
@@ -2566,11 +2729,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack does 50 damage to 1 of your opponent's Benched Pokémon."
-        }
+        },
+        "effect_description": "This attack does 50 damage to 1 of your opponent's Benched Pokémon."
     },
     {
         "name": "dive",
@@ -2579,13 +2743,14 @@
             "water": 2,
             "colorless": 1
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
-        }
+        },
+        "effect_description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
     },
     {
         "name": "gigashock",
@@ -2593,13 +2758,14 @@
         "cost": {
             "lightning": 3
         },
-        "damage": 60,
+        "damage": "60",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack also does 20 damage to each of your opponent's Benched Pokémon."
-        }
+        },
+        "effect_description": "This attack also does 20 damage to each of your opponent's Benched Pokémon."
     },
     {
         "name": "electroweb",
@@ -2607,13 +2773,14 @@
         "cost": {
             "lightning": 2
         },
-        "damage": 70,
+        "damage": "70",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "During your opponent's next turn, the Defending Pokémon can't retreat."
-        }
+        },
+        "effect_description": "During your opponent's next turn, the Defending Pokémon can't retreat."
     },
     {
         "name": "genome_hacking",
@@ -2623,11 +2790,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
-        }
+        },
+        "effect_description": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
     },
     {
         "name": "spike_draw",
@@ -2635,13 +2803,14 @@
         "cost": {
             "psychic": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Draw a card."
-        }
+        },
+        "effect_description": "Draw a card."
     },
     {
         "name": "mind_jack",
@@ -2649,13 +2818,14 @@
         "cost": {
             "psychic": 1
         },
-        "damage": 10,
+        "damage": "10",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
-        }
+        },
+        "effect_description": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
     },
     {
         "name": "hypnotic_gaze",
@@ -2665,11 +2835,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Your opponent's Active Pokémon is now Asleep."
-        }
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Asleep."
     },
     {
         "name": "leaf_drain",
@@ -2677,13 +2848,14 @@
         "cost": {
             "psychic": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Heal 10 damage from this Pokémon."
-        }
+        },
+        "effect_description": "Heal 10 damage from this Pokémon."
     },
     {
         "name": "bloomshine",
@@ -2691,13 +2863,14 @@
         "cost": {
             "psychic": 2
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Heal 20 damage from each of your Pokémon."
-        }
+        },
+        "effect_description": "Heal 20 damage from each of your Pokémon."
     },
     {
         "name": "fairy_wind",
@@ -2705,13 +2878,14 @@
         "cost": {
             "psychic": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "focus_fist",
@@ -2719,13 +2893,14 @@
         "cost": {
             "fighting": 1
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin. If tails, this attack does nothing."
-        }
+        },
+        "effect_description": "Flip a coin. If tails, this attack does nothing."
     },
     {
         "name": "punch",
@@ -2733,13 +2908,14 @@
         "cost": {
             "fighting": 1
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "light_punch",
@@ -2748,13 +2924,14 @@
             "fighting": 1,
             "colorless": 1
         },
-        "damage": 30,
+        "damage": "30",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "lunge_out",
@@ -2763,13 +2940,14 @@
             "fighting": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "guard_press",
@@ -2778,13 +2956,14 @@
             "fighting": 3,
             "colorless": 1
         },
-        "damage": 120,
+        "damage": "120",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
-        }
+        },
+        "effect_description": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
     },
     {
         "name": "revenge",
@@ -2793,13 +2972,14 @@
             "fighting": 1,
             "colorless": 1
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
-        }
+        },
+        "effect_description": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
     },
     {
         "name": "mega_kick",
@@ -2807,13 +2987,14 @@
         "cost": {
             "fighting": 3
         },
-        "damage": 90,
+        "damage": "90",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "division",
@@ -2823,11 +3004,12 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Put 1 random Koffing from your deck onto your Bench."
-        }
+        },
+        "effect_description": "Put 1 random Koffing from your deck onto your Bench."
     },
     {
         "name": "smokescreen",
@@ -2835,13 +3017,29 @@
         "cost": {
             "darkness": 2
         },
-        "damage": 50,
+        "damage": "50",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
-        }
+        },
+        "effect_description": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+    },
+    {
+        "name": "poison_sting",
+        "name_display": "Poison Sting",
+        "cost": {
+            "darkness": 1
+        },
+        "damage": "20",
+        "effect": {
+            "action": null,
+            "amount": null,
+            "type": null,
+            "description": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        "effect_description": "Your opponent's Active Pokémon is now Poisoned."
     },
     {
         "name": "dragon_claw",
@@ -2851,13 +3049,14 @@
             "water": 1,
             "colorless": 1
         },
-        "damage": 90,
+        "damage": "90",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": ""
-        }
+        },
+        "effect_description": ""
     },
     {
         "name": "scattering_cyclone",
@@ -2865,13 +3064,14 @@
         "cost": {
             "colorless": 3
         },
-        "damage": 80,
+        "damage": "80",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
-        }
+        },
+        "effect_description": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
     },
     {
         "name": "fighting_tackle",
@@ -2879,13 +3079,14 @@
         "cost": {
             "colorless": 3
         },
-        "damage": 40,
+        "damage": "40",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "If your opponent's Active Pokémon is a Pokémon more damage."
-        }
+        },
+        "effect_description": "If your opponent's Active Pokémon is a Pokémon more damage."
     },
     {
         "name": "continuous_steps",
@@ -2893,13 +3094,14 @@
         "cost": {
             "colorless": 1
         },
-        "damage": 20,
+        "damage": "20",
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Flip a coin until you get tails. This attack does 20 damage for each heads."
-        }
+        },
+        "effect_description": "Flip a coin until you get tails. This attack does 20 damage for each heads."
     },
     {
         "name": "mimic",
@@ -2909,10 +3111,11 @@
         },
         "damage": null,
         "effect": {
-            "type": null,
             "action": null,
             "amount": null,
+            "type": null,
             "description": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand."
-        }
+        },
+        "effect_description": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand."
     }
 ]

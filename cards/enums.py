@@ -17,7 +17,7 @@ class Rarities(models.TextChoices):
     ART_RARE = "AR"
     SUPER_RARE = "SR"
     IMMERSIVE = "IM"
-    CROWN_RARE = "UR"
+    ULTRA_RARE = "UR"
     SPECIAL_ART_RARE = "SAR"
 
 class Stages(models.TextChoices):

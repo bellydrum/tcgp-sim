@@ -10,3 +10,4 @@ scripts/db/ready_for_reset.txt
 *.pyc
 **__pycache__**
 .DS_Store
+__azur**

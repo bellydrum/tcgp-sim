@@ -1,6 +1,7 @@
 import asyncio
 import inspect
 import os
+import sys
 import time
 
 
@@ -40,6 +41,8 @@ async def reset():
             os.system("python3 manage.py migrate")
 
             alert(f"Reset all migrations and applied latest model structure.")
+
+            # sys.exit()
 
         alert(f"Starting data pull...")
 

@@ -12086,7 +12086,7 @@
         "name_display": "Charizard EX",
         "card_type": "P",
         "trainer_type": null,
-        "rarity": null,
+        "rarity": "UR",
         "illustrators": [
             "PLANETA CG Works"
         ],
@@ -12157,7 +12157,7 @@
         "name_display": "Pikachu EX",
         "card_type": "P",
         "trainer_type": null,
-        "rarity": null,
+        "rarity": "UR",
         "illustrators": [
             "PLANETA CG Works"
         ],
@@ -12211,7 +12211,7 @@
         "name_display": "Mewtwo EX",
         "card_type": "P",
         "trainer_type": null,
-        "rarity": null,
+        "rarity": "UR",
         "illustrators": [
             "PLANETA Mochizuki"
         ],
@@ -16673,7 +16673,7 @@
         "name_display": "Mew EX",
         "card_type": "P",
         "trainer_type": null,
-        "rarity": null,
+        "rarity": "UR",
         "illustrators": [
             "PLANETA CG Works"
         ],

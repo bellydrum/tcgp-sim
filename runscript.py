@@ -19,13 +19,19 @@ EXCLUDE_DIRS = [
     "utils",
 ]
 
+EXCLUDE_FILENAME_SUBSTRINGS = [
+    "__init__",
+    ".pyc",
+    ".txt",
+]
+
 for dir_info in map(lambda dir_info: {dir_info[0]: dir_info[2]}, os.walk("scripts")):
     for dir_name, filenames in dir_info.items():
         if all([exclude_dir not in dir_name for exclude_dir in EXCLUDE_DIRS]):
             for filename in filenames:
                 filename_without_extension = filename.split(".")[0]
 
-                if all([i not in filename for i in ["__init__", ".pyc"]]):
+                if all([i not in filename for i in EXCLUDE_FILENAME_SUBSTRINGS]):
                     AVAILABLE_SCRIPTS[filename_without_extension] = f"{dir_name}/{filename}"
 
 script_name_param = sys.argv[-1]
