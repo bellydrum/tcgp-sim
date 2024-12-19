@@ -1,8 +1,8 @@
 import json
-from cards.models import Attack, PokemonAttack
+from cards.models import Attack, CardAttack
 
 
-DATA_FILEPATH = "data/imports/attacks/attacks.json"
+DATA_FILEPATH = "data/imports/attacks.json"
 
 def import_objects():
     """
@@ -16,7 +16,7 @@ def import_objects():
     print(f"""Importing Attack objects from {DATA_FILEPATH}""")
 
     # STEP 1. Truncate the current database table
-    PokemonAttack.objects.all().delete()
+    CardAttack.objects.all().delete()
     Attack.objects.all().delete()
 
     # STEP 2. Gather objects from the data file

@@ -1,9 +1,8 @@
 # environment and credentials
 .env
 
-
-
 # app utilities
+scripts/db/ready_for_reset.txt
 **test.py
 
 

@@ -29,5 +29,8 @@
     }, {
         "name": "water",
         "name_display": "Water"
+    }, {
+        "name": "fairy",
+        "name_display": "Fairy"
     }
 ]

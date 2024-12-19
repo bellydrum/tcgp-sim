@@ -13,7 +13,8 @@ AVAILABLE_SCRIPTS = {}
 
 # substrings used to match excluded directories when finding available scripts
 EXCLUDE_DIRS = [
-    "import_scripts",
+    "table_imports",
+    "site_scrapers",
     "tools",
     "utils",
 ]

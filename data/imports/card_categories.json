@@ -1,9 +1,12 @@
 [
     {
+        "name": "item",
+        "name_display": "Item"
+    }, {
         "name": "pokemon",
         "name_display": "Pokemon"
     }, {
-        "name": "trainer",
-        "name_display": "Trainer"
+        "name": "supporter",
+        "name_display": "Supporter"
     }
 ]
