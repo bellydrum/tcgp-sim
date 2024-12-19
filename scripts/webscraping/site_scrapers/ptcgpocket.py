@@ -41,12 +41,20 @@ def scrape():
     attacks = formatted_response_data["attacks"]
     illustrators = formatted_response_data["illustrators"]
     pokemon = formatted_response_data["pokemon"]
+    supporters = formatted_response_data["supporters"]
+    items = formatted_response_data["items"]
 
-    # with open("data/imports/attacks.json", "w") as f:
-    #     f.write(json.dumps(attacks, indent=4, ensure_ascii=False))
+    with open("data/imports/attacks.json", "w") as f:
+        f.write(json.dumps(attacks, indent=4, ensure_ascii=False))
     
-    # with open("data/imports/illustrators.json", "w") as f:
-    #     f.write(json.dumps(illustrators, indent=4, ensure_ascii=False))
+    with open("data/imports/illustrators.json", "w") as f:
+        f.write(json.dumps(illustrators, indent=4, ensure_ascii=False))
     
-    # with open("data/imports/cards/pokemon.json", "w") as f:
-    #     f.write(json.dumps(pokemon, indent=4, ensure_ascii=False))
+    with open("data/imports/cards/pokemon.json", "w") as f:
+        f.write(json.dumps(pokemon, indent=4, ensure_ascii=False))
+    
+    with open("data/imports/cards/supporters.json", "w") as f:
+        f.write(json.dumps(supporters, indent=4, ensure_ascii=False))
+
+    with open("data/imports/cards/items.json", "w") as f:
+        f.write(json.dumps(items, indent=4, ensure_ascii=False))

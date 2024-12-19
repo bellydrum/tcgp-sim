@@ -6,7 +6,7 @@ from scripts.db.table_imports.energy_type import import_objects as import_energy
 from scripts.db.table_imports.set import import_objects as import_sets
 from scripts.db.table_imports.attack import import_objects as import_attacks
 from scripts.db.table_imports.illustrator import import_objects as import_illustrators
-from scripts.db.table_imports.pokemon import import_objects as import_pokemon
+from scripts.db.table_imports.card import import_objects as import_cards
 
 
 print(f"\nStarting import procedure...\n")
@@ -16,7 +16,7 @@ import_energy_types()
 import_sets()
 import_attacks()
 import_illustrators()
-import_pokemon()
+import_cards()
 
 # gather totals for each table
 total_energy_types = EnergyType.objects.count()
@@ -24,6 +24,8 @@ total_sets = Set.objects.count()
 total_attacks = Attack.objects.count()
 total_illustrators = Illustrator.objects.count()
 total_pokemon = Pokemon.objects.count()
+total_supporters = Supporter.objects.count()
+total_items = Item.objects.count()
 
 print(f"\nImport scripts have completed. Here are the total records now found in each table:")
 print(f"- EnergyType: {total_energy_types}")
@@ -31,5 +33,7 @@ print(f"- Set: {total_sets}")
 print(f"- Attack: {total_attacks}")
 print(f"- Illustrator: {total_illustrators}")
 print(f"- Pokemon: {total_pokemon}")
+print(f"- Supporter: {total_supporters}")
+print(f"- Item: {total_items}")
 
 print("\nImport procedure complete.\n")

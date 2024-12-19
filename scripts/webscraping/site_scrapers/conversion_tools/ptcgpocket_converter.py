@@ -86,25 +86,101 @@ def format_response_data(response_data):
     
 
     formatted_pokemon = []
+    formatted_supporters = []
+    formatted_items = []
 
     for response_object in response_data:
-        # fix Misty type bug
+        # validate the response_object's structure
+        response_object_matches_expected_structure = all([i in response_object.keys() for i in example_response_object.keys()])
+
+        if not response_object_matches_expected_structure:
+            error_message = f"ptcgpocket_converter.format_response_object | Response object does not have all expected properties: {response_object}"
+
+            raise Exception(error_message)
+
+        # fix Misty type info bug
         if response_object.get("name") == "Misty":
             response_object["type"] = "Supporter"
 
+        # populated by the rest of the loop
+        formatted_card = {}
+
+        # add name and name_display
+        formatted_name_display = response_object.get("name").replace(" ex", " EX")
+        formatted_card["name"] = standardize_string(response_object.get("name", ""))
+        formatted_card["name_display"] = formatted_name_display
+
+        # add card_type and trainer_type
+        card_type = None
+        trainer_type = None
+        if response_object.get("type") == CardTypes.POKEMON.label:
+            card_type = CardTypes.POKEMON.value
+            trainer_type = None
+        elif response_object.get("type") == TrainerTypes.SUPPORTER.label:
+            card_type = CardTypes.TRAINER.value
+            trainer_type = TrainerTypes.SUPPORTER
+        elif response_object.get("type") == TrainerTypes.ITEM.label:
+            card_type = CardTypes.TRAINER.value
+            trainer_type = TrainerTypes.ITEM
+        formatted_card["card_type"] = card_type
+        formatted_card["trainer_type"] = trainer_type
+
+        # add rarity
+        rarity = None
+        for rarity_enum in Rarities:
+            if response_object.get("rarity") == rarity_enum.label:
+                rarity = rarity_enum.value
+                break
+        formatted_card["rarity"] = rarity
+
+        # add illustrators
+        response_object_illustrator: str = response_object.get("illustrator") if response_object.get("illustrator") else None
+        illustrator_object = None
+        if response_object_illustrator:
+            if response_object_illustrator.lower() not in existing_illustrator_names:
+                illustrator_object = {
+                    "name": response_object_illustrator
+                }
+                existing_illustrators.append(illustrator_object)
+                existing_illustrator_names.append(response_object_illustrator.lower())
+                new_illustrators.append(illustrator_object)
+        formatted_card["illustrators"] = [response_object_illustrator] if response_object_illustrator else []
+
+        # add sets
+        formatted_card["sets"] = [{
+            "code": response_object.get("setId"),
+            "number": int(response_object.get("number")),
+            "set_number": response_object.get("id"),
+            "dex": dex if dex else None
+        } for dex in response_object.get("dex").split(",")]
+
         if response_object.get("type") == "Pokemon":
-            response_object_matches_expected_structure = all([i in response_object.keys() for i in example_response_object.keys()])
+            # add effect (ability)
+            formatted_card["effect"] = response_object.get("ability") if response_object.get("ability") else {}
 
-            if not response_object_matches_expected_structure:
-                error_message = f"ptcgpocket_converter.format_response_object | Response object does not have all expected properties: {response_object}"
+            # add type
+            formatted_card["type"] = response_object.get("color").lower()
 
-                raise Exception(error_message)
+            # add stage
+            stage = None
+            for stage_enum in Stages:
+                if response_object.get("stage") == stage_enum.label:
+                    stage = stage_enum.value
+                    break
+            formatted_card["stage"] = stage
 
-            # check to see if this object's Attacks exist locally
+            # add ex
+            formatted_card["ex"] = standardize_string(response_object.get("name", "")).endswith("ex")
+
+            # add hp
+            formatted_card["hp"] = int(response_object.get("hp"))
+
+            # add retreat_cost
+            formatted_card["retreat_cost"] = int(response_object.get("retreat")) if response_object.get("retreat") is not None else 0
+
+            # add attacks
             response_object_attacks: str = response_object.get("attack", [])
-
             attack_objects = []
-
             if response_object_attacks:
                 for response_object_attack in response_object_attacks:
                     attack_object = parse_attack_string(response_object_attack)
@@ -114,83 +190,36 @@ def format_response_data(response_data):
                         existing_attacks.append(attack_object)
                         existing_attack_names.append(attack_object["name"])
                         new_attacks.append(attack_object)
-            
-            # check to see if this object's Illustrator exist locally
-            response_object_illustrator: str = response_object.get("illustrator") if response_object.get("illustrator") else None
+            formatted_card["attacks"] = attack_objects
 
-            illustrator_object = None
-
-            if response_object_illustrator:
-                if response_object_illustrator.lower() not in existing_illustrator_names:
-                    illustrator_object = {
-                        "name": response_object_illustrator
-                    }
-                    existing_illustrators.append(illustrator_object)
-                    existing_illustrator_names.append(response_object_illustrator.lower())
-                    new_illustrators.append(illustrator_object)
-            
-            # determine weakness_type
-            
+            # add weakness type
             weakness_type = response_object.get("weakness", "").lower() if type(response_object.get("weakness")) == str else None
             if weakness_type == "none":
                 weakness_type = None
+            formatted_card["weakness_type"] = weakness_type
 
-            # format name_display to capitalize any "ex"
-
-            formatted_name_display = response_object.get("name")
-            formatted_name_display = formatted_name_display.replace(" ex", " EX")
-
-            rarity = None
-            for rarity_enum in Rarities:
-                if response_object.get("rarity") == rarity_enum.label:
-                    rarity = rarity_enum.value
-                    break
-
-            # determine card_type and trainer_type
-
-            if response_object.get("type").lower() in ["item", "supporter"]:
-                card_type = CardTypes.TRAINER
-                trainer_type = TrainerTypes.ITEM if response_object.get("type") == "item" else TrainerTypes.SUPPORTER
-            elif response_object.get("type").lower() == "pokemon":
-                card_type = CardTypes.POKEMON
-                trainer_type = None
-            else:
-                card_type = None
-                trainer_type = None
-
-            formatted_pokemon.append({
-                "name": standardize_string(response_object.get("name", "")),
-                "name_display": formatted_name_display,
-                "card_type": card_type,
-                "trainer_type": trainer_type,
-                "effect": response_object.get("ability") if response_object.get("effect") else {},
-                "rarity": rarity,
-                "illustrators": [illustrator_object.get("name")] if illustrator_object else [],
-                "type": response_object.get("color").lower(),
-                "ex": standardize_string(response_object.get("name", "")).endswith("ex"),
-                "stage": response_object.get("stage"),
-                "hp": int(response_object.get("hp")),
-                "weakness_type": weakness_type,
-                "retreat_cost": int(response_object.get("retreat")) if response_object.get("retreat") is not None else 0,
-                "attacks": attack_objects,
-                "sets": [
-                    {
-                        "code": response_object.get("setId"),
-                        "number": int(response_object.get("number")),
-                        "set_number": response_object.get("id"),
-                        "dex": dex
-                    } for dex in response_object.get("dex").split(",")
-                ]
-            })
+            formatted_pokemon.append(formatted_card)
+        # handle Supporter-specific properties
         elif response_object.get("type") == "Supporter":
-            print(f"""Skipping card '{response_object.get("name")}' of card_type '{response_object.get("type")}'.""")
-            pass
+            # add effect
+            effect = response_object.get("text") if response_object.get("text") else {}
+            formatted_effect = effect.replace(" ", " ")
+            formatted_card["effect"] = formatted_effect
+    
+            formatted_supporters.append(formatted_card)
+        # handle Item-specific properties
         elif response_object.get("type") == "Item":
-            print(f"""Skipping card '{response_object.get("name")}' of card_type '{response_object.get("type")}'.""")
-            pass
+            # add effect
+            effect = response_object.get("text") if response_object.get("text") else {}
+            formatted_effect = effect.replace(" ", " ")
+            formatted_card["effect"] = formatted_effect
+
+            formatted_items.append(formatted_card)
 
     return {
         "pokemon": formatted_pokemon,
+        "supporters": formatted_supporters,
+        "items": formatted_items,
         "attacks": existing_attacks,
         "illustrators": existing_illustrators,
     }

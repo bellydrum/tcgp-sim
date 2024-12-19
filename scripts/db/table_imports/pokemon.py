@@ -11,24 +11,20 @@ def import_objects():
     Import Pokemon objects
     
     Process
-        Step 1. Truncate the current database table
-        Step 2. Gather objects from the data file
-        Step 3. Loop over each Pokemon object and generate the records
-            3a. Create and save a new Pokemon record
-            3b. Create relational records associated with this Pokemon
+        Step 1. Gather objects from the data file
+        Step 2. Loop over each Pokemon object and generate the records
+            2a. Create and save a new Pokemon record
+            2b. Create relational records associated with this Pokemon
     """
     print(f"""Importing Pokemon objects from {DATA_FILEPATH}""")
 
-    # STEP 1. Truncate the current database table
-    Card.objects.all().delete()
-
-    # STEP 2. Gather objects from the data file
+    # STEP 1. Gather objects from the data file
     with open(DATA_FILEPATH, "r") as f:
         objects_to_import = json.loads(f.read())
     
-    # STEP 3. Create each Pokemon record individually
+    # STEP 2. Create each Pokemon record individually
     for object_to_import in objects_to_import:
-        # STEP 3a. Create and save a new Pokemon record
+        # STEP 2a. Create and save a new Pokemon record
 
         weakness_type_record = EnergyType.objects.get(name=object_to_import.get("weakness_type")) if object_to_import.get("weakness_type") else None
 
@@ -37,11 +33,10 @@ def import_objects():
                 # inherited Card properties
                 name = object_to_import.get("name"),                                                            # eg. "bulbasaur"
                 name_display = object_to_import.get("name_display"),                                            # eg. "Bulbasaur"
-                # category = CardCategory.objects.get(name=object_to_import.get("category")),                   # eg. "pokemon"
-                card_type = "P",
-                trainer_type = None,
+                card_type = object_to_import.get("card_type"),                                                  # eg. "P"
+                trainer_type = object_to_import.get("trainer_type"),                                            # eg. None
                 effect = object_to_import.get("effect"),                                                        # eg. {}
-                # rarity = rarity_record,                                                                         # eg. 0
+                rarity = object_to_import.get("rarity"),                                                        # eg. "C"
                 stage = object_to_import.get("stage"),                                                          # eg. "Basic"
 
                 # Pokemon-specific properties
@@ -64,7 +59,7 @@ def import_objects():
             print(f"""- ERROR: IntegrityError for Pokemon "{object_to_import.get('name')}": {str(ie).strip()}""")
             continue
 
-        # STEP 3b. Create relational (many-to-many) records associated with this Pokemon
+        # STEP 2b. Create relational (many-to-many) records associated with this Pokemon
 
         # create CardAttack relations
         for attack in object_to_import.get("attacks"):

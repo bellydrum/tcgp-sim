@@ -28,7 +28,6 @@ class Card(models.Model):
     trainer_type = models.CharField(max_length=1, null=True, choices=TrainerTypes.choices)
     effect = models.JSONField(blank=False, null=True, verbose_name="card_effect")
     rarity = models.CharField(max_length=32, null=True, choices=Rarities.choices)
-    stage = models.CharField(max_length=64, blank=False, null=True)
 
 class Attack(models.Model):
     class Meta:
@@ -47,10 +46,17 @@ class Attack(models.Model):
 
 class Pokemon(Card, models.Model):
     type = models.ForeignKey(EnergyType, on_delete=models.SET_NULL, blank=False, null=True)
+    stage = models.CharField(max_length=16, null=True, choices=Stages.choices)
     ex = models.BooleanField(blank=False, null=True)
     hp = models.IntegerField(blank=False, null=True)
     weakness_type = models.ForeignKey(EnergyType, on_delete=models.SET_NULL, blank=False, null=True, related_name="pokemon_weakness_type")
     retreat_cost = models.SmallIntegerField(blank=False, null=True)
+
+class Supporter(Card, models.Model):
+    pass
+
+class Item(Card, models.Model):
+    pass
 
 # relational models (many-to-many)
 
@@ -62,6 +68,15 @@ class CardAttack(models.Model):
     id = models.BigAutoField(primary_key=True)
     card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_attack_cards")
     attack = models.ForeignKey(Attack, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_attack_attacks")
+
+class CardIllustrator(models.Model):
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(fields=["card", "illustrator"], name="unique_card_illustrator")
+        ]
+    id = models.BigAutoField(primary_key=True)
+    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False)
+    illustrator = models.ForeignKey(Illustrator, on_delete=models.RESTRICT, blank=False, null=False)
 
 class CardSet(models.Model):
     class Meta:
@@ -78,12 +93,3 @@ class CardSet(models.Model):
     set_number = models.CharField(max_length=200, blank=False, null=False)
     # "A1M" - reference to the sub Set this card belongs to
     dex = models.ForeignKey(Set, on_delete=models.RESTRICT, blank=False, null=True)
-
-class CardIllustrator(models.Model):
-    class Meta:
-        constraints = [
-            models.UniqueConstraint(fields=["card", "illustrator"], name="unique_card_illustrator")
-        ]
-    id = models.BigAutoField(primary_key=True)
-    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False)
-    illustrator = models.ForeignKey(Illustrator, on_delete=models.RESTRICT, blank=False, null=False)
