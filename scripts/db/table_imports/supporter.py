@@ -63,3 +63,17 @@ def import_objects():
             except Exception as e:
                 print(f"ERROR: {str(e)}")
                 print(illustrator_name)
+
+        # create CardSet relations
+        for set in object_to_import.get("sets", []):
+            dex_value = Set.objects.get(code=set.get("dex")) if set.get("dex") else None
+
+            new_set_relationship = CardSet(
+                card=new_object,
+                set=Set.objects.get(code=set.get("code")),              # set["code"] == "A1" (Set.code)
+                number=set.get("number"),                               # set["number"] = "1"
+                set_number=set.get("set_number"),                       # set["set_number"] == "A1-001"
+                dex=dex_value,                                          # set["dex"] == "A1M" (Set.code")
+            )
+
+            new_set_relationship.save()

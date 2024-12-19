@@ -11,6 +11,8 @@ def index(request):
         "cards_list": cards
     }
 
+    print(cards)
+
     context = {
         "card_records": [
             {

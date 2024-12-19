@@ -71,24 +71,10 @@ def import_objects():
 
                 new_attack_relationship.save()
             except Exception as e:
-                print(str(e))
+                print(f"ERROR while creating new CardAttack: {str(e)}")
                 print(object_to_import)
 
                 raise Exception(e)
-
-        # create CardSet relations
-        for set in object_to_import.get("sets", []):
-            dex_value = Set.objects.get(code=set.get("dex")) if set.get("dex") else None
-
-            new_set_relationship = CardSet(
-                card=new_object,
-                set=Set.objects.get(code=set.get("code")),              # set["code"] == "A1" (Set.code)
-                number=set.get("number"),                               # set["number"] = "1"
-                set_number=set.get("set_number"),                       # set["set_number"] == "A1-001"
-                dex=dex_value,                                          # set["dex"] == "A1M" (Set.code")
-            )
-
-            new_set_relationship.save()
 
         # create CardIllustrator relations
         for illustrator_name in object_to_import.get("illustrators"):
@@ -100,5 +86,27 @@ def import_objects():
 
                 new_illustrator_relationship.save()
             except Exception as e:
-                print(f"ERROR: {str(e)}")
+                print(f"ERROR while creating new CardIllustrator: {str(e)}")
                 print(illustrator_name)
+
+                raise Exception(e)
+
+        # create CardSet relations
+        for set in object_to_import.get("sets", []):
+            dex_value = Set.objects.get(code=set.get("dex")) if set.get("dex") else None
+
+            try:
+                new_set_relationship = CardSet(
+                    card=new_object,
+                    set=Set.objects.get(code=set.get("code")),              # set["code"] == "A1" (Set.code)
+                    number=set.get("number"),                               # set["number"] = "1"
+                    set_number=set.get("set_number"),                       # set["set_number"] == "A1-001"
+                    dex=dex_value,                                          # set["dex"] == "A1M" (Set.code")
+                )
+
+                new_set_relationship.save()
+            except Exception as e:
+                print(f"ERROR while creating new CardSet: {str(e)}")
+                print(set)
+
+                raise Exception(e)
