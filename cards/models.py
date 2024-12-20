@@ -17,18 +17,18 @@ class Set(models.Model):
 
 class Expansion(models.Model):
     id = models.BigAutoField(primary_key=True)
-    expansion_id = models.CharField(max_length=64, blank=False, null=True)          # "A1", "A1a"
-    name = models.CharField(max_length=512, blank=False, null=True)                 # "genetic_apex"
-    name_display = models.CharField(max_length=512, blank=False, null=True)         # "Genetic Apex"
-    card_count = models.IntegerField(blank=False, null=True)                        # 226
-    is_promo = models.BooleanField()                                                # False
-    sort_order_priority = models.IntegerField(blank=False, null=True)               # 1
+    expansion_id = models.CharField(max_length=64, blank=False, null=True)                                      # "A1", "A1a"
+    name = models.CharField(max_length=512, blank=False, null=True)                                             # "genetic_apex"
+    name_display = models.CharField(max_length=512, blank=False, null=True)                                     # "Genetic Apex"
+    card_count = models.IntegerField(blank=False, null=True)                                                    # 226
+    is_promo = models.BooleanField()                                                                            # False
+    sort_order_priority = models.IntegerField(blank=False, null=True)                                           # 1
 
 class Pack(models.Model):
     id = models.BigAutoField(primary_key=True)
-    pack_id = models.CharField(max_length=64, blank=False, null=True)               # "A1", "A1a"
-    name = models.CharField(max_length=512, blank=False, null=True)                 # "mewtwo_pack"
-    name_display = models.CharField(max_length=512, blank=False, null=True)         # "Mewtwo Pack"
+    pack_id = models.CharField(max_length=64, blank=False, null=True)                                           # "A1", "A1a"
+    name = models.CharField(max_length=512, blank=False, null=True)                                             # "mewtwo_pack"
+    name_display = models.CharField(max_length=512, blank=False, null=True)                                     # "Mewtwo Pack"
     expansion = models.ForeignKey(Expansion, on_delete=models.RESTRICT, blank=False, null=True)
 
 class Illustrator(models.Model):
@@ -37,27 +37,29 @@ class Illustrator(models.Model):
 
 class Card(models.Model):
     id = models.BigAutoField(primary_key=True)
-    active = models.BooleanField(blank=False, null=False, default=True)                             # True
-    card_id = models.CharField(max_length=200, blank=False, null=True)                              # "PK_10_000670_00"
-    card_type = models.CharField(max_length=128, choices=CardTypes.choices)                         # "pokemon"
-    character_id = models.CharField(max_length=200, blank=False, null=True)                         # "PARSHEN"
-    collection_number = models.SmallIntegerField(blank=False, null=True)                            # 67
-    description = models.CharField(max_length=2048, blank=False, null=True)                         # ""
-    dust_cost = models.IntegerField(blank=False, null=True)                                         # 70
-    effect = models.JSONField(blank=False, null=True, verbose_name="card_effect")                   #
-    expansion_id = models.CharField(max_length=64, blank=False, null=True)                          # "A1"
-    flavor_text = models.CharField(max_length=2048, blank=False, null=True)                         # "Cloyster that live in seas..."
-    is_promo = models.BooleanField(blank=False, null=True)                                          # False
-    is_serial = models.BooleanField(blank=False, null=True)                                         # False
-    name = models.CharField(max_length=200)                                                         # "cloyster"
-    name_display = models.CharField(max_length=200, blank=False)                                    # "Cloyster"
-    pokedex_number = models.SmallIntegerField(blank=False, null=True)                               # 91
-    promotion_name = models.CharField(max_length=512, blank=False, null=True)                       # None
-    rarity = models.CharField(max_length=32, null=True, choices=Rarities.choices)                   # "U"
-    rules_description = models.CharField(max_length=2048, blank=False, null=True)                   # "..."
-    trainer_type = models.CharField(max_length=1, null=True, choices=TrainerTypes.choices)          # None ("supporter", "item")
-    series_id = models.CharField(max_length=8, blank=False, null=True)                              # "A"
-    variants = models.JSONField(blank=False, null=True, verbose_name="card_variants")               # "['PK_10_000670_00', 'PK_10_000671_00']"
+    active = models.BooleanField(blank=False, null=False, default=True)                                         # True
+    card_id = models.CharField(max_length=200, blank=False, null=True)                                          # "PK_10_000670_00"
+    card_pokemon_id = models.CharField(max_length=200, blank=False, null=True)
+    card_trainer_id = models.CharField(max_length=200, blank=False, null=True)
+    card_type = models.CharField(max_length=128, choices=CardTypes.choices)                                     # "pokemon"
+    character_id = models.CharField(max_length=200, blank=False, null=True)                                     # "PARSHEN"
+    collection_number = models.SmallIntegerField(blank=False, null=True)                                        # 67
+    description = models.CharField(max_length=2048, blank=False, null=True)                                     # ""
+    dust_cost = models.IntegerField(blank=False, null=True)                                                     # 70
+    effect = models.JSONField(blank=False, null=True, verbose_name="card_effect")                               #
+    expansion_id = models.CharField(max_length=64, blank=False, null=True)                                      # "A1"
+    flavor_text = models.CharField(max_length=2048, blank=False, null=True)                                     # "Cloyster that live in seas..."
+    is_promo = models.BooleanField(blank=False, null=True)                                                      # False
+    is_serial = models.BooleanField(blank=False, null=True)                                                     # False
+    name = models.CharField(max_length=200)                                                                     # "cloyster"
+    name_display = models.CharField(max_length=200, blank=False)                                                # "Cloyster"
+    pokedex_number = models.SmallIntegerField(blank=False, null=True)                                           # 91
+    promotion_name = models.CharField(max_length=512, blank=False, null=True)                                   # None
+    rarity = models.CharField(max_length=32, null=True, choices=Rarities.choices)                               # "U"
+    rules_description = models.CharField(max_length=2048, blank=False, null=True)                               # "..."
+    trainer_type = models.CharField(max_length=1, null=True, choices=TrainerTypes.choices)                      # None ("supporter", "item")
+    series_id = models.CharField(max_length=8, blank=False, null=True)                                          # "A"
+    variants = models.JSONField(blank=False, null=True, verbose_name="card_variants")                           # "['PK_10_000670_00', 'PK_10_000671_00']"
 
 class Attack(models.Model):
     class Meta:
@@ -75,23 +77,22 @@ class Attack(models.Model):
 """ import destinations """
 
 class Pokemon(Card, models.Model):
-    type = models.ForeignKey(EnergyType, on_delete=models.SET_NULL, blank=False, null=True)
-    stage = models.CharField(max_length=16, null=True, choices=Stages.choices)
-    ex = models.BooleanField(blank=False, null=True)
-    hp = models.IntegerField(blank=False, null=True)
-    weakness_type = models.ForeignKey(EnergyType, on_delete=models.SET_NULL, blank=False, null=True, related_name="pokemon_weakness_type")
-    retreat_cost = models.SmallIntegerField(blank=False, null=True)
+    stage_number = models.SmallIntegerField(blank=False, null=True)                                             # 1
+    stage_name = models.CharField(max_length=16, null=True, choices=Stages.choices)                             # "Stage 1"
+    hp = models.SmallIntegerField(blank=False, null=True)                                                       # 90
+    is_ex = models.BooleanField(blank=False, null=True)                                                         # False
+    pokemon_id = models.CharField(max_length=512, blank=False, null=False)                                      # "PK_000340"
+    previous_evolution = models.CharField(max_length=512, blank=False, null=False)                              # "PK_000339"
+    retreat_cost_number = models.SmallIntegerField(blank=False, null=True)                                      # 2
+    retreat_cost_type = models.ForeignKey(EnergyType, on_delete=models.RESTRICT, blank=False, null=True, related_name="pokemon_retreat_cost_type")
+    weakness_type = models.ForeignKey(EnergyType, on_delete=models.RESTRICT, blank=False, null=True, related_name="pokemon_weakness_type")
 
 class Trainer(Card, models.Model):
     pass
 
-# class Supporter(Card, models.Model):
-#     pass
-
-# class Item(Card, models.Model):
-#     pass
-
+#
 # relational models (many-to-many)
+#
 
 class CardAttack(models.Model):
     class Meta:

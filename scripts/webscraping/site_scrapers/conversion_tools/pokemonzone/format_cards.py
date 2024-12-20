@@ -59,25 +59,25 @@ def format_card(card_object):
 
     formatted_card = {
         "active": True,
-        "card_id": card_object.get("cardId"),                                           # "TR_10_000090_00"
-        "card_type": None,                                                              # "pokemon" | "trainer"
-        "character_id": card_object.get("characterId"),                                 # "PARSHEN"
-        "collection_number": card_object.get("collectionNumber"),                       # 67
-        "description": remove_html_tags(card_object.get("description")),                # ""
-        "dust_cost": card_object.get("dust_cost"),                                      # 70
-        "expansion": card_object.get("expansion", {}).get("expansionId"),               # "A1"
-        "flavor_text": remove_html_tags(card_object.get("flavorText")),                 # ""
-        "is_promo": card_object.get("isPromotion"),                                     # False
-        "is_serial": card_object.get("isSerial"),                                       # False
-        "name": standardize_string(card_object.get("name")),                            # "cloyster"
-        "name_display": card_object.get("name"),                                        # "Cloyster"
-        "pokedex_number": card_object.get("pokedexNumber"),                             # 267
-        "pokemon": card_object.get("pokemon"),                                          # <Pokemon object> | None
-        "promotion_name": card_object.get("promotionName"),                             # ""
-        "rarity": card_object.get("rarity"),                                            # "U"
-        "rules_description": remove_html_tags(card_object.get("rulesDescription")),     # ""
-        "series_id": card_object.get("seriesId"),                                       # "A"
-        "trainer": card_object.get("trainer"),                                          # <Trainer object> | None
+        "card_id": card_object.get("cardId"),                                                   # "TR_10_000090_00"
+        "card_pokemon_id": card_object.get("cardId") if card_object.get("pokemon") else None,   # "TR_10_000090_00" | None
+        "card_trainer_id": card_object.get("cardId") if card_object.get("pokemon") else None,   # "TR_10_000090_00" | None
+        "card_type": None,                                                                      # "pokemon" | "trainer"
+        "character_id": card_object.get("characterId"),                                         # "PARSHEN"
+        "collection_number": card_object.get("collectionNumber"),                               # 67
+        "description": remove_html_tags(card_object.get("description")),                        # ""
+        "dust_cost": card_object.get("dust_cost"),                                              # 70
+        "expansion": card_object.get("expansion", {}).get("expansionId"),                       # "A1"
+        "flavor_text": remove_html_tags(card_object.get("flavorText")),                         # ""
+        "is_promo": card_object.get("isPromotion"),                                             # False
+        "is_serial": card_object.get("isSerial"),                                               # False
+        "name": standardize_string(card_object.get("name")),                                    # "cloyster"
+        "name_display": card_object.get("name"),                                                # "Cloyster"
+        "pokedex_number": card_object.get("pokedexNumber"),                                     # 267
+        "promotion_name": card_object.get("promotionName"),                                     # ""
+        "rarity": card_object.get("rarity"),                                                    # "U"
+        "rules_description": remove_html_tags(card_object.get("rulesDescription")),             # ""
+        "series_id": card_object.get("seriesId"),                                               # "A"
         "available_packs": [],
         "illustrators": [],
         "variants": []
@@ -120,5 +120,7 @@ def format_cards(response_cards):
             raise Exception(error_message)
         
         formatted_pokemon_cards.append(formatted_card) if formatted_card["card_type"] == "pokemon" else formatted_trainer_cards.append(formatted_card)
+
+    pprint(response_cards[50])
 
     return formatted_pokemon_cards, formatted_trainer_cards

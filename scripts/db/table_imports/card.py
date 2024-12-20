@@ -19,6 +19,8 @@ def import_objects():
             new_object = Card(
                 active = object_to_import.get("active"),
                 card_id = object_to_import.get("card_id"),
+                card_pokemon_id = object_to_import.get("card_pokemon_id"),
+                card_trainer_id = object_to_import.get("card_trainer_id"),
                 card_type = object_to_import.get("card_type"),
                 character_id = object_to_import.get("character_id"),
                 collection_number = object_to_import.get("collection_number"),
@@ -32,12 +34,10 @@ def import_objects():
                 name = object_to_import.get("name"),
                 name_display = object_to_import.get("name_display"),
                 pokedex_number = object_to_import.get("pokedex_number"),
-                # pokemon = None,                                                   # None | reference Pokemon object               Pokemon must exist
                 promotion_name = object_to_import.get("promotion_name"),
                 rarity = object_to_import.get("rarity"),
                 rules_description = object_to_import.get("rules_description"),
-                series_id = object_to_import.get("series_id")
-                # trainer = None,                                                   # None | reference Trainer object               Trainer must exist
+                series_id = object_to_import.get("series_id"),
                 # available_packs = None,                                           # create CardPack record                        Packs must exist
                 # illustrators = None,                                              # create CardIllustrator record                 Illustrators must exist
             )
