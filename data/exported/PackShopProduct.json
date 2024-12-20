@@ -1,0 +1,50 @@
+[
+  {
+    "PackShopProductID": "PC_PS_0002010_01_01_01",
+    "PackID": "AN001_0010_00_000",
+    "OnePackPrice": 1,
+    "OnePackExp": 25,
+    "OnePackCeilPoint": 5,
+    "TenPackPrice": 10,
+    "TenPackExp": 250,
+    "TenPackCeilPoint": 50,
+    "ScheduleID": "SC_RELEASE",
+    "SortOrderPriority": 2
+  },
+  {
+    "PackShopProductID": "PC_PS_0002010_01_02_01",
+    "PackID": "AN001_0020_00_000",
+    "OnePackPrice": 1,
+    "OnePackExp": 25,
+    "OnePackCeilPoint": 5,
+    "TenPackPrice": 10,
+    "TenPackExp": 250,
+    "TenPackCeilPoint": 50,
+    "ScheduleID": "SC_RELEASE",
+    "SortOrderPriority": 1
+  },
+  {
+    "PackShopProductID": "PC_PS_0002010_01_03_01",
+    "PackID": "AN001_0030_00_000",
+    "OnePackPrice": 1,
+    "OnePackExp": 25,
+    "OnePackCeilPoint": 5,
+    "TenPackPrice": 10,
+    "TenPackExp": 250,
+    "TenPackCeilPoint": 50,
+    "ScheduleID": "SC_RELEASE",
+    "SortOrderPriority": 3
+  },
+  {
+    "PackShopProductID": "PC_PS_2408010_01_01_01",
+    "PackID": "AN002_0010_00_000",
+    "OnePackPrice": 1,
+    "OnePackExp": 25,
+    "OnePackCeilPoint": 5,
+    "TenPackPrice": 10,
+    "TenPackExp": 250,
+    "TenPackCeilPoint": 50,
+    "ScheduleID": "SC_RELEASE_A1a",
+    "SortOrderPriority": 4
+  }
+]

@@ -5,6 +5,7 @@ from pprint import pprint
 
 from cards.enums import *
 from cards.models import *
+from scripts.webscraping.site_scrapers.formatting_tools.text_tools import standardize_string
 from scripts.webscraping.site_scrapers.example_responses.ptcgpocket_response import example_response_object
 
 
@@ -21,10 +22,6 @@ ELEMENT_TYPE_MAP = {
     "P": "psychic",
     "W": "water"
 }
-
-
-def standardize_string(string):
-    return string.replace(" ", "_").lower() if string else ""
 
 
 def parse_attack_string(attack_string):

@@ -1,0 +1,1653 @@
+[
+  {
+    "ScheduleID": "SC_2405",
+    "ScheduleName": "24年5月",
+    "OpenAt": [
+      "2024-05-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-06-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2406",
+    "ScheduleName": "24年6月",
+    "OpenAt": [
+      "2024-06-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-07-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2407",
+    "ScheduleName": "24年7月",
+    "OpenAt": [
+      "2024-07-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-08-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2408",
+    "ScheduleName": "24年8月",
+    "OpenAt": [
+      "2024-08-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-09-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2409",
+    "ScheduleName": "24年9月",
+    "OpenAt": [
+      "2024-09-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-10-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2410",
+    "ScheduleName": "24年10月",
+    "OpenAt": [
+      "2024-10-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2411",
+    "ScheduleName": "24年11月",
+    "OpenAt": [
+      "2024-11-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2412",
+    "ScheduleName": "24年12月",
+    "OpenAt": [
+      "2024-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2501",
+    "ScheduleName": "25年1月",
+    "OpenAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-02-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2502",
+    "ScheduleName": "25年2月",
+    "OpenAt": [
+      "2025-02-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-03-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2503",
+    "ScheduleName": "25年3月",
+    "OpenAt": [
+      "2025-03-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-04-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2504",
+    "ScheduleName": "25年4月",
+    "OpenAt": [
+      "2025-04-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-05-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2505",
+    "ScheduleName": "25年5月",
+    "OpenAt": [
+      "2025-05-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-06-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2506",
+    "ScheduleName": "25年6月",
+    "OpenAt": [
+      "2025-06-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-07-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2507",
+    "ScheduleName": "25年7月",
+    "OpenAt": [
+      "2025-07-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-08-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2508",
+    "ScheduleName": "25年8月",
+    "OpenAt": [
+      "2025-08-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-09-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2509",
+    "ScheduleName": "25年9月",
+    "OpenAt": [
+      "2025-09-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-10-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2510",
+    "ScheduleName": "25年10月",
+    "OpenAt": [
+      "2025-10-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-11-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2511",
+    "ScheduleName": "25年11月",
+    "OpenAt": [
+      "2025-11-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2512",
+    "ScheduleName": "25年12月",
+    "OpenAt": [
+      "2025-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2601",
+    "ScheduleName": "26年1月",
+    "OpenAt": [
+      "2026-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-02-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2602",
+    "ScheduleName": "26年2月",
+    "OpenAt": [
+      "2026-02-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-03-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2603",
+    "ScheduleName": "26年3月",
+    "OpenAt": [
+      "2026-03-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-04-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2604",
+    "ScheduleName": "26年4月",
+    "OpenAt": [
+      "2026-04-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-05-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2605",
+    "ScheduleName": "26年5月",
+    "OpenAt": [
+      "2026-05-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-06-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2606",
+    "ScheduleName": "26年6月",
+    "OpenAt": [
+      "2026-06-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-07-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2607",
+    "ScheduleName": "26年7月",
+    "OpenAt": [
+      "2026-07-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-08-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2608",
+    "ScheduleName": "26年8月",
+    "OpenAt": [
+      "2026-08-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-09-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2609",
+    "ScheduleName": "26年9月",
+    "OpenAt": [
+      "2026-09-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-10-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2610",
+    "ScheduleName": "26年10月",
+    "OpenAt": [
+      "2026-10-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-11-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2611",
+    "ScheduleName": "26年11月",
+    "OpenAt": [
+      "2026-11-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2026-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_2612",
+    "ScheduleName": "26年12月",
+    "OpenAt": [
+      "2026-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2027-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_A1_A1a",
+    "ScheduleName": "A1～A1a期間",
+    "OpenAt": [
+      "2023-12-31T15:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-17T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_A1_A1a_GLOBAL",
+    "ScheduleName": "A1～A1a期間(グローバルリリース後)",
+    "OpenAt": [
+      "2024-10-30T01:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-17T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_A1_A2",
+    "ScheduleName": "A1～A2期間",
+    "OpenAt": [
+      "2023-12-31T15:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-30T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_A1_A2_GLOBAL",
+    "ScheduleName": "A1～A2期間(グローバルリリース後)",
+    "OpenAt": [
+      "2024-10-30T01:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-30T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_A1_HOTFIX_PACK",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2000-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2000-01-01T06:00:01.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_A1a_A2",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-17T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-30T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_CM_0002010_01",
+    "ScheduleName": "グローバルリリースプレゼント",
+    "OpenAt": [
+      "2024-10-30T01:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-30T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_CM_2408010_01",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-17T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-18T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_CM_2408010_02",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-18T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-19T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_CM_2408010_03",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-19T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-20T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_0002010_DR_01",
+    "ScheduleName": "ドロップイベント1",
+    "OpenAt": [
+      "2024-11-05T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-18T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_0002010_DR_02",
+    "ScheduleName": "ドロップイベント2",
+    "OpenAt": [
+      "2024-11-29T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-13T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_0002010_EM_01",
+    "ScheduleName": "エンブレムイベント1",
+    "OpenAt": [
+      "2024-11-07T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-28T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_0002010_EM_02",
+    "ScheduleName": "エンブレムイベント2",
+    "OpenAt": [
+      "2024-12-09T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-16T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_0002010_MI_01",
+    "ScheduleName": "ミッションイベント(ラッキー/ニャース)",
+    "OpenAt": [
+      "2024-11-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-15T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_0002010_MI_02",
+    "ScheduleName": "ミッションイベント(ラッキー/ニャース)\u3000後半追加",
+    "OpenAt": [
+      "2024-11-08T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-15T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_0002010_MI_03",
+    "ScheduleName": "炎タイプ大量発生イベント",
+    "OpenAt": [
+      "2024-11-22T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-28T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_0002010_MI_04",
+    "ScheduleName": "ミッションイベント(フシギダネ/コイル)",
+    "OpenAt": [
+      "2024-12-06T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-20T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_0002010_MI_05",
+    "ScheduleName": "ミッションイベント(フシギダネ/コイル)\u3000後半追加",
+    "OpenAt": [
+      "2024-12-13T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-20T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_2408010_DR_01",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-15T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_2408010_EM_01",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-20T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-10T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_2408010_EM_02",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-20T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-27T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_2408010_MI_01",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-26T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_2408010_MI_02",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-08T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-22T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_2408010_MI_03",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-15T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-22T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_2408010_MI_04",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-23T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-29T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_2408010_MI_05",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-25T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_EV_2408010_MI_06",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-08T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_0002010_FR_01",
+    "ScheduleName": "フリチャレ：ミッションイベント(ラッキー/ニャース)",
+    "OpenAt": [
+      "2024-11-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-15T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_0002010_FR_02",
+    "ScheduleName": "フリチャレ：炎タイプ大量発生イベント",
+    "OpenAt": [
+      "2024-11-22T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-28T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_0002010_FR_03",
+    "ScheduleName": "フリチャレ：ミッションイベント(フシギダネ/コイル)",
+    "OpenAt": [
+      "2024-12-06T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-20T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_0002010_LC_01",
+    "ScheduleName": "ラキチャレ：ミッションイベント(ラッキー/ニャース)",
+    "OpenAt": [
+      "2024-11-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-15T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_0002010_LC_02",
+    "ScheduleName": "ラキチャレ：炎タイプ大量発生イベント",
+    "OpenAt": [
+      "2024-11-22T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-28T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_0002010_LC_03",
+    "ScheduleName": "ラキチャレ：ミッションイベント(フシギダネ/コイル)",
+    "OpenAt": [
+      "2024-12-06T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-20T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_2408010_FR_01",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-26T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_2408010_FR_02",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-07T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-21T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_2408010_FR_03",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-23T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-29T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_2408010_LC_01",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-26T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_2408010_LC_02",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-07T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-21T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GC_2408010_LC_03",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-23T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-29T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_GL_news_2010",
+    "ScheduleName": "(お知らせ用）グローバルロンチ開始～",
+    "OpenAt": [
+      "2024-10-30T01:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_INFINITE",
+    "ScheduleName": "期限無し",
+    "OpenAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_LL_GL_news",
+    "ScheduleName": "(お知らせ用）リミデットローンチ開始～GL開始まで",
+    "OpenAt": [
+      "2023-12-31T15:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-10-30T01:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_LL_MAINTENANCE",
+    "ScheduleName": "リミデットローンチからグローバルロンチへのメンテ",
+    "OpenAt": [
+      "2024-10-29T01:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-10-30T01:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_LL_MAINTENANCE_news",
+    "ScheduleName": "(お知らせ用)リミデットローンチからグローバルロンチへのメンテ",
+    "OpenAt": [
+      "2024-10-28T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-10-29T01:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_MI_0002010_SS_01",
+    "ScheduleName": "サブスクミッション1回目(LL)",
+    "OpenAt": [
+      "2023-12-31T15:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-10-29T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_MI_0002010_SS_02",
+    "ScheduleName": "サブスクミッション2回目(GL)",
+    "OpenAt": [
+      "2024-10-29T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_MI_0002010_SS_03",
+    "ScheduleName": "サブスクミッション3回目(24/12)",
+    "OpenAt": [
+      "2024-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_MI_2408010_SS_01",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-02-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_01",
+    "ScheduleName": "お知らせ：パック追加(最強の遺伝子)",
+    "OpenAt": [
+      "2023-12-31T15:00:02.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_02",
+    "ScheduleName": "お知らせ：リリースキャンペーン",
+    "OpenAt": [
+      "2024-10-30T01:00:03.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-30T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_03",
+    "ScheduleName": "お知らせ：アプリリリース",
+    "OpenAt": [
+      "2024-10-30T01:00:01.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_04",
+    "ScheduleName": "お知らせ：ショップ更新(A1期間分)",
+    "OpenAt": [
+      "2024-10-30T01:00:02.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-30T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_17",
+    "ScheduleName": "お知らせ：パック詳細(最強の遺伝子)",
+    "OpenAt": [
+      "2023-12-31T15:00:01.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_19",
+    "ScheduleName": "お知らせ：ミッションイベント(コイキング・ギャラドス)",
+    "OpenAt": [
+      "2024-11-22T06:00:01.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-28T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_23",
+    "ScheduleName": "お知らせ：プロデューサーレター",
+    "OpenAt": [
+      "2024-10-30T01:00:04.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-30T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_25",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-10-30T01:00:06.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_26",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-02-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_27",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-10-30T01:00:05.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_28",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-10-30T01:00:04.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_29",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-10-30T01:00:03.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-30T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_30",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-10-30T01:00:02.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_0002010_31",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-10-30T01:00:01.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_01",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-20T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_02",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-26T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_03",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_04",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-08T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_05",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-15T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_06",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-20T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_07",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-23T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_08",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-25T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_09",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_10",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_11",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-20T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_12",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-17T06:00:01.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_2408010_13",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-17T06:00:02.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_NW_BUG_0002100_001",
+    "ScheduleName": "緊急お知らせ内 障害発生時間",
+    "OpenAt": [
+      "2024-09-25T23:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-09-26T01:43:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_NW_BUG_0002100_002",
+    "ScheduleName": "緊急お知らせ内  お知らせ更新時間",
+    "OpenAt": [
+      "2024-10-01T09:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_PR_2408010_01",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-20T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-04-30T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_QU_0002010_01",
+    "ScheduleName": "リリース直後アンケート",
+    "OpenAt": [
+      "2024-10-30T01:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-12T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_RELEASE",
+    "ScheduleName": "リリース日(無期限)",
+    "OpenAt": [
+      "2023-12-31T15:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_RELEASE_A1a",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-17T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_RELEASE_GLOBAL",
+    "ScheduleName": "グローバルリリース日(無期限)",
+    "OpenAt": [
+      "2024-10-30T01:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "3000-12-31T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": true
+  },
+  {
+    "ScheduleID": "SC_SH_0002010_01",
+    "ScheduleName": "ニャースサプライ交換所",
+    "OpenAt": [
+      "2024-11-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-22T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_0002010_02",
+    "ScheduleName": "ニャースサプライ交換所\u3000後半追加",
+    "OpenAt": [
+      "2024-11-08T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-11-22T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_0002010_03",
+    "ScheduleName": "ブラックフライデー(2024)",
+    "OpenAt": [
+      "2024-11-22T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-02T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_0002010_04",
+    "ScheduleName": "サブスクショップ1回目(LL)",
+    "OpenAt": [
+      "2023-12-31T15:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-10-29T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_0002010_05",
+    "ScheduleName": "サブスクショップ2回目(GL)",
+    "OpenAt": [
+      "2024-10-29T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_0002010_06",
+    "ScheduleName": "サブスクショップ3回目(24/12)",
+    "OpenAt": [
+      "2024-12-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-02-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_0002010_07",
+    "ScheduleName": "フシギバナサプライ交換所",
+    "OpenAt": [
+      "2024-12-06T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-27T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_0002010_08",
+    "ScheduleName": "フシギバナサプライ交換所\u3000後半追加",
+    "OpenAt": [
+      "2024-12-13T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2024-12-27T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_2408010_01",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-08T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-29T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_2408010_02",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-15T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-29T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_2408010_03",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2024-12-25T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-01-08T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  },
+  {
+    "ScheduleID": "SC_SH_2408010_04",
+    "ScheduleName": "",
+    "OpenAt": [
+      "2025-01-01T06:00:00.0000000Z",
+      0
+    ],
+    "CloseAt": [
+      "2025-03-01T06:00:00.0000000Z",
+      0
+    ],
+    "IsNoClose": false
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ExtraID": "SH_EX_GD_BOARD_001",
+    "ItemType": 9,
+    "ItemID": "BOARD_100170_ERIKA",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraID": "SH_EX_GD_DECKSHIELD_001",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100080_ERIKA",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraID": "SH_EX_GD_FILE_001",
+    "ItemType": 9,
+    "ItemID": "FILE_100110_ERIKA_RUFFRESIA",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraID": "SH_EX_GD_PLAYMAT_001",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100080_ERIKA",
+    "ExpansionID": "",
+    "Amount": 1
+  }
+]

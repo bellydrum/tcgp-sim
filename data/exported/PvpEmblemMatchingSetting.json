@@ -1,0 +1,202 @@
+[
+  {
+    "ID": "EMBLEM_EVENT_1_MATCHING_1",
+    "EmblemEventID": "1",
+    "Step": 0,
+    "TotalBattleCountThreshold": 50,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_1_MATCHING_2",
+    "EmblemEventID": "1",
+    "Step": 1,
+    "TotalBattleCountThreshold": 30,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_1_MATCHING_3",
+    "EmblemEventID": "1",
+    "Step": 2,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_1_MATCHING_4",
+    "EmblemEventID": "1",
+    "Step": 3,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_1_MATCHING_5",
+    "EmblemEventID": "1",
+    "Step": 4,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_2_MATCHING_1",
+    "EmblemEventID": "2",
+    "Step": 0,
+    "TotalBattleCountThreshold": 50,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_2_MATCHING_2",
+    "EmblemEventID": "2",
+    "Step": 1,
+    "TotalBattleCountThreshold": 30,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_2_MATCHING_3",
+    "EmblemEventID": "2",
+    "Step": 2,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_2_MATCHING_4",
+    "EmblemEventID": "2",
+    "Step": 3,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_2_MATCHING_5",
+    "EmblemEventID": "2",
+    "Step": 4,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_3_MATCHING_1",
+    "EmblemEventID": "3",
+    "Step": 0,
+    "TotalBattleCountThreshold": 50,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_3_MATCHING_2",
+    "EmblemEventID": "3",
+    "Step": 1,
+    "TotalBattleCountThreshold": 30,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_3_MATCHING_3",
+    "EmblemEventID": "3",
+    "Step": 2,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_3_MATCHING_4",
+    "EmblemEventID": "3",
+    "Step": 3,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_3_MATCHING_5",
+    "EmblemEventID": "3",
+    "Step": 4,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_4_MATCHING_1",
+    "EmblemEventID": "4",
+    "Step": 0,
+    "TotalBattleCountThreshold": 50,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_4_MATCHING_2",
+    "EmblemEventID": "4",
+    "Step": 1,
+    "TotalBattleCountThreshold": 30,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_4_MATCHING_3",
+    "EmblemEventID": "4",
+    "Step": 2,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_4_MATCHING_4",
+    "EmblemEventID": "4",
+    "Step": 3,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  },
+  {
+    "ID": "EMBLEM_EVENT_4_MATCHING_5",
+    "EmblemEventID": "4",
+    "Step": 4,
+    "TotalBattleCountThreshold": 0,
+    "WinningRateBattleCount": 50,
+    "WinningRateRange": 40,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 20
+  }
+]

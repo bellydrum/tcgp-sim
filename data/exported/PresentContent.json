@@ -1,0 +1,38 @@
+[
+  {
+    "ContentID": "PR_ITSUKA_TICKET_1",
+    "ItemType": 12,
+    "ItemID": "ITSUKA_TICKET",
+    "ExpansionID": "",
+    "CardType": 0,
+    "CardID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "PR_PACK_CHARGER_A1",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "CardType": 0,
+    "CardID": "",
+    "Amount": 24
+  },
+  {
+    "ContentID": "PR_PACK_CHARGER_A1a",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "CardType": 0,
+    "CardID": "",
+    "Amount": 12
+  },
+  {
+    "ContentID": "PR_POKEMONZUKAN_1",
+    "ItemType": 1,
+    "ItemID": "TR_90_000060_01",
+    "ExpansionID": "PROMO-A",
+    "CardType": 0,
+    "CardID": "",
+    "Amount": 1
+  }
+]

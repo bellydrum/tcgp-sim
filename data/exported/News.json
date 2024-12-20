@@ -1,0 +1,1829 @@
+[
+  {
+    "ID": "0002010_01",
+    "ScheduleID": "SC_NW_0002010_27",
+    "BannerImagePath": "0002010/01/ListBanner.png",
+    "Category": 6,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_02",
+    "ScheduleID": "SC_NW_0002010_29",
+    "BannerImagePath": "0002010/02/ListBanner.png",
+    "Category": 4,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_03",
+    "ScheduleID": "SC_NW_0002010_31",
+    "BannerImagePath": "0002010/03/ListBanner.png",
+    "Category": 4,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_04",
+    "ScheduleID": "SC_NW_0002010_30",
+    "BannerImagePath": "0002010/04/ListBanner.png",
+    "Category": 6,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_05",
+    "ScheduleID": "SC_EV_0002010_EM_01",
+    "BannerImagePath": "0002010/05/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_0002010_EM_01",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_07",
+    "ScheduleID": "SC_EV_0002010_DR_01",
+    "BannerImagePath": "0002010/07/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_0002010_DR_01",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_08",
+    "ScheduleID": "SC_EV_0002010_MI_01",
+    "BannerImagePath": "0002010/08/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_0002010_MI_01",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_12",
+    "ScheduleID": "SC_EV_0002010_DR_02",
+    "BannerImagePath": "0002010/12/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_0002010_DR_02",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_13",
+    "ScheduleID": "SC_EV_0002010_MI_04",
+    "BannerImagePath": "0002010/13/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_0002010_MI_04",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_14",
+    "ScheduleID": "SC_EV_0002010_EM_02",
+    "BannerImagePath": "0002010/14/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_0002010_EM_02",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_16",
+    "ScheduleID": "SC_QU_0002010_01",
+    "BannerImagePath": "0002010/16/ListBanner.png",
+    "Category": 4,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": true,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_17",
+    "ScheduleID": "SC_NW_0002010_28",
+    "BannerImagePath": "0002010/17/ListBanner.png",
+    "Category": 4,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_18",
+    "ScheduleID": "SC_LL_GL_news",
+    "BannerImagePath": "",
+    "Category": 4,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_19",
+    "ScheduleID": "SC_NW_0002010_19",
+    "BannerImagePath": "0002010/19/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_0002010_MI_03",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_20",
+    "ScheduleID": "SC_SH_0002010_03",
+    "BannerImagePath": "0002010/20/ListBanner.png",
+    "Category": 4,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_21",
+    "ScheduleID": "SC_SH_0002010_02",
+    "BannerImagePath": "0002010/21/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_0002010_MI_01",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_22",
+    "ScheduleID": "SC_SH_0002010_08",
+    "BannerImagePath": "0002010/22/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_0002010_MI_04",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_24",
+    "ScheduleID": "SC_LL_MAINTENANCE_news",
+    "BannerImagePath": "",
+    "Category": 5,
+    "ForceShow": true,
+    "ForceShowEndAt": [
+      "2024-10-29T01:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_25",
+    "ScheduleID": "SC_NW_0002010_25",
+    "BannerImagePath": "0002300/25/ListBanner.png",
+    "Category": 6,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "0002010_26",
+    "ScheduleID": "SC_NW_0002010_26",
+    "BannerImagePath": "0002300/26/ListBanner.png",
+    "Category": 6,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_01",
+    "ScheduleID": "SC_NW_2408010_13",
+    "BannerImagePath": "common/ProducerLetter_ListBanner.png",
+    "Category": 5,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_02",
+    "ScheduleID": "SC_NW_2408010_12",
+    "BannerImagePath": "2408010/02/ListBanner.png",
+    "Category": 6,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_03",
+    "ScheduleID": "SC_RELEASE_A1a",
+    "BannerImagePath": "2408010/03/ListBanner.png",
+    "Category": 4,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_04",
+    "ScheduleID": "SC_NW_2408010_01",
+    "BannerImagePath": "2408010/04/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_2408010_EM_01",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_05",
+    "ScheduleID": "SC_NW_2408010_02",
+    "BannerImagePath": "2408010/05/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_2408010_MI_01",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_06",
+    "ScheduleID": "SC_NW_2408010_03",
+    "BannerImagePath": "2408010/06/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_2408010_DR_01",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_07",
+    "ScheduleID": "SC_NW_2408010_04",
+    "BannerImagePath": "2408010/07/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_2408010_MI_02",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_08",
+    "ScheduleID": "SC_NW_2408010_05",
+    "BannerImagePath": "2408010/08/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_2408010_MI_02",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_09",
+    "ScheduleID": "SC_NW_2408010_06",
+    "BannerImagePath": "2408010/09/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_2408010_EM_02",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_10",
+    "ScheduleID": "SC_NW_2408010_07",
+    "BannerImagePath": "2408010/10/ListBanner.png",
+    "Category": 8,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_2408010_MI_04",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_11",
+    "ScheduleID": "SC_NW_2408010_08",
+    "BannerImagePath": "2408010/11/ListBanner.png",
+    "Category": 7,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_12",
+    "ScheduleID": "SC_NW_2408010_09",
+    "BannerImagePath": "2408010/12/ListBanner.png",
+    "Category": 7,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "SC_EV_2408010_MI_06",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_13",
+    "ScheduleID": "SC_NW_2408010_10",
+    "BannerImagePath": "2408010/13/ListBanner.png",
+    "Category": 6,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "2408010_15",
+    "ScheduleID": "SC_NW_2408010_11",
+    "BannerImagePath": "2408010/15/ListBanner.png",
+    "Category": 7,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 0
+  },
+  {
+    "ID": "NewsBug_001",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_002",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_003",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_004",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_005",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_006",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_007",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_008",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_009",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_010",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_011",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_012",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_013",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_014",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_015",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_016",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_017",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_018",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_019",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_020",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_021",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_022",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_023",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_024",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_025",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_026",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_027",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_028",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_029",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_030",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_031",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_032",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_033",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_034",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_035",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_036",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_037",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_038",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_039",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_040",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_041",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_042",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_043",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_044",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_045",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_046",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_047",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_048",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_049",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_050",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 3,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsBug_051",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 0,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 2
+  },
+  {
+    "ID": "NewsCS_Individual_001",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 2,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 1
+  },
+  {
+    "ID": "NewsCS_Individual_002",
+    "ScheduleID": "SC_INFINITE",
+    "BannerImagePath": "",
+    "Category": 2,
+    "ForceShow": false,
+    "ForceShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "Priority": 0,
+    "PriorShowEndAt": [
+      "1970-01-01T00:00:00.0000000Z",
+      0
+    ],
+    "ShowOS": 0,
+    "CountryID": [],
+    "EventScheduleID": "",
+    "AModeOnly": false,
+    "kind": 1
+  }
+]

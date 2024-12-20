@@ -1,0 +1,140 @@
+[
+  {
+    "CategoryID": "SH_CG_EM_001",
+    "NameMSID": "SHOP_CATEGORY_SUB_2",
+    "SortOrderPriority": 1000,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_EM_002",
+    "NameMSID": "SHOP_CATEGORY_SUB_9",
+    "SortOrderPriority": 1000,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_EV_001",
+    "NameMSID": "SHOP_CATEGORY_EV_3",
+    "SortOrderPriority": 1000,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_EV_002",
+    "NameMSID": "SHOP_CATEGORY_EV_3",
+    "SortOrderPriority": 1000,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_EV_003",
+    "NameMSID": "SHOP_CATEGORY_EV_3",
+    "SortOrderPriority": 1010,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_PG_001",
+    "NameMSID": "SHOP_CATEGORY_GD_2",
+    "SortOrderPriority": 1000,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_PG_SUB_001",
+    "NameMSID": "SHOP_CATEGORY_SUB_8",
+    "SortOrderPriority": 0,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_PR_001",
+    "NameMSID": "SHOP_CATEGORY_GD_3",
+    "SortOrderPriority": 1000,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_PR_002",
+    "NameMSID": "SHOP_CATEGORY_GD_2",
+    "SortOrderPriority": 900,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_PR_003",
+    "NameMSID": "SHOP_CATEGORY_EV_5",
+    "SortOrderPriority": 800,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_001",
+    "NameMSID": "SHOP_CATEGORY_EV_5",
+    "SortOrderPriority": 1000,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_002",
+    "NameMSID": "SHOP_CATEGORY_GD_2",
+    "SortOrderPriority": 900,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_003",
+    "NameMSID": "SHOP_CATEGORY_GD_3",
+    "SortOrderPriority": 800,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_SUB_001",
+    "NameMSID": "SHOP_CATEGORY_SUB_6",
+    "SortOrderPriority": 0,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_SUB_002",
+    "NameMSID": "SHOP_CATEGORY_SUB_7",
+    "SortOrderPriority": 0,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_SUB_003",
+    "NameMSID": "SHOP_CATEGORY_SUB_2",
+    "SortOrderPriority": 0,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_SUB_004",
+    "NameMSID": "SHOP_CATEGORY_SUB_4",
+    "SortOrderPriority": 0,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_SUB_005",
+    "NameMSID": "SHOP_CATEGORY_SUB_5",
+    "SortOrderPriority": 0,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_SUB_006",
+    "NameMSID": "SHOP_CATEGORY_SUB_8",
+    "SortOrderPriority": 0,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_SUB_011",
+    "NameMSID": "SHOP_CATEGORY_SUB_15",
+    "SortOrderPriority": 1000,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SH_SUB_012",
+    "NameMSID": "SHOP_CATEGORY_SUB_16",
+    "SortOrderPriority": 1000,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SP_001",
+    "NameMSID": "SHOP_CATEGORY_GD_2",
+    "SortOrderPriority": 1000,
+    "IsOutOfStockInvisible": false
+  },
+  {
+    "CategoryID": "SH_CG_SP_SUB_001",
+    "NameMSID": "SHOP_CATEGORY_SUB_1",
+    "SortOrderPriority": 0,
+    "IsOutOfStockInvisible": false
+  }
+]

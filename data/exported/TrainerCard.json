@@ -1,0 +1,562 @@
+[
+  {
+    "CardID": "TR_10_000080_00",
+    "Rarity": 100,
+    "TrainerID": "TR_000080",
+    "IllustrationID": "cTR_10_000080_00_KAINOKASEKI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_91"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -1000
+  },
+  {
+    "CardID": "TR_10_000090_00",
+    "Rarity": 100,
+    "TrainerID": "TR_000090",
+    "IllustrationID": "cTR_10_000090_00_KOURANOKASEKI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_91"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -1000
+  },
+  {
+    "CardID": "TR_10_000100_00",
+    "Rarity": 100,
+    "TrainerID": "TR_000100",
+    "IllustrationID": "cTR_10_000100_00_HIMITSUNOKOHAKU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_91"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -1000
+  },
+  {
+    "CardID": "TR_10_000110_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000110",
+    "IllustrationID": "cTR_10_000110_00_ERIKA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_57"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_10_000120_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000120",
+    "IllustrationID": "cTR_10_000120_00_KASUMI_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_51"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_10_000130_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000130",
+    "IllustrationID": "cTR_10_000130_00_KATSURA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_41"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_10_000140_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000140",
+    "IllustrationID": "cTR_10_000140_00_KYOU_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_92"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_10_000150_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000150",
+    "IllustrationID": "cTR_10_000150_00_SAKAKI_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_93"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_10_000160_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000160",
+    "IllustrationID": "cTR_10_000160_00_TAKESHI_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_94"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_10_000170_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000170",
+    "IllustrationID": "cTR_10_000170_00_NATSUME_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_74"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_10_000180_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000180",
+    "IllustrationID": "cTR_10_000180_00_MATISSE_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_79"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_10_000190_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000190",
+    "IllustrationID": "cTR_10_000190_00_MABOROSHINOSEKIBAN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_122"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_10_000200_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000200",
+    "IllustrationID": "cTR_10_000200_00_POKEMONNOFUE_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_91"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_10_000210_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000210",
+    "IllustrationID": "cTR_10_000210_00_GREEN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_35"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_10_000220_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000220",
+    "IllustrationID": "cTR_10_000220_00_KAKEDASHICHOSAIN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_74"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_10_000230_00",
+    "Rarity": 200,
+    "TrainerID": "TR_000230",
+    "IllustrationID": "cTR_10_000230_00_LEAF_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_109"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_20_000110_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000110",
+    "IllustrationID": "cTR_20_000110_00_ERIKA_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_90"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_20_000120_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000120",
+    "IllustrationID": "cTR_20_000120_00_KASUMI_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_51"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_20_000130_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000130",
+    "IllustrationID": "cTR_20_000130_00_KATSURA_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_41"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_20_000140_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000140",
+    "IllustrationID": "cTR_20_000140_00_KYOU_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_92"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_20_000150_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000150",
+    "IllustrationID": "cTR_20_000150_00_SAKAKI_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_93"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_20_000160_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000160",
+    "IllustrationID": "cTR_20_000160_00_TAKESHI_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_35"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_20_000170_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000170",
+    "IllustrationID": "cTR_20_000170_00_NATSUME_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_96"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_20_000180_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000180",
+    "IllustrationID": "cTR_20_000180_00_MATISSE_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_79"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_20_000210_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000210",
+    "IllustrationID": "cTR_20_000210_00_GREEN_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_35"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_20_000220_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000220",
+    "IllustrationID": "cTR_20_000220_00_KAKEDASHICHOSAIN_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_74"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -2000
+  },
+  {
+    "CardID": "TR_20_000230_00",
+    "Rarity": 700,
+    "TrainerID": "TR_000230",
+    "IllustrationID": "cTR_20_000230_00_LEAF_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_109"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_90_000010_00",
+    "Rarity": 100,
+    "TrainerID": "TR_000010",
+    "IllustrationID": "cTR_90_000010_00_KIZUGUSURI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_60"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_SHOP",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_90_000020_00",
+    "Rarity": 100,
+    "TrainerID": "TR_000020",
+    "IllustrationID": "cTR_90_000020_00_SPEEDER_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_91"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_SHOP",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_90_000030_00",
+    "Rarity": 100,
+    "TrainerID": "TR_000030",
+    "IllustrationID": "cTR_90_000030_00_MONSTERBALL_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_105"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_SHOP",
+    "AutoDeckScore": 50
+  },
+  {
+    "CardID": "TR_90_000040_00",
+    "Rarity": 100,
+    "TrainerID": "TR_000040",
+    "IllustrationID": "cTR_90_000040_00_HAKASENOKENKYU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_24"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "CARD_SUBNAME_1",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_SHOP",
+    "AutoDeckScore": 50
+  },
+  {
+    "CardID": "TR_90_000050_00",
+    "Rarity": 100,
+    "TrainerID": "TR_000050",
+    "IllustrationID": "cTR_90_000050_00_HANDSCOPE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_91"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_SHOP",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_90_000060_00",
+    "Rarity": 100,
+    "TrainerID": "TR_000060",
+    "IllustrationID": "cTR_90_000060_00_POKEMONZUKAN_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_105"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_SHOP",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_90_000060_01",
+    "Rarity": 100,
+    "TrainerID": "TR_000060",
+    "IllustrationID": "cTR_90_000060_01_POKEMONZUKAN_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_74"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_CAMPAIGN",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "TR_90_000070_00",
+    "Rarity": 100,
+    "TrainerID": "TR_000070",
+    "IllustrationID": "cTR_90_000070_00_REDCARD_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_60"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "RightEndDisplayNameMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_SHOP",
+    "AutoDeckScore": 0
+  }
+]

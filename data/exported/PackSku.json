@@ -1,0 +1,62 @@
+[
+  {
+    "PackSkuID": "A1_1",
+    "ExpansionID": "A1",
+    "BasePackID": "AN001_0010_00_000",
+    "AssetID": "EXPANSION_PACK_A1_100010_MEWTWO"
+  },
+  {
+    "PackSkuID": "A1_2",
+    "ExpansionID": "A1",
+    "BasePackID": "AN001_0020_00_000",
+    "AssetID": "EXPANSION_PACK_A1_100020_LIZARDON"
+  },
+  {
+    "PackSkuID": "A1_3",
+    "ExpansionID": "A1",
+    "BasePackID": "AN001_0030_00_000",
+    "AssetID": "EXPANSION_PACK_A1_100030_PIKACHU"
+  },
+  {
+    "PackSkuID": "A1a_1",
+    "ExpansionID": "A1a",
+    "BasePackID": "AN002_0010_00_000",
+    "AssetID": "EXPANSION_PACK_A1_100040_theme"
+  },
+  {
+    "PackSkuID": "PROMO-A_1",
+    "ExpansionID": "PROMO-A",
+    "BasePackID": "AP001_0010_00_000",
+    "AssetID": "LOGO_expansion_PROMO-A"
+  },
+  {
+    "PackSkuID": "PROMO-A_2",
+    "ExpansionID": "PROMO-A",
+    "BasePackID": "AP001_0020_00_000",
+    "AssetID": "LOGO_expansion_PROMO-A"
+  },
+  {
+    "PackSkuID": "PROMO-A_3",
+    "ExpansionID": "PROMO-A",
+    "BasePackID": "AP001_0030_00_000",
+    "AssetID": "LOGO_expansion_PROMO-A"
+  },
+  {
+    "PackSkuID": "TUTORIAL_1",
+    "ExpansionID": "A1",
+    "BasePackID": "TUTORIAL_1",
+    "AssetID": "EXPANSION_PACK_A1_100010_MEWTWO"
+  },
+  {
+    "PackSkuID": "TUTORIAL_2",
+    "ExpansionID": "A1",
+    "BasePackID": "TUTORIAL_2",
+    "AssetID": "EXPANSION_PACK_A1_100020_LIZARDON"
+  },
+  {
+    "PackSkuID": "TUTORIAL_3",
+    "ExpansionID": "A1",
+    "BasePackID": "TUTORIAL_3",
+    "AssetID": "EXPANSION_PACK_A1_100030_PIKACHU"
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_1st2nd3rd_C",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "1st2nd3rd",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_4th_AR",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "AR",
+    "ProbabilityWeight": 23148
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_4th_IM",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "IM",
+    "ProbabilityWeight": 1998
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_4th_R",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "R",
+    "ProbabilityWeight": 45000
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_4th_RR",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "RR",
+    "ProbabilityWeight": 14994
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_4th_SAR",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "SAR",
+    "ProbabilityWeight": 1000
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_4th_SR",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "SR",
+    "ProbabilityWeight": 3500
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_4th_U",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "U",
+    "ProbabilityWeight": 810000
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_4th_UR",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "UR",
+    "ProbabilityWeight": 360
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_5th_AR",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "AR",
+    "ProbabilityWeight": 92592
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_5th_IM",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "IM",
+    "ProbabilityWeight": 7992
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_5th_R",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "R",
+    "ProbabilityWeight": 180000
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_5th_RR",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "RR",
+    "ProbabilityWeight": 59976
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_5th_SAR",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "SAR",
+    "ProbabilityWeight": 4000
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_5th_SR",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "SR",
+    "ProbabilityWeight": 14000
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_5th_U",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "U",
+    "ProbabilityWeight": 540000
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_01_5th_UR",
+    "PackTableID": "AN001_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "UR",
+    "ProbabilityWeight": 1440
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_02_1st2nd3rd4th5th_AR",
+    "PackTableID": "AN001_0010_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "AR",
+    "ProbabilityWeight": 8
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_02_1st2nd3rd4th5th_IM",
+    "PackTableID": "AN001_0010_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "IM",
+    "ProbabilityWeight": 1
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_02_1st2nd3rd4th5th_SAR",
+    "PackTableID": "AN001_0010_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "SAR",
+    "ProbabilityWeight": 2
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_02_1st2nd3rd4th5th_SR",
+    "PackTableID": "AN001_0010_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "SR",
+    "ProbabilityWeight": 7
+  },
+  {
+    "PackTableLabelID": "AN001_0010_00_000_02_1st2nd3rd4th5th_UR",
+    "PackTableID": "AN001_0010_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "UR",
+    "ProbabilityWeight": 1
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_1st2nd3rd_C",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "1st2nd3rd",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_4th_AR",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "AR",
+    "ProbabilityWeight": 2572
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_4th_IM",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "IM",
+    "ProbabilityWeight": 222
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_4th_R",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "R",
+    "ProbabilityWeight": 5000
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_4th_RR",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "RR",
+    "ProbabilityWeight": 1666
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_4th_SAR",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "SAR",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_4th_SR",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "SR",
+    "ProbabilityWeight": 400
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_4th_U",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "U",
+    "ProbabilityWeight": 90000
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_4th_UR",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "UR",
+    "ProbabilityWeight": 40
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_5th_AR",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "AR",
+    "ProbabilityWeight": 10288
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_5th_IM",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "IM",
+    "ProbabilityWeight": 888
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_5th_R",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "R",
+    "ProbabilityWeight": 20000
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_5th_RR",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "RR",
+    "ProbabilityWeight": 6664
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_5th_SAR",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "SAR",
+    "ProbabilityWeight": 400
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_5th_SR",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "SR",
+    "ProbabilityWeight": 1600
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_5th_U",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "U",
+    "ProbabilityWeight": 60000
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_01_5th_UR",
+    "PackTableID": "AN001_0020_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "UR",
+    "ProbabilityWeight": 160
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_02_1st2nd3rd4th5th_AR",
+    "PackTableID": "AN001_0020_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "AR",
+    "ProbabilityWeight": 8
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_02_1st2nd3rd4th5th_IM",
+    "PackTableID": "AN001_0020_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "IM",
+    "ProbabilityWeight": 1
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_02_1st2nd3rd4th5th_SAR",
+    "PackTableID": "AN001_0020_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "SAR",
+    "ProbabilityWeight": 2
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_02_1st2nd3rd4th5th_SR",
+    "PackTableID": "AN001_0020_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "SR",
+    "ProbabilityWeight": 8
+  },
+  {
+    "PackTableLabelID": "AN001_0020_00_000_02_1st2nd3rd4th5th_UR",
+    "PackTableID": "AN001_0020_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "UR",
+    "ProbabilityWeight": 1
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_1st2nd3rd_C",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "1st2nd3rd",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_4th_AR",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "AR",
+    "ProbabilityWeight": 2572
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_4th_IM",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "IM",
+    "ProbabilityWeight": 222
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_4th_R",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "R",
+    "ProbabilityWeight": 5000
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_4th_RR",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "RR",
+    "ProbabilityWeight": 1666
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_4th_SAR",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "SAR",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_4th_SR",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "SR",
+    "ProbabilityWeight": 400
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_4th_U",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "U",
+    "ProbabilityWeight": 90000
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_4th_UR",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "UR",
+    "ProbabilityWeight": 40
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_5th_AR",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "AR",
+    "ProbabilityWeight": 10288
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_5th_IM",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "IM",
+    "ProbabilityWeight": 888
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_5th_R",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "R",
+    "ProbabilityWeight": 20000
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_5th_RR",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "RR",
+    "ProbabilityWeight": 6664
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_5th_SAR",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "SAR",
+    "ProbabilityWeight": 400
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_5th_SR",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "SR",
+    "ProbabilityWeight": 1600
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_5th_U",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "U",
+    "ProbabilityWeight": 60000
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_01_5th_UR",
+    "PackTableID": "AN001_0030_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "UR",
+    "ProbabilityWeight": 160
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_02_1st2nd3rd4th5th_AR",
+    "PackTableID": "AN001_0030_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "AR",
+    "ProbabilityWeight": 8
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_02_1st2nd3rd4th5th_IM",
+    "PackTableID": "AN001_0030_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "IM",
+    "ProbabilityWeight": 1
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_02_1st2nd3rd4th5th_SAR",
+    "PackTableID": "AN001_0030_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "SAR",
+    "ProbabilityWeight": 2
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_02_1st2nd3rd4th5th_SR",
+    "PackTableID": "AN001_0030_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "SR",
+    "ProbabilityWeight": 8
+  },
+  {
+    "PackTableLabelID": "AN001_0030_00_000_02_1st2nd3rd4th5th_UR",
+    "PackTableID": "AN001_0030_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "UR",
+    "ProbabilityWeight": 1
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_1st2nd3rd_C",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "1st2nd3rd",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_4th_AR",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "AR",
+    "ProbabilityWeight": 2572
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_4th_IM",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "IM",
+    "ProbabilityWeight": 222
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_4th_R",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "R",
+    "ProbabilityWeight": 5000
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_4th_RR",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "RR",
+    "ProbabilityWeight": 1666
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_4th_SAR",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "SAR",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_4th_SR",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "SR",
+    "ProbabilityWeight": 400
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_4th_U",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "U",
+    "ProbabilityWeight": 90000
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_4th_UR",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "4th",
+    "Label": "UR",
+    "ProbabilityWeight": 40
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_5th_AR",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "AR",
+    "ProbabilityWeight": 10288
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_5th_IM",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "IM",
+    "ProbabilityWeight": 888
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_5th_R",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "R",
+    "ProbabilityWeight": 20000
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_5th_RR",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "RR",
+    "ProbabilityWeight": 6664
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_5th_SAR",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "SAR",
+    "ProbabilityWeight": 400
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_5th_SR",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "SR",
+    "ProbabilityWeight": 1600
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_5th_U",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "U",
+    "ProbabilityWeight": 60000
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_01_5th_UR",
+    "PackTableID": "AN002_0010_00_000_01",
+    "DrawCountLabel": "5th",
+    "Label": "UR",
+    "ProbabilityWeight": 160
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_02_1st2nd3rd4th5th_AR",
+    "PackTableID": "AN002_0010_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "AR",
+    "ProbabilityWeight": 333333
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_02_1st2nd3rd4th5th_IM",
+    "PackTableID": "AN002_0010_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "IM",
+    "ProbabilityWeight": 55556
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_02_1st2nd3rd4th5th_SAR",
+    "PackTableID": "AN002_0010_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "SAR",
+    "ProbabilityWeight": 111111
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_02_1st2nd3rd4th5th_SR",
+    "PackTableID": "AN002_0010_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "SR",
+    "ProbabilityWeight": 444444
+  },
+  {
+    "PackTableLabelID": "AN002_0010_00_000_02_1st2nd3rd4th5th_UR",
+    "PackTableID": "AN002_0010_00_000_02",
+    "DrawCountLabel": "1st2nd3rd4th5th",
+    "Label": "UR",
+    "ProbabilityWeight": 55556
+  },
+  {
+    "PackTableLabelID": "AP001_0010_00_000_01_1st_C",
+    "PackTableID": "AP001_0010_00_000_01",
+    "DrawCountLabel": "1st",
+    "Label": "C",
+    "ProbabilityWeight": 7152
+  },
+  {
+    "PackTableLabelID": "AP001_0010_00_000_01_1st_R",
+    "PackTableID": "AP001_0010_00_000_01",
+    "DrawCountLabel": "1st",
+    "Label": "R",
+    "ProbabilityWeight": 1582
+  },
+  {
+    "PackTableLabelID": "AP001_0010_00_000_01_1st_RR",
+    "PackTableID": "AP001_0010_00_000_01",
+    "DrawCountLabel": "1st",
+    "Label": "RR",
+    "ProbabilityWeight": 1266
+  },
+  {
+    "PackTableLabelID": "AP001_0020_00_000_01_1st_AR",
+    "PackTableID": "AP001_0020_00_000_01",
+    "DrawCountLabel": "1st",
+    "Label": "AR",
+    "ProbabilityWeight": 1266
+  },
+  {
+    "PackTableLabelID": "AP001_0020_00_000_01_1st_C",
+    "PackTableID": "AP001_0020_00_000_01",
+    "DrawCountLabel": "1st",
+    "Label": "C",
+    "ProbabilityWeight": 7152
+  },
+  {
+    "PackTableLabelID": "AP001_0020_00_000_01_1st_R",
+    "PackTableID": "AP001_0020_00_000_01",
+    "DrawCountLabel": "1st",
+    "Label": "R",
+    "ProbabilityWeight": 1582
+  },
+  {
+    "PackTableLabelID": "AP001_0030_00_000_01_1st_AR",
+    "PackTableID": "AP001_0030_00_000_01",
+    "DrawCountLabel": "1st",
+    "Label": "AR",
+    "ProbabilityWeight": 1266
+  },
+  {
+    "PackTableLabelID": "AP001_0030_00_000_01_1st_C",
+    "PackTableID": "AP001_0030_00_000_01",
+    "DrawCountLabel": "1st",
+    "Label": "C",
+    "ProbabilityWeight": 7152
+  },
+  {
+    "PackTableLabelID": "AP001_0030_00_000_01_1st_R",
+    "PackTableID": "AP001_0030_00_000_01",
+    "DrawCountLabel": "1st",
+    "Label": "R",
+    "ProbabilityWeight": 1582
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_1_1st_C",
+    "PackTableID": "TUTORIAL_1",
+    "DrawCountLabel": "1st",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_1_2nd_C",
+    "PackTableID": "TUTORIAL_1",
+    "DrawCountLabel": "2nd",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_1_3rd_C",
+    "PackTableID": "TUTORIAL_1",
+    "DrawCountLabel": "3rd",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_1_4th_U",
+    "PackTableID": "TUTORIAL_1",
+    "DrawCountLabel": "4th",
+    "Label": "U",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_1_5th_RR",
+    "PackTableID": "TUTORIAL_1",
+    "DrawCountLabel": "5th",
+    "Label": "RR",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_2_1st_C",
+    "PackTableID": "TUTORIAL_2",
+    "DrawCountLabel": "1st",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_2_2nd_C",
+    "PackTableID": "TUTORIAL_2",
+    "DrawCountLabel": "2nd",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_2_3rd_C",
+    "PackTableID": "TUTORIAL_2",
+    "DrawCountLabel": "3rd",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_2_4th_U",
+    "PackTableID": "TUTORIAL_2",
+    "DrawCountLabel": "4th",
+    "Label": "U",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_2_5th_RR",
+    "PackTableID": "TUTORIAL_2",
+    "DrawCountLabel": "5th",
+    "Label": "RR",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_3_1st_C",
+    "PackTableID": "TUTORIAL_3",
+    "DrawCountLabel": "1st",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_3_2nd_C",
+    "PackTableID": "TUTORIAL_3",
+    "DrawCountLabel": "2nd",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_3_3rd_C",
+    "PackTableID": "TUTORIAL_3",
+    "DrawCountLabel": "3rd",
+    "Label": "C",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_3_4th_U",
+    "PackTableID": "TUTORIAL_3",
+    "DrawCountLabel": "4th",
+    "Label": "U",
+    "ProbabilityWeight": 100
+  },
+  {
+    "PackTableLabelID": "TUTORIAL_3_5th_RR",
+    "PackTableID": "TUTORIAL_3",
+    "DrawCountLabel": "5th",
+    "Label": "RR",
+    "ProbabilityWeight": 100
+  }
+]

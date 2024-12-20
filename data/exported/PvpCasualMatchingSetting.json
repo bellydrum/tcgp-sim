@@ -1,0 +1,18 @@
+[
+  {
+    "BattleStance": 1,
+    "TotalBattleCountThreshold": 50,
+    "WinningRateBattleCount": 10,
+    "WinningRateRange": 100,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 100
+  },
+  {
+    "BattleStance": 2,
+    "TotalBattleCountThreshold": 50,
+    "WinningRateBattleCount": 10,
+    "WinningRateRange": 100,
+    "SearchExpansionSeconds": 4,
+    "SearchExpansionWinningRateRange": 100
+  }
+]

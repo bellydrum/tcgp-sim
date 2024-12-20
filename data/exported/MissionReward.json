@@ -1,0 +1,1220 @@
+[
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_002",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_003",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 2,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_004",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 3,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_005",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 5,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_006",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 6,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_007",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 7,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_008",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 9,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_009",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 10,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_010",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 12,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_011",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 20,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_012",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 24,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_013",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 36,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_014",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 48,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CHALLENGE_POWER_CHARGER_015",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 4,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_001",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 5,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_002",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 10,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_003",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 15,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_004",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 25,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_005",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 35,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_006",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 45,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_007",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 50,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_008",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 75,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_009",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 100,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_010",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 150,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_011",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 500,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_012",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 30,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_013",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 60,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_014",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 90,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_015",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 120,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_016",
+    "ItemType": 7,
+    "ItemID": "SHOPTICKET",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_017",
+    "ItemType": 7,
+    "ItemID": "SHOPTICKET",
+    "Amount": 2,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_018",
+    "ItemType": 7,
+    "ItemID": "SHOPTICKET",
+    "Amount": 3,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_019",
+    "ItemType": 7,
+    "ItemID": "SHOPTICKET",
+    "Amount": 5,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_020",
+    "ItemType": 7,
+    "ItemID": "SHOPTICKET",
+    "Amount": 7,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_021",
+    "ItemType": 7,
+    "ItemID": "SHOPTICKET",
+    "Amount": 10,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_022",
+    "ItemType": 7,
+    "ItemID": "SHOPTICKET",
+    "Amount": 20,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_023",
+    "ItemType": 7,
+    "ItemID": "SHOPTICKET",
+    "Amount": 4,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_024",
+    "ItemType": 7,
+    "ItemID": "PREMIUM_TICKET",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_025",
+    "ItemType": 7,
+    "ItemID": "PREMIUM_TICKET",
+    "Amount": 2,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_026",
+    "ItemType": 7,
+    "ItemID": "PREMIUM_TICKET",
+    "Amount": 3,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_027",
+    "ItemType": 7,
+    "ItemID": "PREMIUM_TICKET",
+    "Amount": 5,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_028",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 200,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_029",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 1000,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_CURRENCY_030",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 2000,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_DECKSHIELD_001",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100170_MEW",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_001",
+    "ItemType": 6,
+    "ItemID": "EMBLEM_100040_FIRE_THUNDER_FREEZER",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_002",
+    "ItemType": 6,
+    "ItemID": "EMBLEM_100050_CELEBI",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_001",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 5,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_002",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 10,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_003",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 15,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_004",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 25,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_005",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 30,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_006",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 35,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_007",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 40,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_008",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 3,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_009",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 7,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_010",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 11,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_011",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 12,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_012",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_013",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 2,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_014",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 14,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_015",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 20,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_016",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 17,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_017",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 4,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_018",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 8,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_019",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 22,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_020",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 13,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_021",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 6,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_022",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 9,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_023",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 16,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_024",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1",
+    "Amount": 18,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_025",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1a",
+    "Amount": 5,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_026",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1a",
+    "Amount": 7,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_027",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1a",
+    "Amount": 13,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_028",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1a",
+    "Amount": 15,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EMBLEM_TICKET_029",
+    "ItemType": 12,
+    "ItemID": "TICKET_EMBLEM_A1a",
+    "Amount": 2,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_002",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_01",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_003",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_01",
+    "Amount": 3,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_004",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_01",
+    "Amount": 5,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_005",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_01",
+    "Amount": 7,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_006",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 3,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_007",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 4,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_008",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 6,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_009",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 7,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_010",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 8,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_011",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 9,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_012",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 12,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_013",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_01",
+    "Amount": 2,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_014",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_01",
+    "Amount": 4,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_015",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_01",
+    "Amount": 10,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_016",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 5,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_017",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 10,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_018",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 2,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_019",
+    "ItemType": 12,
+    "ItemID": "TICKET_0002010_EV_02",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_020",
+    "ItemType": 12,
+    "ItemID": "TICKET_2408010_EV_01",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_021",
+    "ItemType": 12,
+    "ItemID": "TICKET_2408010_EV_01",
+    "Amount": 2,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_EVENT_TICKET_022",
+    "ItemType": 12,
+    "ItemID": "TICKET_2408010_EV_01",
+    "Amount": 3,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_FILE_001",
+    "ItemType": 9,
+    "ItemID": "FILE_100300_A1a_MEW",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_FILE_002",
+    "ItemType": 9,
+    "ItemID": "FILE_100320_PRISTINE_FOREST",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_FILE_003",
+    "ItemType": 9,
+    "ItemID": "FILE_100330_QUIET_LAKE",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_FILE_004",
+    "ItemType": 9,
+    "ItemID": "FILE_100340_BURN_GROUND",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_FILE_005",
+    "ItemType": 9,
+    "ItemID": "FILE_100350_FORGOTTEN_REMAINS",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_FILE_006",
+    "ItemType": 9,
+    "ItemID": "FILE_100310_REST_BIG_TREE",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_A1_001",
+    "ItemType": 8,
+    "ItemID": "AN001_0010_00_000",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_A1_002",
+    "ItemType": 8,
+    "ItemID": "AN001_0020_00_000",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_A1_003",
+    "ItemType": 8,
+    "ItemID": "AN001_0030_00_000",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_A1a_001",
+    "ItemType": 8,
+    "ItemID": "AN002_0010_00_000",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_002",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_003",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 3,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_004",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 5,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_005",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 6,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_006",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 12,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_007",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 10,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_008",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 15,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_009",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 20,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_010",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 2,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_011",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 7,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_012",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 24,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_013",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 36,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_014",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 100,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_015",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 60,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_016",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 9,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PACK_POWER_CHARGER_017",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 30,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PLAYMAT_001",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100170_MEW",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_POKEMONCOIN_001",
+    "ItemType": 9,
+    "ItemID": "COIN_100250_MEW",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_POKEMON_CARD_001",
+    "ItemType": 0,
+    "ItemID": "PK_20_002140_00",
+    "Amount": 1,
+    "ExpansionID": "A1"
+  },
+  {
+    "RewardID": "MI_RW_POKEMON_CARD_002",
+    "ItemType": 0,
+    "ItemID": "PK_90_001280_00",
+    "Amount": 1,
+    "ExpansionID": "PROMO-A"
+  },
+  {
+    "RewardID": "MI_RW_POKEMON_CARD_003",
+    "ItemType": 0,
+    "ItemID": "PK_90_000470_00",
+    "Amount": 1,
+    "ExpansionID": "PROMO-A"
+  },
+  {
+    "RewardID": "MI_RW_POKEMON_CARD_004",
+    "ItemType": 0,
+    "ItemID": "PK_90_000940_00",
+    "Amount": 1,
+    "ExpansionID": "PROMO-A"
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_001",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100040_MARUMINE",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_002",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100020_SIRNIGHT",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_003",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100060_LIZARDON",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_005",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100080_FUSHIGIBANA",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_006",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100110_MEWTWO",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_007",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100180_MEWTWO",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_008",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100170_LIZARDON",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_009",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100160_PIKACHU",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_010",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100200_MEW",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_011",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100190_MEW",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_PROFILEICON_012",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100210_GREEN",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_001",
+    "ItemType": 10,
+    "ItemID": "1001004",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_002",
+    "ItemType": 10,
+    "ItemID": "1001007",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_003",
+    "ItemType": 10,
+    "ItemID": "1001010",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_004",
+    "ItemType": 10,
+    "ItemID": "1001014",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_005",
+    "ItemType": 10,
+    "ItemID": "1001016",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_006",
+    "ItemType": 10,
+    "ItemID": "1001019",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_007",
+    "ItemType": 10,
+    "ItemID": "1001022",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_008",
+    "ItemType": 10,
+    "ItemID": "1001023",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_009",
+    "ItemType": 10,
+    "ItemID": "1001024",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_010",
+    "ItemType": 10,
+    "ItemID": "1001025",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_011",
+    "ItemType": 10,
+    "ItemID": "1001026",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_012",
+    "ItemType": 10,
+    "ItemID": "1001027",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_014",
+    "ItemType": 10,
+    "ItemID": "1001035",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_015",
+    "ItemType": 10,
+    "ItemID": "1001036",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_016",
+    "ItemType": 10,
+    "ItemID": "1001037",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_017",
+    "ItemType": 10,
+    "ItemID": "1001042",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_RENTAL_DECK_018",
+    "ItemType": 10,
+    "ItemID": "1001043",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_001",
+    "ItemType": 13,
+    "ItemID": "1001004",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_004",
+    "ItemType": 13,
+    "ItemID": "1001007",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_007",
+    "ItemType": 13,
+    "ItemID": "1001010",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_011",
+    "ItemType": 13,
+    "ItemID": "1001014",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_013",
+    "ItemType": 13,
+    "ItemID": "1001016",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_016",
+    "ItemType": 13,
+    "ItemID": "1001019",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_019",
+    "ItemType": 13,
+    "ItemID": "1001022",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_020",
+    "ItemType": 13,
+    "ItemID": "1001023",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_021",
+    "ItemType": 13,
+    "ItemID": "1001024",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_022",
+    "ItemType": 13,
+    "ItemID": "1001025",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_023",
+    "ItemType": 13,
+    "ItemID": "1001026",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_024",
+    "ItemType": 13,
+    "ItemID": "1001027",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_026",
+    "ItemType": 13,
+    "ItemID": "1001035",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_027",
+    "ItemType": 13,
+    "ItemID": "1001036",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_028",
+    "ItemType": 13,
+    "ItemID": "1001037",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_029",
+    "ItemType": 13,
+    "ItemID": "1001042",
+    "Amount": 1,
+    "ExpansionID": ""
+  },
+  {
+    "RewardID": "MI_RW_THEME_DECK_RECIPE_030",
+    "ItemType": 13,
+    "ItemID": "1001043",
+    "Amount": 1,
+    "ExpansionID": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ExpansionID": "A1",
+    "NameMSID": "EXPANSION_NAME_1",
+    "CollectionNumber": "226",
+    "SortOrderPriority": 1,
+    "BgColorLeft": "#DDBCFF",
+    "BgColorRight": "#B098FF",
+    "LogoAssetID": "LOGO_expansion_A1",
+    "VersionAssetID": "ICON_expansion_A1",
+    "SeriesID": "A",
+    "IsPromotion": false
+  },
+  {
+    "ExpansionID": "A1a",
+    "NameMSID": "EXPANSION_NAME_2",
+    "CollectionNumber": "068",
+    "SortOrderPriority": 2,
+    "BgColorLeft": "#B2FFD3",
+    "BgColorRight": "#5EFCDE",
+    "LogoAssetID": "LOGO_expansion_A1a",
+    "VersionAssetID": "ICON_expansion_A1a",
+    "SeriesID": "A",
+    "IsPromotion": false
+  },
+  {
+    "ExpansionID": "PROMO-A",
+    "NameMSID": "EXPANSION_NAME_3",
+    "CollectionNumber": "P-A",
+    "SortOrderPriority": 3,
+    "BgColorLeft": "",
+    "BgColorRight": "",
+    "LogoAssetID": "LOGO_expansion_PROMO-A",
+    "VersionAssetID": "ICON_expansion_PROMO-A",
+    "SeriesID": "A",
+    "IsPromotion": true
+  }
+]

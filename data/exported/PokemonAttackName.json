@@ -1,0 +1,814 @@
+[
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_1",
+    "NameMSID": "ATTACK_NAME_1"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_10",
+    "NameMSID": "ATTACK_NAME_10"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_100",
+    "NameMSID": "ATTACK_NAME_100"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_101",
+    "NameMSID": "ATTACK_NAME_101"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_102",
+    "NameMSID": "ATTACK_NAME_102"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_103",
+    "NameMSID": "ATTACK_NAME_103"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_104",
+    "NameMSID": "ATTACK_NAME_104"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_105",
+    "NameMSID": "ATTACK_NAME_105"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_106",
+    "NameMSID": "ATTACK_NAME_106"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_107",
+    "NameMSID": "ATTACK_NAME_107"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_108",
+    "NameMSID": "ATTACK_NAME_108"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_109",
+    "NameMSID": "ATTACK_NAME_109"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_11",
+    "NameMSID": "ATTACK_NAME_11"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_110",
+    "NameMSID": "ATTACK_NAME_110"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_111",
+    "NameMSID": "ATTACK_NAME_111"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_112",
+    "NameMSID": "ATTACK_NAME_112"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_113",
+    "NameMSID": "ATTACK_NAME_113"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_114",
+    "NameMSID": "ATTACK_NAME_114"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_115",
+    "NameMSID": "ATTACK_NAME_115"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_116",
+    "NameMSID": "ATTACK_NAME_116"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_117",
+    "NameMSID": "ATTACK_NAME_117"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_118",
+    "NameMSID": "ATTACK_NAME_118"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_119",
+    "NameMSID": "ATTACK_NAME_119"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_12",
+    "NameMSID": "ATTACK_NAME_12"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_120",
+    "NameMSID": "ATTACK_NAME_120"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_121",
+    "NameMSID": "ATTACK_NAME_121"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_122",
+    "NameMSID": "ATTACK_NAME_122"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_123",
+    "NameMSID": "ATTACK_NAME_123"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_124",
+    "NameMSID": "ATTACK_NAME_124"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_125",
+    "NameMSID": "ATTACK_NAME_125"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_126",
+    "NameMSID": "ATTACK_NAME_126"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_127",
+    "NameMSID": "ATTACK_NAME_127"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_128",
+    "NameMSID": "ATTACK_NAME_128"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_129",
+    "NameMSID": "ATTACK_NAME_129"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_13",
+    "NameMSID": "ATTACK_NAME_13"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_130",
+    "NameMSID": "ATTACK_NAME_130"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_131",
+    "NameMSID": "ATTACK_NAME_131"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_132",
+    "NameMSID": "ATTACK_NAME_132"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_133",
+    "NameMSID": "ATTACK_NAME_133"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_134",
+    "NameMSID": "ATTACK_NAME_134"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_135",
+    "NameMSID": "ATTACK_NAME_135"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_136",
+    "NameMSID": "ATTACK_NAME_136"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_137",
+    "NameMSID": "ATTACK_NAME_137"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_138",
+    "NameMSID": "ATTACK_NAME_138"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_139",
+    "NameMSID": "ATTACK_NAME_139"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_14",
+    "NameMSID": "ATTACK_NAME_14"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_140",
+    "NameMSID": "ATTACK_NAME_140"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_141",
+    "NameMSID": "ATTACK_NAME_141"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_142",
+    "NameMSID": "ATTACK_NAME_142"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_143",
+    "NameMSID": "ATTACK_NAME_143"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_144",
+    "NameMSID": "ATTACK_NAME_144"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_145",
+    "NameMSID": "ATTACK_NAME_145"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_146",
+    "NameMSID": "ATTACK_NAME_146"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_147",
+    "NameMSID": "ATTACK_NAME_147"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_148",
+    "NameMSID": "ATTACK_NAME_148"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_149",
+    "NameMSID": "ATTACK_NAME_149"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_15",
+    "NameMSID": "ATTACK_NAME_15"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_150",
+    "NameMSID": "ATTACK_NAME_150"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_151",
+    "NameMSID": "ATTACK_NAME_151"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_152",
+    "NameMSID": "ATTACK_NAME_152"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_153",
+    "NameMSID": "ATTACK_NAME_153"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_154",
+    "NameMSID": "ATTACK_NAME_154"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_155",
+    "NameMSID": "ATTACK_NAME_155"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_156",
+    "NameMSID": "ATTACK_NAME_156"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_157",
+    "NameMSID": "ATTACK_NAME_157"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_158",
+    "NameMSID": "ATTACK_NAME_158"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_159",
+    "NameMSID": "ATTACK_NAME_159"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_16",
+    "NameMSID": "ATTACK_NAME_16"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_160",
+    "NameMSID": "ATTACK_NAME_160"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_161",
+    "NameMSID": "ATTACK_NAME_161"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_162",
+    "NameMSID": "ATTACK_NAME_162"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_163",
+    "NameMSID": "ATTACK_NAME_163"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_164",
+    "NameMSID": "ATTACK_NAME_164"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_165",
+    "NameMSID": "ATTACK_NAME_165"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_166",
+    "NameMSID": "ATTACK_NAME_166"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_167",
+    "NameMSID": "ATTACK_NAME_167"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_168",
+    "NameMSID": "ATTACK_NAME_168"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_169",
+    "NameMSID": "ATTACK_NAME_169"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_17",
+    "NameMSID": "ATTACK_NAME_17"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_170",
+    "NameMSID": "ATTACK_NAME_170"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_171",
+    "NameMSID": "ATTACK_NAME_171"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_172",
+    "NameMSID": "ATTACK_NAME_172"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_173",
+    "NameMSID": "ATTACK_NAME_173"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_174",
+    "NameMSID": "ATTACK_NAME_174"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_175",
+    "NameMSID": "ATTACK_NAME_175"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_176",
+    "NameMSID": "ATTACK_NAME_176"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_177",
+    "NameMSID": "ATTACK_NAME_177"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_178",
+    "NameMSID": "ATTACK_NAME_178"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_179",
+    "NameMSID": "ATTACK_NAME_179"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_18",
+    "NameMSID": "ATTACK_NAME_18"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_180",
+    "NameMSID": "ATTACK_NAME_180"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_181",
+    "NameMSID": "ATTACK_NAME_181"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_182",
+    "NameMSID": "ATTACK_NAME_182"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_183",
+    "NameMSID": "ATTACK_NAME_183"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_184",
+    "NameMSID": "ATTACK_NAME_184"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_185",
+    "NameMSID": "ATTACK_NAME_185"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_186",
+    "NameMSID": "ATTACK_NAME_186"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_187",
+    "NameMSID": "ATTACK_NAME_187"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_188",
+    "NameMSID": "ATTACK_NAME_188"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_189",
+    "NameMSID": "ATTACK_NAME_189"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_19",
+    "NameMSID": "ATTACK_NAME_19"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_190",
+    "NameMSID": "ATTACK_NAME_190"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_191",
+    "NameMSID": "ATTACK_NAME_191"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_192",
+    "NameMSID": "ATTACK_NAME_192"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_193",
+    "NameMSID": "ATTACK_NAME_193"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_194",
+    "NameMSID": "ATTACK_NAME_194"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_195",
+    "NameMSID": "ATTACK_NAME_195"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_196",
+    "NameMSID": "ATTACK_NAME_196"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_197",
+    "NameMSID": "ATTACK_NAME_197"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_198",
+    "NameMSID": "ATTACK_NAME_198"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_199",
+    "NameMSID": "ATTACK_NAME_199"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_2",
+    "NameMSID": "ATTACK_NAME_2"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_20",
+    "NameMSID": "ATTACK_NAME_20"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_200",
+    "NameMSID": "ATTACK_NAME_200"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_201",
+    "NameMSID": "ATTACK_NAME_201"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_202",
+    "NameMSID": "ATTACK_NAME_202"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_203",
+    "NameMSID": "ATTACK_NAME_203"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_21",
+    "NameMSID": "ATTACK_NAME_21"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_22",
+    "NameMSID": "ATTACK_NAME_22"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_23",
+    "NameMSID": "ATTACK_NAME_23"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_24",
+    "NameMSID": "ATTACK_NAME_24"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_25",
+    "NameMSID": "ATTACK_NAME_25"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_26",
+    "NameMSID": "ATTACK_NAME_26"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_27",
+    "NameMSID": "ATTACK_NAME_27"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_28",
+    "NameMSID": "ATTACK_NAME_28"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_29",
+    "NameMSID": "ATTACK_NAME_29"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_3",
+    "NameMSID": "ATTACK_NAME_3"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_30",
+    "NameMSID": "ATTACK_NAME_30"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_31",
+    "NameMSID": "ATTACK_NAME_31"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_32",
+    "NameMSID": "ATTACK_NAME_32"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_33",
+    "NameMSID": "ATTACK_NAME_33"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_34",
+    "NameMSID": "ATTACK_NAME_34"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_35",
+    "NameMSID": "ATTACK_NAME_35"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_36",
+    "NameMSID": "ATTACK_NAME_36"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_37",
+    "NameMSID": "ATTACK_NAME_37"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_38",
+    "NameMSID": "ATTACK_NAME_38"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_39",
+    "NameMSID": "ATTACK_NAME_39"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_4",
+    "NameMSID": "ATTACK_NAME_4"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_40",
+    "NameMSID": "ATTACK_NAME_40"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_41",
+    "NameMSID": "ATTACK_NAME_41"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_42",
+    "NameMSID": "ATTACK_NAME_42"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_43",
+    "NameMSID": "ATTACK_NAME_43"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_44",
+    "NameMSID": "ATTACK_NAME_44"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_45",
+    "NameMSID": "ATTACK_NAME_45"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_46",
+    "NameMSID": "ATTACK_NAME_46"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_47",
+    "NameMSID": "ATTACK_NAME_47"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_48",
+    "NameMSID": "ATTACK_NAME_48"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_49",
+    "NameMSID": "ATTACK_NAME_49"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_5",
+    "NameMSID": "ATTACK_NAME_5"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_50",
+    "NameMSID": "ATTACK_NAME_50"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_51",
+    "NameMSID": "ATTACK_NAME_51"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_52",
+    "NameMSID": "ATTACK_NAME_52"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_53",
+    "NameMSID": "ATTACK_NAME_53"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_54",
+    "NameMSID": "ATTACK_NAME_54"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_55",
+    "NameMSID": "ATTACK_NAME_55"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_56",
+    "NameMSID": "ATTACK_NAME_56"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_57",
+    "NameMSID": "ATTACK_NAME_57"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_58",
+    "NameMSID": "ATTACK_NAME_58"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_59",
+    "NameMSID": "ATTACK_NAME_59"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_6",
+    "NameMSID": "ATTACK_NAME_6"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_60",
+    "NameMSID": "ATTACK_NAME_60"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_61",
+    "NameMSID": "ATTACK_NAME_61"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_62",
+    "NameMSID": "ATTACK_NAME_62"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_63",
+    "NameMSID": "ATTACK_NAME_63"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_64",
+    "NameMSID": "ATTACK_NAME_64"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_65",
+    "NameMSID": "ATTACK_NAME_65"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_66",
+    "NameMSID": "ATTACK_NAME_66"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_67",
+    "NameMSID": "ATTACK_NAME_67"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_68",
+    "NameMSID": "ATTACK_NAME_68"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_69",
+    "NameMSID": "ATTACK_NAME_69"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_7",
+    "NameMSID": "ATTACK_NAME_7"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_70",
+    "NameMSID": "ATTACK_NAME_70"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_71",
+    "NameMSID": "ATTACK_NAME_71"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_72",
+    "NameMSID": "ATTACK_NAME_72"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_73",
+    "NameMSID": "ATTACK_NAME_73"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_74",
+    "NameMSID": "ATTACK_NAME_74"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_75",
+    "NameMSID": "ATTACK_NAME_75"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_76",
+    "NameMSID": "ATTACK_NAME_76"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_77",
+    "NameMSID": "ATTACK_NAME_77"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_78",
+    "NameMSID": "ATTACK_NAME_78"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_79",
+    "NameMSID": "ATTACK_NAME_79"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_8",
+    "NameMSID": "ATTACK_NAME_8"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_80",
+    "NameMSID": "ATTACK_NAME_80"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_81",
+    "NameMSID": "ATTACK_NAME_81"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_82",
+    "NameMSID": "ATTACK_NAME_82"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_83",
+    "NameMSID": "ATTACK_NAME_83"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_84",
+    "NameMSID": "ATTACK_NAME_84"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_85",
+    "NameMSID": "ATTACK_NAME_85"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_86",
+    "NameMSID": "ATTACK_NAME_86"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_87",
+    "NameMSID": "ATTACK_NAME_87"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_88",
+    "NameMSID": "ATTACK_NAME_88"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_89",
+    "NameMSID": "ATTACK_NAME_89"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_9",
+    "NameMSID": "ATTACK_NAME_9"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_90",
+    "NameMSID": "ATTACK_NAME_90"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_91",
+    "NameMSID": "ATTACK_NAME_91"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_92",
+    "NameMSID": "ATTACK_NAME_92"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_93",
+    "NameMSID": "ATTACK_NAME_93"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_94",
+    "NameMSID": "ATTACK_NAME_94"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_95",
+    "NameMSID": "ATTACK_NAME_95"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_96",
+    "NameMSID": "ATTACK_NAME_96"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_97",
+    "NameMSID": "ATTACK_NAME_97"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_98",
+    "NameMSID": "ATTACK_NAME_98"
+  },
+  {
+    "PokemonAttackNameID": "PokemonAttackName_ID_99",
+    "NameMSID": "ATTACK_NAME_99"
+  }
+]

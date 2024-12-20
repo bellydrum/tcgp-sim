@@ -1,0 +1,6275 @@
+[
+  {
+    "CardID": "PK_10_000010_00",
+    "PokedexID": "0001_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000010",
+    "IllustrationID": "cPK_10_000010_00_FUSHIGIDANE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_1"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_1",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000020_00",
+    "PokedexID": "0002_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000020",
+    "IllustrationID": "cPK_10_000020_00_FUSHIGISOU_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_2"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_2",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000030_00",
+    "PokedexID": "0003_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000030",
+    "IllustrationID": "cPK_10_000030_00_FUSHIGIBANA_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_3"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_3",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000040_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_000040",
+    "IllustrationID": "cPK_10_000040_00_FUSHIGIBANAex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_000050_00",
+    "PokedexID": "0010_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000050",
+    "IllustrationID": "cPK_10_000050_00_CATERPIE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_4",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000060_00",
+    "PokedexID": "0011_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000060",
+    "IllustrationID": "cPK_10_000060_00_TRANSEL_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_6"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_5",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000070_00",
+    "PokedexID": "0012_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000070",
+    "IllustrationID": "cPK_10_000070_00_BUTTERFREE_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_7"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_6",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000080_00",
+    "PokedexID": "0013_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000080",
+    "IllustrationID": "cPK_10_000080_00_BEEDLE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_8"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_7",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000090_00",
+    "PokedexID": "0014_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000090",
+    "IllustrationID": "cPK_10_000090_00_COCOON_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_9"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_8",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000100_00",
+    "PokedexID": "0015_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000100",
+    "IllustrationID": "cPK_10_000100_00_SPEAR_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_10"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_9",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000110_00",
+    "PokedexID": "0043_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000110",
+    "IllustrationID": "cPK_10_000110_00_NAZONOKUSA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_11"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_10",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000120_00",
+    "PokedexID": "0044_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000120",
+    "IllustrationID": "cPK_10_000120_00_KUSAIHANA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_12"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_11",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000130_00",
+    "PokedexID": "0045_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000130",
+    "IllustrationID": "cPK_10_000130_00_RUFFRESIA_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_13"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_12",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000140_00",
+    "PokedexID": "0046_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000140",
+    "IllustrationID": "cPK_10_000140_00_PARAS_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_14"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_13",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000150_00",
+    "PokedexID": "0047_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000150",
+    "IllustrationID": "cPK_10_000150_00_PARASECT_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_15"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_14",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000160_00",
+    "PokedexID": "0048_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000160",
+    "IllustrationID": "cPK_10_000160_00_KONGPANG_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_11"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_15",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000170_00",
+    "PokedexID": "0049_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000170",
+    "IllustrationID": "cPK_10_000170_00_MORPHON_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_16"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_16",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000180_00",
+    "PokedexID": "0069_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000180",
+    "IllustrationID": "cPK_10_000180_00_MADATSUBOMI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_11"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_17",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000190_00",
+    "PokedexID": "0070_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000190",
+    "IllustrationID": "cPK_10_000190_00_UTSUDON_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_18",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000200_00",
+    "PokedexID": "0071_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000200",
+    "IllustrationID": "cPK_10_000200_00_UTSUBOT_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_17"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_19",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000210_00",
+    "PokedexID": "0102_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000210",
+    "IllustrationID": "cPK_10_000210_00_TAMATAMA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_18"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_20",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000220_00",
+    "PokedexID": "0103_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000220",
+    "IllustrationID": "cPK_10_000220_00_NASSY_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_19"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_21",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000230_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_000230",
+    "IllustrationID": "cPK_10_000230_00_NASSYex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_000240_00",
+    "PokedexID": "0114_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000240",
+    "IllustrationID": "cPK_10_000240_00_MONJARA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_20"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_22",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000250_00",
+    "PokedexID": "0123_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000250",
+    "IllustrationID": "cPK_10_000250_00_STRIKE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_21"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_23",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000260_00",
+    "PokedexID": "0127_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000260",
+    "IllustrationID": "cPK_10_000260_00_KAILIOS_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_15"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_24",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000270_00",
+    "PokedexID": "0546_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000270",
+    "IllustrationID": "cPK_10_000270_00_MONMEN_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_22"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_25",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000280_00",
+    "PokedexID": "0547_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000280",
+    "IllustrationID": "cPK_10_000280_00_ELFUUN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_23"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_26",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000290_00",
+    "PokedexID": "0548_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000290",
+    "IllustrationID": "cPK_10_000290_00_CHURINE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_14"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_27",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000300_00",
+    "PokedexID": "0549_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000300",
+    "IllustrationID": "cPK_10_000300_00_DREDEAR_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_10"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_28",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000310_00",
+    "PokedexID": "0672_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000310",
+    "IllustrationID": "cPK_10_000310_00_MEECLE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_24"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_29",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000320_00",
+    "PokedexID": "0673_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000320",
+    "IllustrationID": "cPK_10_000320_00_GOGOAT_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_10"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_30",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000330_00",
+    "PokedexID": "0004_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000330",
+    "IllustrationID": "cPK_10_000330_00_HITOKAGE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_25"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_31",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000340_00",
+    "PokedexID": "0005_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000340",
+    "IllustrationID": "cPK_10_000340_00_LIZARDO_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_26"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_32",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000350_00",
+    "PokedexID": "0006_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000350",
+    "IllustrationID": "cPK_10_000350_00_LIZARDON_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_27"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_33",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000360_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_000360",
+    "IllustrationID": "cPK_10_000360_00_LIZARDONex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_28"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_000370_00",
+    "PokedexID": "0037_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000370",
+    "IllustrationID": "cPK_10_000370_00_ROKON_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_29"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_34",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000380_00",
+    "PokedexID": "0038_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000380",
+    "IllustrationID": "cPK_10_000380_00_KYUKON_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_10"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_35",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000390_00",
+    "PokedexID": "0058_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000390",
+    "IllustrationID": "cPK_10_000390_00_GARDIE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_30"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_36",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000400_00",
+    "PokedexID": "0059_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000400",
+    "IllustrationID": "cPK_10_000400_00_WINDIE_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_31"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_37",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000410_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_000410",
+    "IllustrationID": "cPK_10_000410_00_WINDIEex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_32"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_000420_00",
+    "PokedexID": "0077_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000420",
+    "IllustrationID": "cPK_10_000420_00_PONYTA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_33"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_38",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000430_00",
+    "PokedexID": "0078_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000430",
+    "IllustrationID": "cPK_10_000430_00_GALLOP_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_34"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_39",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000440_00",
+    "PokedexID": "0126_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000440",
+    "IllustrationID": "cPK_10_000440_00_BOOBER_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_35"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_40",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000450_00",
+    "PokedexID": "0136_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000450",
+    "IllustrationID": "cPK_10_000450_00_BOOSTER_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_36"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_41",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000460_00",
+    "PokedexID": "0146_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000460",
+    "IllustrationID": "cPK_10_000460_00_FIRE_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_37"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_42",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000470_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_000470",
+    "IllustrationID": "cPK_10_000470_00_FIREex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_38"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_000480_00",
+    "PokedexID": "0631_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000480",
+    "IllustrationID": "cPK_10_000480_00_KUITARAN_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_39"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_43",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000490_00",
+    "PokedexID": "0757_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000490",
+    "IllustrationID": "cPK_10_000490_00_YATOUMORI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_13"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_44",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000500_00",
+    "PokedexID": "0758_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000500",
+    "IllustrationID": "cPK_10_000500_00_ENNEWT_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_40"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_45",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000510_00",
+    "PokedexID": "0850_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000510",
+    "IllustrationID": "cPK_10_000510_00_YAKUDE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_25"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_46",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000520_00",
+    "PokedexID": "0851_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000520",
+    "IllustrationID": "cPK_10_000520_00_MARUYAKUDE_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_41"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_47",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000530_00",
+    "PokedexID": "0007_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000530",
+    "IllustrationID": "cPK_10_000530_00_ZENIGAME_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_30"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_48",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000540_00",
+    "PokedexID": "0008_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000540",
+    "IllustrationID": "cPK_10_000540_00_KAMEIL_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_42"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_49",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000550_00",
+    "PokedexID": "0009_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000550",
+    "IllustrationID": "cPK_10_000550_00_KAMEX_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_43"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_50",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000560_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_000560",
+    "IllustrationID": "cPK_10_000560_00_KAMEXex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_38"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_000570_00",
+    "PokedexID": "0054_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000570",
+    "IllustrationID": "cPK_10_000570_00_KODUCK_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_44"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_51",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000580_00",
+    "PokedexID": "0055_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000580",
+    "IllustrationID": "cPK_10_000580_00_GOLDUCK_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_24"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_52",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000590_00",
+    "PokedexID": "0060_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000590",
+    "IllustrationID": "cPK_10_000590_00_NYOROMO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_44"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_53",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000600_00",
+    "PokedexID": "0061_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000600",
+    "IllustrationID": "cPK_10_000600_00_NYOROZO_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_6"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_54",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000610_00",
+    "PokedexID": "0062_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000610",
+    "IllustrationID": "cPK_10_000610_00_NYOROBON_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_45"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_55",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000620_00",
+    "PokedexID": "0072_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000620",
+    "IllustrationID": "cPK_10_000620_00_MENOKURAGE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_46"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_56",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000630_00",
+    "PokedexID": "0073_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000630",
+    "IllustrationID": "cPK_10_000630_00_DOKUKURAGE_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_31"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_57",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000640_00",
+    "PokedexID": "0086_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000640",
+    "IllustrationID": "cPK_10_000640_00_PAWOU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_47"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_58",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000650_00",
+    "PokedexID": "0087_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000650",
+    "IllustrationID": "cPK_10_000650_00_JUGON_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_22"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_59",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000660_00",
+    "PokedexID": "0090_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000660",
+    "IllustrationID": "cPK_10_000660_00_SHELLDER_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_17"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_60",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000670_00",
+    "PokedexID": "0091_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000670",
+    "IllustrationID": "cPK_10_000670_00_PARSHEN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_48"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_61",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000680_00",
+    "PokedexID": "0098_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000680",
+    "IllustrationID": "cPK_10_000680_00_CRAB_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_49"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_62",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000690_00",
+    "PokedexID": "0099_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000690",
+    "IllustrationID": "cPK_10_000690_00_KINGLER_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_50"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_63",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000700_00",
+    "PokedexID": "0116_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000700",
+    "IllustrationID": "cPK_10_000700_00_TATTU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_48"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_64",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000710_00",
+    "PokedexID": "0117_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000710",
+    "IllustrationID": "cPK_10_000710_00_SEADRA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_51"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_65",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000720_00",
+    "PokedexID": "0118_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000720",
+    "IllustrationID": "cPK_10_000720_00_TOSAKINTO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_13"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_66",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000730_00",
+    "PokedexID": "0119_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000730",
+    "IllustrationID": "cPK_10_000730_00_AZUMAO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_13"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_67",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000740_00",
+    "PokedexID": "0120_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000740",
+    "IllustrationID": "cPK_10_000740_00_HITODEMAN_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_52"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_68",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000750_00",
+    "PokedexID": "0121_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000750",
+    "IllustrationID": "cPK_10_000750_00_STARMIE_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_19"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_69",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000760_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_000760",
+    "IllustrationID": "cPK_10_000760_00_STARMIEex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_53"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_000770_00",
+    "PokedexID": "0129_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000770",
+    "IllustrationID": "cPK_10_000770_00_KOIKING_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_54"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_70",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000780_00",
+    "PokedexID": "0130_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000780",
+    "IllustrationID": "cPK_10_000780_00_GYARADOS_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_55"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_71",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000790_00",
+    "PokedexID": "0131_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000790",
+    "IllustrationID": "cPK_10_000790_00_LAPLACE_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_54"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_72",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000800_00",
+    "PokedexID": "0134_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000800",
+    "IllustrationID": "cPK_10_000800_00_SHOWERS_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_56"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_73",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000810_00",
+    "PokedexID": "0138_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000810",
+    "IllustrationID": "cPK_10_000810_00_OMNITE_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_39"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_74",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000820_00",
+    "PokedexID": "0139_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000820",
+    "IllustrationID": "cPK_10_000820_00_OMSTAR_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_57"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_75",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000830_00",
+    "PokedexID": "0144_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000830",
+    "IllustrationID": "cPK_10_000830_00_FREEZER_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_37"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_76",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000840_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_000840",
+    "IllustrationID": "cPK_10_000840_00_FREEZERex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_32"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_000850_00",
+    "PokedexID": "0580_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000850",
+    "IllustrationID": "cPK_10_000850_00_KOARUHIE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_58"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_77",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000860_00",
+    "PokedexID": "0581_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000860",
+    "IllustrationID": "cPK_10_000860_00_SWANNA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_36"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_78",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000870_00",
+    "PokedexID": "0656_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000870",
+    "IllustrationID": "cPK_10_000870_00_KEROMATSU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_59"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_79",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000880_00",
+    "PokedexID": "0657_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000880",
+    "IllustrationID": "cPK_10_000880_00_GEKOGASHIRA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_45"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_80",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000890_00",
+    "PokedexID": "0658_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000890",
+    "IllustrationID": "cPK_10_000890_00_GEKKOUGA_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_60"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_81",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000900_00",
+    "PokedexID": "0771_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000900",
+    "IllustrationID": "cPK_10_000900_00_NAMAKOBUSHI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_61"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_82",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000910_00",
+    "PokedexID": "0779_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000910",
+    "IllustrationID": "cPK_10_000910_00_HAGIGISHIRI_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_30"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_83",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000920_00",
+    "PokedexID": "0872_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000920",
+    "IllustrationID": "cPK_10_000920_00_YUKIHAMI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_62"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_84",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000930_00",
+    "PokedexID": "0873_000",
+    "Rarity": 200,
+    "PokemonID": "PK_000930",
+    "IllustrationID": "cPK_10_000930_00_MOTHNOW_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_63"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_85",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000940_00",
+    "PokedexID": "0025_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000940",
+    "IllustrationID": "cPK_10_000940_00_PIKACHU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_55"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_86",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000950_00",
+    "PokedexID": "0026_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000950",
+    "IllustrationID": "cPK_10_000950_00_RAICHU_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_64"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_87",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000960_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_000960",
+    "IllustrationID": "cPK_10_000960_00_PIKACHUex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_000970_00",
+    "PokedexID": "0081_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000970",
+    "IllustrationID": "cPK_10_000970_00_COIL_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_65"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_88",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000980_00",
+    "PokedexID": "0082_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000980",
+    "IllustrationID": "cPK_10_000980_00_RARECOIL_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_57"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_89",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_000990_00",
+    "PokedexID": "0100_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000990",
+    "IllustrationID": "cPK_10_000990_00_BIRIRIDAMA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_66"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_90",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001000_00",
+    "PokedexID": "0101_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001000",
+    "IllustrationID": "cPK_10_001000_00_MARUMINE_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_67"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_91",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001010_00",
+    "PokedexID": "0125_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001010",
+    "IllustrationID": "cPK_10_001010_00_ELEBOO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_35"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_213",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001020_00",
+    "PokedexID": "0135_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001020",
+    "IllustrationID": "cPK_10_001020_00_THUNDERS_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_68"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_93",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001030_00",
+    "PokedexID": "0145_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001030",
+    "IllustrationID": "cPK_10_001030_00_THUNDER_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_37"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_94",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001040_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_001040",
+    "IllustrationID": "cPK_10_001040_00_THUNDERex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_001050_00",
+    "PokedexID": "0522_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001050",
+    "IllustrationID": "cPK_10_001050_00_SHIMAMA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_7"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_95",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001060_00",
+    "PokedexID": "0523_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001060",
+    "IllustrationID": "cPK_10_001060_00_ZEBRAIKA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_34"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_96",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001070_00",
+    "PokedexID": "0602_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001070",
+    "IllustrationID": "cPK_10_001070_00_SHIBISHIRASU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_67"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_97",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001080_00",
+    "PokedexID": "0603_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001080",
+    "IllustrationID": "cPK_10_001080_00_SHIBIBEEL_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_20"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_98",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001090_00",
+    "PokedexID": "0604_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001090",
+    "IllustrationID": "cPK_10_001090_00_SHIBIRUDON_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_40"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_99",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001100_00",
+    "PokedexID": "0694_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001100",
+    "IllustrationID": "cPK_10_001100_00_ERIKITERU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_60"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_100",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001110_00",
+    "PokedexID": "0695_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001110",
+    "IllustrationID": "cPK_10_001110_00_ELEZARD_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_69"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_101",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001120_00",
+    "PokedexID": "0871_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001120",
+    "IllustrationID": "cPK_10_001120_00_BACHINUNI_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_70"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_102",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001130_00",
+    "PokedexID": "0035_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001130",
+    "IllustrationID": "cPK_10_001130_00_PIPPI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_57"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_103",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001140_00",
+    "PokedexID": "0036_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001140",
+    "IllustrationID": "cPK_10_001140_00_PIXY_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_51"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_104",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001150_00",
+    "PokedexID": "0063_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001150",
+    "IllustrationID": "cPK_10_001150_00_CASEY_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_59"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_105",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001160_00",
+    "PokedexID": "0064_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001160",
+    "IllustrationID": "cPK_10_001160_00_YUNGERER_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_71"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_106",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001170_00",
+    "PokedexID": "0065_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001170",
+    "IllustrationID": "cPK_10_001170_00_FOODIN_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_68"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_107",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001180_00",
+    "PokedexID": "0079_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001180",
+    "IllustrationID": "cPK_10_001180_00_YADON_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_108",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001190_00",
+    "PokedexID": "0080_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001190",
+    "IllustrationID": "cPK_10_001190_00_YADORAN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_56"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_109",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001200_00",
+    "PokedexID": "0092_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001200",
+    "IllustrationID": "cPK_10_001200_00_GHOS_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_47"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_110",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001210_00",
+    "PokedexID": "0093_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001210",
+    "IllustrationID": "cPK_10_001210_00_GHOST_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_72"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_111",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001220_00",
+    "PokedexID": "0094_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001220",
+    "IllustrationID": "cPK_10_001220_00_GANGAR_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_14"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_112",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001230_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_001230",
+    "IllustrationID": "cPK_10_001230_00_GANGARex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_001240_00",
+    "PokedexID": "0096_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001240",
+    "IllustrationID": "cPK_10_001240_00_SLEEPE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_19"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_113",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001250_00",
+    "PokedexID": "0097_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001250",
+    "IllustrationID": "cPK_10_001250_00_SLEEPER_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_50"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_114",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001260_00",
+    "PokedexID": "0122_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001260",
+    "IllustrationID": "cPK_10_001260_00_BARRIERD_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_56"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_115",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001270_00",
+    "PokedexID": "0124_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001270",
+    "IllustrationID": "cPK_10_001270_00_ROUGELA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_73"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_116",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001280_00",
+    "PokedexID": "0150_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001280",
+    "IllustrationID": "cPK_10_001280_00_MEWTWO_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_18"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_117",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001290_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_001290",
+    "IllustrationID": "cPK_10_001290_00_MEWTWOex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_28"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_001300_00",
+    "PokedexID": "0280_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001300",
+    "IllustrationID": "cPK_10_001300_00_RALTS_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_6"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_118",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001310_00",
+    "PokedexID": "0281_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001310",
+    "IllustrationID": "cPK_10_001310_00_KIRLIA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_65"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_119",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001320_00",
+    "PokedexID": "0282_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001320",
+    "IllustrationID": "cPK_10_001320_00_SIRNIGHT_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_74"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_120",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001330_00",
+    "PokedexID": "0527_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001330",
+    "IllustrationID": "cPK_10_001330_00_KOROMORI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_75"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_121",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001340_00",
+    "PokedexID": "0528_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001340",
+    "IllustrationID": "cPK_10_001340_00_KOKOROMORI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_76"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_122",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001350_00",
+    "PokedexID": "0622_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001350",
+    "IllustrationID": "cPK_10_001350_00_GOBIT_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_13"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_123",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001360_00",
+    "PokedexID": "0623_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001360",
+    "IllustrationID": "cPK_10_001360_00_GOLOOG_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_77"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_124",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001370_00",
+    "PokedexID": "0027_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001370",
+    "IllustrationID": "cPK_10_001370_00_SAND_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_125",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001380_00",
+    "PokedexID": "0028_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001380",
+    "IllustrationID": "cPK_10_001380_00_SANDPAN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_126",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001390_00",
+    "PokedexID": "0050_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001390",
+    "IllustrationID": "cPK_10_001390_00_DIGDA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_47"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_127",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001400_00",
+    "PokedexID": "0051_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001400",
+    "IllustrationID": "cPK_10_001400_00_DUGTRIO_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_45"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_128",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001410_00",
+    "PokedexID": "0056_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001410",
+    "IllustrationID": "cPK_10_001410_00_MANKEY_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_22"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_129",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001420_00",
+    "PokedexID": "0057_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001420",
+    "IllustrationID": "cPK_10_001420_00_OKORIZARU_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_56"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_130",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001430_00",
+    "PokedexID": "0066_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001430",
+    "IllustrationID": "cPK_10_001430_00_WANRIKY_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_13"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_131",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001440_00",
+    "PokedexID": "0067_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001440",
+    "IllustrationID": "cPK_10_001440_00_GORIKY_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_77"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_132",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001450_00",
+    "PokedexID": "0068_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001450",
+    "IllustrationID": "cPK_10_001450_00_KAIRIKY_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_37"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_133",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001460_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_001460",
+    "IllustrationID": "cPK_10_001460_00_KAIRIKYex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_001470_00",
+    "PokedexID": "0074_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001470",
+    "IllustrationID": "cPK_10_001470_00_ISITSUBUTE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_68"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_134",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001480_00",
+    "PokedexID": "0075_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001480",
+    "IllustrationID": "cPK_10_001480_00_GOLONE_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_14"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_135",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001490_00",
+    "PokedexID": "0076_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001490",
+    "IllustrationID": "cPK_10_001490_00_GOLONYA_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_17"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_136",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001500_00",
+    "PokedexID": "0095_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001500",
+    "IllustrationID": "cPK_10_001500_00_IWARK_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_69"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_137",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001510_00",
+    "PokedexID": "0104_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001510",
+    "IllustrationID": "cPK_10_001510_00_KARAKARA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_65"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_138",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001520_00",
+    "PokedexID": "0105_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001520",
+    "IllustrationID": "cPK_10_001520_00_GARAGARA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_7"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_139",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001530_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_001530",
+    "IllustrationID": "cPK_10_001530_00_GARAGARAex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_28"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_001540_00",
+    "PokedexID": "0106_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001540",
+    "IllustrationID": "cPK_10_001540_00_SAWAMULAR_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_19"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_140",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001550_00",
+    "PokedexID": "0107_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001550",
+    "IllustrationID": "cPK_10_001550_00_EBIWALAR_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_71"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_141",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001560_00",
+    "PokedexID": "0111_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001560",
+    "IllustrationID": "cPK_10_001560_00_SIHORN_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_20"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_142",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001570_00",
+    "PokedexID": "0112_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001570",
+    "IllustrationID": "cPK_10_001570_00_SIDON_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_76"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_143",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001580_00",
+    "PokedexID": "0140_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001580",
+    "IllustrationID": "cPK_10_001580_00_KABUTO_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_36"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_144",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001590_00",
+    "PokedexID": "0141_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001590",
+    "IllustrationID": "cPK_10_001590_00_KABUTOPS_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_7"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_145",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001600_00",
+    "PokedexID": "0619_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001600",
+    "IllustrationID": "cPK_10_001600_00_KOJOFU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_77"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_146",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001610_00",
+    "PokedexID": "0620_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001610",
+    "IllustrationID": "cPK_10_001610_00_KOJONDO_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_23"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_147",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001620_00",
+    "PokedexID": "0852_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001620",
+    "IllustrationID": "cPK_10_001620_00_TATAKKO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_74"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_148",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001630_00",
+    "PokedexID": "0853_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001630",
+    "IllustrationID": "cPK_10_001630_00_OTOSUPUS_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_78"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_149",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001640_00",
+    "PokedexID": "0023_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001640",
+    "IllustrationID": "cPK_10_001640_00_ARBO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_75"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_150",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001650_00",
+    "PokedexID": "0024_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001650",
+    "IllustrationID": "cPK_10_001650_00_ARBOK_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_24"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_151",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001660_00",
+    "PokedexID": "0029_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001660",
+    "IllustrationID": "cPK_10_001660_00_NIDORAN♀_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_152",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001670_00",
+    "PokedexID": "0030_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001670",
+    "IllustrationID": "cPK_10_001670_00_NIDORINA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_56"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_153",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001680_00",
+    "PokedexID": "0031_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001680",
+    "IllustrationID": "cPK_10_001680_00_NIDOQUEEN_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_79"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_154",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001690_00",
+    "PokedexID": "0032_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001690",
+    "IllustrationID": "cPK_10_001690_00_NIDORAN♂_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_14"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_155",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001700_00",
+    "PokedexID": "0033_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001700",
+    "IllustrationID": "cPK_10_001700_00_NIDORINO_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_68"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_156",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001710_00",
+    "PokedexID": "0034_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001710",
+    "IllustrationID": "cPK_10_001710_00_NIDOKING_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_18"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_157",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001720_00",
+    "PokedexID": "0041_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001720",
+    "IllustrationID": "cPK_10_001720_00_ZUBAT_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_77"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_158",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001730_00",
+    "PokedexID": "0042_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001730",
+    "IllustrationID": "cPK_10_001730_00_GOLBAT_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_76"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_159",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001740_00",
+    "PokedexID": "0088_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001740",
+    "IllustrationID": "cPK_10_001740_00_BETBETER_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_80"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_160",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001750_00",
+    "PokedexID": "0089_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001750",
+    "IllustrationID": "cPK_10_001750_00_BETBETON_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_8"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_161",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001760_00",
+    "PokedexID": "0109_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001760",
+    "IllustrationID": "cPK_10_001760_00_DOGARS_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_48"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_162",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001770_00",
+    "PokedexID": "0110_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001770",
+    "IllustrationID": "cPK_10_001770_00_MATADOGAS_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_61"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_163",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001780_00",
+    "PokedexID": "0303_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001780",
+    "IllustrationID": "cPK_10_001780_00_KUCHEAT_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_56"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_164",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001790_00",
+    "PokedexID": "0624_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001790",
+    "IllustrationID": "cPK_10_001790_00_KOMATANA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_68"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_165",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001800_00",
+    "PokedexID": "0625_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001800",
+    "IllustrationID": "cPK_10_001800_00_KIRIKIZAN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_12"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_166",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001810_00",
+    "PokedexID": "0808_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001810",
+    "IllustrationID": "cPK_10_001810_00_MELTAN_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_7"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_167",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001820_00",
+    "PokedexID": "0809_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001820",
+    "IllustrationID": "cPK_10_001820_00_MELMETAL_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_68"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_168",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001830_00",
+    "PokedexID": "0147_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001830",
+    "IllustrationID": "cPK_10_001830_00_MINIRYU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_81"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_169",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001840_00",
+    "PokedexID": "0148_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001840",
+    "IllustrationID": "cPK_10_001840_00_HAKURYU_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_57"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_170",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001850_00",
+    "PokedexID": "0149_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001850",
+    "IllustrationID": "cPK_10_001850_00_KAIRYU_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_82"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_171",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001860_00",
+    "PokedexID": "0016_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001860",
+    "IllustrationID": "cPK_10_001860_00_POPPO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_83"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_172",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001870_00",
+    "PokedexID": "0017_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001870",
+    "IllustrationID": "cPK_10_001870_00_PIGEON_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_83"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_173",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001880_00",
+    "PokedexID": "0018_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001880",
+    "IllustrationID": "cPK_10_001880_00_PIGEOT_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_83"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_174",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001890_00",
+    "PokedexID": "0019_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001890",
+    "IllustrationID": "cPK_10_001890_00_KORATTA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_84"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_175",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001900_00",
+    "PokedexID": "0020_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001900",
+    "IllustrationID": "cPK_10_001900_00_RATTA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_50"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_176",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001910_00",
+    "PokedexID": "0021_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001910",
+    "IllustrationID": "cPK_10_001910_00_ONISUZUME_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_85"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_177",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001920_00",
+    "PokedexID": "0022_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001920",
+    "IllustrationID": "cPK_10_001920_00_ONIDRILL_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_86"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_178",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001930_00",
+    "PokedexID": "0039_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001930",
+    "IllustrationID": "cPK_10_001930_00_PURIN_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_30"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_179",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001940_00",
+    "PokedexID": "0040_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001940",
+    "IllustrationID": "cPK_10_001940_00_PUKURIN_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_23"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_180",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001950_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_001950",
+    "IllustrationID": "cPK_10_001950_00_PUKURINex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_53"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_001960_00",
+    "PokedexID": "0052_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001960",
+    "IllustrationID": "cPK_10_001960_00_NYARTH_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_55"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_181",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001970_00",
+    "PokedexID": "0053_000",
+    "Rarity": 200,
+    "PokemonID": "PK_001970",
+    "IllustrationID": "cPK_10_001970_00_PERSIAN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_79"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_182",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001980_00",
+    "PokedexID": "0083_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001980",
+    "IllustrationID": "cPK_10_001980_00_KAMONEGI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_183",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_001990_00",
+    "PokedexID": "0084_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001990",
+    "IllustrationID": "cPK_10_001990_00_DODO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_87"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_184",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002000_00",
+    "PokedexID": "0085_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002000",
+    "IllustrationID": "cPK_10_002000_00_DODORIO_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_185",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002010_00",
+    "PokedexID": "0108_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002010",
+    "IllustrationID": "cPK_10_002010_00_BERORINGA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_56"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_186",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002020_00",
+    "PokedexID": "0113_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002020",
+    "IllustrationID": "cPK_10_002020_00_LUCKY_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_75"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_187",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002030_00",
+    "PokedexID": "0115_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002030",
+    "IllustrationID": "cPK_10_002030_00_GARURA_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_71"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_188",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002040_00",
+    "PokedexID": "0128_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002040",
+    "IllustrationID": "cPK_10_002040_00_KENTAUROS_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_31"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_189",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002050_00",
+    "PokedexID": "0132_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002050",
+    "IllustrationID": "cPK_10_002050_00_METAMON_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_190",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -1
+  },
+  {
+    "CardID": "PK_10_002060_00",
+    "PokedexID": "0133_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002060",
+    "IllustrationID": "cPK_10_002060_00_EIEVUI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_23"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_191",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002060_01",
+    "PokedexID": "0133_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002060",
+    "IllustrationID": "cPK_10_002060_01_EIEVUI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_21"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_191",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002060_02",
+    "PokedexID": "0133_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002060",
+    "IllustrationID": "cPK_10_002060_02_EIEVUI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_54"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_191",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002070_00",
+    "PokedexID": "0137_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002070",
+    "IllustrationID": "cPK_10_002070_00_PORYGON_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_81"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_192",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002080_00",
+    "PokedexID": "0142_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002080",
+    "IllustrationID": "cPK_10_002080_00_PTERA_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_14"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_193",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002090_00",
+    "PokedexID": "0143_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002090",
+    "IllustrationID": "cPK_10_002090_00_KABIGON_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_24"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_194",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002100_00",
+    "PokedexID": "0572_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002100",
+    "IllustrationID": "cPK_10_002100_00_CHILLARMY_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_36"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_195",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002110_00",
+    "PokedexID": "0573_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002110",
+    "IllustrationID": "cPK_10_002110_00_CHILLACCINO_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_88"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_196",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002120_00",
+    "PokedexID": "0831_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002120",
+    "IllustrationID": "cPK_10_002120_00_WOOLUU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_89"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_197",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002130_00",
+    "PokedexID": "0832_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002130",
+    "IllustrationID": "cPK_10_002130_00_BAIWOOLUU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_90"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_198",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002140_00",
+    "PokedexID": "0151_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002140",
+    "IllustrationID": "cPK_10_002140_00_MEW_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_48"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_199",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002150_00",
+    "PokedexID": "0102_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002150",
+    "IllustrationID": "cPK_10_002150_00_TAMATAMA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_6"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_20",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002160_00",
+    "PokedexID": "0103_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002160",
+    "IllustrationID": "cPK_10_002160_00_NASSY_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_76"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_21",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002170_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_002170",
+    "IllustrationID": "cPK_10_002170_00_CELEBIex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_002180_00",
+    "PokedexID": "0495_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002180",
+    "IllustrationID": "cPK_10_002180_00_TSUTARJA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_56"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_200",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002190_00",
+    "PokedexID": "0496_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002190",
+    "IllustrationID": "cPK_10_002190_00_JANOVY_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_50"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_201",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002200_00",
+    "PokedexID": "0497_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002200",
+    "IllustrationID": "cPK_10_002200_00_JALORDA_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_112"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_202",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002210_00",
+    "PokedexID": "0755_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002210",
+    "IllustrationID": "cPK_10_002210_00_NEMASYU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_48"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_203",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002220_00",
+    "PokedexID": "0756_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002220",
+    "IllustrationID": "cPK_10_002220_00_MASHADE_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_30"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_204",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002230_00",
+    "PokedexID": "0781_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002230",
+    "IllustrationID": "cPK_10_002230_00_DADARIN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_21"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_205",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002240_00",
+    "PokedexID": "0077_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002240",
+    "IllustrationID": "cPK_10_002240_00_PONYTA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_49"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_38",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002250_00",
+    "PokedexID": "0078_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002250",
+    "IllustrationID": "cPK_10_002250_00_GALLOP_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_64"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_39",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002260_00",
+    "PokedexID": "0126_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002260",
+    "IllustrationID": "cPK_10_002260_00_BOOBER_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_36"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_40",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002270_00",
+    "PokedexID": "0636_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002270",
+    "IllustrationID": "cPK_10_002270_00_MERLARVA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_18"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_206",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002280_00",
+    "PokedexID": "0637_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002280",
+    "IllustrationID": "cPK_10_002280_00_ULGAMOTH_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_98"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_207",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002290_00",
+    "PokedexID": "0757_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002290",
+    "IllustrationID": "cPK_10_002290_00_YATOUMORI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_24"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_44",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002300_00",
+    "PokedexID": "0758_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002300",
+    "IllustrationID": "cPK_10_002300_00_ENNEWT_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_55"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_45",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002310_00",
+    "PokedexID": "0129_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002310",
+    "IllustrationID": "cPK_10_002310_00_KOIKING_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_55"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_70",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002320_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_002320",
+    "IllustrationID": "cPK_10_002320_00_GYARADOSex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_002330_00",
+    "PokedexID": "0134_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002330",
+    "IllustrationID": "cPK_10_002330_00_SHOWERS_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_113"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_73",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002340_00",
+    "PokedexID": "0456_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002340",
+    "IllustrationID": "cPK_10_002340_00_KEIKOUO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_36"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_208",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002350_00",
+    "PokedexID": "0457_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002350",
+    "IllustrationID": "cPK_10_002350_00_NEOLANT_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_54"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_209",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002360_00",
+    "PokedexID": "0833_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002360",
+    "IllustrationID": "cPK_10_002360_00_KAMUKAME_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_114"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_210",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002370_00",
+    "PokedexID": "0834_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002370",
+    "IllustrationID": "cPK_10_002370_00_KAJIRIGAME_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_111"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_211",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002380_00",
+    "PokedexID": "0845_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002380",
+    "IllustrationID": "cPK_10_002380_00_UU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_101"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_212",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002390_00",
+    "PokedexID": "0025_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002390",
+    "IllustrationID": "cPK_10_002390_00_PIKACHU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_14"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_86",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002400_00",
+    "PokedexID": "0026_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002400",
+    "IllustrationID": "cPK_10_002400_00_RAICHU_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_102"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_87",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002410_00",
+    "PokedexID": "0125_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002410",
+    "IllustrationID": "cPK_10_002410_00_ELEBOO_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_14"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_213",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002420_00",
+    "PokedexID": "0595_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002420",
+    "IllustrationID": "cPK_10_002420_00_BACHURU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_115"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_214",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002430_00",
+    "PokedexID": "0596_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002430",
+    "IllustrationID": "cPK_10_002430_00_DENTULA_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_55"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_215",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002440_00",
+    "PokedexID": "0702_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002440",
+    "IllustrationID": "cPK_10_002440_00_DEDENNE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_114"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_216",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002450_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_002450",
+    "IllustrationID": "cPK_10_002450_00_MEWex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_002460_00",
+    "PokedexID": "0561_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002460",
+    "IllustrationID": "cPK_10_002460_00_SYMBOLER_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_50"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_217",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002470_00",
+    "PokedexID": "0605_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002470",
+    "IllustrationID": "cPK_10_002470_00_LIGRAY_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_68"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_218",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002480_00",
+    "PokedexID": "0671_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002480",
+    "IllustrationID": "cPK_10_002480_00_FLORGES_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_116"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_222",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002490_00",
+    "PokedexID": "0684_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002490",
+    "IllustrationID": "cPK_10_002490_00_PEROPPAFU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_60"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_223",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002500_00",
+    "PokedexID": "0606_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002500",
+    "IllustrationID": "cPK_10_002500_00_OHBEM_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_65"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_219",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002510_00",
+    "PokedexID": "0669_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002510",
+    "IllustrationID": "cPK_10_002510_00_FLABEBE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_116"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_220",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002520_00",
+    "PokedexID": "0670_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002520",
+    "IllustrationID": "cPK_10_002520_00_FLOETTE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_116"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_221",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002530_00",
+    "PokedexID": "0685_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002530",
+    "IllustrationID": "cPK_10_002530_00_PEROREAM_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_56"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_224",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002540_00",
+    "PokedexID": "0056_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002540",
+    "IllustrationID": "cPK_10_002540_00_MANKEY_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_45"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_129",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002550_00",
+    "PokedexID": "0057_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002550",
+    "IllustrationID": "cPK_10_002550_00_OKORIZARU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_114"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_130",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002560_00",
+    "PokedexID": "0074_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002560",
+    "IllustrationID": "cPK_10_002560_00_ISITSUBUTE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_41"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_134",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002570_00",
+    "PokedexID": "0075_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002570",
+    "IllustrationID": "cPK_10_002570_00_GOLONE_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_81"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_135",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002580_00",
+    "PokedexID": "0076_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002580",
+    "IllustrationID": "cPK_10_002580_00_GOLONYA_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_76"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_136",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002590_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_002590",
+    "IllustrationID": "cPK_10_002590_00_PTERAex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_002600_00",
+    "PokedexID": "0802_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002600",
+    "IllustrationID": "cPK_10_002600_00_MARSHADOW_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_26"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_225",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002610_00",
+    "PokedexID": "0874_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002610",
+    "IllustrationID": "cPK_10_002610_00_ISHIHENGIN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_25"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_226",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002620_00",
+    "PokedexID": "0109_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002620",
+    "IllustrationID": "cPK_10_002620_00_DOGARS_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_14"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_162",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002630_00",
+    "PokedexID": "0110_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002630",
+    "IllustrationID": "cPK_10_002630_00_MATADOGAS_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_117"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_163",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002640_00",
+    "PokedexID": "0509_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002640",
+    "IllustrationID": "cPK_10_002640_00_CHORONEKO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_56"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_227",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002650_00",
+    "PokedexID": "0510_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002650",
+    "IllustrationID": "cPK_10_002650_00_LEPARDAS_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_96"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_228",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002660_00",
+    "PokedexID": "0543_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002660",
+    "IllustrationID": "cPK_10_002660_00_FUSHIDE_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_19"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_229",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002670_00",
+    "PokedexID": "0544_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002670",
+    "IllustrationID": "cPK_10_002670_00_WHEEGA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_7"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_230",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002680_00",
+    "PokedexID": "0545_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002680",
+    "IllustrationID": "cPK_10_002680_00_PENDROR_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_60"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_231",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002690_00",
+    "PokedexID": "0621_000",
+    "Rarity": 200,
+    "PokemonID": "PK_002690",
+    "IllustrationID": "cPK_10_002690_00_CRIMGAN_U",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_3"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_232",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002700_00",
+    "PokedexID": "0016_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002700",
+    "IllustrationID": "cPK_10_002700_00_POPPO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_50"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_172",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002710_00",
+    "PokedexID": "0017_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002710",
+    "IllustrationID": "cPK_10_002710_00_PIGEON_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_114"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_173",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002720_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_002720",
+    "IllustrationID": "cPK_10_002720_00_PIGEOTex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_10_002730_00",
+    "PokedexID": "0128_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002730",
+    "IllustrationID": "cPK_10_002730_00_KENTAUROS_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_99"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_189",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002740_00",
+    "PokedexID": "0133_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002740",
+    "IllustrationID": "cPK_10_002740_00_EIEVUI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_37"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_191",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_10_002750_00",
+    "PokedexID": "0441_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002750",
+    "IllustrationID": "cPK_10_002750_00_PERAP_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_118"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_233",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_000010_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000010",
+    "IllustrationID": "cPK_20_000010_00_FUSHIGIDANE_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_3"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_1",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_000040_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_000040",
+    "IllustrationID": "cPK_20_000040_00_FUSHIGIBANAex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000120_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000120",
+    "IllustrationID": "cPK_20_000120_00_KUSAIHANA_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_95"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_11",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_000230_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_000230",
+    "IllustrationID": "cPK_20_000230_00_NASSYex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000260_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000260",
+    "IllustrationID": "cPK_20_000260_00_KAILIOS_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_83"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_24",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_000330_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000330",
+    "IllustrationID": "cPK_20_000330_00_HITOKAGE_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_96"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_31",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_000360_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_000360",
+    "IllustrationID": "cPK_20_000360_00_LIZARDONex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000360_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 800,
+    "PokemonID": "PK_000360",
+    "IllustrationID": "cPK_20_000360_01_LIZARDONex_IM",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_26"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000360_02",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 900,
+    "PokemonID": "PK_000360",
+    "IllustrationID": "cPK_20_000360_02_LIZARDONex_UR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000410_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_000410",
+    "IllustrationID": "cPK_20_000410_00_WINDIEex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_32"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000430_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000430",
+    "IllustrationID": "cPK_20_000430_00_GALLOP_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_94"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_39",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_000470_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_000470",
+    "IllustrationID": "cPK_20_000470_00_FIREex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_32"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000470_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 600,
+    "PokemonID": "PK_000470",
+    "IllustrationID": "cPK_20_000470_01_FIREex_SAR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_102"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000530_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000530",
+    "IllustrationID": "cPK_20_000530_00_ZENIGAME_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_94"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_48",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_000560_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_000560",
+    "IllustrationID": "cPK_20_000560_00_KAMEXex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000760_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_000760",
+    "IllustrationID": "cPK_20_000760_00_STARMIEex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_53"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000780_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000780",
+    "IllustrationID": "cPK_20_000780_00_GYARADOS_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_43"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_71",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_000790_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000790",
+    "IllustrationID": "cPK_20_000790_00_LAPLACE_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_97"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_72",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_000840_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_000840",
+    "IllustrationID": "cPK_20_000840_00_FREEZERex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_32"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000840_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 600,
+    "PokemonID": "PK_000840",
+    "IllustrationID": "cPK_20_000840_01_FREEZERex_SAR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_31"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000960_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_000960",
+    "IllustrationID": "cPK_20_000960_00_PIKACHUex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000960_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 800,
+    "PokemonID": "PK_000960",
+    "IllustrationID": "cPK_20_000960_01_PIKACHUex_IM",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_3"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_000960_02",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 900,
+    "PokemonID": "PK_000960",
+    "IllustrationID": "cPK_20_000960_02_PIKACHUex_UR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001000_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001000",
+    "IllustrationID": "cPK_20_001000_00_MARUMINE_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_98"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_91",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001040_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_001040",
+    "IllustrationID": "cPK_20_001040_00_THUNDERex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_32"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001040_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 600,
+    "PokemonID": "PK_001040",
+    "IllustrationID": "cPK_20_001040_01_THUNDERex_SAR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_41"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001170_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001170",
+    "IllustrationID": "cPK_20_001170_00_FOODIN_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_64"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_107",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001180_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001180",
+    "IllustrationID": "cPK_20_001180_00_YADON_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_108",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001230_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_001230",
+    "IllustrationID": "cPK_20_001230_00_GANGARex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001230_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 600,
+    "PokemonID": "PK_001230",
+    "IllustrationID": "cPK_20_001230_01_GANGARex_SAR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_103"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001290_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_001290",
+    "IllustrationID": "cPK_20_001290_00_MEWTWOex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_28"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001290_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 800,
+    "PokemonID": "PK_001290",
+    "IllustrationID": "cPK_20_001290_01_MEWTWOex_IM",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_43"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001290_02",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 900,
+    "PokemonID": "PK_001290",
+    "IllustrationID": "cPK_20_001290_02_MEWTWOex_UR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_28"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001390_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001390",
+    "IllustrationID": "cPK_20_001390_00_DIGDA_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_46"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_127",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001460_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_001460",
+    "IllustrationID": "cPK_20_001460_00_KAIRIKYex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_53"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001460_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 600,
+    "PokemonID": "PK_001460",
+    "IllustrationID": "cPK_20_001460_01_KAIRIKYex_SAR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_64"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001510_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001510",
+    "IllustrationID": "cPK_20_001510_00_KARAKARA_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_25"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_138",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001530_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_001530",
+    "IllustrationID": "cPK_20_001530_00_GARAGARAex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_28"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001680_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001680",
+    "IllustrationID": "cPK_20_001680_00_NIDOQUEEN_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_63"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_154",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001710_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001710",
+    "IllustrationID": "cPK_20_001710_00_NIDOKING_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_79"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_157",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001730_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001730",
+    "IllustrationID": "cPK_20_001730_00_GOLBAT_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_49"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_159",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001770_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001770",
+    "IllustrationID": "cPK_20_001770_00_MATADOGAS_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_99"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_163",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001850_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001850",
+    "IllustrationID": "cPK_20_001850_00_KAIRYU_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_100"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_171",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001880_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001880",
+    "IllustrationID": "cPK_20_001880_00_PIGEOT_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_12"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_174",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_001950_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_001950",
+    "IllustrationID": "cPK_20_001950_00_PUKURINex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_53"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001950_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 600,
+    "PokemonID": "PK_001950",
+    "IllustrationID": "cPK_20_001950_01_PUKURINex_SAR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_44"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_001960_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001960",
+    "IllustrationID": "cPK_20_001960_00_NYARTH_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_16"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_181",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002050_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_002050",
+    "IllustrationID": "cPK_20_002050_00_METAMON_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_101"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_190",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": -1
+  },
+  {
+    "CardID": "PK_20_002060_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_002060",
+    "IllustrationID": "cPK_20_002060_00_EIEVUI_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_65"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_191",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002070_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_002070",
+    "IllustrationID": "cPK_20_002070_00_PORYGON_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_45"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_192",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002090_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_002090",
+    "IllustrationID": "cPK_20_002090_00_KABIGON_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_11"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_194",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002140_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 800,
+    "PokemonID": "PK_002140",
+    "IllustrationID": "cPK_20_002140_00_MEW_IM",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_104"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_199",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002160_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_002160",
+    "IllustrationID": "cPK_20_002160_00_NASSY_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_119"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_21",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002170_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_002170",
+    "IllustrationID": "cPK_20_002170_00_CELEBIex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_002170_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 800,
+    "PokemonID": "PK_002170",
+    "IllustrationID": "cPK_20_002170_01_CELEBIex_IM",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_26"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_002200_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_002200",
+    "IllustrationID": "cPK_20_002200_00_JALORDA_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_120"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_202",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002290_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_002290",
+    "IllustrationID": "cPK_20_002290_00_YATOUMORI_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_43"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_44",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002320_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_002320",
+    "IllustrationID": "cPK_20_002320_00_GYARADOSex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_002330_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_002330",
+    "IllustrationID": "cPK_20_002330_00_SHOWERS_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_121"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_73",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002440_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_002440",
+    "IllustrationID": "cPK_20_002440_00_DEDENNE_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_74"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_216",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002450_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_002450",
+    "IllustrationID": "cPK_20_002450_00_MEWex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_002450_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 600,
+    "PokemonID": "PK_002450",
+    "IllustrationID": "cPK_20_002450_01_MEWex_SAR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_11"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_002450_02",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 900,
+    "PokemonID": "PK_002450",
+    "IllustrationID": "cPK_20_002450_02_MEWex_UR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_002590_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_002590",
+    "IllustrationID": "cPK_20_002590_00_PTERAex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_002590_01",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 600,
+    "PokemonID": "PK_002590",
+    "IllustrationID": "cPK_20_002590_01_PTERAex_SAR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_108"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_20_002600_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_002600",
+    "IllustrationID": "cPK_20_002600_00_MARSHADOW_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_95"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_225",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_20_002720_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 700,
+    "PokemonID": "PK_002720",
+    "IllustrationID": "cPK_20_002720_00_PIGEOTex_SR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": false,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "",
+    "PromotionCardSourceMSID": "",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_90_000010_00",
+    "PokedexID": "0001_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000010",
+    "IllustrationID": "cPK_90_000010_00_FUSHIGIDANE_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_68"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_1",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_FEED",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_000030_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000030",
+    "IllustrationID": "cPK_90_000030_00_FUSHIGIBANA_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_106"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_3",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_000070_00",
+    "PokedexID": "0012_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000070",
+    "IllustrationID": "cPK_90_000070_00_BUTTERFREE_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_9"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_6",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_000330_00",
+    "PokedexID": "0004_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000330",
+    "IllustrationID": "cPK_90_000330_00_HITOKAGE_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_14"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_31",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_FEED",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_000470_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_000470",
+    "IllustrationID": "cPK_90_000470_00_FIREex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_53"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_MISSION",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_90_000530_00",
+    "PokedexID": "0007_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000530",
+    "IllustrationID": "cPK_90_000530_00_ZENIGAME_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_22"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_48",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_FEED",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_000550_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000550",
+    "IllustrationID": "cPK_90_000550_00_KAMEX_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_108"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_50",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_000890_00",
+    "PokedexID": "0658_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000890",
+    "IllustrationID": "cPK_90_000890_00_GEKKOUGA_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_51"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_81",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_000940_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000940",
+    "IllustrationID": "cPK_90_000940_00_PIKACHU_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_68"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_86",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_CAMPAIGN",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_000940_01",
+    "PokedexID": "0025_000",
+    "Rarity": 100,
+    "PokemonID": "PK_000940",
+    "IllustrationID": "cPK_90_000940_01_PIKACHU_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_68"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_86",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_000940_02",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_000940",
+    "IllustrationID": "cPK_90_000940_02_PIKACHU_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_84"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_86",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_SHOP",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_000970_00",
+    "PokedexID": "0081_000",
+    "Rarity": 300,
+    "PokemonID": "PK_000970",
+    "IllustrationID": "cPK_90_000970_00_COIL_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_5"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_88",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_FEED",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_001130_00",
+    "PokedexID": "0035_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001130",
+    "IllustrationID": "cPK_90_001130_00_PIPPI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_44"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_103",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_001280_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 500,
+    "PokemonID": "PK_001280",
+    "IllustrationID": "cPK_90_001280_00_MEWTWO_AR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_110"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_117",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_MISSION",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_001500_00",
+    "PokedexID": "0095_000",
+    "Rarity": 100,
+    "PokemonID": "PK_001500",
+    "IllustrationID": "cPK_90_001500_00_IWARK_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_49"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_137",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_001960_00",
+    "PokedexID": "0052_000",
+    "Rarity": 300,
+    "PokemonID": "PK_001960",
+    "IllustrationID": "cPK_90_001960_00_NYARTH_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_50"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_181",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_FEED",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_002020_00",
+    "PokedexID": "0113_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002020",
+    "IllustrationID": "cPK_90_002020_00_LUCKY_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_65"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_187",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_FEED",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_002110_00",
+    "PokedexID": "0573_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002110",
+    "IllustrationID": "cPK_90_002110_00_CHILLACCINO_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_75"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_196",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_002280_00",
+    "PokedexID": "0637_000",
+    "Rarity": 300,
+    "PokemonID": "PK_002280",
+    "IllustrationID": "cPK_90_002280_00_ULGAMOTH_R",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_7"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_207",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_002760_00",
+    "PokedexID": "POKEDEX_BLANK",
+    "Rarity": 400,
+    "PokemonID": "PK_002760",
+    "IllustrationID": "cPK_90_002760_00_LAPLACEex_RR",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_4"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 1
+  },
+  {
+    "CardID": "PK_90_002770_00",
+    "PokedexID": "0056_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002770",
+    "IllustrationID": "cPK_90_002770_00_MANKEY_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_92"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_129",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_002780_00",
+    "PokedexID": "0093_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002780",
+    "IllustrationID": "cPK_90_002780_00_GHOST_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_107"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_111",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_002790_00",
+    "PokedexID": "0039_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002790",
+    "IllustrationID": "cPK_90_002790_00_PURIN_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_2"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_179",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_002800_00",
+    "PokedexID": "0495_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002800",
+    "IllustrationID": "cPK_90_002800_00_TSUTARJA_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_89"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_200",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  },
+  {
+    "CardID": "PK_90_002810_00",
+    "PokedexID": "0133_000",
+    "Rarity": 100,
+    "PokemonID": "PK_002810",
+    "IllustrationID": "cPK_90_002810_00_EIEVUI_C",
+    "IllustratorNameMSIDs": [
+      "ILLUSTRATOR_109"
+    ],
+    "IsPromotion": true,
+    "IsSerial": false,
+    "FlavorTextMSID": "FLAVOR_191",
+    "SeriesID": "A",
+    "PromotionNameMSID": "PROMOTION_NAME_1",
+    "PromotionCardSourceMSID": "CARD_SOURCE_TYPE_PACK",
+    "AutoDeckScore": 0
+  }
+]

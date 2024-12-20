@@ -1,0 +1,12 @@
+[
+  {
+    "PackShopTopID": "PC_PS_0002010_01",
+    "PackCeilPointSharedGroupID": "A1_STANDARD",
+    "ScheduleID": "SC_RELEASE"
+  },
+  {
+    "PackShopTopID": "PC_PS_2408010_01",
+    "PackCeilPointSharedGroupID": "A1a_STANDARD",
+    "ScheduleID": "SC_RELEASE_A1a"
+  }
+]

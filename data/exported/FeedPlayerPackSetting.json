@@ -1,0 +1,104 @@
+[
+  {
+    "PlayerPackSettingID": "FD_PS_AN001_0010_01",
+    "PackID": "AN001_0010_00_000",
+    "PackSharing": 3,
+    "MaxFeedChallengeCount": 1,
+    "SubstitutionItemIDs": [],
+    "ScheduleID": "SC_RELEASE",
+    "PackSharingPreventRarities": [
+      900,
+      800
+    ]
+  },
+  {
+    "PlayerPackSettingID": "FD_PS_AN001_0020_01",
+    "PackID": "AN001_0020_00_000",
+    "PackSharing": 3,
+    "MaxFeedChallengeCount": 1,
+    "SubstitutionItemIDs": [],
+    "ScheduleID": "SC_RELEASE",
+    "PackSharingPreventRarities": [
+      900,
+      800
+    ]
+  },
+  {
+    "PlayerPackSettingID": "FD_PS_AN001_0030_01",
+    "PackID": "AN001_0030_00_000",
+    "PackSharing": 3,
+    "MaxFeedChallengeCount": 1,
+    "SubstitutionItemIDs": [],
+    "ScheduleID": "SC_RELEASE",
+    "PackSharingPreventRarities": [
+      900,
+      800
+    ]
+  },
+  {
+    "PlayerPackSettingID": "FD_PS_AN002_0010_01",
+    "PackID": "AN002_0010_00_000",
+    "PackSharing": 3,
+    "MaxFeedChallengeCount": 1,
+    "SubstitutionItemIDs": [],
+    "ScheduleID": "SC_RELEASE_A1a",
+    "PackSharingPreventRarities": [
+      900,
+      800
+    ]
+  },
+  {
+    "PlayerPackSettingID": "FD_PS_AP001_0010_01",
+    "PackID": "AP001_0010_00_000",
+    "PackSharing": 2,
+    "MaxFeedChallengeCount": 1,
+    "SubstitutionItemIDs": [],
+    "ScheduleID": "SC_RELEASE",
+    "PackSharingPreventRarities": []
+  },
+  {
+    "PlayerPackSettingID": "FD_PS_AP001_0020_01",
+    "PackID": "AP001_0020_00_000",
+    "PackSharing": 2,
+    "MaxFeedChallengeCount": 1,
+    "SubstitutionItemIDs": [],
+    "ScheduleID": "SC_RELEASE",
+    "PackSharingPreventRarities": []
+  },
+  {
+    "PlayerPackSettingID": "FD_PS_AP001_0030_01",
+    "PackID": "AP001_0030_00_000",
+    "PackSharing": 2,
+    "MaxFeedChallengeCount": 1,
+    "SubstitutionItemIDs": [],
+    "ScheduleID": "SC_RELEASE",
+    "PackSharingPreventRarities": []
+  },
+  {
+    "PlayerPackSettingID": "FD_PS_TUTORIAL_1_01",
+    "PackID": "TUTORIAL_1",
+    "PackSharing": 2,
+    "MaxFeedChallengeCount": 1,
+    "SubstitutionItemIDs": [],
+    "ScheduleID": "SC_RELEASE",
+    "PackSharingPreventRarities": []
+  },
+  {
+    "PlayerPackSettingID": "FD_PS_TUTORIAL_2_01",
+    "PackID": "TUTORIAL_2",
+    "PackSharing": 2,
+    "MaxFeedChallengeCount": 1,
+    "SubstitutionItemIDs": [],
+    "ScheduleID": "SC_RELEASE",
+    "PackSharingPreventRarities": []
+  },
+  {
+    "PlayerPackSettingID": "FD_PS_TUTORIAL_3_01",
+    "PackID": "TUTORIAL_3",
+    "PackSharing": 2,
+    "MaxFeedChallengeCount": 1,
+    "SubstitutionItemIDs": [],
+    "ScheduleID": "SC_RELEASE",
+    "PackSharingPreventRarities": []
+  }
+]

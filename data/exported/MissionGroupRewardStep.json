@@ -1,0 +1,106 @@
+[
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_0002010_BEGINNER_01_01",
+    "MissionGroupID": "MI_GR_0002010_BEGINNER_01",
+    "ClearCount": 1,
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 24
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_0002010_BEGINNER_01_02",
+    "MissionGroupID": "MI_GR_0002010_BEGINNER_01",
+    "ClearCount": 3,
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 24
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_0002010_BEGINNER_01_03",
+    "MissionGroupID": "MI_GR_0002010_BEGINNER_01",
+    "ClearCount": 5,
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 24
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_0002010_DAILY_01_01",
+    "MissionGroupID": "MI_GR_0002010_DAILY_01",
+    "ClearCount": 3,
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 4
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_0002010_SENIOR_01_01",
+    "MissionGroupID": "MI_GR_0002010_SENIOR_01",
+    "ClearCount": 3,
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 250
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_0002010_SENIOR_01_02",
+    "MissionGroupID": "MI_GR_0002010_SENIOR_01",
+    "ClearCount": 6,
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "Amount": 500
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_0002010_SENIOR_01_03",
+    "MissionGroupID": "MI_GR_0002010_SENIOR_01",
+    "ClearCount": 9,
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "Amount": 120
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_2408010_HOLIDAY_01_01",
+    "MissionGroupID": "MI_GR_2408010_HOLIDAY_01",
+    "ClearCount": 1,
+    "ItemType": 9,
+    "ItemID": "BOARD_100420_Displayframe_winterholiday",
+    "Amount": 1
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_2408010_HOLIDAY_01_02",
+    "MissionGroupID": "MI_GR_2408010_HOLIDAY_01",
+    "ClearCount": 4,
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 12
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_2408010_HOLIDAY_01_03",
+    "MissionGroupID": "MI_GR_2408010_HOLIDAY_01",
+    "ClearCount": 7,
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 12
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_2408010_NEWYEAR_01_01",
+    "MissionGroupID": "MI_GR_2408010_NEWYEAR_01",
+    "ClearCount": 1,
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 12
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_2408010_NEWYEAR_01_02",
+    "MissionGroupID": "MI_GR_2408010_NEWYEAR_01",
+    "ClearCount": 4,
+    "ItemType": 9,
+    "ItemID": "BOARD_100430_Displayframe_newyear",
+    "Amount": 1
+  },
+  {
+    "MissionGroupRewardStepID": "MI_GR_RS_2408010_NEWYEAR_01_03",
+    "MissionGroupID": "MI_GR_2408010_NEWYEAR_01",
+    "ClearCount": 7,
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "Amount": 12
+  }
+]

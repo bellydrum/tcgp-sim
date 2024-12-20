@@ -1,0 +1,4267 @@
+[
+  {
+    "PokemonAttackID": "PK_000010_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_1"
+  },
+  {
+    "PokemonAttackID": "PK_000020_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_2"
+  },
+  {
+    "PokemonAttackID": "PK_000030_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "AttackLogicID": "100200010",
+    "AttackLogicParameters": [
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_21",
+    "PokemonAttackNameID": "PokemonAttackName_ID_3"
+  },
+  {
+    "PokemonAttackID": "PK_000040_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_2"
+  },
+  {
+    "PokemonAttackID": "PK_000040_ATK_02",
+    "Damage": 100,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "AttackLogicID": "100200010",
+    "AttackLogicParameters": [
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_21",
+    "PokemonAttackNameID": "PokemonAttackName_ID_159"
+  },
+  {
+    "PokemonAttackID": "PK_000050_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100600030",
+    "AttackLogicParameters": [
+      "Grass",
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_41",
+    "PokemonAttackNameID": "PokemonAttackName_ID_4"
+  },
+  {
+    "PokemonAttackID": "PK_000060_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_5"
+  },
+  {
+    "PokemonAttackID": "PK_000070_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_6"
+  },
+  {
+    "PokemonAttackID": "PK_000080_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_7"
+  },
+  {
+    "PokemonAttackID": "PK_000090_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_5"
+  },
+  {
+    "PokemonAttackID": "PK_000100_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_8"
+  },
+  {
+    "PokemonAttackID": "PK_000110_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_9"
+  },
+  {
+    "PokemonAttackID": "PK_000120_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_10"
+  },
+  {
+    "PokemonAttackID": "PK_000130_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      2,
+      1
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Asleep"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_11"
+  },
+  {
+    "PokemonAttackID": "PK_000140_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_12"
+  },
+  {
+    "PokemonAttackID": "PK_000150_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      2,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_13"
+  },
+  {
+    "PokemonAttackID": "PK_000160_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_14"
+  },
+  {
+    "PokemonAttackID": "PK_000170_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Poisoned"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_15"
+  },
+  {
+    "PokemonAttackID": "PK_000180_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_1"
+  },
+  {
+    "PokemonAttackID": "PK_000190_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_2"
+  },
+  {
+    "PokemonAttackID": "PK_000200_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_1"
+  },
+  {
+    "PokemonAttackID": "PK_000210_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_16"
+  },
+  {
+    "PokemonAttackID": "PK_000220_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "100100020",
+    "AttackLogicParameters": [
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_2",
+    "PokemonAttackNameID": "PokemonAttackName_ID_17"
+  },
+  {
+    "PokemonAttackID": "PK_000230_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "100100020",
+    "AttackLogicParameters": [
+      "40"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_2",
+    "PokemonAttackNameID": "PokemonAttackName_ID_18"
+  },
+  {
+    "PokemonAttackID": "PK_000240_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1
+    ],
+    "AttackLogicID": "100200010",
+    "AttackLogicParameters": [
+      "10"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_21",
+    "PokemonAttackNameID": "PokemonAttackName_ID_19"
+  },
+  {
+    "PokemonAttackID": "PK_000250_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_20"
+  },
+  {
+    "PokemonAttackID": "PK_000260_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      2,
+      2
+    ],
+    "AttackLogicID": "100100010",
+    "AttackLogicParameters": [
+      "2",
+      "50"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_1",
+    "PokemonAttackNameID": "PokemonAttackName_ID_21"
+  },
+  {
+    "PokemonAttackID": "PK_000270_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_22"
+  },
+  {
+    "PokemonAttackID": "PK_000280_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_23"
+  },
+  {
+    "PokemonAttackID": "PK_000290_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "100200010",
+    "AttackLogicParameters": [
+      "10"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_21",
+    "PokemonAttackNameID": "PokemonAttackName_ID_24"
+  },
+  {
+    "PokemonAttackID": "PK_000300_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      2
+    ],
+    "AttackLogicID": "100500040",
+    "AttackLogicParameters": [
+      "Grass",
+      "1",
+      "Grass"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_35",
+    "PokemonAttackNameID": "PokemonAttackName_ID_25"
+  },
+  {
+    "PokemonAttackID": "PK_000310_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100100040",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_4",
+    "PokemonAttackNameID": "PokemonAttackName_ID_26"
+  },
+  {
+    "PokemonAttackID": "PK_000320_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_2"
+  },
+  {
+    "PokemonAttackID": "PK_000330_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3
+    ],
+    "AttackLogicID": "100500050",
+    "AttackLogicParameters": [
+      "Fire",
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_36",
+    "PokemonAttackNameID": "PokemonAttackName_ID_27"
+  },
+  {
+    "PokemonAttackID": "PK_000340_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_28"
+  },
+  {
+    "PokemonAttackID": "PK_000350_ATK_01",
+    "Damage": 150,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      3,
+      1,
+      1
+    ],
+    "AttackLogicID": "100500050",
+    "AttackLogicParameters": [
+      "Fire",
+      "2"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_36",
+    "PokemonAttackNameID": "PokemonAttackName_ID_29"
+  },
+  {
+    "PokemonAttackID": "PK_000360_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_13"
+  },
+  {
+    "PokemonAttackID": "PK_000360_ATK_02",
+    "Damage": 200,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      3,
+      1,
+      1
+    ],
+    "AttackLogicID": "100500050",
+    "AttackLogicParameters": [
+      "Fire",
+      "2"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_36",
+    "PokemonAttackNameID": "PokemonAttackName_ID_160"
+  },
+  {
+    "PokemonAttackID": "PK_000370_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100400040",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_28",
+    "PokemonAttackNameID": "PokemonAttackName_ID_30"
+  },
+  {
+    "PokemonAttackID": "PK_000380_ATK_01",
+    "Damage": 90,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      3
+    ],
+    "AttackLogicID": "100500050",
+    "AttackLogicParameters": [
+      "Fire",
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_36",
+    "PokemonAttackNameID": "PokemonAttackName_ID_31"
+  },
+  {
+    "PokemonAttackID": "PK_000390_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_32"
+  },
+  {
+    "PokemonAttackID": "PK_000400_ATK_01",
+    "Damage": 100,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      3,
+      1
+    ],
+    "AttackLogicID": "100100100",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_10",
+    "PokemonAttackNameID": "PokemonAttackName_ID_33"
+  },
+  {
+    "PokemonAttackID": "PK_000410_ATK_01",
+    "Damage": 120,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      3,
+      1
+    ],
+    "AttackLogicID": "100100100",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_10",
+    "PokemonAttackNameID": "PokemonAttackName_ID_34"
+  },
+  {
+    "PokemonAttackID": "PK_000420_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_35"
+  },
+  {
+    "PokemonAttackID": "PK_000430_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_36"
+  },
+  {
+    "PokemonAttackID": "PK_000440_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      3
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_37"
+  },
+  {
+    "PokemonAttackID": "PK_000450_ATK_01",
+    "Damage": 110,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      1,
+      1
+    ],
+    "AttackLogicID": "100500050",
+    "AttackLogicParameters": [
+      "Fire",
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_36",
+    "PokemonAttackNameID": "PokemonAttackName_ID_31"
+  },
+  {
+    "PokemonAttackID": "PK_000460_ATK_01",
+    "Damage": 130,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      1,
+      1
+    ],
+    "AttackLogicID": "100100040",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_4",
+    "PokemonAttackNameID": "PokemonAttackName_ID_38"
+  },
+  {
+    "PokemonAttackID": "PK_000470_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3
+    ],
+    "AttackLogicID": "100500060",
+    "AttackLogicParameters": [
+      "3",
+      "Fire",
+      "Fire"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_37",
+    "PokemonAttackNameID": "PokemonAttackName_ID_39"
+  },
+  {
+    "PokemonAttackID": "PK_000470_ATK_02",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_161"
+  },
+  {
+    "PokemonAttackID": "PK_000480_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_40"
+  },
+  {
+    "PokemonAttackID": "PK_000490_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_12"
+  },
+  {
+    "PokemonAttackID": "PK_000500_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_28"
+  },
+  {
+    "PokemonAttackID": "PK_000510_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_41"
+  },
+  {
+    "PokemonAttackID": "PK_000520_ATK_01",
+    "Damage": 130,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "100500050",
+    "AttackLogicParameters": [
+      "Fire",
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_36",
+    "PokemonAttackNameID": "PokemonAttackName_ID_42"
+  },
+  {
+    "PokemonAttackID": "PK_000530_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_43"
+  },
+  {
+    "PokemonAttackID": "PK_000540_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_44"
+  },
+  {
+    "PokemonAttackID": "PK_000550_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      4,
+      4,
+      1
+    ],
+    "AttackLogicID": "100100070",
+    "AttackLogicParameters": [
+      "Water",
+      "2",
+      "60"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_7",
+    "PokemonAttackNameID": "PokemonAttackName_ID_45"
+  },
+  {
+    "PokemonAttackID": "PK_000560_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_46"
+  },
+  {
+    "PokemonAttackID": "PK_000560_ATK_02",
+    "Damage": 100,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      4,
+      4,
+      1
+    ],
+    "AttackLogicID": "100100070",
+    "AttackLogicParameters": [
+      "Water",
+      "2",
+      "60"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_7",
+    "PokemonAttackNameID": "PokemonAttackName_ID_162"
+  },
+  {
+    "PokemonAttackID": "PK_000570_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100400050",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_29",
+    "PokemonAttackNameID": "PokemonAttackName_ID_47"
+  },
+  {
+    "PokemonAttackID": "PK_000580_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_48"
+  },
+  {
+    "PokemonAttackID": "PK_000590_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_49"
+  },
+  {
+    "PokemonAttackID": "PK_000600_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_50"
+  },
+  {
+    "PokemonAttackID": "PK_000610_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_51"
+  },
+  {
+    "PokemonAttackID": "PK_000620_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_52"
+  },
+  {
+    "PokemonAttackID": "PK_000630_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Poisoned"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_53"
+  },
+  {
+    "PokemonAttackID": "PK_000640_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_54"
+  },
+  {
+    "PokemonAttackID": "PK_000650_ATK_01",
+    "Damage": 90,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4,
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_46"
+  },
+  {
+    "PokemonAttackID": "PK_000660_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_55"
+  },
+  {
+    "PokemonAttackID": "PK_000670_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_46"
+  },
+  {
+    "PokemonAttackID": "PK_000680_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_56"
+  },
+  {
+    "PokemonAttackID": "PK_000690_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      4,
+      4,
+      1
+    ],
+    "AttackLogicID": "100100250",
+    "AttackLogicParameters": [
+      "2",
+      "80"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_20",
+    "PokemonAttackNameID": "PokemonAttackName_ID_57"
+  },
+  {
+    "PokemonAttackID": "PK_000700_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_43"
+  },
+  {
+    "PokemonAttackID": "PK_000710_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4,
+      4
+    ],
+    "AttackLogicID": "100100050",
+    "AttackLogicParameters": [
+      "50"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_5",
+    "PokemonAttackNameID": "PokemonAttackName_ID_58"
+  },
+  {
+    "PokemonAttackID": "PK_000720_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_59"
+  },
+  {
+    "PokemonAttackID": "PK_000730_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "100100040",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_4",
+    "PokemonAttackNameID": "PokemonAttackName_ID_60"
+  },
+  {
+    "PokemonAttackID": "PK_000740_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_61"
+  },
+  {
+    "PokemonAttackID": "PK_000750_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_44"
+  },
+  {
+    "PokemonAttackID": "PK_000760_ATK_01",
+    "Damage": 90,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_62"
+  },
+  {
+    "PokemonAttackID": "PK_000770_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_63"
+  },
+  {
+    "PokemonAttackID": "PK_000780_ATK_01",
+    "Damage": 100,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "AttackLogicID": "100500020",
+    "AttackLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_33",
+    "PokemonAttackNameID": "PokemonAttackName_ID_64"
+  },
+  {
+    "PokemonAttackID": "PK_000790_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "100100070",
+    "AttackLogicParameters": [
+      "Water",
+      "3",
+      "70"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_7",
+    "PokemonAttackNameID": "PokemonAttackName_ID_45"
+  },
+  {
+    "PokemonAttackID": "PK_000800_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1,
+      1
+    ],
+    "AttackLogicID": "100200010",
+    "AttackLogicParameters": [
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_21",
+    "PokemonAttackNameID": "PokemonAttackName_ID_65"
+  },
+  {
+    "PokemonAttackID": "PK_000810_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_43"
+  },
+  {
+    "PokemonAttackID": "PK_000820_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1,
+      1
+    ],
+    "AttackLogicID": "100400060",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_30",
+    "PokemonAttackNameID": "PokemonAttackName_ID_66"
+  },
+  {
+    "PokemonAttackID": "PK_000830_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4,
+      1
+    ],
+    "AttackLogicID": "100300020",
+    "AttackLogicParameters": [
+      "Paralyzed"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_24",
+    "PokemonAttackNameID": "PokemonAttackName_ID_67"
+  },
+  {
+    "PokemonAttackID": "PK_000840_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_68"
+  },
+  {
+    "PokemonAttackID": "PK_000840_ATK_02",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4,
+      4
+    ],
+    "AttackLogicID": "100100110",
+    "AttackLogicParameters": [
+      "10"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_11",
+    "PokemonAttackNameID": "PokemonAttackName_ID_163"
+  },
+  {
+    "PokemonAttackID": "PK_000850_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_69"
+  },
+  {
+    "PokemonAttackID": "PK_000860_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_70"
+  },
+  {
+    "PokemonAttackID": "PK_000870_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_59"
+  },
+  {
+    "PokemonAttackID": "PK_000880_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_71"
+  },
+  {
+    "PokemonAttackID": "PK_000890_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_72"
+  },
+  {
+    "PokemonAttackID": "PK_000900_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_73"
+  },
+  {
+    "PokemonAttackID": "PK_000910_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      4,
+      1
+    ],
+    "AttackLogicID": "100100120",
+    "AttackLogicParameters": [
+      "60"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_12",
+    "PokemonAttackNameID": "PokemonAttackName_ID_74"
+  },
+  {
+    "PokemonAttackID": "PK_000920_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_9"
+  },
+  {
+    "PokemonAttackID": "PK_000930_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Asleep"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_75"
+  },
+  {
+    "PokemonAttackID": "PK_000940_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_41"
+  },
+  {
+    "PokemonAttackID": "PK_000950_ATK_01",
+    "Damage": 140,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5,
+      5,
+      5
+    ],
+    "AttackLogicID": "100500010",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_32",
+    "PokemonAttackNameID": "PokemonAttackName_ID_76"
+  },
+  {
+    "PokemonAttackID": "PK_000960_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      5,
+      5
+    ],
+    "AttackLogicID": "100100130",
+    "AttackLogicParameters": [
+      "Lightning",
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_13",
+    "PokemonAttackNameID": "PokemonAttackName_ID_77"
+  },
+  {
+    "PokemonAttackID": "PK_000970_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_78"
+  },
+  {
+    "PokemonAttackID": "PK_000980_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5,
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_79"
+  },
+  {
+    "PokemonAttackID": "PK_000990_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_14"
+  },
+  {
+    "PokemonAttackID": "PK_001000_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5,
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_80"
+  },
+  {
+    "PokemonAttackID": "PK_001010_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      5,
+      5
+    ],
+    "AttackLogicID": "100100140",
+    "AttackLogicParameters": [
+      "40",
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_14",
+    "PokemonAttackNameID": "PokemonAttackName_ID_81"
+  },
+  {
+    "PokemonAttackID": "PK_001020_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      5,
+      1
+    ],
+    "AttackLogicID": "100100010",
+    "AttackLogicParameters": [
+      "4",
+      "40"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_1",
+    "PokemonAttackNameID": "PokemonAttackName_ID_82"
+  },
+  {
+    "PokemonAttackID": "PK_001030_ATK_01",
+    "Damage": 100,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5,
+      5,
+      1
+    ],
+    "AttackLogicID": "100100150",
+    "AttackLogicParameters": [
+      "1",
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_15",
+    "PokemonAttackNameID": "PokemonAttackName_ID_83"
+  },
+  {
+    "PokemonAttackID": "PK_001040_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_84"
+  },
+  {
+    "PokemonAttackID": "PK_001040_ATK_02",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      5,
+      5,
+      5
+    ],
+    "AttackLogicID": "100100010",
+    "AttackLogicParameters": [
+      "4",
+      "50"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_1",
+    "PokemonAttackNameID": "PokemonAttackName_ID_164"
+  },
+  {
+    "PokemonAttackID": "PK_001050_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_85"
+  },
+  {
+    "PokemonAttackID": "PK_001060_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "100100050",
+    "AttackLogicParameters": [
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_5",
+    "PokemonAttackNameID": "PokemonAttackName_ID_86"
+  },
+  {
+    "PokemonAttackID": "PK_001070_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_87"
+  },
+  {
+    "PokemonAttackID": "PK_001080_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_88"
+  },
+  {
+    "PokemonAttackID": "PK_001090_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5,
+      5,
+      1
+    ],
+    "AttackLogicID": "100300020",
+    "AttackLogicParameters": [
+      "Paralyzed"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_24",
+    "PokemonAttackNameID": "PokemonAttackName_ID_89"
+  },
+  {
+    "PokemonAttackID": "PK_001100_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_90"
+  },
+  {
+    "PokemonAttackID": "PK_001110_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "100100020",
+    "AttackLogicParameters": [
+      "40"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_2",
+    "PokemonAttackNameID": "PokemonAttackName_ID_91"
+  },
+  {
+    "PokemonAttackID": "PK_001120_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5,
+      5
+    ],
+    "AttackLogicID": "100300020",
+    "AttackLogicParameters": [
+      "Paralyzed"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_24",
+    "PokemonAttackNameID": "PokemonAttackName_ID_92"
+  },
+  {
+    "PokemonAttackID": "PK_001130_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_93"
+  },
+  {
+    "PokemonAttackID": "PK_001140_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_94"
+  },
+  {
+    "PokemonAttackID": "PK_001150_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100600020",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_40",
+    "PokemonAttackNameID": "PokemonAttackName_ID_95"
+  },
+  {
+    "PokemonAttackID": "PK_001160_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_96"
+  },
+  {
+    "PokemonAttackID": "PK_001170_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      6,
+      1,
+      1
+    ],
+    "AttackLogicID": "100100090",
+    "AttackLogicParameters": [
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_9",
+    "PokemonAttackNameID": "PokemonAttackName_ID_97"
+  },
+  {
+    "PokemonAttackID": "PK_001180_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_90"
+  },
+  {
+    "PokemonAttackID": "PK_001190_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      6,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_96"
+  },
+  {
+    "PokemonAttackID": "PK_001200_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_98"
+  },
+  {
+    "PokemonAttackID": "PK_001210_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_99"
+  },
+  {
+    "PokemonAttackID": "PK_001220_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "100400050",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_29",
+    "PokemonAttackNameID": "PokemonAttackName_ID_100"
+  },
+  {
+    "PokemonAttackID": "PK_001230_ATK_01",
+    "Damage": 100,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      6,
+      6
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_101"
+  },
+  {
+    "PokemonAttackID": "PK_001240_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_102"
+  },
+  {
+    "PokemonAttackID": "PK_001250_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      6,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_103"
+  },
+  {
+    "PokemonAttackID": "PK_001260_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      1
+    ],
+    "AttackLogicID": "100400020",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_26",
+    "PokemonAttackNameID": "PokemonAttackName_ID_104"
+  },
+  {
+    "PokemonAttackID": "PK_001270_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      6,
+      1
+    ],
+    "AttackLogicID": "100100090",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_9",
+    "PokemonAttackNameID": "PokemonAttackName_ID_97"
+  },
+  {
+    "PokemonAttackID": "PK_001280_ATK_01",
+    "Damage": 120,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      6,
+      1,
+      1
+    ],
+    "AttackLogicID": "100500050",
+    "AttackLogicParameters": [
+      "Psychic",
+      "2"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_36",
+    "PokemonAttackNameID": "PokemonAttackName_ID_105"
+  },
+  {
+    "PokemonAttackID": "PK_001290_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_106"
+  },
+  {
+    "PokemonAttackID": "PK_001290_ATK_02",
+    "Damage": 150,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      6,
+      1,
+      1
+    ],
+    "AttackLogicID": "100500050",
+    "AttackLogicParameters": [
+      "Psychic",
+      "2"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_36",
+    "PokemonAttackNameID": "PokemonAttackName_ID_165"
+  },
+  {
+    "PokemonAttackID": "PK_001300_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_9"
+  },
+  {
+    "PokemonAttackID": "PK_001310_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_61"
+  },
+  {
+    "PokemonAttackID": "PK_001320_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      6,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_107"
+  },
+  {
+    "PokemonAttackID": "PK_001330_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_41"
+  },
+  {
+    "PokemonAttackID": "PK_001340_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_108"
+  },
+  {
+    "PokemonAttackID": "PK_001350_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_51"
+  },
+  {
+    "PokemonAttackID": "PK_001360_ATK_01",
+    "Damage": 100,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      6,
+      6,
+      1,
+      1
+    ],
+    "AttackLogicID": "100100010",
+    "AttackLogicParameters": [
+      "2",
+      "100"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_1",
+    "PokemonAttackNameID": "PokemonAttackName_ID_109"
+  },
+  {
+    "PokemonAttackID": "PK_001370_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_12"
+  },
+  {
+    "PokemonAttackID": "PK_001380_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_13"
+  },
+  {
+    "PokemonAttackID": "PK_001390_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_110"
+  },
+  {
+    "PokemonAttackID": "PK_001400_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "100400010",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_25",
+    "PokemonAttackNameID": "PokemonAttackName_ID_111"
+  },
+  {
+    "PokemonAttackID": "PK_001410_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_112"
+  },
+  {
+    "PokemonAttackID": "PK_001420_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      7,
+      7
+    ],
+    "AttackLogicID": "100100160",
+    "AttackLogicParameters": [
+      "60"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_16",
+    "PokemonAttackNameID": "PokemonAttackName_ID_113"
+  },
+  {
+    "PokemonAttackID": "PK_001430_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_50"
+  },
+  {
+    "PokemonAttackID": "PK_001440_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_114"
+  },
+  {
+    "PokemonAttackID": "PK_001450_ATK_01",
+    "Damage": 100,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      7,
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_115"
+  },
+  {
+    "PokemonAttackID": "PK_001460_ATK_01",
+    "Damage": 120,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      7,
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_51"
+  },
+  {
+    "PokemonAttackID": "PK_001470_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_14"
+  },
+  {
+    "PokemonAttackID": "PK_001480_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_116"
+  },
+  {
+    "PokemonAttackID": "PK_001490_ATK_01",
+    "Damage": 150,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "100100100",
+    "AttackLogicParameters": [
+      "50"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_10",
+    "PokemonAttackNameID": "PokemonAttackName_ID_117"
+  },
+  {
+    "PokemonAttackID": "PK_001500_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      7,
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_118"
+  },
+  {
+    "PokemonAttackID": "PK_001510_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100400070",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_31",
+    "PokemonAttackNameID": "PokemonAttackName_ID_119"
+  },
+  {
+    "PokemonAttackID": "PK_001520_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_120"
+  },
+  {
+    "PokemonAttackID": "PK_001530_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      7,
+      7
+    ],
+    "AttackLogicID": "100100010",
+    "AttackLogicParameters": [
+      "2",
+      "80"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_1",
+    "PokemonAttackNameID": "PokemonAttackName_ID_121"
+  },
+  {
+    "PokemonAttackID": "PK_001540_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "100100170",
+    "AttackLogicParameters": [
+      "1",
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_17",
+    "PokemonAttackNameID": "PokemonAttackName_ID_122"
+  },
+  {
+    "PokemonAttackID": "PK_001550_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_123"
+  },
+  {
+    "PokemonAttackID": "PK_001560_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      7,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_14"
+  },
+  {
+    "PokemonAttackID": "PK_001570_ATK_01",
+    "Damage": 100,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      7,
+      7,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_124"
+  },
+  {
+    "PokemonAttackID": "PK_001580_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_125"
+  },
+  {
+    "PokemonAttackID": "PK_001590_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "100200020",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_22",
+    "PokemonAttackNameID": "PokemonAttackName_ID_126"
+  },
+  {
+    "PokemonAttackID": "PK_001600_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_127"
+  },
+  {
+    "PokemonAttackID": "PK_001610_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_128"
+  },
+  {
+    "PokemonAttackID": "PK_001620_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_50"
+  },
+  {
+    "PokemonAttackID": "PK_001630_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      7,
+      1
+    ],
+    "AttackLogicID": "100600040",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_42",
+    "PokemonAttackNameID": "PokemonAttackName_ID_129"
+  },
+  {
+    "PokemonAttackID": "PK_001640_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_32"
+  },
+  {
+    "PokemonAttackID": "PK_001650_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8,
+      1
+    ],
+    "AttackLogicID": "100400030",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_27",
+    "PokemonAttackNameID": "PokemonAttackName_ID_130"
+  },
+  {
+    "PokemonAttackID": "PK_001660_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "100600050",
+    "AttackLogicParameters": [
+      "NIDORAN♂",
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_43",
+    "PokemonAttackNameID": "PokemonAttackName_ID_131"
+  },
+  {
+    "PokemonAttackID": "PK_001670_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_32"
+  },
+  {
+    "PokemonAttackID": "PK_001680_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      8,
+      8,
+      1
+    ],
+    "AttackLogicID": "100100180",
+    "AttackLogicParameters": [
+      "NIDOKING",
+      "50"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_18",
+    "PokemonAttackNameID": "PokemonAttackName_ID_132"
+  },
+  {
+    "PokemonAttackID": "PK_001690_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_84"
+  },
+  {
+    "PokemonAttackID": "PK_001700_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_133"
+  },
+  {
+    "PokemonAttackID": "PK_001710_ATK_01",
+    "Damage": 90,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8,
+      8,
+      1
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Poisoned"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_134"
+  },
+  {
+    "PokemonAttackID": "PK_001720_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_135"
+  },
+  {
+    "PokemonAttackID": "PK_001730_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_70"
+  },
+  {
+    "PokemonAttackID": "PK_001740_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Poisoned"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_136"
+  },
+  {
+    "PokemonAttackID": "PK_001750_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      8,
+      8,
+      1
+    ],
+    "AttackLogicID": "100100080",
+    "AttackLogicParameters": [
+      "Poisoned",
+      "50"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_8",
+    "PokemonAttackNameID": "PokemonAttackName_ID_137"
+  },
+  {
+    "PokemonAttackID": "PK_001760_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_98"
+  },
+  {
+    "PokemonAttackID": "PK_001770_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_14"
+  },
+  {
+    "PokemonAttackID": "PK_001780_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      9
+    ],
+    "AttackLogicID": "100500030",
+    "AttackLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_34",
+    "PokemonAttackNameID": "PokemonAttackName_ID_138"
+  },
+  {
+    "PokemonAttackID": "PK_001790_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      9
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_139"
+  },
+  {
+    "PokemonAttackID": "PK_001800_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      9,
+      9
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_140"
+  },
+  {
+    "PokemonAttackID": "PK_001810_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      9
+    ],
+    "AttackLogicID": "100500080",
+    "AttackLogicParameters": [
+      "Metal",
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_38",
+    "PokemonAttackNameID": "PokemonAttackName_ID_141"
+  },
+  {
+    "PokemonAttackID": "PK_001820_ATK_01",
+    "Damage": 120,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      9,
+      9,
+      9,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_142"
+  },
+  {
+    "PokemonAttackID": "PK_001830_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_9"
+  },
+  {
+    "PokemonAttackID": "PK_001840_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      5,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_143"
+  },
+  {
+    "PokemonAttackID": "PK_001850_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      5,
+      1,
+      1
+    ],
+    "AttackLogicID": "100100060",
+    "AttackLogicParameters": [
+      "4",
+      "50"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_6",
+    "PokemonAttackNameID": "PokemonAttackName_ID_144"
+  },
+  {
+    "PokemonAttackID": "PK_001860_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_6"
+  },
+  {
+    "PokemonAttackID": "PK_001870_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_6"
+  },
+  {
+    "PokemonAttackID": "PK_001880_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_70"
+  },
+  {
+    "PokemonAttackID": "PK_001890_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_41"
+  },
+  {
+    "PokemonAttackID": "PK_001900_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_32"
+  },
+  {
+    "PokemonAttackID": "PK_001910_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_84"
+  },
+  {
+    "PokemonAttackID": "PK_001920_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "100500030",
+    "AttackLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_34",
+    "PokemonAttackNameID": "PokemonAttackName_ID_145"
+  },
+  {
+    "PokemonAttackID": "PK_001930_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_127"
+  },
+  {
+    "PokemonAttackID": "PK_001940_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_146"
+  },
+  {
+    "PokemonAttackID": "PK_001950_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Asleep"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_147"
+  },
+  {
+    "PokemonAttackID": "PK_001960_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100600010",
+    "AttackLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_39",
+    "PokemonAttackNameID": "PokemonAttackName_ID_148"
+  },
+  {
+    "PokemonAttackID": "PK_001970_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "100600060",
+    "AttackLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_44",
+    "PokemonAttackNameID": "PokemonAttackName_ID_149"
+  },
+  {
+    "PokemonAttackID": "PK_001980_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_150"
+  },
+  {
+    "PokemonAttackID": "PK_001990_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_84"
+  },
+  {
+    "PokemonAttackID": "PK_002000_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_151"
+  },
+  {
+    "PokemonAttackID": "PK_002010_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "100100030",
+    "AttackLogicParameters": [
+      "60"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_3",
+    "PokemonAttackNameID": "PokemonAttackName_ID_152"
+  },
+  {
+    "PokemonAttackID": "PK_002020_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_52"
+  },
+  {
+    "PokemonAttackID": "PK_002030_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100100010",
+    "AttackLogicParameters": [
+      "2",
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_1",
+    "PokemonAttackNameID": "PokemonAttackName_ID_153"
+  },
+  {
+    "PokemonAttackID": "PK_002040_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_133"
+  },
+  {
+    "PokemonAttackID": "PK_002050_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100700010",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_47",
+    "PokemonAttackNameID": "PokemonAttackName_ID_154"
+  },
+  {
+    "PokemonAttackID": "PK_002060_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_14"
+  },
+  {
+    "PokemonAttackID": "PK_002070_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_155"
+  },
+  {
+    "PokemonAttackID": "PK_002080_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "100600070",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_45",
+    "PokemonAttackNameID": "PokemonAttackName_ID_156"
+  },
+  {
+    "PokemonAttackID": "PK_002090_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_116"
+  },
+  {
+    "PokemonAttackID": "PK_002100_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_143"
+  },
+  {
+    "PokemonAttackID": "PK_002110_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "100100190",
+    "AttackLogicParameters": [
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_19",
+    "PokemonAttackNameID": "PokemonAttackName_ID_157"
+  },
+  {
+    "PokemonAttackID": "PK_002120_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_14"
+  },
+  {
+    "PokemonAttackID": "PK_002130_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_23"
+  },
+  {
+    "PokemonAttackID": "PK_002140_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "100600090",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_46",
+    "PokemonAttackNameID": "PokemonAttackName_ID_158"
+  },
+  {
+    "PokemonAttackID": "PK_002150_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100500080",
+    "AttackLogicParameters": [
+      "Grass",
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_38",
+    "PokemonAttackNameID": "PokemonAttackName_ID_168"
+  },
+  {
+    "PokemonAttackID": "PK_002160_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      2,
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "100100090",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_9",
+    "PokemonAttackNameID": "PokemonAttackName_ID_97"
+  },
+  {
+    "PokemonAttackID": "PK_002170_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      2,
+      1
+    ],
+    "AttackLogicID": "100100200",
+    "AttackLogicParameters": [
+      "50"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_48",
+    "PokemonAttackNameID": "PokemonAttackName_ID_169"
+  },
+  {
+    "PokemonAttackID": "PK_002180_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_1"
+  },
+  {
+    "PokemonAttackID": "PK_002190_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_1"
+  },
+  {
+    "PokemonAttackID": "PK_002200_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_201"
+  },
+  {
+    "PokemonAttackID": "PK_002210_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_9"
+  },
+  {
+    "PokemonAttackID": "PK_002220_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2,
+      2
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Asleep"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_170"
+  },
+  {
+    "PokemonAttackID": "PK_002230_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "100100070",
+    "AttackLogicParameters": [
+      "Grass",
+      "3",
+      "70"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_7",
+    "PokemonAttackNameID": "PokemonAttackName_ID_171"
+  },
+  {
+    "PokemonAttackID": "PK_002240_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      3
+    ],
+    "AttackLogicID": "100100020",
+    "AttackLogicParameters": [
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_2",
+    "PokemonAttackNameID": "PokemonAttackName_ID_17"
+  },
+  {
+    "PokemonAttackID": "PK_002250_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      3,
+      1
+    ],
+    "AttackLogicID": "100100020",
+    "AttackLogicParameters": [
+      "60"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_2",
+    "PokemonAttackNameID": "PokemonAttackName_ID_172"
+  },
+  {
+    "PokemonAttackID": "PK_002260_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      3
+    ],
+    "AttackLogicID": "100500050",
+    "AttackLogicParameters": [
+      "Fire",
+      "2"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_36",
+    "PokemonAttackNameID": "PokemonAttackName_ID_42"
+  },
+  {
+    "PokemonAttackID": "PK_002270_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_40"
+  },
+  {
+    "PokemonAttackID": "PK_002280_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      3,
+      1
+    ],
+    "AttackLogicID": "100100210",
+    "AttackLogicParameters": [
+      "Fire",
+      "2",
+      "80"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_49",
+    "PokemonAttackNameID": "PokemonAttackName_ID_173"
+  },
+  {
+    "PokemonAttackID": "PK_002290_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100100080",
+    "AttackLogicParameters": [
+      "Poisoned",
+      "40"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_8",
+    "PokemonAttackNameID": "PokemonAttackName_ID_137"
+  },
+  {
+    "PokemonAttackID": "PK_002300_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Poisoned"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_174"
+  },
+  {
+    "PokemonAttackID": "PK_002310_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "100600020",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_40",
+    "PokemonAttackNameID": "PokemonAttackName_ID_175"
+  },
+  {
+    "PokemonAttackID": "PK_002320_ATK_01",
+    "Damage": 140,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4,
+      4,
+      1
+    ],
+    "AttackLogicID": "100500070",
+    "AttackLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_50",
+    "PokemonAttackNameID": "PokemonAttackName_ID_176"
+  },
+  {
+    "PokemonAttackID": "PK_002330_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_44"
+  },
+  {
+    "PokemonAttackID": "PK_002340_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_43"
+  },
+  {
+    "PokemonAttackID": "PK_002350_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4
+    ],
+    "AttackLogicID": "100100170",
+    "AttackLogicParameters": [
+      "1",
+      "50"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_17",
+    "PokemonAttackNameID": "PokemonAttackName_ID_177"
+  },
+  {
+    "PokemonAttackID": "PK_002360_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_32"
+  },
+  {
+    "PokemonAttackID": "PK_002370_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4,
+      4
+    ],
+    "AttackLogicID": "100500030",
+    "AttackLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_34",
+    "PokemonAttackNameID": "PokemonAttackName_ID_138"
+  },
+  {
+    "PokemonAttackID": "PK_002380_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4,
+      1
+    ],
+    "AttackLogicID": "100400010",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_25",
+    "PokemonAttackNameID": "PokemonAttackName_ID_178"
+  },
+  {
+    "PokemonAttackID": "PK_002390_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "100100130",
+    "AttackLogicParameters": [
+      "Lightning",
+      "10"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_13",
+    "PokemonAttackNameID": "PokemonAttackName_ID_77"
+  },
+  {
+    "PokemonAttackID": "PK_002400_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5,
+      5,
+      5
+    ],
+    "AttackLogicID": "100100110",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_11",
+    "PokemonAttackNameID": "PokemonAttackName_ID_179"
+  },
+  {
+    "PokemonAttackID": "PK_002410_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5,
+      5
+    ],
+    "AttackLogicID": "100100050",
+    "AttackLogicParameters": [
+      "40"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_5",
+    "PokemonAttackNameID": "PokemonAttackName_ID_86"
+  },
+  {
+    "PokemonAttackID": "PK_002420_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_5"
+  },
+  {
+    "PokemonAttackID": "PK_002430_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5,
+      5
+    ],
+    "AttackLogicID": "100400030",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_27",
+    "PokemonAttackNameID": "PokemonAttackName_ID_180"
+  },
+  {
+    "PokemonAttackID": "PK_002440_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      5
+    ],
+    "AttackLogicID": "100300020",
+    "AttackLogicParameters": [
+      "Paralyzed"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_24",
+    "PokemonAttackNameID": "PokemonAttackName_ID_92"
+  },
+  {
+    "PokemonAttackID": "PK_002450_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_107"
+  },
+  {
+    "PokemonAttackID": "PK_002450_ATK_02",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "100700020",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_57",
+    "PokemonAttackNameID": "PokemonAttackName_ID_202"
+  },
+  {
+    "PokemonAttackID": "PK_002460_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "100600010",
+    "AttackLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_39",
+    "PokemonAttackNameID": "PokemonAttackName_ID_181"
+  },
+  {
+    "PokemonAttackID": "PK_002470_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_54"
+  },
+  {
+    "PokemonAttackID": "PK_002480_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      6
+    ],
+    "AttackLogicID": "100200030",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_52",
+    "PokemonAttackNameID": "PokemonAttackName_ID_185"
+  },
+  {
+    "PokemonAttackID": "PK_002490_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_186"
+  },
+  {
+    "PokemonAttackID": "PK_002500_ATK_01",
+    "Damage": 10,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "100100220",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_51",
+    "PokemonAttackNameID": "PokemonAttackName_ID_182"
+  },
+  {
+    "PokemonAttackID": "PK_002510_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Asleep"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_183"
+  },
+  {
+    "PokemonAttackID": "PK_002520_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "100200010",
+    "AttackLogicParameters": [
+      "10"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_21",
+    "PokemonAttackNameID": "PokemonAttackName_ID_184"
+  },
+  {
+    "PokemonAttackID": "PK_002530_ATK_01",
+    "Damage": 60,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_94"
+  },
+  {
+    "PokemonAttackID": "PK_002540_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "100100040",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_4",
+    "PokemonAttackNameID": "PokemonAttackName_ID_187"
+  },
+  {
+    "PokemonAttackID": "PK_002550_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_188"
+  },
+  {
+    "PokemonAttackID": "PK_002560_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_189"
+  },
+  {
+    "PokemonAttackID": "PK_002570_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_190"
+  },
+  {
+    "PokemonAttackID": "PK_002580_ATK_01",
+    "Damage": 120,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      7,
+      7,
+      1
+    ],
+    "AttackLogicID": "100400020",
+    "AttackLogicParameters": [
+      "30"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_26",
+    "PokemonAttackNameID": "PokemonAttackName_ID_191"
+  },
+  {
+    "PokemonAttackID": "PK_002590_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_118"
+  },
+  {
+    "PokemonAttackID": "PK_002600_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      7,
+      1
+    ],
+    "AttackLogicID": "100100230",
+    "AttackLogicParameters": [
+      "60"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_53",
+    "PokemonAttackNameID": "PokemonAttackName_ID_192"
+  },
+  {
+    "PokemonAttackID": "PK_002610_ATK_01",
+    "Damage": 90,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7,
+      7,
+      7
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_193"
+  },
+  {
+    "PokemonAttackID": "PK_002620_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "100600050",
+    "AttackLogicParameters": [
+      "DOGARS",
+      "1"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_43",
+    "PokemonAttackNameID": "PokemonAttackName_ID_194"
+  },
+  {
+    "PokemonAttackID": "PK_002630_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8,
+      8
+    ],
+    "AttackLogicID": "100400080",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_54",
+    "PokemonAttackNameID": "PokemonAttackName_ID_195"
+  },
+  {
+    "PokemonAttackID": "PK_002640_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_12"
+  },
+  {
+    "PokemonAttackID": "PK_002650_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_13"
+  },
+  {
+    "PokemonAttackID": "PK_002660_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_9"
+  },
+  {
+    "PokemonAttackID": "PK_002670_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      8
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Poisoned"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_196"
+  },
+  {
+    "PokemonAttackID": "PK_002680_ATK_01",
+    "Damage": 70,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      8,
+      1
+    ],
+    "AttackLogicID": "100100080",
+    "AttackLogicParameters": [
+      "Poisoned",
+      "50"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_8",
+    "PokemonAttackNameID": "PokemonAttackName_ID_137"
+  },
+  {
+    "PokemonAttackID": "PK_002690_ATK_01",
+    "Damage": 90,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      3,
+      4,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_203"
+  },
+  {
+    "PokemonAttackID": "PK_002700_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_69"
+  },
+  {
+    "PokemonAttackID": "PK_002710_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_70"
+  },
+  {
+    "PokemonAttackID": "PK_002720_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "100100220",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_51",
+    "PokemonAttackNameID": "PokemonAttackName_ID_197"
+  },
+  {
+    "PokemonAttackID": "PK_002730_ATK_01",
+    "Damage": 40,
+    "IsNoDamage": false,
+    "DamageSymbol": 1,
+    "AttackCost": [
+      1,
+      1,
+      1
+    ],
+    "AttackLogicID": "100100240",
+    "AttackLogicParameters": [
+      "80"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_55",
+    "PokemonAttackNameID": "PokemonAttackName_ID_198"
+  },
+  {
+    "PokemonAttackID": "PK_002740_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 2,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100100030",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_3",
+    "PokemonAttackNameID": "PokemonAttackName_ID_199"
+  },
+  {
+    "PokemonAttackID": "PK_002750_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100600080",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_56",
+    "PokemonAttackNameID": "PokemonAttackName_ID_200"
+  },
+  {
+    "PokemonAttackID": "PK_002760_ATK_01",
+    "Damage": 80,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      4,
+      4,
+      1
+    ],
+    "AttackLogicID": "100200010",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_21",
+    "PokemonAttackNameID": "PokemonAttackName_ID_65"
+  },
+  {
+    "PokemonAttackID": "PK_002770_ATK_01",
+    "Damage": 30,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      7
+    ],
+    "AttackLogicID": "100100100",
+    "AttackLogicParameters": [
+      "10"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_10",
+    "PokemonAttackNameID": "PokemonAttackName_ID_166"
+  },
+  {
+    "PokemonAttackID": "PK_002780_ATK_01",
+    "Damage": 50,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      6
+    ],
+    "AttackLogicID": "100100040",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "ATTACK_DESC_4",
+    "PokemonAttackNameID": "PokemonAttackName_ID_26"
+  },
+  {
+    "PokemonAttackID": "PK_002790_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100300010",
+    "AttackLogicParameters": [
+      "Asleep"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_23",
+    "PokemonAttackNameID": "PokemonAttackName_ID_167"
+  },
+  {
+    "PokemonAttackID": "PK_002800_ATK_01",
+    "Damage": 20,
+    "IsNoDamage": false,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      2
+    ],
+    "AttackLogicID": "",
+    "AttackLogicParameters": [],
+    "DescriptionMSID": "",
+    "PokemonAttackNameID": "PokemonAttackName_ID_14"
+  },
+  {
+    "PokemonAttackID": "PK_002810_ATK_01",
+    "Damage": 0,
+    "IsNoDamage": true,
+    "DamageSymbol": 0,
+    "AttackCost": [
+      1
+    ],
+    "AttackLogicID": "100400070",
+    "AttackLogicParameters": [
+      "20"
+    ],
+    "DescriptionMSID": "ATTACK_DESC_31",
+    "PokemonAttackNameID": "PokemonAttackName_ID_119"
+  }
+]

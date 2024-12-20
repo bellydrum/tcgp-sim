@@ -1,0 +1,245 @@
+[
+  {
+    "TrainerID": "TR_000010",
+    "CharacterID": "KIZUGUSURI",
+    "TrainerType": 2,
+    "TrainerLogicID": "200100090",
+    "TrainerLogicParameters": [
+      "1",
+      "20"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_10"
+  },
+  {
+    "TrainerID": "TR_000020",
+    "CharacterID": "SPEEDER",
+    "TrainerType": 2,
+    "TrainerLogicID": "200100040",
+    "TrainerLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_11"
+  },
+  {
+    "TrainerID": "TR_000030",
+    "CharacterID": "MONSTERBALL",
+    "TrainerType": 2,
+    "TrainerLogicID": "200100050",
+    "TrainerLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_12"
+  },
+  {
+    "TrainerID": "TR_000040",
+    "CharacterID": "HAKASENOKENKYU",
+    "TrainerType": 1,
+    "TrainerLogicID": "200100060",
+    "TrainerLogicParameters": [
+      "2"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_13"
+  },
+  {
+    "TrainerID": "TR_000050",
+    "CharacterID": "HANDSCOPE",
+    "TrainerType": 2,
+    "TrainerLogicID": "200100010",
+    "TrainerLogicParameters": [],
+    "DescriptionMSID": "TRAINER_DESC_14"
+  },
+  {
+    "TrainerID": "TR_000060",
+    "CharacterID": "POKEMONZUKAN",
+    "TrainerType": 2,
+    "TrainerLogicID": "200100030",
+    "TrainerLogicParameters": [
+      "3"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_15"
+  },
+  {
+    "TrainerID": "TR_000070",
+    "CharacterID": "REDCARD",
+    "TrainerType": 2,
+    "TrainerLogicID": "200100020",
+    "TrainerLogicParameters": [
+      "3"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_16"
+  },
+  {
+    "TrainerID": "TR_000080",
+    "CharacterID": "KAINOKASEKI",
+    "TrainerType": 4,
+    "TrainerLogicID": "200300010",
+    "TrainerLogicParameters": [
+      "40",
+      "Colorless"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_8"
+  },
+  {
+    "TrainerID": "TR_000090",
+    "CharacterID": "KOURANOKASEKI",
+    "TrainerType": 4,
+    "TrainerLogicID": "200300010",
+    "TrainerLogicParameters": [
+      "40",
+      "Colorless"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_8"
+  },
+  {
+    "TrainerID": "TR_000100",
+    "CharacterID": "HIMITSUNOKOHAKU",
+    "TrainerType": 4,
+    "TrainerLogicID": "200300010",
+    "TrainerLogicParameters": [
+      "40",
+      "Colorless"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_8"
+  },
+  {
+    "TrainerID": "TR_000110",
+    "CharacterID": "ERIKA",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200010",
+    "TrainerLogicParameters": [
+      "Grass",
+      "1",
+      "50"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_1"
+  },
+  {
+    "TrainerID": "TR_000120",
+    "CharacterID": "KASUMI",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200020",
+    "TrainerLogicParameters": [
+      "Water",
+      "Water"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_2"
+  },
+  {
+    "TrainerID": "TR_000130",
+    "CharacterID": "KATSURA",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200070",
+    "TrainerLogicParameters": [
+      "KYUKON",
+      "GALLOP",
+      "BOOBER",
+      "30"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_6"
+  },
+  {
+    "TrainerID": "TR_000140",
+    "CharacterID": "KYOU",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200050",
+    "TrainerLogicParameters": [
+      "BETBETON",
+      "MATADOGAS"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_5"
+  },
+  {
+    "TrainerID": "TR_000150",
+    "CharacterID": "SAKAKI",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200080",
+    "TrainerLogicParameters": [
+      "10"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_7"
+  },
+  {
+    "TrainerID": "TR_000160",
+    "CharacterID": "TAKESHI",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200030",
+    "TrainerLogicParameters": [
+      "Fighting",
+      "1",
+      "GOLONYA",
+      "IWARK"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_3"
+  },
+  {
+    "TrainerID": "TR_000170",
+    "CharacterID": "NATSUME",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200060",
+    "TrainerLogicParameters": [],
+    "DescriptionMSID": "TRAINER_DESC_9"
+  },
+  {
+    "TrainerID": "TR_000180",
+    "CharacterID": "MATISSE",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200040",
+    "TrainerLogicParameters": [
+      "RAICHU",
+      "MARUMINE",
+      "ELEBOO",
+      "Lightning"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_4"
+  },
+  {
+    "TrainerID": "TR_000190",
+    "CharacterID": "MABOROSHINOSEKIBAN",
+    "TrainerType": 2,
+    "TrainerLogicID": "200100070",
+    "TrainerLogicParameters": [
+      "Psychic"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_18"
+  },
+  {
+    "TrainerID": "TR_000200",
+    "CharacterID": "POKEMONNOFUE",
+    "TrainerType": 2,
+    "TrainerLogicID": "200100080",
+    "TrainerLogicParameters": [
+      "1"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_17"
+  },
+  {
+    "TrainerID": "TR_000210",
+    "CharacterID": "GREEN",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200090",
+    "TrainerLogicParameters": [
+      "10"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_20"
+  },
+  {
+    "TrainerID": "TR_000220",
+    "CharacterID": "KAKEDASHICHOSAIN",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200100",
+    "TrainerLogicParameters": [
+      "MEW_EX"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_19"
+  },
+  {
+    "TrainerID": "TR_000230",
+    "CharacterID": "LEAF",
+    "TrainerType": 1,
+    "TrainerLogicID": "200200110",
+    "TrainerLogicParameters": [
+      "2"
+    ],
+    "DescriptionMSID": "TRAINER_DESC_11"
+  }
+]

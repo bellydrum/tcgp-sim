@@ -1,0 +1,94 @@
+[
+  {
+    "SoloBattleTrySumKey": 10,
+    "DescriptionMSID": "CauseSpecialConditionParalyzed_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 11,
+    "DescriptionMSID": "CauseSpecialConditionAsleep_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 12,
+    "DescriptionMSID": "CauseSpecialConditionBurned_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 13,
+    "DescriptionMSID": "CauseSpecialConditionConfused_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 14,
+    "DescriptionMSID": "CauseSpecialConditionPoisoned_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 20,
+    "DescriptionMSID": "KnockOutOpponentActiveByColorlessAttack_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 21,
+    "DescriptionMSID": "KnockOutOpponentActiveByGrassAttack_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 22,
+    "DescriptionMSID": "KnockOutOpponentActiveByFireAttack_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 23,
+    "DescriptionMSID": "KnockOutOpponentActiveByWaterAttack_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 24,
+    "DescriptionMSID": "KnockOutOpponentActiveByLightningAttack_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 25,
+    "DescriptionMSID": "KnockOutOpponentActiveByPsychicAttack_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 26,
+    "DescriptionMSID": "KnockOutOpponentActiveByFightingAttack_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 27,
+    "DescriptionMSID": "KnockOutOpponentActiveByDarknessAttack_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 28,
+    "DescriptionMSID": "KnockOutOpponentActiveByMetalAttack_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 29,
+    "DescriptionMSID": "KnockOutOpponentActiveByDragonAttack_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 40,
+    "DescriptionMSID": "PlayBasicPokemon_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 41,
+    "DescriptionMSID": "PlayOneEvolutionPokemon_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 42,
+    "DescriptionMSID": "PlayTwoEvolutionPokemon_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 43,
+    "DescriptionMSID": "PlayEXPokemon_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 60,
+    "DescriptionMSID": "AttachEnergy_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 101,
+    "DescriptionMSID": "RecordDealtSomeDamage_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 102,
+    "DescriptionMSID": "RecordAcquiredSomePoint_MSID"
+  },
+  {
+    "SoloBattleTrySumKey": 103,
+    "DescriptionMSID": "RecordWonSomeBattle_MSID"
+  }
+]

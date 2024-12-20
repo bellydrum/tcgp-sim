@@ -1,0 +1,18 @@
+[
+  {
+    "PackCeilPointSharedGroupId": "A1_PROMO",
+    "ExpansionID": "PROMO-A"
+  },
+  {
+    "PackCeilPointSharedGroupId": "A1_STANDARD",
+    "ExpansionID": "A1"
+  },
+  {
+    "PackCeilPointSharedGroupId": "A1a_STANDARD",
+    "ExpansionID": "A1a"
+  },
+  {
+    "PackCeilPointSharedGroupId": "TUTORIAL",
+    "ExpansionID": "A1"
+  }
+]

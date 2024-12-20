@@ -1,0 +1,122 @@
+[
+  {
+    "FileID": "FILE_100020_EIEVUI",
+    "IllustrationIconID": "ICON_FILE_100020",
+    "ScheduleID": "SC_RELEASE",
+    "FileNameTextColor": 1
+  },
+  {
+    "FileID": "FILE_100030_NYARTH",
+    "IllustrationIconID": "ICON_FILE_100030",
+    "ScheduleID": "SC_SH_0002010_01",
+    "FileNameTextColor": 1
+  },
+  {
+    "FileID": "FILE_100040_LIZARDON",
+    "IllustrationIconID": "ICON_FILE_100040",
+    "ScheduleID": "SC_SH_2408010_04",
+    "FileNameTextColor": 2
+  },
+  {
+    "FileID": "FILE_100050_FUSHIGIBANA",
+    "IllustrationIconID": "ICON_FILE_100050",
+    "ScheduleID": "SC_SH_0002010_07",
+    "FileNameTextColor": 2
+  },
+  {
+    "FileID": "FILE_100060_GREEN_KAMEX",
+    "IllustrationIconID": "ICON_FILE_100060",
+    "ScheduleID": "SC_SH_2408010_01",
+    "FileNameTextColor": 2
+  },
+  {
+    "FileID": "FILE_100070_A1_LIZARDON",
+    "IllustrationIconID": "ICON_FILE_100070",
+    "ScheduleID": "SC_RELEASE",
+    "FileNameTextColor": 1
+  },
+  {
+    "FileID": "FILE_100080_A1_MEWTWO",
+    "IllustrationIconID": "ICON_FILE_100080",
+    "ScheduleID": "SC_RELEASE",
+    "FileNameTextColor": 2
+  },
+  {
+    "FileID": "FILE_100090_A1_PIKACHU",
+    "IllustrationIconID": "ICON_FILE_100090",
+    "ScheduleID": "SC_RELEASE",
+    "FileNameTextColor": 1
+  },
+  {
+    "FileID": "FILE_100100_MEWTWO",
+    "IllustrationIconID": "ICON_FILE_100100",
+    "ScheduleID": "SC_SH_0002010_05",
+    "FileNameTextColor": 2
+  },
+  {
+    "FileID": "FILE_100110_ERIKA_RUFFRESIA",
+    "IllustrationIconID": "ICON_FILE_100110",
+    "ScheduleID": "SC_A1_A2_GLOBAL",
+    "FileNameTextColor": 2
+  },
+  {
+    "FileID": "FILE_100120_SIRNIGHT",
+    "IllustrationIconID": "ICON_FILE_100120",
+    "ScheduleID": "SC_A1_A2_GLOBAL",
+    "FileNameTextColor": 2
+  },
+  {
+    "FileID": "FILE_100130_PIKACHU",
+    "IllustrationIconID": "ICON_FILE_100130",
+    "ScheduleID": "SC_SH_0002010_06",
+    "FileNameTextColor": 1
+  },
+  {
+    "FileID": "FILE_100270_MONSTERBALL_Ver2",
+    "IllustrationIconID": "ICON_FILE_100270",
+    "ScheduleID": "SC_RELEASE",
+    "FileNameTextColor": 2
+  },
+  {
+    "FileID": "FILE_100290_PremiumSet",
+    "IllustrationIconID": "ICON_FILE_100290",
+    "ScheduleID": "SC_RELEASE",
+    "FileNameTextColor": 2
+  },
+  {
+    "FileID": "FILE_100300_A1a_MEW",
+    "IllustrationIconID": "ICON_FILE_100300",
+    "ScheduleID": "SC_RELEASE_A1a",
+    "FileNameTextColor": 1
+  },
+  {
+    "FileID": "FILE_100310_REST_BIG_TREE",
+    "IllustrationIconID": "ICON_FILE_100310",
+    "ScheduleID": "SC_RELEASE_A1a",
+    "FileNameTextColor": 1
+  },
+  {
+    "FileID": "FILE_100320_PRISTINE_FOREST",
+    "IllustrationIconID": "ICON_FILE_100320",
+    "ScheduleID": "SC_RELEASE_A1a",
+    "FileNameTextColor": 1
+  },
+  {
+    "FileID": "FILE_100330_QUIET_LAKE",
+    "IllustrationIconID": "ICON_FILE_100330",
+    "ScheduleID": "SC_RELEASE_A1a",
+    "FileNameTextColor": 1
+  },
+  {
+    "FileID": "FILE_100340_BURN_GROUND",
+    "IllustrationIconID": "ICON_FILE_100340",
+    "ScheduleID": "SC_RELEASE_A1a",
+    "FileNameTextColor": 1
+  },
+  {
+    "FileID": "FILE_100350_FORGOTTEN_REMAINS",
+    "IllustrationIconID": "ICON_FILE_100350",
+    "ScheduleID": "SC_RELEASE_A1a",
+    "FileNameTextColor": 2
+  }
+]

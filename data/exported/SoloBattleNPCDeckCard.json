@@ -1,0 +1,7702 @@
+[
+  {
+    "NPCDeckCardID": "200100101",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100102",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": "KIRA_EFFECT_100023_Impact_BLU"
+  },
+  {
+    "NPCDeckCardID": "200100103",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_000720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100104",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_000720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100105",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_000770_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100106",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_000770_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100107",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_000850_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100108",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_000850_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100109",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_000870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100110",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_000870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100111",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100112",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100113",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100114",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100115",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100116",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100117",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100118",
+    "NPCDeckID": "2001001",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100119",
+    "NPCDeckID": "2001001",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100120",
+    "NPCDeckID": "2001001",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100201",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100202",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": "KIRA_EFFECT_100030_PokeBall_NON"
+  },
+  {
+    "NPCDeckCardID": "200100203",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_000140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100204",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_000140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100205",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_000210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100206",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_000210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100207",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_000270_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100208",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_000270_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100209",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_000290_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100210",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_000290_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100211",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100212",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100213",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100214",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100215",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100216",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100217",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100218",
+    "NPCDeckID": "2001002",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100219",
+    "NPCDeckID": "2001002",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100220",
+    "NPCDeckID": "2001002",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100301",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_000330_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100302",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_000340_00",
+    "CardSkinID": "KIRA_EFFECT_100017_Fire_ORN"
+  },
+  {
+    "NPCDeckCardID": "200100303",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_000370_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100304",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_000370_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100305",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_000390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100306",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_000390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100307",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_000490_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100308",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_000490_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100309",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_000510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100310",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_000510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100311",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100312",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100313",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100314",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100315",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100316",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100317",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100318",
+    "NPCDeckID": "2001003",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100319",
+    "NPCDeckID": "2001003",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100320",
+    "NPCDeckID": "2001003",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100401",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_000940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100402",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_000940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100403",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_000970_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100404",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_000970_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100405",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_000990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100406",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_000990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100407",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_001050_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100408",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_001050_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100409",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_001070_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100410",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_001100_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100411",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_001110_00",
+    "CardSkinID": "KIRA_EFFECT_100028_Lightning_YEL"
+  },
+  {
+    "NPCDeckCardID": "200100412",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100413",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_001870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100414",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100415",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100416",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100417",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_002100_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100418",
+    "NPCDeckID": "2001004",
+    "CardType": 1,
+    "CardID": "PK_10_002120_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100419",
+    "NPCDeckID": "2001004",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100420",
+    "NPCDeckID": "2001004",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100501",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100502",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100503",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100504",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001240_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100505",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001240_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100506",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001300_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100507",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001300_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100508",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001330_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100509",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001340_00",
+    "CardSkinID": "KIRA_EFFECT_100019_Heart_BLU"
+  },
+  {
+    "NPCDeckCardID": "200100510",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001350_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100511",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100512",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100513",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100514",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100515",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100516",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100517",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100518",
+    "NPCDeckID": "2001005",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100519",
+    "NPCDeckID": "2001005",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100520",
+    "NPCDeckID": "2001005",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100601",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001370_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100602",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100603",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100604",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001410_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100605",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001410_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100606",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100607",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001470_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100608",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001480_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100609",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100610",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001560_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100611",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001600_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100612",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001620_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100613",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001630_00",
+    "CardSkinID": "KIRA_EFFECT_100049_Ene_NON"
+  },
+  {
+    "NPCDeckCardID": "200100614",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100615",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100616",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100617",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100618",
+    "NPCDeckID": "2001006",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100619",
+    "NPCDeckID": "2001006",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100620",
+    "NPCDeckID": "2001006",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100701",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001640_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100702",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001640_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100703",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001660_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100704",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001670_00",
+    "CardSkinID": "KIRA_EFFECT_100047_Ene_NON"
+  },
+  {
+    "NPCDeckCardID": "200100705",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001690_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100706",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001700_00",
+    "CardSkinID": "KIRA_EFFECT_100047_Ene_NON"
+  },
+  {
+    "NPCDeckCardID": "200100707",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100708",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100709",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100710",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100711",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001760_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100712",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001760_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100713",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100714",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100715",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100716",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100717",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_002100_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100718",
+    "NPCDeckID": "2001007",
+    "CardType": 1,
+    "CardID": "PK_10_002120_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100719",
+    "NPCDeckID": "2001007",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100720",
+    "NPCDeckID": "2001007",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100801",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100802",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100803",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_000030_00",
+    "CardSkinID": "KIRA_EFFECT_100046_Wind_LGRN"
+  },
+  {
+    "NPCDeckCardID": "200100804",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_000140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100805",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_000150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100806",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_000160_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100807",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100808",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_000210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100809",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_000220_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100078_Star_YEL"
+  },
+  {
+    "NPCDeckCardID": "200100810",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100811",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100812",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100813",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_001920_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100814",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100815",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_001940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100816",
+    "NPCDeckID": "2001008",
+    "CardType": 1,
+    "CardID": "PK_10_002020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100817",
+    "NPCDeckID": "2001008",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100818",
+    "NPCDeckID": "2001008",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100819",
+    "NPCDeckID": "2001008",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100820",
+    "NPCDeckID": "2001008",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100901",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_000330_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100902",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_000340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100903",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_000350_00",
+    "CardSkinID": "KIRA_EFFECT_100050_Ene_NON"
+  },
+  {
+    "NPCDeckCardID": "200100904",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_000390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100905",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_000400_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100032_Fire_ORN"
+  },
+  {
+    "NPCDeckCardID": "200100906",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_000490_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100907",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_000500_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100908",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_000510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100909",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_000520_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100910",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100911",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100912",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100913",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_001920_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100914",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100915",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_001940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100916",
+    "NPCDeckID": "2001009",
+    "CardType": 1,
+    "CardID": "PK_10_002020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100917",
+    "NPCDeckID": "2001009",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100918",
+    "NPCDeckID": "2001009",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100919",
+    "NPCDeckID": "2001009",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200100920",
+    "NPCDeckID": "2001009",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101001",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101002",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101003",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_000550_00",
+    "CardSkinID": "KIRA_EFFECT_100023_Impact_BLU"
+  },
+  {
+    "NPCDeckCardID": "200101004",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_000720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101005",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_000730_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101006",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_000770_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101007",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_000780_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100011_BigRing_BLU"
+  },
+  {
+    "NPCDeckCardID": "200101008",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_000920_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101009",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_000930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101010",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101011",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101012",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101013",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_001920_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101014",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101015",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_001940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101016",
+    "NPCDeckID": "2001010",
+    "CardType": 1,
+    "CardID": "PK_10_002020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101017",
+    "NPCDeckID": "2001010",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101018",
+    "NPCDeckID": "2001010",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101019",
+    "NPCDeckID": "2001010",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101020",
+    "NPCDeckID": "2001010",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101101",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_000970_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101102",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_000980_00",
+    "CardSkinID": "KIRA_EFFECT_100027_Lightning_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200101103",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001050_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101104",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001060_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101105",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001070_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101106",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001080_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101107",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001090_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100015_BigRing_YEL"
+  },
+  {
+    "NPCDeckCardID": "200101108",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001100_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101109",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101110",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101111",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101112",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101113",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001920_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101114",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101115",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_001940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101116",
+    "NPCDeckID": "2001011",
+    "CardType": 1,
+    "CardID": "PK_10_002020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101117",
+    "NPCDeckID": "2001011",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101118",
+    "NPCDeckID": "2001011",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101119",
+    "NPCDeckID": "2001011",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101120",
+    "NPCDeckID": "2001011",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101201",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001130_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101202",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101203",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101204",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001160_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101205",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001170_00",
+    "CardSkinID": "KIRA_EFFECT_100033_Powder_PPL"
+  },
+  {
+    "NPCDeckCardID": "200101206",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001260_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101207",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001280_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100056_Impact_PPL"
+  },
+  {
+    "NPCDeckCardID": "200101208",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001350_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101209",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001360_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101210",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101211",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101212",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101213",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001920_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101214",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101215",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_001940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101216",
+    "NPCDeckID": "2001012",
+    "CardType": 1,
+    "CardID": "PK_10_002020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101217",
+    "NPCDeckID": "2001012",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101218",
+    "NPCDeckID": "2001012",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101219",
+    "NPCDeckID": "2001012",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101220",
+    "NPCDeckID": "2001012",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101301",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001470_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101302",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001480_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101303",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001490_00",
+    "CardSkinID": "KIRA_EFFECT_100024_Impact_ORN"
+  },
+  {
+    "NPCDeckCardID": "200101304",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101305",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001440_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101306",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001450_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100055_Impact_ORN"
+  },
+  {
+    "NPCDeckCardID": "200101307",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001500_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101308",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001620_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101309",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001630_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101310",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101311",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101312",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101313",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001920_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101314",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101315",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_001940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101316",
+    "NPCDeckID": "2001013",
+    "CardType": 1,
+    "CardID": "PK_10_002020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101317",
+    "NPCDeckID": "2001013",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101318",
+    "NPCDeckID": "2001013",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101319",
+    "NPCDeckID": "2001013",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101320",
+    "NPCDeckID": "2001013",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101401",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001690_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101402",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001700_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101403",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001710_00",
+    "CardSkinID": "KIRA_EFFECT_100047_Ene_NON"
+  },
+  {
+    "NPCDeckCardID": "200101404",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001640_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101405",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001650_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101406",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101407",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001730_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101408",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101409",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001750_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100014_BigRing_PPL"
+  },
+  {
+    "NPCDeckCardID": "200101410",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101411",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101412",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001910_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101413",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001920_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101414",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001930_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101415",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_001940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101416",
+    "NPCDeckID": "2001014",
+    "CardType": 1,
+    "CardID": "PK_10_002020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101417",
+    "NPCDeckID": "2001014",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101418",
+    "NPCDeckID": "2001014",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101419",
+    "NPCDeckID": "2001014",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101420",
+    "NPCDeckID": "2001014",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101501",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000330_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101502",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000330_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101503",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101504",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101505",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000360_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200101506",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000420_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101507",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000420_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101508",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101509",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000460_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101510",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000490_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101511",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000490_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101512",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_000500_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101513",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101514",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101515",
+    "NPCDeckID": "2001015",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101516",
+    "NPCDeckID": "2001015",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101517",
+    "NPCDeckID": "2001015",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101518",
+    "NPCDeckID": "2001015",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101519",
+    "NPCDeckID": "2001015",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101520",
+    "NPCDeckID": "2001015",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101601",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101602",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101603",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101604",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101605",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000040_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200101606",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101607",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101608",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000220_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101609",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101610",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101611",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_000320_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101612",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101613",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101614",
+    "NPCDeckID": "2001016",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101615",
+    "NPCDeckID": "2001016",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101616",
+    "NPCDeckID": "2001016",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101617",
+    "NPCDeckID": "2001016",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101618",
+    "NPCDeckID": "2001016",
+    "CardType": 2,
+    "CardID": "TR_10_000110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101619",
+    "NPCDeckID": "2001016",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101620",
+    "NPCDeckID": "2001016",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101701",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101702",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101703",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101704",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101705",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000560_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200101706",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000570_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101707",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000570_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101708",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000580_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101709",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000790_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101710",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000830_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101711",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_000900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101712",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101713",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101714",
+    "NPCDeckID": "2001017",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101715",
+    "NPCDeckID": "2001017",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101716",
+    "NPCDeckID": "2001017",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101717",
+    "NPCDeckID": "2001017",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101718",
+    "NPCDeckID": "2001017",
+    "CardType": 2,
+    "CardID": "TR_10_000120_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101719",
+    "NPCDeckID": "2001017",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101720",
+    "NPCDeckID": "2001017",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101801",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_000960_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200101802",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_000990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101803",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_000990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101804",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001000_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101805",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001050_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101806",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001050_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101807",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001060_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101808",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001070_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101809",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001070_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101810",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001080_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101811",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001080_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101812",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001090_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101813",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001100_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101814",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001100_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101815",
+    "NPCDeckID": "2001018",
+    "CardType": 1,
+    "CardID": "PK_10_001110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101816",
+    "NPCDeckID": "2001018",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101817",
+    "NPCDeckID": "2001018",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101818",
+    "NPCDeckID": "2001018",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101819",
+    "NPCDeckID": "2001018",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101820",
+    "NPCDeckID": "2001018",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101901",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001290_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200101902",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001130_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101903",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001130_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101904",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101905",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101906",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101907",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001190_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101908",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001200_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101909",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001200_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101910",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101911",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101912",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001220_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101913",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101914",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101915",
+    "NPCDeckID": "2001019",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101916",
+    "NPCDeckID": "2001019",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101917",
+    "NPCDeckID": "2001019",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101918",
+    "NPCDeckID": "2001019",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101919",
+    "NPCDeckID": "2001019",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200101920",
+    "NPCDeckID": "2001019",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102001",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102002",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102003",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001440_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102004",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001440_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102005",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001460_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102006",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001410_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102007",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001410_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102008",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001420_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102009",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102010",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102011",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001520_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102012",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102013",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102014",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001890_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102015",
+    "NPCDeckID": "2001020",
+    "CardType": 1,
+    "CardID": "PK_10_001900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102016",
+    "NPCDeckID": "2001020",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102017",
+    "NPCDeckID": "2001020",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102018",
+    "NPCDeckID": "2001020",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102019",
+    "NPCDeckID": "2001020",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102020",
+    "NPCDeckID": "2001020",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102101",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001660_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102102",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001660_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102103",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001670_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102104",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001670_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102105",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001680_00",
+    "CardSkinID": "KIRA_EFFECT_100019_Heart_BLU"
+  },
+  {
+    "NPCDeckCardID": "200102106",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001680_00",
+    "CardSkinID": "KIRA_EFFECT_100019_Heart_BLU"
+  },
+  {
+    "NPCDeckCardID": "200102107",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001690_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102108",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001690_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102109",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001700_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102110",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001700_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102111",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001710_00",
+    "CardSkinID": "KIRA_EFFECT_100047_Ene_NON"
+  },
+  {
+    "NPCDeckCardID": "200102112",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_001710_00",
+    "CardSkinID": "KIRA_EFFECT_100047_Ene_NON"
+  },
+  {
+    "NPCDeckCardID": "200102113",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_002030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102114",
+    "NPCDeckID": "2001021",
+    "CardType": 1,
+    "CardID": "PK_10_002040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102115",
+    "NPCDeckID": "2001021",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102116",
+    "NPCDeckID": "2001021",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102117",
+    "NPCDeckID": "2001021",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102118",
+    "NPCDeckID": "2001021",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102119",
+    "NPCDeckID": "2001021",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102120",
+    "NPCDeckID": "2001021",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102201",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001270_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102202",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001290_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102203",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001290_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102204",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001300_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102205",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001300_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102206",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102207",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102208",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001320_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100044_Heart_PNK"
+  },
+  {
+    "NPCDeckCardID": "200102209",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001320_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100044_Heart_PNK"
+  },
+  {
+    "NPCDeckCardID": "200102210",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001130_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102211",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001130_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102212",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102213",
+    "NPCDeckID": "2001022",
+    "CardType": 1,
+    "CardID": "PK_10_001140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102214",
+    "NPCDeckID": "2001022",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102215",
+    "NPCDeckID": "2001022",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102216",
+    "NPCDeckID": "2001022",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102217",
+    "NPCDeckID": "2001022",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102218",
+    "NPCDeckID": "2001022",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102219",
+    "NPCDeckID": "2001022",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102220",
+    "NPCDeckID": "2001022",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102301",
+    "NPCDeckID": "2001023",
+    "CardType": 1,
+    "CardID": "PK_10_000330_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102302",
+    "NPCDeckID": "2001023",
+    "CardType": 1,
+    "CardID": "PK_10_000330_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102303",
+    "NPCDeckID": "2001023",
+    "CardType": 1,
+    "CardID": "PK_10_000340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102304",
+    "NPCDeckID": "2001023",
+    "CardType": 1,
+    "CardID": "PK_10_000340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102305",
+    "NPCDeckID": "2001023",
+    "CardType": 1,
+    "CardID": "PK_10_000360_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102306",
+    "NPCDeckID": "2001023",
+    "CardType": 1,
+    "CardID": "PK_10_000360_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102307",
+    "NPCDeckID": "2001023",
+    "CardType": 1,
+    "CardID": "PK_10_000470_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100028_Feather_ORN"
+  },
+  {
+    "NPCDeckCardID": "200102308",
+    "NPCDeckID": "2001023",
+    "CardType": 1,
+    "CardID": "PK_10_000470_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100028_Feather_ORN"
+  },
+  {
+    "NPCDeckCardID": "200102309",
+    "NPCDeckID": "2001023",
+    "CardType": 1,
+    "CardID": "PK_10_000390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102310",
+    "NPCDeckID": "2001023",
+    "CardType": 1,
+    "CardID": "PK_10_000410_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102311",
+    "NPCDeckID": "2001023",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102312",
+    "NPCDeckID": "2001023",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102313",
+    "NPCDeckID": "2001023",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102314",
+    "NPCDeckID": "2001023",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102315",
+    "NPCDeckID": "2001023",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102316",
+    "NPCDeckID": "2001023",
+    "CardType": 2,
+    "CardID": "TR_10_000150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102317",
+    "NPCDeckID": "2001023",
+    "CardType": 2,
+    "CardID": "TR_10_000150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102318",
+    "NPCDeckID": "2001023",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102319",
+    "NPCDeckID": "2001023",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102320",
+    "NPCDeckID": "2001023",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102401",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_000940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102402",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_000940_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102403",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_000950_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100084_Thunder_YEL"
+  },
+  {
+    "NPCDeckCardID": "200102404",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_000950_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100084_Thunder_YEL"
+  },
+  {
+    "NPCDeckCardID": "200102405",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_000960_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102406",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_000960_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102407",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_000970_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102408",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_000970_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102409",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_000980_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102410",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_000980_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102411",
+    "NPCDeckID": "2001024",
+    "CardType": 1,
+    "CardID": "PK_10_001040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102412",
+    "NPCDeckID": "2001024",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102413",
+    "NPCDeckID": "2001024",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102414",
+    "NPCDeckID": "2001024",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102415",
+    "NPCDeckID": "2001024",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102416",
+    "NPCDeckID": "2001024",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102417",
+    "NPCDeckID": "2001024",
+    "CardType": 2,
+    "CardID": "TR_10_000180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102418",
+    "NPCDeckID": "2001024",
+    "CardType": 2,
+    "CardID": "TR_10_000180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102419",
+    "NPCDeckID": "2001024",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102420",
+    "NPCDeckID": "2001024",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102501",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102502",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102503",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102504",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102505",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_000040_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102506",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_000040_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102507",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_000210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102508",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_000210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102509",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_000230_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100012_BigRing_LGRN"
+  },
+  {
+    "NPCDeckCardID": "200102510",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_000230_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100012_BigRing_LGRN"
+  },
+  {
+    "NPCDeckCardID": "200102511",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_002030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102512",
+    "NPCDeckID": "2001025",
+    "CardType": 1,
+    "CardID": "PK_10_002030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102513",
+    "NPCDeckID": "2001025",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102514",
+    "NPCDeckID": "2001025",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102515",
+    "NPCDeckID": "2001025",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102516",
+    "NPCDeckID": "2001025",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102517",
+    "NPCDeckID": "2001025",
+    "CardType": 2,
+    "CardID": "TR_10_000110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102518",
+    "NPCDeckID": "2001025",
+    "CardType": 2,
+    "CardID": "TR_10_000110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102519",
+    "NPCDeckID": "2001025",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102520",
+    "NPCDeckID": "2001025",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102601",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102602",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102603",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000760_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102604",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000760_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102605",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102606",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102607",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000880_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102608",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000880_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102609",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000890_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100085_Triangle_BLU"
+  },
+  {
+    "NPCDeckCardID": "200102610",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000890_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100085_Triangle_BLU"
+  },
+  {
+    "NPCDeckCardID": "200102611",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000840_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102612",
+    "NPCDeckID": "2001026",
+    "CardType": 1,
+    "CardID": "PK_10_000840_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102613",
+    "NPCDeckID": "2001026",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102614",
+    "NPCDeckID": "2001026",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102615",
+    "NPCDeckID": "2001026",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102616",
+    "NPCDeckID": "2001026",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102617",
+    "NPCDeckID": "2001026",
+    "CardType": 2,
+    "CardID": "TR_10_000120_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102618",
+    "NPCDeckID": "2001026",
+    "CardType": 2,
+    "CardID": "TR_10_000120_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102619",
+    "NPCDeckID": "2001026",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102620",
+    "NPCDeckID": "2001026",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102701",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102702",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102703",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001440_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102704",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001440_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102705",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001460_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102706",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001460_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200102707",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102708",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102709",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001530_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100079_Stone_BWN"
+  },
+  {
+    "NPCDeckCardID": "200102710",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001530_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100079_Stone_BWN"
+  },
+  {
+    "NPCDeckCardID": "200102711",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001550_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102712",
+    "NPCDeckID": "2001027",
+    "CardType": 1,
+    "CardID": "PK_10_001550_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102713",
+    "NPCDeckID": "2001027",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102714",
+    "NPCDeckID": "2001027",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102715",
+    "NPCDeckID": "2001027",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102716",
+    "NPCDeckID": "2001027",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102717",
+    "NPCDeckID": "2001027",
+    "CardType": 2,
+    "CardID": "TR_10_000150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102718",
+    "NPCDeckID": "2001027",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102719",
+    "NPCDeckID": "2001027",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102720",
+    "NPCDeckID": "2001027",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102801",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102802",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102803",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": "KIRA_EFFECT_100030_PokeBall_NON"
+  },
+  {
+    "NPCDeckCardID": "200102804",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": "KIRA_EFFECT_100030_PokeBall_NON"
+  },
+  {
+    "NPCDeckCardID": "200102805",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000050_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102806",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000050_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102807",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000060_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102808",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000080_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102809",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000080_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102810",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000090_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102811",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102812",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000120_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102813",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102814",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102815",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102816",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000240_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102817",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000270_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102818",
+    "NPCDeckID": "2001028",
+    "CardType": 1,
+    "CardID": "PK_10_000310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102819",
+    "NPCDeckID": "2001028",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102820",
+    "NPCDeckID": "2001028",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102901",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102902",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102903",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102904",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102905",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000030_00",
+    "CardSkinID": "KIRA_EFFECT_100046_Wind_LGRN"
+  },
+  {
+    "NPCDeckCardID": "200102906",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000050_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102907",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000050_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102908",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000060_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102909",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000080_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102910",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000080_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102911",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000090_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102912",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102913",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102914",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000250_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100063_Powder_LGRN"
+  },
+  {
+    "NPCDeckCardID": "200102915",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_000250_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100063_Powder_LGRN"
+  },
+  {
+    "NPCDeckCardID": "200102916",
+    "NPCDeckID": "2001029",
+    "CardType": 1,
+    "CardID": "PK_10_001980_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102917",
+    "NPCDeckID": "2001029",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102918",
+    "NPCDeckID": "2001029",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102919",
+    "NPCDeckID": "2001029",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200102920",
+    "NPCDeckID": "2001029",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103001",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103002",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103003",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103004",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103005",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000040_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200103006",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103007",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000140_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103008",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103009",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103010",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103011",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_000320_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103012",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_001980_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103013",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_002030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103014",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_002030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103015",
+    "NPCDeckID": "2001030",
+    "CardType": 1,
+    "CardID": "PK_10_002040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103016",
+    "NPCDeckID": "2001030",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103017",
+    "NPCDeckID": "2001030",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103018",
+    "NPCDeckID": "2001030",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103019",
+    "NPCDeckID": "2001030",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103020",
+    "NPCDeckID": "2001030",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103101",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103102",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103103",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103104",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103105",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_000040_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200103106",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_000040_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200103107",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_000290_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103108",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_000290_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103109",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_000300_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100040_FlowerShower_RED"
+  },
+  {
+    "NPCDeckCardID": "200103110",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_000300_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100040_FlowerShower_RED"
+  },
+  {
+    "NPCDeckCardID": "200103111",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_002030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103112",
+    "NPCDeckID": "2001031",
+    "CardType": 1,
+    "CardID": "PK_10_002030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103113",
+    "NPCDeckID": "2001031",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103114",
+    "NPCDeckID": "2001031",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103115",
+    "NPCDeckID": "2001031",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103116",
+    "NPCDeckID": "2001031",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103117",
+    "NPCDeckID": "2001031",
+    "CardType": 2,
+    "CardID": "TR_10_000110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103118",
+    "NPCDeckID": "2001031",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103119",
+    "NPCDeckID": "2001031",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103120",
+    "NPCDeckID": "2001031",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103201",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000590_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103202",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000600_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103203",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000620_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103204",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000680_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103205",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000700_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103206",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000710_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103207",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103208",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103209",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103210",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103211",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000790_00",
+    "CardSkinID": "KIRA_EFFECT_100012_Bubble_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200103212",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000790_00",
+    "CardSkinID": "KIRA_EFFECT_100012_Bubble_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200103213",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000850_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103214",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_000860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103215",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103216",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_001860_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103217",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_001870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103218",
+    "NPCDeckID": "2001032",
+    "CardType": 1,
+    "CardID": "PK_10_002010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103219",
+    "NPCDeckID": "2001032",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103220",
+    "NPCDeckID": "2001032",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103301",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000600_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103302",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000590_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103303",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000600_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103304",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103305",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103306",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000730_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103307",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103308",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103309",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000750_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100076_Star_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200103310",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000790_00",
+    "CardSkinID": "KIRA_EFFECT_100012_Bubble_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200103311",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_000790_00",
+    "CardSkinID": "KIRA_EFFECT_100012_Bubble_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200103312",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103313",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103314",
+    "NPCDeckID": "2001033",
+    "CardType": 1,
+    "CardID": "PK_10_002000_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103315",
+    "NPCDeckID": "2001033",
+    "CardType": 2,
+    "CardID": "TR_90_000060_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103316",
+    "NPCDeckID": "2001033",
+    "CardType": 2,
+    "CardID": "TR_90_000060_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103317",
+    "NPCDeckID": "2001033",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103318",
+    "NPCDeckID": "2001033",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103319",
+    "NPCDeckID": "2001033",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103320",
+    "NPCDeckID": "2001033",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103401",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_000720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103402",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_000720_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103403",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_000730_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103404",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_000730_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103405",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_000740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103406",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_000740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103407",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_000750_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103408",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_000750_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103409",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_000790_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103410",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_000790_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103411",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_90_002760_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200103412",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103413",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_001990_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103414",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_002000_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103415",
+    "NPCDeckID": "2001034",
+    "CardType": 1,
+    "CardID": "PK_10_002000_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103416",
+    "NPCDeckID": "2001034",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103417",
+    "NPCDeckID": "2001034",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103418",
+    "NPCDeckID": "2001034",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103419",
+    "NPCDeckID": "2001034",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103420",
+    "NPCDeckID": "2001034",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103501",
+    "NPCDeckID": "2001035",
+    "CardType": 1,
+    "CardID": "PK_10_000570_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103502",
+    "NPCDeckID": "2001035",
+    "CardType": 1,
+    "CardID": "PK_10_000570_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103503",
+    "NPCDeckID": "2001035",
+    "CardType": 1,
+    "CardID": "PK_10_000580_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103504",
+    "NPCDeckID": "2001035",
+    "CardType": 1,
+    "CardID": "PK_10_000580_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103505",
+    "NPCDeckID": "2001035",
+    "CardType": 1,
+    "CardID": "PK_10_000740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103506",
+    "NPCDeckID": "2001035",
+    "CardType": 1,
+    "CardID": "PK_10_000740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103507",
+    "NPCDeckID": "2001035",
+    "CardType": 1,
+    "CardID": "PK_10_000760_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100017_Bubble_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200103508",
+    "NPCDeckID": "2001035",
+    "CardType": 1,
+    "CardID": "PK_10_000760_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100017_Bubble_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200103509",
+    "NPCDeckID": "2001035",
+    "CardType": 1,
+    "CardID": "PK_90_002760_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200103510",
+    "NPCDeckID": "2001035",
+    "CardType": 1,
+    "CardID": "PK_90_002760_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200103511",
+    "NPCDeckID": "2001035",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103512",
+    "NPCDeckID": "2001035",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103513",
+    "NPCDeckID": "2001035",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103514",
+    "NPCDeckID": "2001035",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103515",
+    "NPCDeckID": "2001035",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103516",
+    "NPCDeckID": "2001035",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103517",
+    "NPCDeckID": "2001035",
+    "CardType": 2,
+    "CardID": "TR_10_000120_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103518",
+    "NPCDeckID": "2001035",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103519",
+    "NPCDeckID": "2001035",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103520",
+    "NPCDeckID": "2001035",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103601",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103602",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103603",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002160_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103604",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002170_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200103605",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103606",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103607",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002190_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103608",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002190_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103609",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002200_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103610",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103611",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103612",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002220_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103613",
+    "NPCDeckID": "2001036",
+    "CardType": 1,
+    "CardID": "PK_10_002230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103614",
+    "NPCDeckID": "2001036",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103615",
+    "NPCDeckID": "2001036",
+    "CardType": 2,
+    "CardID": "TR_90_000060_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103616",
+    "NPCDeckID": "2001036",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103617",
+    "NPCDeckID": "2001036",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103618",
+    "NPCDeckID": "2001036",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103619",
+    "NPCDeckID": "2001036",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103620",
+    "NPCDeckID": "2001036",
+    "CardType": 2,
+    "CardID": "TR_10_000230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103701",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_000370_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103702",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_000370_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103703",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_000380_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103704",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_000380_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103705",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_002240_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103706",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_002240_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103707",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_002250_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103708",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_002250_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103709",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_000480_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103710",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_002260_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103711",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_002270_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103712",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_002270_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103713",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_002280_00",
+    "CardSkinID": "KIRA_EFFECT_100017_Fire_ORN"
+  },
+  {
+    "NPCDeckCardID": "200103714",
+    "NPCDeckID": "2001037",
+    "CardType": 1,
+    "CardID": "PK_10_002280_00",
+    "CardSkinID": "KIRA_EFFECT_100017_Fire_ORN"
+  },
+  {
+    "NPCDeckCardID": "200103715",
+    "NPCDeckID": "2001037",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103716",
+    "NPCDeckID": "2001037",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103717",
+    "NPCDeckID": "2001037",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103718",
+    "NPCDeckID": "2001037",
+    "CardType": 2,
+    "CardID": "TR_10_000130_00",
+    "CardSkinID": "KIRA_EFFECT_100034_Rhombus_ORN"
+  },
+  {
+    "NPCDeckCardID": "200103719",
+    "NPCDeckID": "2001037",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103720",
+    "NPCDeckID": "2001037",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103801",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103802",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103803",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002320_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200103804",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002330_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103805",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103806",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103807",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002350_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103808",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002360_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103809",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002360_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103810",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002370_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103811",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002380_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103812",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103813",
+    "NPCDeckID": "2001038",
+    "CardType": 1,
+    "CardID": "PK_10_002740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103814",
+    "NPCDeckID": "2001038",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103815",
+    "NPCDeckID": "2001038",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103816",
+    "NPCDeckID": "2001038",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103817",
+    "NPCDeckID": "2001038",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103818",
+    "NPCDeckID": "2001038",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103819",
+    "NPCDeckID": "2001038",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103820",
+    "NPCDeckID": "2001038",
+    "CardType": 2,
+    "CardID": "TR_10_000230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103901",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103902",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103903",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002400_00",
+    "CardSkinID": "KIRA_EFFECT_100028_Lightning_YEL"
+  },
+  {
+    "NPCDeckCardID": "200103904",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002400_00",
+    "CardSkinID": "KIRA_EFFECT_100028_Lightning_YEL"
+  },
+  {
+    "NPCDeckCardID": "200103905",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002410_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103906",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002410_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103907",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_001020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103908",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_001020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103909",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002420_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103910",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002420_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103911",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103912",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103913",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002060_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103914",
+    "NPCDeckID": "2001039",
+    "CardType": 1,
+    "CardID": "PK_10_002060_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103915",
+    "NPCDeckID": "2001039",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103916",
+    "NPCDeckID": "2001039",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103917",
+    "NPCDeckID": "2001039",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103918",
+    "NPCDeckID": "2001039",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103919",
+    "NPCDeckID": "2001039",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200103920",
+    "NPCDeckID": "2001039",
+    "CardType": 2,
+    "CardID": "TR_10_000180_00",
+    "CardSkinID": "KIRA_EFFECT_100028_Lightning_YEL"
+  },
+  {
+    "NPCDeckCardID": "200104001",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002450_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200104002",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002460_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104003",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002460_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104004",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002470_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104005",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002470_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104006",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002500_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104007",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104008",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104009",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002520_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104010",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002520_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104011",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002480_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104012",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002490_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104013",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002490_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104014",
+    "NPCDeckID": "2001040",
+    "CardType": 1,
+    "CardID": "PK_10_002530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104015",
+    "NPCDeckID": "2001040",
+    "CardType": 2,
+    "CardID": "TR_10_000190_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104016",
+    "NPCDeckID": "2001040",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104017",
+    "NPCDeckID": "2001040",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104018",
+    "NPCDeckID": "2001040",
+    "CardType": 2,
+    "CardID": "TR_10_000220_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104019",
+    "NPCDeckID": "2001040",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104020",
+    "NPCDeckID": "2001040",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104101",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104102",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104103",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002550_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104104",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002560_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104105",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002560_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104106",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002570_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104107",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002570_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104108",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002580_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104109",
+    "NPCDeckID": "2001041",
+    "CardType": 2,
+    "CardID": "TR_10_000100_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104110",
+    "NPCDeckID": "2001041",
+    "CardType": 2,
+    "CardID": "TR_10_000100_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104111",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002590_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200104112",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002600_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104113",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002610_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104114",
+    "NPCDeckID": "2001041",
+    "CardType": 1,
+    "CardID": "PK_10_002730_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104115",
+    "NPCDeckID": "2001041",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104116",
+    "NPCDeckID": "2001041",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104117",
+    "NPCDeckID": "2001041",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104118",
+    "NPCDeckID": "2001041",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104119",
+    "NPCDeckID": "2001041",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104120",
+    "NPCDeckID": "2001041",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104201",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_001370_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104202",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_001370_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104203",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_001380_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104204",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_001380_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104205",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_001390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104206",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_001390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104207",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_001400_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104208",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_001400_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104209",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_002560_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104210",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_002560_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104211",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_002570_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104212",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_002570_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104213",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_002580_00",
+    "CardSkinID": "KIRA_EFFECT_100024_Impact_ORN"
+  },
+  {
+    "NPCDeckCardID": "200104214",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_002580_00",
+    "CardSkinID": "KIRA_EFFECT_100024_Impact_ORN"
+  },
+  {
+    "NPCDeckCardID": "200104215",
+    "NPCDeckID": "2001042",
+    "CardType": 1,
+    "CardID": "PK_10_001500_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104216",
+    "NPCDeckID": "2001042",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104217",
+    "NPCDeckID": "2001042",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104218",
+    "NPCDeckID": "2001042",
+    "CardType": 2,
+    "CardID": "TR_10_000160_00",
+    "CardSkinID": "KIRA_EFFECT_100045_Triangle_GRY"
+  },
+  {
+    "NPCDeckCardID": "200104219",
+    "NPCDeckID": "2001042",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104220",
+    "NPCDeckID": "2001042",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104301",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104302",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104303",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002160_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104304",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104305",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104306",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002550_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104307",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002700_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104308",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002700_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104309",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002710_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104310",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002710_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104311",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002720_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100062_Powder_BLU"
+  },
+  {
+    "NPCDeckCardID": "200104312",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002730_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104313",
+    "NPCDeckID": "2001043",
+    "CardType": 1,
+    "CardID": "PK_10_002740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104314",
+    "NPCDeckID": "2001043",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104315",
+    "NPCDeckID": "2001043",
+    "CardType": 2,
+    "CardID": "TR_10_000200_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104316",
+    "NPCDeckID": "2001043",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104317",
+    "NPCDeckID": "2001043",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104318",
+    "NPCDeckID": "2001043",
+    "CardType": 2,
+    "CardID": "TR_10_000210_00",
+    "CardSkinID": "KIRA_EFFECT_100044_Triangle_BLU"
+  },
+  {
+    "NPCDeckCardID": "200104319",
+    "NPCDeckID": "2001043",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104320",
+    "NPCDeckID": "2001043",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104401",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104402",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104403",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104404",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104405",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_000040_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200104406",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_000040_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200104407",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_002180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104408",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_002180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104409",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_002190_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104410",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_002190_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104411",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_002200_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100016_Botanical_GRN"
+  },
+  {
+    "NPCDeckCardID": "200104412",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_002200_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100016_Botanical_GRN"
+  },
+  {
+    "NPCDeckCardID": "200104413",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_002230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104414",
+    "NPCDeckID": "2001044",
+    "CardType": 1,
+    "CardID": "PK_10_002230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104415",
+    "NPCDeckID": "2001044",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104416",
+    "NPCDeckID": "2001044",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104417",
+    "NPCDeckID": "2001044",
+    "CardType": 2,
+    "CardID": "TR_10_000110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104418",
+    "NPCDeckID": "2001044",
+    "CardType": 2,
+    "CardID": "TR_10_000110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104419",
+    "NPCDeckID": "2001044",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104420",
+    "NPCDeckID": "2001044",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104501",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_000210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104502",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_000210_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104503",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_000230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104504",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_000230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104505",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_002170_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200104506",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_002170_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200104507",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_002180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104508",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_002180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104509",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_002190_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104510",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_002190_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104511",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_002200_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100016_Botanical_GRN"
+  },
+  {
+    "NPCDeckCardID": "200104512",
+    "NPCDeckID": "2001045",
+    "CardType": 1,
+    "CardID": "PK_10_002200_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100016_Botanical_GRN"
+  },
+  {
+    "NPCDeckCardID": "200104513",
+    "NPCDeckID": "2001045",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104514",
+    "NPCDeckID": "2001045",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104515",
+    "NPCDeckID": "2001045",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104516",
+    "NPCDeckID": "2001045",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104517",
+    "NPCDeckID": "2001045",
+    "CardType": 2,
+    "CardID": "TR_10_000110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104518",
+    "NPCDeckID": "2001045",
+    "CardType": 2,
+    "CardID": "TR_10_000110_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104519",
+    "NPCDeckID": "2001045",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104520",
+    "NPCDeckID": "2001045",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104601",
+    "NPCDeckID": "2001046",
+    "CardType": 1,
+    "CardID": "PK_10_000390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104602",
+    "NPCDeckID": "2001046",
+    "CardType": 1,
+    "CardID": "PK_10_000390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104603",
+    "NPCDeckID": "2001046",
+    "CardType": 1,
+    "CardID": "PK_10_000410_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104604",
+    "NPCDeckID": "2001046",
+    "CardType": 1,
+    "CardID": "PK_10_000410_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104605",
+    "NPCDeckID": "2001046",
+    "CardType": 1,
+    "CardID": "PK_10_000470_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100028_Feather_ORN"
+  },
+  {
+    "NPCDeckCardID": "200104606",
+    "NPCDeckID": "2001046",
+    "CardType": 1,
+    "CardID": "PK_10_000470_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100028_Feather_ORN"
+  },
+  {
+    "NPCDeckCardID": "200104607",
+    "NPCDeckID": "2001046",
+    "CardType": 1,
+    "CardID": "PK_10_002270_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104608",
+    "NPCDeckID": "2001046",
+    "CardType": 1,
+    "CardID": "PK_10_002270_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104609",
+    "NPCDeckID": "2001046",
+    "CardType": 1,
+    "CardID": "PK_10_002280_00",
+    "CardSkinID": "KIRA_EFFECT_100017_Fire_ORN"
+  },
+  {
+    "NPCDeckCardID": "200104610",
+    "NPCDeckID": "2001046",
+    "CardType": 1,
+    "CardID": "PK_10_002280_00",
+    "CardSkinID": "KIRA_EFFECT_100017_Fire_ORN"
+  },
+  {
+    "NPCDeckCardID": "200104611",
+    "NPCDeckID": "2001046",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104612",
+    "NPCDeckID": "2001046",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104613",
+    "NPCDeckID": "2001046",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104614",
+    "NPCDeckID": "2001046",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104615",
+    "NPCDeckID": "2001046",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104616",
+    "NPCDeckID": "2001046",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104617",
+    "NPCDeckID": "2001046",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104618",
+    "NPCDeckID": "2001046",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104619",
+    "NPCDeckID": "2001046",
+    "CardType": 2,
+    "CardID": "TR_10_000230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104620",
+    "NPCDeckID": "2001046",
+    "CardType": 2,
+    "CardID": "TR_10_000230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104701",
+    "NPCDeckID": "2001047",
+    "CardType": 1,
+    "CardID": "PK_10_002310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104702",
+    "NPCDeckID": "2001047",
+    "CardType": 1,
+    "CardID": "PK_10_002310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104703",
+    "NPCDeckID": "2001047",
+    "CardType": 1,
+    "CardID": "PK_10_002320_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200104704",
+    "NPCDeckID": "2001047",
+    "CardType": 1,
+    "CardID": "PK_10_002320_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200104705",
+    "NPCDeckID": "2001047",
+    "CardType": 1,
+    "CardID": "PK_10_002330_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100011_BigRing_BLU"
+  },
+  {
+    "NPCDeckCardID": "200104706",
+    "NPCDeckID": "2001047",
+    "CardType": 1,
+    "CardID": "PK_10_002330_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100011_BigRing_BLU"
+  },
+  {
+    "NPCDeckCardID": "200104707",
+    "NPCDeckID": "2001047",
+    "CardType": 1,
+    "CardID": "PK_10_000840_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104708",
+    "NPCDeckID": "2001047",
+    "CardType": 1,
+    "CardID": "PK_10_000840_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104709",
+    "NPCDeckID": "2001047",
+    "CardType": 1,
+    "CardID": "PK_10_002740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104710",
+    "NPCDeckID": "2001047",
+    "CardType": 1,
+    "CardID": "PK_10_002740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104711",
+    "NPCDeckID": "2001047",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104712",
+    "NPCDeckID": "2001047",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104713",
+    "NPCDeckID": "2001047",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104714",
+    "NPCDeckID": "2001047",
+    "CardType": 2,
+    "CardID": "TR_10_000120_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104715",
+    "NPCDeckID": "2001047",
+    "CardType": 2,
+    "CardID": "TR_10_000120_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104716",
+    "NPCDeckID": "2001047",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104717",
+    "NPCDeckID": "2001047",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104718",
+    "NPCDeckID": "2001047",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104719",
+    "NPCDeckID": "2001047",
+    "CardType": 2,
+    "CardID": "TR_10_000230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104720",
+    "NPCDeckID": "2001047",
+    "CardType": 2,
+    "CardID": "TR_10_000230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104801",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_002390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104802",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_002390_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104803",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_002400_00",
+    "CardSkinID": "KIRA_EFFECT_100028_Lightning_YEL"
+  },
+  {
+    "NPCDeckCardID": "200104804",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_002400_00",
+    "CardSkinID": "KIRA_EFFECT_100028_Lightning_YEL"
+  },
+  {
+    "NPCDeckCardID": "200104805",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_000970_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104806",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_000970_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104807",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_000980_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100083_Thunder_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200104808",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_000980_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100083_Thunder_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200104809",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_001040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104810",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_001040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104811",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_002420_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104812",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_002420_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104813",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_002430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104814",
+    "NPCDeckID": "2001048",
+    "CardType": 1,
+    "CardID": "PK_10_002430_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104815",
+    "NPCDeckID": "2001048",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104816",
+    "NPCDeckID": "2001048",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104817",
+    "NPCDeckID": "2001048",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104818",
+    "NPCDeckID": "2001048",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104819",
+    "NPCDeckID": "2001048",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104820",
+    "NPCDeckID": "2001048",
+    "CardType": 2,
+    "CardID": "TR_10_000180_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104901",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_001270_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104902",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_001290_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100065_Powder_PPL"
+  },
+  {
+    "NPCDeckCardID": "200104903",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_001290_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100065_Powder_PPL"
+  },
+  {
+    "NPCDeckCardID": "200104904",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_002450_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200104905",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_002450_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200104906",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_001300_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104907",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_001300_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104908",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_001310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104909",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_001310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104910",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_001320_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104911",
+    "NPCDeckID": "2001049",
+    "CardType": 1,
+    "CardID": "PK_10_001320_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104912",
+    "NPCDeckID": "2001049",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104913",
+    "NPCDeckID": "2001049",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104914",
+    "NPCDeckID": "2001049",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104915",
+    "NPCDeckID": "2001049",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104916",
+    "NPCDeckID": "2001049",
+    "CardType": 2,
+    "CardID": "TR_10_000220_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104917",
+    "NPCDeckID": "2001049",
+    "CardType": 2,
+    "CardID": "TR_10_000220_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104918",
+    "NPCDeckID": "2001049",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104919",
+    "NPCDeckID": "2001049",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200104920",
+    "NPCDeckID": "2001049",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105001",
+    "NPCDeckID": "2001050",
+    "CardType": 1,
+    "CardID": "PK_10_001510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105002",
+    "NPCDeckID": "2001050",
+    "CardType": 1,
+    "CardID": "PK_10_001510_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105003",
+    "NPCDeckID": "2001050",
+    "CardType": 1,
+    "CardID": "PK_10_001530_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100079_Stone_BWN"
+  },
+  {
+    "NPCDeckCardID": "200105004",
+    "NPCDeckID": "2001050",
+    "CardType": 1,
+    "CardID": "PK_10_001530_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100079_Stone_BWN"
+  },
+  {
+    "NPCDeckCardID": "200105005",
+    "NPCDeckID": "2001050",
+    "CardType": 1,
+    "CardID": "PK_10_001550_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105006",
+    "NPCDeckID": "2001050",
+    "CardType": 1,
+    "CardID": "PK_10_001550_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105007",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_10_000100_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105008",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_10_000100_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105009",
+    "NPCDeckID": "2001050",
+    "CardType": 1,
+    "CardID": "PK_10_002590_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200105010",
+    "NPCDeckID": "2001050",
+    "CardType": 1,
+    "CardID": "PK_10_002590_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200105011",
+    "NPCDeckID": "2001050",
+    "CardType": 1,
+    "CardID": "PK_10_002600_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105012",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105013",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105014",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105015",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105016",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_10_000150_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105017",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105018",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105019",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105020",
+    "NPCDeckID": "2001050",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105101",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_001760_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105102",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_001760_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105103",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_001770_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105104",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_001770_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105105",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_002700_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105106",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_002700_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105107",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_002710_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105108",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_002710_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105109",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_002720_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100062_Powder_BLU"
+  },
+  {
+    "NPCDeckCardID": "200105110",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_002720_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100062_Powder_BLU"
+  },
+  {
+    "NPCDeckCardID": "200105111",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_002030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105112",
+    "NPCDeckID": "2001051",
+    "CardType": 1,
+    "CardID": "PK_10_002030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105113",
+    "NPCDeckID": "2001051",
+    "CardType": 2,
+    "CardID": "TR_90_000020_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105114",
+    "NPCDeckID": "2001051",
+    "CardType": 2,
+    "CardID": "TR_10_000200_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105115",
+    "NPCDeckID": "2001051",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105116",
+    "NPCDeckID": "2001051",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105117",
+    "NPCDeckID": "2001051",
+    "CardType": 2,
+    "CardID": "TR_10_000210_00",
+    "CardSkinID": "KIRA_EFFECT_100044_Triangle_BLU"
+  },
+  {
+    "NPCDeckCardID": "200105118",
+    "NPCDeckID": "2001051",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105119",
+    "NPCDeckID": "2001051",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105120",
+    "NPCDeckID": "2001051",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105201",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105202",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105203",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": "KIRA_EFFECT_100023_Impact_BLU"
+  },
+  {
+    "NPCDeckCardID": "200105204",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": "KIRA_EFFECT_100023_Impact_BLU"
+  },
+  {
+    "NPCDeckCardID": "200105205",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_000640_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105206",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_000660_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105207",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_000660_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105208",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_002310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105209",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_002310_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105210",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_002340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105211",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_002340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105212",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_000870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105213",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_000870_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105214",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_000880_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105215",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_002360_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105216",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_002360_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105217",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_002700_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105218",
+    "NPCDeckID": "2001052",
+    "CardType": 1,
+    "CardID": "PK_10_002710_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105219",
+    "NPCDeckID": "2001052",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105220",
+    "NPCDeckID": "2001052",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105301",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105302",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105303",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105304",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105305",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_000550_00",
+    "CardSkinID": "KIRA_EFFECT_100023_Impact_BLU"
+  },
+  {
+    "NPCDeckCardID": "200105306",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_000620_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105307",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_000620_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105308",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_000660_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105309",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_000660_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105310",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_002340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105311",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_002340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105312",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_002360_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105313",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_002360_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105314",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_002380_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100020_Circle_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200105315",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_002380_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100020_Circle_LBLU"
+  },
+  {
+    "NPCDeckCardID": "200105316",
+    "NPCDeckID": "2001053",
+    "CardType": 1,
+    "CardID": "PK_10_002750_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105317",
+    "NPCDeckID": "2001053",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105318",
+    "NPCDeckID": "2001053",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105319",
+    "NPCDeckID": "2001053",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105320",
+    "NPCDeckID": "2001053",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105401",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105402",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105403",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105404",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105405",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_000560_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200105406",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_002340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105407",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_002340_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105408",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_002350_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105409",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_000900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105410",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_000900_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105411",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_002360_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105412",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_002360_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105413",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_002370_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105414",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_002380_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105415",
+    "NPCDeckID": "2001054",
+    "CardType": 1,
+    "CardID": "PK_10_002750_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105416",
+    "NPCDeckID": "2001054",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105417",
+    "NPCDeckID": "2001054",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105418",
+    "NPCDeckID": "2001054",
+    "CardType": 2,
+    "CardID": "TR_90_000010_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105419",
+    "NPCDeckID": "2001054",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105420",
+    "NPCDeckID": "2001054",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105501",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105502",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_000530_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105503",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105504",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_000540_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105505",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_000560_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200105506",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_000560_00",
+    "CardSkinID": "KIRA_EFFECT_100026_Kirakira_GOL"
+  },
+  {
+    "NPCDeckCardID": "200105507",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_002330_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100011_BigRing_BLU"
+  },
+  {
+    "NPCDeckCardID": "200105508",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_002330_00",
+    "CardSkinID": "BATTLE_KIRA_EFFECT_100011_BigRing_BLU"
+  },
+  {
+    "NPCDeckCardID": "200105509",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_000840_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105510",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_000840_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105511",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_002740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105512",
+    "NPCDeckID": "2001055",
+    "CardType": 1,
+    "CardID": "PK_10_002740_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105513",
+    "NPCDeckID": "2001055",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105514",
+    "NPCDeckID": "2001055",
+    "CardType": 2,
+    "CardID": "TR_90_000030_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105515",
+    "NPCDeckID": "2001055",
+    "CardType": 2,
+    "CardID": "TR_10_000120_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105516",
+    "NPCDeckID": "2001055",
+    "CardType": 2,
+    "CardID": "TR_10_000170_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105517",
+    "NPCDeckID": "2001055",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105518",
+    "NPCDeckID": "2001055",
+    "CardType": 2,
+    "CardID": "TR_90_000040_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105519",
+    "NPCDeckID": "2001055",
+    "CardType": 2,
+    "CardID": "TR_10_000230_00",
+    "CardSkinID": ""
+  },
+  {
+    "NPCDeckCardID": "200105520",
+    "NPCDeckID": "2001055",
+    "CardType": 2,
+    "CardID": "TR_10_000230_00",
+    "CardSkinID": ""
+  }
+]

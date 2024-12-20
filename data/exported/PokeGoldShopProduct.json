@@ -1,0 +1,309 @@
+[
+  {
+    "ProductID": "SH_CG_PG_001_001",
+    "Category": "SH_CG_PG_001",
+    "LimitType": 1,
+    "LimitId": "ONCE",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_20",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_003"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 960,
+    "ScheduleID": "SC_RELEASE_GLOBAL",
+    "FirstTimeInfoID": "",
+    "AssetID": "",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": false
+  },
+  {
+    "ProductID": "SH_CG_PG_001_002",
+    "Category": "SH_CG_PG_001",
+    "LimitType": 1,
+    "LimitId": "ONCE",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_21",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_004"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 950,
+    "ScheduleID": "SC_RELEASE_GLOBAL",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_20",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": false
+  },
+  {
+    "ProductID": "SH_CG_PG_001_003",
+    "Category": "SH_CG_PG_001",
+    "LimitType": 1,
+    "LimitId": "ONCE",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_22",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_010"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 940,
+    "ScheduleID": "SC_RELEASE_GLOBAL",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_30",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": false
+  },
+  {
+    "ProductID": "SH_CG_PG_001_004",
+    "Category": "SH_CG_PG_001",
+    "LimitType": 1,
+    "LimitId": "ONCE",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_23",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_014"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 1020,
+    "ScheduleID": "SC_SH_2408010_03",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_30",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": false
+  },
+  {
+    "ProductID": "SH_CG_PG_001_005",
+    "Category": "SH_CG_PG_001",
+    "LimitType": 1,
+    "LimitId": "ONCE",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_24",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_015"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 1010,
+    "ScheduleID": "SC_SH_2408010_03",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_50",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": false
+  },
+  {
+    "ProductID": "SH_CG_PG_001_006",
+    "Category": "SH_CG_PG_001",
+    "LimitType": 1,
+    "LimitId": "ONCE",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_25",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_009"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 1000,
+    "ScheduleID": "SC_SH_2408010_03",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_60",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": false
+  },
+  {
+    "ProductID": "SH_CG_PG_002_001",
+    "Category": "SH_CG_PG_002",
+    "LimitType": 1,
+    "LimitId": "ONCE",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_7",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_002",
+      "SH_EX_PG_COIN_001",
+      "SH_EX_PG_PLAYMAT_001",
+      "SH_EX_PG_DECKSHIELD_001",
+      "SH_EX_PG_BOARD_001",
+      "SH_EX_PG_FILE_001"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 930,
+    "ScheduleID": "SC_A1_A2_GLOBAL",
+    "FirstTimeInfoID": "",
+    "AssetID": "ShopBoxGoods3",
+    "SubCategory": "SH_CG_PG_SUB_001",
+    "DisplayType": 2,
+    "ItemNameLabelIncludeAmount": true
+  },
+  {
+    "ProductID": "SH_CG_PG_003_001",
+    "Category": "SH_CG_PG_003",
+    "LimitType": 0,
+    "LimitId": "",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_1",
+    "ExtraItemIDs": [],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 920,
+    "ScheduleID": "SC_RELEASE",
+    "FirstTimeInfoID": "",
+    "AssetID": "",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": true
+  },
+  {
+    "ProductID": "SH_CG_PG_003_002",
+    "Category": "SH_CG_PG_003",
+    "LimitType": 0,
+    "LimitId": "",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_2",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_001"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 910,
+    "ScheduleID": "SC_RELEASE",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_20",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": true
+  },
+  {
+    "ProductID": "SH_CG_PG_003_003",
+    "Category": "SH_CG_PG_003",
+    "LimitType": 0,
+    "LimitId": "",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_3",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_003"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 900,
+    "ScheduleID": "SC_RELEASE",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_30",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": true
+  },
+  {
+    "ProductID": "SH_CG_PG_003_004",
+    "Category": "SH_CG_PG_003",
+    "LimitType": 0,
+    "LimitId": "",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_4",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_005"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 890,
+    "ScheduleID": "SC_RELEASE",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_40",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": true
+  },
+  {
+    "ProductID": "SH_CG_PG_003_005",
+    "Category": "SH_CG_PG_003",
+    "LimitType": 0,
+    "LimitId": "",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_5",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_007"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 880,
+    "ScheduleID": "SC_RELEASE",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_50",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": true
+  },
+  {
+    "ProductID": "SH_CG_PG_003_006",
+    "Category": "SH_CG_PG_003",
+    "LimitType": 0,
+    "LimitId": "",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_16",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_009"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 870,
+    "ScheduleID": "SC_RELEASE",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_70",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": true
+  },
+  {
+    "ProductID": "SH_CG_PG_004_001",
+    "Category": "SH_CG_PG_001",
+    "LimitType": 1,
+    "LimitId": "ONCE",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_17",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_011"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 990,
+    "ScheduleID": "SC_SH_0002010_03",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_20",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": false
+  },
+  {
+    "ProductID": "SH_CG_PG_004_002",
+    "Category": "SH_CG_PG_001",
+    "LimitType": 1,
+    "LimitId": "ONCE",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_18",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_012"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 980,
+    "ScheduleID": "SC_SH_0002010_03",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_30",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": false
+  },
+  {
+    "ProductID": "SH_CG_PG_004_003",
+    "Category": "SH_CG_PG_001",
+    "LimitType": 1,
+    "LimitId": "ONCE",
+    "NameMSID": "SHOP_POKEGOLD_PRODUCT_NAME_19",
+    "ExtraItemIDs": [
+      "SH_EX_PG_POKEGOLD_013"
+    ],
+    "MissionType": 0,
+    "MissionID": "",
+    "SortOrderPriority": 970,
+    "ScheduleID": "SC_SH_0002010_03",
+    "FirstTimeInfoID": "",
+    "AssetID": "POKEGOLD_50",
+    "SubCategory": "",
+    "DisplayType": 1,
+    "ItemNameLabelIncludeAmount": false
+  }
+]

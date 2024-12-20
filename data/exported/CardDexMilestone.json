@@ -1,0 +1,142 @@
+[
+  {
+    "Id": "10010",
+    "Threshold": 10,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10020",
+    "Threshold": 20,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10030",
+    "Threshold": 30,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10040",
+    "Threshold": 40,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10050",
+    "Threshold": 50,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10060",
+    "Threshold": 60,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10070",
+    "Threshold": 70,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10080",
+    "Threshold": 80,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10090",
+    "Threshold": 90,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10100",
+    "Threshold": 100,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10110",
+    "Threshold": 110,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10120",
+    "Threshold": 120,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10130",
+    "Threshold": 130,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10140",
+    "Threshold": 140,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10150",
+    "Threshold": 150,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10160",
+    "Threshold": 160,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10170",
+    "Threshold": 170,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10180",
+    "Threshold": 180,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10190",
+    "Threshold": 190,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10200",
+    "Threshold": 200,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10210",
+    "Threshold": 210,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10220",
+    "Threshold": 220,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10230",
+    "Threshold": 230,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10240",
+    "Threshold": 240,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10250",
+    "Threshold": 250,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10260",
+    "Threshold": 260,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10270",
+    "Threshold": 270,
+    "ExpansionID": "A1"
+  },
+  {
+    "Id": "10280",
+    "Threshold": 280,
+    "ExpansionID": "A1"
+  }
+]

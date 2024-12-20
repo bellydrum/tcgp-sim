@@ -1,0 +1,578 @@
+[
+  {
+    "ID": "BOARD_100110_EIEVUI",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100110_EIEVUI_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100110_EIEVUI",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 11
+  },
+  {
+    "ID": "BOARD_100120_NYARTH",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100120_NYARTH_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100120_NYARTH",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 12
+  },
+  {
+    "ID": "BOARD_100130_LIZARDON",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100130_LIZARDON_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100130_LIZARDON",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 13
+  },
+  {
+    "ID": "BOARD_100140_FUSHIGIBANA",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100140_FUSHIGIBANA_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100140_FUSHIGIBANA",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 14
+  },
+  {
+    "ID": "BOARD_100150_GREEN",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100150_GREEN_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100150_GREEN",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 15
+  },
+  {
+    "ID": "BOARD_100160_MEWTWO",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100160_MEWTWO_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100160_MEWTWO",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 16
+  },
+  {
+    "ID": "BOARD_100170_ERIKA",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100170_ERIKA_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100170_ERIKA",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 17
+  },
+  {
+    "ID": "BOARD_100180_SIRNIGHT",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100180_SIRNIGHT_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100180_SIRNIGHT",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 18
+  },
+  {
+    "ID": "BOARD_100190_PIKACHU",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100190_PIKACHU_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100190_PIKACHU",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 19
+  },
+  {
+    "ID": "BOARD_100350_PremiumSet",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100350_PremiumSet_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100350_PremiumSet",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 24
+  },
+  {
+    "ID": "BOARD_100360_Displayframe_cool",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100360_Displayframe_cool_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100360_Displayframe_cool",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 25
+  },
+  {
+    "ID": "BOARD_100370_Natural_Leaf",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100370_Natural_Leaf_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100370_Natural_Leaf",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 26
+  },
+  {
+    "ID": "BOARD_100390_Snow_Crystal",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100390_Snow_Crystal_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100390_Snow_Crystal",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 28
+  },
+  {
+    "ID": "BOARD_100400_Displayframe_pinkdesk",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100400_Displayframe_pinkdesk_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100400_Displayframe_pinkdesk",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 29
+  },
+  {
+    "ID": "BOARD_100410_Miniature_temple",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100410_Miniature_temple_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100410_Miniature_temple",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 30
+  },
+  {
+    "ID": "BOARD_100420_Displayframe_winterholiday",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100420_Displayframe_winterholiday_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100420_Displayframe_winterholiday",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 31
+  },
+  {
+    "ID": "BOARD_100430_Displayframe_newyear",
+    "Type": 4,
+    "ShortNameMSID": "PeripheralGoods_BOARD_100430_Displayframe_newyear_SHORT",
+    "NameMSID": "PeripheralGoods_BOARD_100430_Displayframe_newyear",
+    "DescriptionMSID": "PeripheralGoods_BOARD_200010_DESCRIPTION",
+    "SortOrderPriority": 32
+  },
+  {
+    "ID": "COIN_100020_EIEVUI",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100020_EIEVUI_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100020_EIEVUI",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 2
+  },
+  {
+    "ID": "COIN_100030_NYARTH",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100030_NYARTH_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100030_NYARTH",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 3
+  },
+  {
+    "ID": "COIN_100040_LIZARDON",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100040_LIZARDON_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100040_LIZARDON",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 4
+  },
+  {
+    "ID": "COIN_100060_FUSHIGIBANA",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100060_FUSHIGIBANA_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100060_FUSHIGIBANA",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 6
+  },
+  {
+    "ID": "COIN_100080_KAMEX",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100080_KAMEX_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100080_KAMEX",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 8
+  },
+  {
+    "ID": "COIN_100100_MEWTWO",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100100_MEWTWO_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100100_MEWTWO",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 10
+  },
+  {
+    "ID": "COIN_100130_SIRNIGHT",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100130_SIRNIGHT_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100130_SIRNIGHT",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 13
+  },
+  {
+    "ID": "COIN_100140_PIKACHU",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100140_PIKACHU_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100140_PIKACHU",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 14
+  },
+  {
+    "ID": "COIN_100160_MONSTERBALL",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100160_MONSTERBALL_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100160_MONSTERBALL",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 16
+  },
+  {
+    "ID": "COIN_100240_PremiumSet",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100240_PremiumSet_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100240_PremiumSet",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 24
+  },
+  {
+    "ID": "COIN_100250_MEW",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100250_MEW_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100250_MEW",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 25
+  },
+  {
+    "ID": "COIN_100260_ERIKA_RNB",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100260_ERIKA_RNB_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100260_ERIKA_RNB",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 25
+  },
+  {
+    "ID": "COIN_100270_ERIKA_HOLO",
+    "Type": 2,
+    "ShortNameMSID": "PeripheralGoods_COIN_100270_ERIKA_HOLO_SHORT",
+    "NameMSID": "PeripheralGoods_COIN_100270_ERIKA_HOLO",
+    "DescriptionMSID": "PeripheralGoods_COIN_500010_DESCRIPTION",
+    "SortOrderPriority": 26
+  },
+  {
+    "ID": "DECKSHIELD_100020_EIEVUI",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100020_EIEVUI_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100020_EIEVUI",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 2
+  },
+  {
+    "ID": "DECKSHIELD_100030_NYARTH",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100030_NYARTH_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100030_NYARTH",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 3
+  },
+  {
+    "ID": "DECKSHIELD_100040_LIZARDON",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100040_LIZARDON_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100040_LIZARDON",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 4
+  },
+  {
+    "ID": "DECKSHIELD_100050_FUSHIGIBANA",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100050_FUSHIGIBANA_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100050_FUSHIGIBANA",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 5
+  },
+  {
+    "ID": "DECKSHIELD_100060_KAMEX",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100060_KAMEX_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100060_KAMEX",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 6
+  },
+  {
+    "ID": "DECKSHIELD_100070_MEWTWO",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100070_MEWTWO_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100070_MEWTWO",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 7
+  },
+  {
+    "ID": "DECKSHIELD_100080_ERIKA",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100080_ERIKA_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100080_ERIKA",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 8
+  },
+  {
+    "ID": "DECKSHIELD_100090_SIRNIGHT",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100090_SIRNIGHT_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100090_SIRNIGHT",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 9
+  },
+  {
+    "ID": "DECKSHIELD_100100_PIKACHU",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100100_PIKACHU_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100100_PIKACHU",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 10
+  },
+  {
+    "ID": "DECKSHIELD_100160_PremiumSet",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100160_PremiumSet_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100160_PremiumSet",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 16
+  },
+  {
+    "ID": "DECKSHIELD_100170_MEW",
+    "Type": 1,
+    "ShortNameMSID": "PeripheralGoods_DECKSHIELD_100170_MEW_SHORT",
+    "NameMSID": "PeripheralGoods_DECKSHIELD_100170_MEW",
+    "DescriptionMSID": "PeripheralGoods_DECKSHIELD_400010_DESCRIPTION",
+    "SortOrderPriority": 17
+  },
+  {
+    "ID": "FILE_100020_EIEVUI",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100020_EIEVUI_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100020_EIEVUI",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 2
+  },
+  {
+    "ID": "FILE_100030_NYARTH",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100030_NYARTH_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100030_NYARTH",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 3
+  },
+  {
+    "ID": "FILE_100040_LIZARDON",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100040_LIZARDON_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100040_LIZARDON",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 4
+  },
+  {
+    "ID": "FILE_100050_FUSHIGIBANA",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100050_FUSHIGIBANA_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100050_FUSHIGIBANA",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 5
+  },
+  {
+    "ID": "FILE_100060_GREEN_KAMEX",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100060_GREEN_KAMEX_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100060_GREEN_KAMEX",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 6
+  },
+  {
+    "ID": "FILE_100070_A1_LIZARDON",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100070_A1_LIZARDON_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100070_A1_LIZARDON",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 7
+  },
+  {
+    "ID": "FILE_100080_A1_MEWTWO",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100080_A1_MEWTWO_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100080_A1_MEWTWO",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 8
+  },
+  {
+    "ID": "FILE_100090_A1_PIKACHU",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100090_A1_PIKACHU_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100090_A1_PIKACHU",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 9
+  },
+  {
+    "ID": "FILE_100100_MEWTWO",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100100_MEWTWO_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100100_MEWTWO",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 10
+  },
+  {
+    "ID": "FILE_100110_ERIKA_RUFFRESIA",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100110_ERIKA_RUFFRESIA_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100110_ERIKA_RUFFRESIA",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 11
+  },
+  {
+    "ID": "FILE_100120_SIRNIGHT",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100120_SIRNIGHT_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100120_SIRNIGHT",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 12
+  },
+  {
+    "ID": "FILE_100130_PIKACHU",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100130_PIKACHU_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100130_PIKACHU",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 13
+  },
+  {
+    "ID": "FILE_100270_MONSTERBALL_Ver2",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100270_MONSTERBALL_Ver2_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100270_MONSTERBALL_Ver2",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 16
+  },
+  {
+    "ID": "FILE_100290_PremiumSet",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100290_PremiumSet_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100290_PremiumSet",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 18
+  },
+  {
+    "ID": "FILE_100300_A1a_MEW",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100300_A1a_MEW_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100300_A1a_MEW",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 19
+  },
+  {
+    "ID": "FILE_100310_REST_BIG_TREE",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100310_REST_BIG_TREE_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100310_REST_BIG_TREE",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 20
+  },
+  {
+    "ID": "FILE_100320_PRISTINE_FOREST",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100320_PRISTINE_FOREST_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100320_PRISTINE_FOREST",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 21
+  },
+  {
+    "ID": "FILE_100330_QUIET_LAKE",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100330_QUIET_LAKE_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100330_QUIET_LAKE",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 22
+  },
+  {
+    "ID": "FILE_100340_BURN_GROUND",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100340_BURN_GROUND_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100340_BURN_GROUND",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 23
+  },
+  {
+    "ID": "FILE_100350_FORGOTTEN_REMAINS",
+    "Type": 3,
+    "ShortNameMSID": "PeripheralGoods_FILE_100350_FORGOTTEN_REMAINS_SHORT",
+    "NameMSID": "PeripheralGoods_FILE_100350_FORGOTTEN_REMAINS",
+    "DescriptionMSID": "PeripheralGoods_FILE_100010_DESCRIPTION",
+    "SortOrderPriority": 24
+  },
+  {
+    "ID": "PLAYMAT_100020_EIEVUI",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100020_EIEVUI_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100020_EIEVUI",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 2
+  },
+  {
+    "ID": "PLAYMAT_100030_NYARTH",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100030_NYARTH_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100030_NYARTH",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 3
+  },
+  {
+    "ID": "PLAYMAT_100040_LIZARDON",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100040_LIZARDON_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100040_LIZARDON",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 4
+  },
+  {
+    "ID": "PLAYMAT_100050_FUSHIGIBANA",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100050_FUSHIGIBANA_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100050_FUSHIGIBANA",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 5
+  },
+  {
+    "ID": "PLAYMAT_100060_GREEN_KAMEX",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100060_GREEN_KAMEX_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100060_GREEN_KAMEX",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 6
+  },
+  {
+    "ID": "PLAYMAT_100070_MEWTWO",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100070_MEWTWO_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100070_MEWTWO",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 7
+  },
+  {
+    "ID": "PLAYMAT_100080_ERIKA",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100080_ERIKA_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100080_ERIKA",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 8
+  },
+  {
+    "ID": "PLAYMAT_100090_SIRNIGHT",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100090_SIRNIGHT_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100090_SIRNIGHT",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 9
+  },
+  {
+    "ID": "PLAYMAT_100100_PIKACHU",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100100_PIKACHU_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100100_PIKACHU",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 10
+  },
+  {
+    "ID": "PLAYMAT_100160_PremiumSet",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100160_PremiumSet_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100160_PremiumSet",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 16
+  },
+  {
+    "ID": "PLAYMAT_100170_MEW",
+    "Type": 0,
+    "ShortNameMSID": "PeripheralGoods_PLAYMAT_100170_MEW_SHORT",
+    "NameMSID": "PeripheralGoods_PLAYMAT_100170_MEW",
+    "DescriptionMSID": "PeripheralGoods_PLAYMAT_300010_DESCRIPTION",
+    "SortOrderPriority": 17
+  }
+]

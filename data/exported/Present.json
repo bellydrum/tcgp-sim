@@ -1,0 +1,62 @@
+[
+  {
+    "PresentID": "PR_01",
+    "IsCompensation": false,
+    "ContentIDs": [
+      "PR_ITSUKA_TICKET_1"
+    ],
+    "PresentMessageMSID": "PRESENT_MESSAGE_MSID_2",
+    "DistributionScheduleID": "SC_A1_A2_GLOBAL",
+    "PresentBoxStoragePeriodDays": 30
+  },
+  {
+    "PresentID": "PR_02",
+    "IsCompensation": false,
+    "ContentIDs": [
+      "PR_POKEMONZUKAN_1"
+    ],
+    "PresentMessageMSID": "PRESENT_MESSAGE_MSID_2",
+    "DistributionScheduleID": "SC_PR_2408010_01",
+    "PresentBoxStoragePeriodDays": 30
+  },
+  {
+    "PresentID": "PR_A1_HOTFIX_01",
+    "IsCompensation": false,
+    "ContentIDs": [
+      "PR_PACK_CHARGER_A1"
+    ],
+    "PresentMessageMSID": "PRESENT_MESSAGE_MSID_2",
+    "DistributionScheduleID": "SC_A1_HOTFIX_PACK",
+    "PresentBoxStoragePeriodDays": 30
+  },
+  {
+    "PresentID": "PR_A1a_holiday_01",
+    "IsCompensation": false,
+    "ContentIDs": [
+      "PR_PACK_CHARGER_A1a"
+    ],
+    "PresentMessageMSID": "PRESENT_MESSAGE_MSID_2",
+    "DistributionScheduleID": "SC_CM_2408010_01",
+    "PresentBoxStoragePeriodDays": 1
+  },
+  {
+    "PresentID": "PR_A1a_holiday_02",
+    "IsCompensation": false,
+    "ContentIDs": [
+      "PR_PACK_CHARGER_A1a"
+    ],
+    "PresentMessageMSID": "PRESENT_MESSAGE_MSID_2",
+    "DistributionScheduleID": "SC_CM_2408010_02",
+    "PresentBoxStoragePeriodDays": 1
+  },
+  {
+    "PresentID": "PR_A1a_holiday_03",
+    "IsCompensation": false,
+    "ContentIDs": [
+      "PR_PACK_CHARGER_A1a"
+    ],
+    "PresentMessageMSID": "PRESENT_MESSAGE_MSID_2",
+    "DistributionScheduleID": "SC_CM_2408010_03",
+    "PresentBoxStoragePeriodDays": 1
+  }
+]

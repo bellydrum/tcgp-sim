@@ -1,0 +1,289 @@
+[
+  {
+    "ID": "EMBLEM_100010_MEWTWO",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100010_MEWTWO_MSID",
+    "DescriptionMSID": "EMBLEM_100010_DESC_MSID",
+    "SortOrderPriority": 90
+  },
+  {
+    "ID": "EMBLEM_100020_LIZARDON",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100020_LIZARDON_MSID",
+    "DescriptionMSID": "EMBLEM_100010_DESC_MSID",
+    "SortOrderPriority": 100
+  },
+  {
+    "ID": "EMBLEM_100030_PIKACHU",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100030_PIKACHU_MSID",
+    "DescriptionMSID": "EMBLEM_100010_DESC_MSID",
+    "SortOrderPriority": 110
+  },
+  {
+    "ID": "EMBLEM_100040_FIRE_THUNDER_FREEZER",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100040_FIRE_THUNDER_FREEZER_MSID",
+    "DescriptionMSID": "EMBLEM_100040_DESC_MSID",
+    "SortOrderPriority": 120
+  },
+  {
+    "ID": "EMBLEM_100050_CELEBI",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100050_CELEBI_MSID",
+    "DescriptionMSID": "EMBLEM_100040_DESC_MSID",
+    "SortOrderPriority": 130
+  },
+  {
+    "ID": "EMBLEM_100060_MEW",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100060_MEW_MSID",
+    "DescriptionMSID": "EMBLEM_100010_DESC_MSID",
+    "SortOrderPriority": 140
+  },
+  {
+    "ID": "EMBLEM_100110_EVENT1_NOR",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100110_EVENT1_NOR_MSID",
+    "DescriptionMSID": "EMBLEM_100110_EVENT1_NOR_DESC_MSID",
+    "SortOrderPriority": 10
+  },
+  {
+    "ID": "EMBLEM_100111_EVENT1_SP_NOR",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100111_EVENT1_SP_NOR_MSID",
+    "DescriptionMSID": "EMBLEM_100111_EVENT1_SP_NOR_DESC_MSID",
+    "SortOrderPriority": 50
+  },
+  {
+    "ID": "EMBLEM_100120_EVENT1_BRZ",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100120_EVENT1_BRZ_MSID",
+    "DescriptionMSID": "EMBLEM_100120_EVENT1_BRZ_DESC_MSID",
+    "SortOrderPriority": 20
+  },
+  {
+    "ID": "EMBLEM_100121_EVENT1_SP_BRZ",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100121_EVENT1_SP_BRZ_MSID",
+    "DescriptionMSID": "EMBLEM_100121_EVENT1_SP_BRZ_DESC_MSID",
+    "SortOrderPriority": 60
+  },
+  {
+    "ID": "EMBLEM_100130_EVENT1_SIL",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100130_EVENT1_SIL_MSID",
+    "DescriptionMSID": "EMBLEM_100130_EVENT1_SIL_DESC_MSID",
+    "SortOrderPriority": 30
+  },
+  {
+    "ID": "EMBLEM_100131_EVENT1_SP_SIL",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100131_EVENT1_SP_SIL_MSID",
+    "DescriptionMSID": "EMBLEM_100131_EVENT1_SP_SIL_DESC_MSID",
+    "SortOrderPriority": 70
+  },
+  {
+    "ID": "EMBLEM_100140_EVENT1_GOL",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100140_EVENT1_GOL_MSID",
+    "DescriptionMSID": "EMBLEM_100140_EVENT1_GOL_DESC_MSID",
+    "SortOrderPriority": 40
+  },
+  {
+    "ID": "EMBLEM_100141_EVENT1_SP_GOL",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100141_EVENT1_SP_GOL_MSID",
+    "DescriptionMSID": "EMBLEM_100141_EVENT1_SP_GOL_DESC_MSID",
+    "SortOrderPriority": 80
+  },
+  {
+    "ID": "EMBLEM_100210_EVENT2_NOR",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100210_EVENT2_NOR_MSID",
+    "DescriptionMSID": "EMBLEM_100210_EVENT2_NOR_DESC_MSID",
+    "SortOrderPriority": 10
+  },
+  {
+    "ID": "EMBLEM_100211_EVENT2_SP_NOR",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100211_EVENT2_SP_NOR_MSID",
+    "DescriptionMSID": "EMBLEM_100211_EVENT2_SP_NOR_DESC_MSID",
+    "SortOrderPriority": 50
+  },
+  {
+    "ID": "EMBLEM_100220_EVENT2_BRZ",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100220_EVENT2_BRZ_MSID",
+    "DescriptionMSID": "EMBLEM_100220_EVENT2_BRZ_DESC_MSID",
+    "SortOrderPriority": 20
+  },
+  {
+    "ID": "EMBLEM_100221_EVENT2_SP_BRZ",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100221_EVENT2_SP_BRZ_MSID",
+    "DescriptionMSID": "EMBLEM_100221_EVENT2_SP_BRZ_DESC_MSID",
+    "SortOrderPriority": 60
+  },
+  {
+    "ID": "EMBLEM_100230_EVENT2_SIL",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100230_EVENT2_SIL_MSID",
+    "DescriptionMSID": "EMBLEM_100230_EVENT2_SIL_DESC_MSID",
+    "SortOrderPriority": 30
+  },
+  {
+    "ID": "EMBLEM_100231_EVENT2_SP_SIL",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100231_EVENT2_SP_SIL_MSID",
+    "DescriptionMSID": "EMBLEM_100231_EVENT2_SP_SIL_DESC_MSID",
+    "SortOrderPriority": 70
+  },
+  {
+    "ID": "EMBLEM_100240_EVENT2_GOL",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100240_EVENT2_GOL_MSID",
+    "DescriptionMSID": "EMBLEM_100240_EVENT2_GOL_DESC_MSID",
+    "SortOrderPriority": 40
+  },
+  {
+    "ID": "EMBLEM_100241_EVENT2_SP_GOL",
+    "Type": 1,
+    "NameMSID": "EMBLEM_100241_EVENT2_SP_GOL_MSID",
+    "DescriptionMSID": "EMBLEM_100241_EVENT2_SP_GOL_DESC_MSID",
+    "SortOrderPriority": 80
+  },
+  {
+    "ID": "PROFILE_ICON_100020_SIRNIGHT",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100020_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 80
+  },
+  {
+    "ID": "PROFILE_ICON_100030_EIEVUI",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100030_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 50
+  },
+  {
+    "ID": "PROFILE_ICON_100040_MARUMINE",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100040_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 70
+  },
+  {
+    "ID": "PROFILE_ICON_100050_NYARTH",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100050_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 120
+  },
+  {
+    "ID": "PROFILE_ICON_100060_LIZARDON",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100060_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 90
+  },
+  {
+    "ID": "PROFILE_ICON_100080_FUSHIGIBANA",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100080_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 130
+  },
+  {
+    "ID": "PROFILE_ICON_100090_ERIKA",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100090_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 20
+  },
+  {
+    "ID": "PROFILE_ICON_100100_KAMEX",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100100_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 100
+  },
+  {
+    "ID": "PROFILE_ICON_100110_MEWTWO",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100110_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 110
+  },
+  {
+    "ID": "PROFILE_ICON_100120_PIKACHU",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100120_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 60
+  },
+  {
+    "ID": "PROFILE_ICON_100130_YADON",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100130_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 30
+  },
+  {
+    "ID": "PROFILE_ICON_100140_KABIGON",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100140_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 40
+  },
+  {
+    "ID": "PROFILE_ICON_100150_SAKAKI",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100150_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 10
+  },
+  {
+    "ID": "PROFILE_ICON_100160_PIKACHU",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100160_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 150
+  },
+  {
+    "ID": "PROFILE_ICON_100170_LIZARDON",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100170_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 160
+  },
+  {
+    "ID": "PROFILE_ICON_100180_MEWTWO",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100180_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 140
+  },
+  {
+    "ID": "PROFILE_ICON_100190_MEW",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100190_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 180
+  },
+  {
+    "ID": "PROFILE_ICON_100200_MEW",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100200_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 190
+  },
+  {
+    "ID": "PROFILE_ICON_100210_GREEN",
+    "Type": 0,
+    "NameMSID": "PROFILE_ICON_100210_MSID",
+    "DescriptionMSID": "PROFILE_ICON_100010_DESC_MSID",
+    "SortOrderPriority": 200
+  }
+]

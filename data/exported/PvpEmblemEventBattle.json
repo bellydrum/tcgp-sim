@@ -1,0 +1,74 @@
+[
+  {
+    "EmblemEventID": "1",
+    "ScheduleID": "SC_EV_0002010_EM_01",
+    "BattleRuleID": "BT_RU_MULTI_STANDARD",
+    "Exp": 15,
+    "Rewards": [],
+    "Steps": [
+      "EMBLEM_EVENT_01_STEP_0",
+      "EMBLEM_EVENT_01_STEP_1",
+      "EMBLEM_EVENT_01_STEP_2",
+      "EMBLEM_EVENT_01_STEP_3",
+      "EMBLEM_EVENT_01_STEP_4"
+    ],
+    "NameMSID": "BATTLE_NAME_EVENT_EMBLEM_1",
+    "DescriptionMSID": "BATTLE_DESC_EVENT_EMBLEM_1",
+    "BannerImagePath": "0002010_01",
+    "EventMissionGroupID": "MI_GR_0002010_EMBLEM_01"
+  },
+  {
+    "EmblemEventID": "2",
+    "ScheduleID": "SC_EV_0002010_EM_02",
+    "BattleRuleID": "BT_RU_MULTI_STANDARD",
+    "Exp": 15,
+    "Rewards": [],
+    "Steps": [
+      "EMBLEM_EVENT_02_STEP_0",
+      "EMBLEM_EVENT_02_STEP_1",
+      "EMBLEM_EVENT_02_STEP_2",
+      "EMBLEM_EVENT_02_STEP_3",
+      "EMBLEM_EVENT_02_STEP_4"
+    ],
+    "NameMSID": "BATTLE_NAME_EVENT_EMBLEM_3",
+    "DescriptionMSID": "BATTLE_DESC_EVENT_EMBLEM_3",
+    "BannerImagePath": "0002010_03",
+    "EventMissionGroupID": "MI_GR_0002010_EMBLEM_02"
+  },
+  {
+    "EmblemEventID": "3",
+    "ScheduleID": "SC_EV_2408010_EM_01",
+    "BattleRuleID": "BT_RU_MULTI_STANDARD",
+    "Exp": 15,
+    "Rewards": [],
+    "Steps": [
+      "EMBLEM_EVENT_03_STEP_0",
+      "EMBLEM_EVENT_03_STEP_1",
+      "EMBLEM_EVENT_03_STEP_2",
+      "EMBLEM_EVENT_03_STEP_3",
+      "EMBLEM_EVENT_03_STEP_4"
+    ],
+    "NameMSID": "BATTLE_NAME_EVENT_EMBLEM_4",
+    "DescriptionMSID": "BATTLE_NAME_EVENT_EMBLEM_4",
+    "BannerImagePath": "2408010_01",
+    "EventMissionGroupID": "MI_GR_2408010_EMBLEM_01"
+  },
+  {
+    "EmblemEventID": "4",
+    "ScheduleID": "SC_EV_2408010_EM_02",
+    "BattleRuleID": "BT_RU_MULTI_STANDARD",
+    "Exp": 15,
+    "Rewards": [],
+    "Steps": [
+      "EMBLEM_EVENT_04_STEP_0",
+      "EMBLEM_EVENT_04_STEP_1",
+      "EMBLEM_EVENT_04_STEP_2",
+      "EMBLEM_EVENT_04_STEP_3",
+      "EMBLEM_EVENT_04_STEP_4"
+    ],
+    "NameMSID": "BATTLE_NAME_EVENT_EMBLEM_5",
+    "DescriptionMSID": "BATTLE_NAME_EVENT_EMBLEM_5",
+    "BannerImagePath": "2408010_02",
+    "EventMissionGroupID": "MI_GR_2408010_EMBLEM_02"
+  }
+]

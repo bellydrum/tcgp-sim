@@ -1,0 +1,50 @@
+[
+  {
+    "FeedChallengeSettingWithScheduleID": "FC_SC_GC_0002010_FR_02",
+    "ScheduleID": "SC_GC_0002010_FR_02",
+    "LuckyFeedMaxAmount": 2,
+    "LuckyFeedProbability": 12,
+    "FreeFeedMaxAmount": 4,
+    "FreeFeedProbability": 150
+  },
+  {
+    "FeedChallengeSettingWithScheduleID": "FC_SC_GC_0002010_LC_02",
+    "ScheduleID": "SC_GC_0002010_LC_02",
+    "LuckyFeedMaxAmount": 2,
+    "LuckyFeedProbability": 12,
+    "FreeFeedMaxAmount": 4,
+    "FreeFeedProbability": 150
+  },
+  {
+    "FeedChallengeSettingWithScheduleID": "FC_SC_GC_2408010_FR_01",
+    "ScheduleID": "SC_GC_2408010_FR_01",
+    "LuckyFeedMaxAmount": 2,
+    "LuckyFeedProbability": 12,
+    "FreeFeedMaxAmount": 4,
+    "FreeFeedProbability": 150
+  },
+  {
+    "FeedChallengeSettingWithScheduleID": "FC_SC_GC_2408010_FR_02",
+    "ScheduleID": "SC_GC_2408010_FR_03",
+    "LuckyFeedMaxAmount": 2,
+    "LuckyFeedProbability": 12,
+    "FreeFeedMaxAmount": 4,
+    "FreeFeedProbability": 150
+  },
+  {
+    "FeedChallengeSettingWithScheduleID": "FC_SC_GC_2408010_LC_01",
+    "ScheduleID": "SC_GC_2408010_LC_01",
+    "LuckyFeedMaxAmount": 2,
+    "LuckyFeedProbability": 12,
+    "FreeFeedMaxAmount": 4,
+    "FreeFeedProbability": 150
+  },
+  {
+    "FeedChallengeSettingWithScheduleID": "FC_SC_GC_2408010_LC_02",
+    "ScheduleID": "SC_GC_2408010_LC_03",
+    "LuckyFeedMaxAmount": 2,
+    "LuckyFeedProbability": 12,
+    "FreeFeedMaxAmount": 4,
+    "FreeFeedProbability": 150
+  }
+]

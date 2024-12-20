@@ -1,0 +1,100 @@
+[
+  {
+    "PackTableID": "AN001_0010_00_000_01",
+    "PackID": "AN001_0010_00_000",
+    "ProbabilityWeight": 1999,
+    "NameMSID": "PACK_TABLE_NAME_NORMAL",
+    "NoticeType": 0
+  },
+  {
+    "PackTableID": "AN001_0010_00_000_02",
+    "PackID": "AN001_0010_00_000",
+    "ProbabilityWeight": 1,
+    "NameMSID": "PACK_TABLE_NAME_RARE",
+    "NoticeType": 1
+  },
+  {
+    "PackTableID": "AN001_0020_00_000_01",
+    "PackID": "AN001_0020_00_000",
+    "ProbabilityWeight": 1999,
+    "NameMSID": "PACK_TABLE_NAME_NORMAL",
+    "NoticeType": 0
+  },
+  {
+    "PackTableID": "AN001_0020_00_000_02",
+    "PackID": "AN001_0020_00_000",
+    "ProbabilityWeight": 1,
+    "NameMSID": "PACK_TABLE_NAME_RARE",
+    "NoticeType": 1
+  },
+  {
+    "PackTableID": "AN001_0030_00_000_01",
+    "PackID": "AN001_0030_00_000",
+    "ProbabilityWeight": 1999,
+    "NameMSID": "PACK_TABLE_NAME_NORMAL",
+    "NoticeType": 0
+  },
+  {
+    "PackTableID": "AN001_0030_00_000_02",
+    "PackID": "AN001_0030_00_000",
+    "ProbabilityWeight": 1,
+    "NameMSID": "PACK_TABLE_NAME_RARE",
+    "NoticeType": 1
+  },
+  {
+    "PackTableID": "AN002_0010_00_000_01",
+    "PackID": "AN002_0010_00_000",
+    "ProbabilityWeight": 1999,
+    "NameMSID": "PACK_TABLE_NAME_NORMAL",
+    "NoticeType": 0
+  },
+  {
+    "PackTableID": "AN002_0010_00_000_02",
+    "PackID": "AN002_0010_00_000",
+    "ProbabilityWeight": 1,
+    "NameMSID": "PACK_TABLE_NAME_RARE",
+    "NoticeType": 1
+  },
+  {
+    "PackTableID": "AP001_0010_00_000_01",
+    "PackID": "AP001_0010_00_000",
+    "ProbabilityWeight": 1000,
+    "NameMSID": "PACK_TABLE_NAME_NORMAL",
+    "NoticeType": 0
+  },
+  {
+    "PackTableID": "AP001_0020_00_000_01",
+    "PackID": "AP001_0020_00_000",
+    "ProbabilityWeight": 1000,
+    "NameMSID": "PACK_TABLE_NAME_NORMAL",
+    "NoticeType": 0
+  },
+  {
+    "PackTableID": "AP001_0030_00_000_01",
+    "PackID": "AP001_0030_00_000",
+    "ProbabilityWeight": 1000,
+    "NameMSID": "PACK_TABLE_NAME_NORMAL",
+    "NoticeType": 0
+  },
+  {
+    "PackTableID": "TUTORIAL_1",
+    "PackID": "TUTORIAL_1",
+    "ProbabilityWeight": 100,
+    "NameMSID": "PACK_TABLE_NAME_NORMAL",
+    "NoticeType": 0
+  },
+  {
+    "PackTableID": "TUTORIAL_2",
+    "PackID": "TUTORIAL_2",
+    "ProbabilityWeight": 100,
+    "NameMSID": "PACK_TABLE_NAME_NORMAL",
+    "NoticeType": 0
+  },
+  {
+    "PackTableID": "TUTORIAL_3",
+    "PackID": "TUTORIAL_3",
+    "ProbabilityWeight": 100,
+    "NameMSID": "PACK_TABLE_NAME_NORMAL",
+    "NoticeType": 0
+  }
+]

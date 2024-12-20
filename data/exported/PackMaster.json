@@ -1,0 +1,143 @@
+[
+  {
+    "PackID": "AN001_0010_00_000",
+    "SkuID": "A1_1",
+    "PackCeilPointSharedGroupID": "A1_STANDARD",
+    "FeaturedCardIDs": [
+      "PK_10_001290_00",
+      "PK_10_000040_00",
+      "PK_20_001510_00",
+      "PK_20_001230_00",
+      "TR_20_000150_00",
+      "PK_10_001850_00",
+      "PK_10_001320_00"
+    ],
+    "AssetID": "AN001_0030_00_000",
+    "IconAssetID": "PACK_ICON_AN001_0010_00_000",
+    "NameMSID": "PACK_NAME_A1_1",
+    "DescriptionMSID": "PACK_DESC_A1_1",
+    "SortOrderPriority": 30
+  },
+  {
+    "PackID": "AN001_0020_00_000",
+    "SkuID": "A1_2",
+    "PackCeilPointSharedGroupID": "A1_STANDARD",
+    "FeaturedCardIDs": [
+      "PK_10_000360_00",
+      "PK_10_000470_00",
+      "PK_20_001170_00",
+      "PK_20_000230_00",
+      "TR_20_000110_00",
+      "PK_10_000450_00",
+      "PK_10_000790_00"
+    ],
+    "AssetID": "AN001_0020_00_000",
+    "IconAssetID": "PACK_ICON_AN001_0020_00_000",
+    "NameMSID": "PACK_NAME_A1_2",
+    "DescriptionMSID": "PACK_DESC_A1_2",
+    "SortOrderPriority": 20
+  },
+  {
+    "PackID": "AN001_0030_00_000",
+    "SkuID": "A1_3",
+    "PackCeilPointSharedGroupID": "A1_STANDARD",
+    "FeaturedCardIDs": [
+      "PK_10_000960_00",
+      "PK_10_000560_00",
+      "PK_20_002060_00",
+      "PK_20_001950_00",
+      "TR_20_000160_00",
+      "PK_10_002090_00",
+      "PK_10_000950_00"
+    ],
+    "AssetID": "AN001_0010_00_000",
+    "IconAssetID": "PACK_ICON_AN001_0030_00_000",
+    "NameMSID": "PACK_NAME_A1_3",
+    "DescriptionMSID": "PACK_DESC_A1_3",
+    "SortOrderPriority": 10
+  },
+  {
+    "PackID": "AN002_0010_00_000",
+    "SkuID": "A1a_1",
+    "PackCeilPointSharedGroupID": "A1a_STANDARD",
+    "FeaturedCardIDs": [
+      "PK_10_002450_00",
+      "PK_10_002590_00",
+      "PK_20_002200_00",
+      "PK_20_002720_00",
+      "TR_20_000210_00",
+      "PK_10_002330_00"
+    ],
+    "AssetID": "AN002_0010_00_000",
+    "IconAssetID": "PACK_ICON_AN002_0010_00_000",
+    "NameMSID": "PACK_NAME_A1a_1",
+    "DescriptionMSID": "PACK_DESC_A1a_1",
+    "SortOrderPriority": 10
+  },
+  {
+    "PackID": "AP001_0010_00_000",
+    "SkuID": "PROMO-A_1",
+    "PackCeilPointSharedGroupID": "A1_PROMO",
+    "FeaturedCardIDs": [],
+    "AssetID": "AP001_0010_00_000",
+    "IconAssetID": "PACK_ICON_AP001_0010_00_000",
+    "NameMSID": "PACK_NAME_PROMO_A_1",
+    "DescriptionMSID": "PACK_DESC_PROMO_A_1",
+    "SortOrderPriority": 1
+  },
+  {
+    "PackID": "AP001_0020_00_000",
+    "SkuID": "PROMO-A_2",
+    "PackCeilPointSharedGroupID": "A1_PROMO",
+    "FeaturedCardIDs": [],
+    "AssetID": "AP001_0020_00_000",
+    "IconAssetID": "PACK_ICON_AP001_0020_00_000",
+    "NameMSID": "PACK_NAME_PROMO_A_2",
+    "DescriptionMSID": "PACK_DESC_PROMO_A_2",
+    "SortOrderPriority": 1
+  },
+  {
+    "PackID": "AP001_0030_00_000",
+    "SkuID": "PROMO-A_3",
+    "PackCeilPointSharedGroupID": "A1_PROMO",
+    "FeaturedCardIDs": [],
+    "AssetID": "AP001_0030_00_000",
+    "IconAssetID": "PACK_ICON_AP001_0030_00_000",
+    "NameMSID": "PACK_NAME_PROMO_A_3",
+    "DescriptionMSID": "PACK_DESC_PROMO_A_3",
+    "SortOrderPriority": 1
+  },
+  {
+    "PackID": "TUTORIAL_1",
+    "SkuID": "TUTORIAL_1",
+    "PackCeilPointSharedGroupID": "TUTORIAL",
+    "FeaturedCardIDs": [],
+    "AssetID": "AN001_0030_00_000",
+    "IconAssetID": "",
+    "NameMSID": "PACK_NAME_A1_1",
+    "DescriptionMSID": "PACK_DESC_A1_1",
+    "SortOrderPriority": 1
+  },
+  {
+    "PackID": "TUTORIAL_2",
+    "SkuID": "TUTORIAL_2",
+    "PackCeilPointSharedGroupID": "TUTORIAL",
+    "FeaturedCardIDs": [],
+    "AssetID": "AN001_0020_00_000",
+    "IconAssetID": "",
+    "NameMSID": "PACK_NAME_A1_2",
+    "DescriptionMSID": "PACK_DESC_A1_2",
+    "SortOrderPriority": 1
+  },
+  {
+    "PackID": "TUTORIAL_3",
+    "SkuID": "TUTORIAL_3",
+    "PackCeilPointSharedGroupID": "TUTORIAL",
+    "FeaturedCardIDs": [],
+    "AssetID": "AN001_0010_00_000",
+    "IconAssetID": "",
+    "NameMSID": "PACK_NAME_A1_3",
+    "DescriptionMSID": "PACK_DESC_A1_3",
+    "SortOrderPriority": 1
+  }
+]

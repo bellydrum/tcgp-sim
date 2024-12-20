@@ -1,0 +1,226 @@
+[
+  {
+    "ExtraItemID": "SH_EX_PG_BOARD_001",
+    "ItemType": 9,
+    "ItemID": "BOARD_100180_SIRNIGHT",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_CARD_001",
+    "ItemType": 0,
+    "ItemID": "PK_90_000940_02",
+    "ExpansionID": "PROMO-A",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_CARD_002",
+    "ItemType": 0,
+    "ItemID": "PK_90_001280_00",
+    "ExpansionID": "PROMO-A",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_COIN_001",
+    "ItemType": 9,
+    "ItemID": "COIN_100130_SIRNIGHT",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_DECKSHIELD_001",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100090_SIRNIGHT",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_FILE_001",
+    "ItemType": 9,
+    "ItemID": "FILE_100120_SIRNIGHT",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PACK_001",
+    "ItemType": 8,
+    "ItemID": "AN001_0020_00_000",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PACK_002",
+    "ItemType": 8,
+    "ItemID": "AN001_0030_00_000",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PACK_003",
+    "ItemType": 8,
+    "ItemID": "AN001_0010_00_000",
+    "ExpansionID": "",
+    "Amount": 2
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PACK_004",
+    "ItemType": 8,
+    "ItemID": "AN001_0030_00_000",
+    "ExpansionID": "",
+    "Amount": 2
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PACK_005",
+    "ItemType": 8,
+    "ItemID": "AN001_0010_00_000",
+    "ExpansionID": "",
+    "Amount": 5
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PACK_006",
+    "ItemType": 8,
+    "ItemID": "AN001_0020_00_000",
+    "ExpansionID": "",
+    "Amount": 5
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PACK_007",
+    "ItemType": 8,
+    "ItemID": "AN001_0030_00_000",
+    "ExpansionID": "",
+    "Amount": 5
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PACK_008",
+    "ItemType": 8,
+    "ItemID": "AN001_0010_00_000",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PACK_009",
+    "ItemType": 8,
+    "ItemID": "AN001_0010_00_000",
+    "ExpansionID": "",
+    "Amount": 2
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PACK_010",
+    "ItemType": 8,
+    "ItemID": "AN001_0020_00_000",
+    "ExpansionID": "",
+    "Amount": 2
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_PLAYMAT_001",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100090_SIRNIGHT",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_001",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 1
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_002",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 5
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_003",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 7
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_004",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 15
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_005",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 20
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_006",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 45
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_007",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 50
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_008",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 100
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_009",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 190
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_010",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 22
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_011",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 30
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_012",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 39
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_013",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 110
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_014",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 60
+  },
+  {
+    "ExtraItemID": "SH_EX_PG_POKEGOLD_015",
+    "ItemType": 7,
+    "ItemID": "POKEGOLD_FREE",
+    "ExpansionID": "",
+    "Amount": 160
+  }
+]

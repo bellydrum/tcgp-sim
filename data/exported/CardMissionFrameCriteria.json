@@ -1,0 +1,7326 @@
+[
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_001_FIRST_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_001_FIRST_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000010_00",
+      "PK_20_000010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_001_FIRST_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_001_FIRST_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000530_00",
+      "PK_20_000530_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_001_FIRST_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_001_FIRST_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000330_00",
+      "PK_20_000330_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_002_BOOBAR_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_002_BOOBAR_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_002_BOOBAR_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_002_BOOBAR_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000440_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_003_TOKIWA_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_003_TOKIWA_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000050_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_003_TOKIWA_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_003_TOKIWA_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000060_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_003_TOKIWA_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_003_TOKIWA_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000080_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_003_TOKIWA_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_003_TOKIWA_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000090_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_003_TOKIWA_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_003_TOKIWA_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000940_00",
+      "PK_10_000960_00",
+      "PK_20_000960_00",
+      "PK_20_000960_01",
+      "PK_20_000960_02"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_004_POPPO_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_004_POPPO_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001860_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_004_POPPO_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_004_POPPO_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001870_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_004_POPPO_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_004_POPPO_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001880_00",
+      "PK_20_001880_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_005_FAMILY_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_005_FAMILY_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001660_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_005_FAMILY_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_005_FAMILY_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001670_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_005_FAMILY_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_005_FAMILY_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001680_00",
+      "PK_20_001680_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_005_FAMILY_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_005_FAMILY_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001690_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_005_FAMILY_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_005_FAMILY_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001700_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_005_FAMILY_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_005_FAMILY_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001710_00",
+      "PK_20_001710_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_006_ANTIENT_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_006_ANTIENT_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002080_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_006_ANTIENT_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_006_ANTIENT_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000810_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_006_ANTIENT_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_006_ANTIENT_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000820_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_006_ANTIENT_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_006_ANTIENT_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001580_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_006_ANTIENT_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_006_ANTIENT_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001590_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_007_FLYING_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_007_FLYING_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000830_00",
+      "PK_10_000840_00",
+      "PK_20_000840_00",
+      "PK_20_000840_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_007_FLYING_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_007_FLYING_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001030_00",
+      "PK_10_001040_00",
+      "PK_20_001040_00",
+      "PK_20_001040_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_007_FLYING_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_007_FLYING_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000460_00",
+      "PK_10_000470_00",
+      "PK_20_000470_00",
+      "PK_20_000470_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_008_TRIPLE_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_008_TRIPLE_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000980_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_008_TRIPLE_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_008_TRIPLE_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002000_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_008_TRIPLE_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_008_TRIPLE_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001400_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_008_TRIPLE_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_008_TRIPLE_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000220_00",
+      "PK_10_000230_00",
+      "PK_20_000230_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_009_KABIGON_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_009_KABIGON_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002090_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_009_KABIGON_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_009_KABIGON_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000110_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_009_KABIGON_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_009_KABIGON_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_009_KABIGON_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_009_KABIGON_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000160_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLEADER_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLEADER_001",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000120_00",
+      "TR_20_000120_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLEADER_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLEADER_002",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000160_00",
+      "TR_20_000160_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLEADER_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLEADER_003",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000180_00",
+      "TR_20_000180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLEADER_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLEADER_004",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000110_00",
+      "TR_20_000110_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLEADER_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLEADER_005",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000140_00",
+      "TR_20_000140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLEADER_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLEADER_006",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000170_00",
+      "TR_20_000170_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLEADER_007",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLEADER_007",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000130_00",
+      "TR_20_000130_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLEADER_008",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLEADER_008",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000150_00",
+      "TR_20_000150_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLOCAL_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLOCAL_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001990_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLOCAL_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLOCAL_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001910_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLOCAL_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLOCAL_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001210_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLOCAL_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLOCAL_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001890_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLOCAL_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLOCAL_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001270_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLOCAL_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLOCAL_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000620_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_010_KANTOLOCAL_007",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_010_KANTOLOCAL_007",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001740_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_012_TRABEL_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_012_TRABEL_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000010_00",
+      "PK_20_000010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_012_TRABEL_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_012_TRABEL_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000020_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_012_TRABEL_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_012_TRABEL_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000030_00",
+      "PK_10_000040_00",
+      "PK_20_000040_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_012_TRABEL_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_012_TRABEL_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000530_00",
+      "PK_20_000530_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_012_TRABEL_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_012_TRABEL_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000540_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_012_TRABEL_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_012_TRABEL_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000550_00",
+      "PK_10_000560_00",
+      "PK_20_000560_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_012_TRABEL_007",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_012_TRABEL_007",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000330_00",
+      "PK_20_000330_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_012_TRABEL_008",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_012_TRABEL_008",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000340_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_012_TRABEL_009",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_012_TRABEL_009",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000350_00",
+      "PK_10_000360_00",
+      "PK_20_000360_00",
+      "PK_20_000360_01",
+      "PK_20_000360_02"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002040_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002030_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002020_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001560_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000250_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001180_00",
+      "PK_20_001180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_007",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_007",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001990_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_008",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_008",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000260_00",
+      "PK_20_000260_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_009",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_009",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000210_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_010",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_010",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001830_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_013_SAFARI_011",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_013_SAFARI_011",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001840_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_014_RAT_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_014_RAT_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001370_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_014_RAT_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_014_RAT_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001380_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_014_RAT_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_014_RAT_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001890_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_014_RAT_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_014_RAT_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001900_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_014_RAT_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_014_RAT_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000940_00",
+      "PK_10_000960_00",
+      "PK_20_000960_00",
+      "PK_20_000960_01",
+      "PK_20_000960_02"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_014_RAT_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_014_RAT_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000950_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_015_SUPERXPRESS_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_015_SUPERXPRESS_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001850_00",
+      "PK_20_001850_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_015_SUPERXPRESS_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_015_SUPERXPRESS_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000430_00",
+      "PK_20_000430_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_015_SUPERXPRESS_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_015_SUPERXPRESS_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001060_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_015_SUPERXPRESS_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_015_SUPERXPRESS_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000400_00",
+      "PK_10_000410_00",
+      "PK_20_000410_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000010_00",
+      "PK_20_000010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000020_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000030_00",
+      "PK_10_000040_00",
+      "PK_20_000040_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000330_00",
+      "PK_20_000330_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000340_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000350_00",
+      "PK_10_000360_00",
+      "PK_20_000360_00",
+      "PK_20_000360_01",
+      "PK_20_000360_02"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_007",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_007",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000530_00",
+      "PK_20_000530_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_008",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_008",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000540_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_009",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_009",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000550_00",
+      "PK_10_000560_00",
+      "PK_20_000560_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_010",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_010",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000050_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_011",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_011",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000060_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_012",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_012",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000070_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_013",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_013",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000080_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_014",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_014",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000090_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_015",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_015",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000100_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_016",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_016",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001860_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_017",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_017",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001870_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_018",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_018",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001880_00",
+      "PK_20_001880_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_019",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_019",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001890_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_020",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_020",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001900_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_021",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_021",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001910_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_022",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_022",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001920_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_023",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_023",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001640_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_024",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_024",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001650_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_025",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_025",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000940_00",
+      "PK_10_000960_00",
+      "PK_20_000960_00",
+      "PK_20_000960_01",
+      "PK_20_000960_02"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_026",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_026",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000950_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_027",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_027",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001370_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_028",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_028",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001380_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_029",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_029",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001660_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_030",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_030",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001670_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_031",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_031",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001680_00",
+      "PK_20_001680_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_032",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_032",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001690_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_033",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_033",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001700_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_034",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_034",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001710_00",
+      "PK_20_001710_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_035",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_035",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001130_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_036",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_036",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_037",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_037",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000370_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_038",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_038",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000380_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_039",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_039",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001930_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_040",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_040",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001940_00",
+      "PK_10_001950_00",
+      "PK_20_001950_00",
+      "PK_20_001950_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_041",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_041",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001720_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_042",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_042",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001730_00",
+      "PK_20_001730_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_043",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_043",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000110_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_044",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_044",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000120_00",
+      "PK_20_000120_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_045",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_045",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000130_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_046",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_046",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_047",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_047",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000150_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_048",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_048",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000160_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_049",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_049",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000170_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_050",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_050",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001390_00",
+      "PK_20_001390_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_051",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_051",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001400_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_052",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_052",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001960_00",
+      "PK_20_001960_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_053",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_053",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001970_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_054",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_054",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000570_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_055",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_055",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000580_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_056",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_056",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001410_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_057",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_057",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001420_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_058",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_058",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000390_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_059",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_059",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000400_00",
+      "PK_10_000410_00",
+      "PK_20_000410_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_060",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_060",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000590_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_061",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_061",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000600_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_062",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_062",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000610_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_063",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_063",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001150_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_064",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_064",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001160_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_065",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_065",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001170_00",
+      "PK_20_001170_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_066",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_066",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001430_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_067",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_067",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001440_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_068",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_068",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001450_00",
+      "PK_10_001460_00",
+      "PK_20_001460_00",
+      "PK_20_001460_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_069",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_069",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_070",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_070",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000190_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_071",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_071",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000200_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_072",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_072",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000620_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_073",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_073",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000630_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_074",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_074",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001470_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_075",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_075",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001480_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_076",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_076",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001490_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_077",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_077",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000420_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_078",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_078",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000430_00",
+      "PK_20_000430_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_079",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_079",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001180_00",
+      "PK_20_001180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_080",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_080",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001190_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_081",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_081",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000970_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_082",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_082",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000980_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_083",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_083",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001980_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_084",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_084",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001990_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_085",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_085",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002000_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_086",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_086",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000640_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_087",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_087",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000650_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_088",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_088",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001740_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_089",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_089",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001750_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_090",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_090",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000660_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_091",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_091",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000670_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_092",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_092",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001200_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_093",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_093",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001210_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_094",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_094",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001220_00",
+      "PK_10_001230_00",
+      "PK_20_001230_00",
+      "PK_20_001230_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_095",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_095",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001500_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_096",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_096",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001240_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_097",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_097",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001250_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_098",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_098",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000680_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_099",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_099",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000690_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_100",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_100",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000990_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_101",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_101",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001000_00",
+      "PK_20_001000_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_102",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_102",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000210_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_103",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_103",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000220_00",
+      "PK_10_000230_00",
+      "PK_20_000230_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_104",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_104",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001510_00",
+      "PK_20_001510_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_105",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_105",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001520_00",
+      "PK_10_001530_00",
+      "PK_20_001530_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_106",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_106",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001540_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_107",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_107",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001550_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_108",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_108",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_109",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_109",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001760_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_110",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_110",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001770_00",
+      "PK_20_001770_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_111",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_111",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001560_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_112",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_112",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001570_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_113",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_113",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002020_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_114",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_114",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000240_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_115",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_115",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002030_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_116",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_116",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000700_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_117",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_117",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000710_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_118",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_118",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000720_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_119",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_119",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000730_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_120",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_120",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000740_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_121",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_121",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000750_00",
+      "PK_10_000760_00",
+      "PK_20_000760_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_122",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_122",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001260_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_123",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_123",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000250_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_124",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_124",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001270_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_125",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_125",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_126",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_126",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000440_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_127",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_127",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000260_00",
+      "PK_20_000260_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_128",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_128",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002040_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_129",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_129",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000770_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_130",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_130",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000780_00",
+      "PK_20_000780_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_131",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_131",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000790_00",
+      "PK_20_000790_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_132",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_132",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002050_00",
+      "PK_20_002050_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_133",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_133",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002060_00",
+      "PK_10_002060_01",
+      "PK_10_002060_02",
+      "PK_20_002060_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_134",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_134",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000800_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_135",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_135",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001020_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_136",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_136",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000450_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_137",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_137",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002070_00",
+      "PK_20_002070_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_138",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_138",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000810_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_139",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_139",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000820_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_140",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_140",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001580_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_141",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_141",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001590_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_142",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_142",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002080_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_143",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_143",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002090_00",
+      "PK_20_002090_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_144",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_144",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000830_00",
+      "PK_10_000840_00",
+      "PK_20_000840_00",
+      "PK_20_000840_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_145",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_145",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001030_00",
+      "PK_10_001040_00",
+      "PK_20_001040_00",
+      "PK_20_001040_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_146",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_146",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000460_00",
+      "PK_10_000470_00",
+      "PK_20_000470_00",
+      "PK_20_000470_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_147",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_147",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001830_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_148",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_148",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001840_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_149",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_149",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001850_00",
+      "PK_20_001850_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_016_KANTOMASTER_150",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_016_KANTOMASTER_150",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001280_00",
+      "PK_10_001290_00",
+      "PK_20_001290_00",
+      "PK_20_001290_01",
+      "PK_20_001290_02"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_017_MUSEUM_MEWTWO_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_017_MUSEUM_MEWTWO_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_017_MUSEUM_MEWTWO_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_017_MUSEUM_MEWTWO_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001510_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_017_MUSEUM_MEWTWO_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_017_MUSEUM_MEWTWO_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001730_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_017_MUSEUM_MEWTWO_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_017_MUSEUM_MEWTWO_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001770_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_017_MUSEUM_MEWTWO_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_017_MUSEUM_MEWTWO_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001850_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_017_MUSEUM_MEWTWO_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_017_MUSEUM_MEWTWO_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001880_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_017_MUSEUM_MEWTWO_007",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_017_MUSEUM_MEWTWO_007",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002050_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_017_MUSEUM_MEWTWO_008",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_017_MUSEUM_MEWTWO_008",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002070_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_018_MUSEUM_LIZARDON_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_018_MUSEUM_LIZARDON_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000120_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_018_MUSEUM_LIZARDON_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_018_MUSEUM_LIZARDON_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000260_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_018_MUSEUM_LIZARDON_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_018_MUSEUM_LIZARDON_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000330_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_018_MUSEUM_LIZARDON_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_018_MUSEUM_LIZARDON_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000430_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_018_MUSEUM_LIZARDON_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_018_MUSEUM_LIZARDON_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000790_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_018_MUSEUM_LIZARDON_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_018_MUSEUM_LIZARDON_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001170_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_018_MUSEUM_LIZARDON_007",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_018_MUSEUM_LIZARDON_007",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_018_MUSEUM_LIZARDON_008",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_018_MUSEUM_LIZARDON_008",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001960_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_019_MUSEUM_PIKACHU_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_019_MUSEUM_PIKACHU_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000530_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_019_MUSEUM_PIKACHU_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_019_MUSEUM_PIKACHU_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000780_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_019_MUSEUM_PIKACHU_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_019_MUSEUM_PIKACHU_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001000_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_019_MUSEUM_PIKACHU_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_019_MUSEUM_PIKACHU_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001390_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_019_MUSEUM_PIKACHU_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_019_MUSEUM_PIKACHU_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001680_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_019_MUSEUM_PIKACHU_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_019_MUSEUM_PIKACHU_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001710_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_019_MUSEUM_PIKACHU_007",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_019_MUSEUM_PIKACHU_007",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002060_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_019_MUSEUM_PIKACHU_008",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_019_MUSEUM_PIKACHU_008",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002090_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_020_KANTOLEADER2_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_020_KANTOLEADER2_001",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_20_000120_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_020_KANTOLEADER2_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_020_KANTOLEADER2_002",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_20_000160_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_020_KANTOLEADER2_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_020_KANTOLEADER2_003",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_20_000180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_020_KANTOLEADER2_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_020_KANTOLEADER2_004",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_20_000110_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_020_KANTOLEADER2_005",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_020_KANTOLEADER2_005",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_20_000140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_020_KANTOLEADER2_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_020_KANTOLEADER2_006",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_20_000170_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_020_KANTOLEADER2_007",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_020_KANTOLEADER2_007",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_20_000130_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_020_KANTOLEADER2_008",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_020_KANTOLEADER2_008",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_20_000150_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_021_LEGEND_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_021_LEGEND_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000840_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_021_LEGEND_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_021_LEGEND_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001040_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_021_LEGEND_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_021_LEGEND_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000470_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_022_IMMERSIVE_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_022_IMMERSIVE_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000360_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_022_IMMERSIVE_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_022_IMMERSIVE_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_000960_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_022_IMMERSIVE_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_022_IMMERSIVE_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_001290_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_022_IMMERSIVE_004",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_022_IMMERSIVE_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_028_PROFILE_ICON_001",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_028_PROFILE_ICON_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001000_00",
+      "PK_20_001000_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_028_PROFILE_ICON_002",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_028_PROFILE_ICON_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001320_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_028_PROFILE_ICON_003",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_028_PROFILE_ICON_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000350_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_01_CARD_028_PROFILE_ICON_006",
+    "FrameID": "MI_CC_FR_0002010_01_CARD_028_PROFILE_ICON_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001280_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_001_FUSHIGIBANA_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_001_FUSHIGIBANA_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000010"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000210"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000220"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000310"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000320"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001890"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001900"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000010"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_012",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000110"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_002_FUSHIGIBANA_013",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_002_FUSHIGIBANA_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_005_LIZARDON_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_005_LIZARDON_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000360"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000330"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000340"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000360"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000420"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000430"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000460"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000490"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000500"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001890"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_010",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001900"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_012",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_006_LIZARDON_013",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_006_LIZARDON_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_009_KAMEX_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_009_KAMEX_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000560"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000530"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000540"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000560"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000570"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000580"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000790"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000830"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000900"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001890"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_010",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001900"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_012",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_013",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000120"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_010_KAMEX_014",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_010_KAMEX_014",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_014_PIKACHU_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_014_PIKACHU_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000960"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000960"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000990"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001000"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001050"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001060"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001070"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001080"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001090"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001100"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_010",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001110"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_012",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_015_PIKACHU_013",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_015_PIKACHU_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_017_MEWTWOMAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_017_MEWTWOMAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001290"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001290"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001130"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001140"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001180"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001190"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001200"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001210"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001220"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001890"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_010",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001900"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_012",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_018_MEWTWO_013",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_018_MEWTWO_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_021_KAIRIKY_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_021_KAIRIKY_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001460"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001430"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001440"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001460"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001410"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001420"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001510"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001520"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001540"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001890"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_010",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001900"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000010"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_012",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_022_KAIRIKY_013",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_022_KAIRIKY_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_025_NIDOQUEEN_NIDOKING_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_025_NIDOQUEEN_NIDOKING_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001680"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_025_NIDOQUEEN_NIDOKING_MAIN_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_025_NIDOQUEEN_NIDOKING_MAIN_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001710"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001660"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001670"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001680"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001690"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001700"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001710"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_009",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000010"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_012",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_026_NIDOQUEEN_NIDOKING_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_027_KANTO_FOSSIL_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_027_KANTO_FOSSIL_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002080"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_027_KANTO_FOSSIL_MAIN_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_027_KANTO_FOSSIL_MAIN_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001590"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_027_KANTO_FOSSIL_MAIN_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_027_KANTO_FOSSIL_MAIN_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000820"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_001",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000080"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000810"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000820"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_004",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000090"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001580"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001590"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000100"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_011",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002080"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_012",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_013",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000060"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_028_KANTO_FOSSIL_014",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_028_KANTO_FOSSIL_014",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_029_KATSURA_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_029_KATSURA_MAIN_001",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000130"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_001",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000130"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000370"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000380"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000390"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000400"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000420"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000430"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000440"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_009",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000010"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_030_KATSURA_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_030_KATSURA_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_031_MATISSE_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_031_MATISSE_MAIN_001",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000180"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_001",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000180"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000940"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000950"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000970"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000980"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_000990"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001000"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001010"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_009",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_032_MATISSE_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_032_MATISSE_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_033_TAKESHI_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_033_TAKESHI_MAIN_001",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000160"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_001",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000160"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001390"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001400"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001470"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001480"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001490"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001500"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001540"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001550"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000010"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_034_TAKESHI_012",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_034_TAKESHI_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_035_KYOU_MAIN_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_035_KYOU_MAIN_001",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000140"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_001",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_001",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000140"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_002",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001640"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_003",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001650"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_004",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001720"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_005",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001730"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_006",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001740"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_007",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001750"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_008",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001760"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_009",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_001770"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_010",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_011",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_02_THEMEDECK_036_KYOU_012",
+    "FrameID": "MI_CC_FR_0002010_02_THEMEDECK_036_KYOU_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_03_NYARTHGOODS_001_CARD_001",
+    "FrameID": "MI_CC_FR_0002010_03_NYARTHGOODS_001_CARD_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_90_002020_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_03_NYARTHGOODS_001_CARD_002",
+    "FrameID": "MI_CC_FR_0002010_03_NYARTHGOODS_001_CARD_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_90_002020_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_03_NYARTHGOODS_001_CARD_003",
+    "FrameID": "MI_CC_FR_0002010_03_NYARTHGOODS_001_CARD_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_90_001960_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_03_NYARTHGOODS_001_CARD_004",
+    "FrameID": "MI_CC_FR_0002010_03_NYARTHGOODS_001_CARD_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_90_001960_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_04_TAIRYOHASSEI_001_WINDIE_001",
+    "FrameID": "MI_CC_FR_0002010_04_TAIRYOHASSEI_001_WINDIE_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000410_00",
+      "PK_20_000410_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_05_FUSHIGIBANAGOODS_001_CARD_001",
+    "FrameID": "MI_CC_FR_0002010_05_FUSHIGIBANAGOODS_001_CARD_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_90_000010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_05_FUSHIGIBANAGOODS_001_CARD_002",
+    "FrameID": "MI_CC_FR_0002010_05_FUSHIGIBANAGOODS_001_CARD_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_90_000010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_05_FUSHIGIBANAGOODS_001_CARD_003",
+    "FrameID": "MI_CC_FR_0002010_05_FUSHIGIBANAGOODS_001_CARD_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_90_000970_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_05_FUSHIGIBANAGOODS_001_CARD_004",
+    "FrameID": "MI_CC_FR_0002010_05_FUSHIGIBANAGOODS_001_CARD_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_90_000970_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_001",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_001",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_002",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_002",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_003",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_003",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_004",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_004",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_005",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_005",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_006",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_006",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_007",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_007",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_008",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_008",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_009",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_009",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_010",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_010",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_011",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_011",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_012",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_012",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_013",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_013",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_014",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_014",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_015",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_015",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000020_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_016",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_016",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000030_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_017",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_017",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000040_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_018",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_018",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000050_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_019",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_019",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000060_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_020",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_020",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000070_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_021",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_021",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000080_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_022",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_022",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000090_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_023",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_023",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000100_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_024",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_024",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000110_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_025",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_025",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000120_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_026",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_026",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000130_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_027",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_027",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_028",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_028",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000150_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_029",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_029",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000160_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_030",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_030",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000170_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_031",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_031",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_032",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_032",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000190_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_033",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_033",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000200_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_034",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_034",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000210_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_035",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_035",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000220_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_036",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_036",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000230_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_037",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_037",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000240_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_038",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_038",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000250_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_039",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_039",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000260_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_040",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_040",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000270_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_041",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_041",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000280_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_042",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_042",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000290_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_043",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_043",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000300_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_044",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_044",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000310_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_045",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_045",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000320_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_046",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_046",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000330_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_047",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_047",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000340_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_048",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_048",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000350_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_049",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_049",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000360_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_050",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_050",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000370_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_051",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_051",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000380_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_052",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_052",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000390_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_053",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_053",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000400_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_054",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_054",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000410_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_055",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_055",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000420_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_056",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_056",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000430_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_057",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_057",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000440_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_058",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_058",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000450_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_059",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_059",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000460_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_060",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_060",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000470_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_061",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_061",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000480_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_062",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_062",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000490_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_063",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_063",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000500_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_064",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_064",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000510_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_065",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_065",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000520_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_066",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_066",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000530_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_067",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_067",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000540_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_068",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_068",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000550_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_069",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_069",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000560_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_070",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_070",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000570_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_071",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_071",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000580_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_072",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_072",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000590_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_073",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_073",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000600_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_074",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_074",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000610_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_075",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_075",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000620_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_076",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_076",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000630_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_077",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_077",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000640_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_078",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_078",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000650_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_079",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_079",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000660_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_080",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_080",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000670_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_081",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_081",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000680_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_082",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_082",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000690_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_083",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_083",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000700_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_084",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_084",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000710_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_085",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_085",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000720_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_086",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_086",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000730_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_087",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_087",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000740_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_088",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_088",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000750_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_089",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_089",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000760_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_090",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_090",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000770_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_091",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_091",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000780_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_092",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_092",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000790_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_093",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_093",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000800_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_094",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_094",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000810_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_095",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_095",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000820_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_096",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_096",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000830_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_097",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_097",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000840_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_098",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_098",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000850_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_099",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_099",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000860_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_100",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_100",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000870_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_101",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_101",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000880_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_102",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_102",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000890_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_103",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_103",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000900_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_104",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_104",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000910_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_105",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_105",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000920_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_106",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_106",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000930_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_107",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_107",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000940_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_108",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_108",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000950_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_109",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_109",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000960_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_110",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_110",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000970_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_111",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_111",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000980_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_112",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_112",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_000990_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_113",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_113",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001000_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_114",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_114",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_115",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_115",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001020_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_116",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_116",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001030_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_117",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_117",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001040_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_118",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_118",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001050_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_119",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_119",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001060_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_120",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_120",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001070_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_121",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_121",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001080_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_122",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_122",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001090_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_123",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_123",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001100_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_124",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_124",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001110_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_125",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_125",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001120_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_126",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_126",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001130_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_127",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_127",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_128",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_128",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001150_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_129",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_129",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001160_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_130",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_130",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001170_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_131",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_131",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_132",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_132",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001190_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_133",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_133",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001200_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_134",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_134",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001210_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_135",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_135",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001220_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_136",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_136",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001230_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_137",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_137",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001240_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_138",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_138",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001250_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_139",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_139",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001260_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_140",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_140",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001270_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_141",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_141",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001280_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_142",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_142",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001290_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_143",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_143",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001300_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_144",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_144",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001310_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_145",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_145",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001320_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_146",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_146",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001330_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_147",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_147",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001340_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_148",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_148",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001350_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_149",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_149",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001360_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_150",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_150",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001370_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_151",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_151",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001380_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_152",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_152",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001390_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_153",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_153",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001400_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_154",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_154",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001410_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_155",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_155",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001420_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_156",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_156",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001430_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_157",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_157",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001440_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_158",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_158",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001450_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_159",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_159",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001460_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_160",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_160",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001470_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_161",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_161",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001480_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_162",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_162",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001490_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_163",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_163",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001500_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_164",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_164",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001510_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_165",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_165",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001520_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_166",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_166",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001530_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_167",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_167",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001540_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_168",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_168",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001550_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_169",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_169",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001560_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_170",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_170",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001570_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_171",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_171",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001580_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_172",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_172",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001590_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_173",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_173",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001600_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_174",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_174",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001610_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_175",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_175",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001620_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_176",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_176",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001630_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_177",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_177",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001640_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_178",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_178",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001650_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_179",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_179",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001660_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_180",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_180",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001670_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_181",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_181",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001680_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_182",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_182",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001690_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_183",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_183",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001700_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_184",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_184",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001710_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_185",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_185",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001720_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_186",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_186",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001730_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_187",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_187",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001740_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_188",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_188",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001750_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_189",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_189",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001760_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_190",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_190",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001770_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_191",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_191",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001780_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_192",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_192",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001790_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_193",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_193",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001800_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_194",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_194",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001810_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_195",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_195",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001820_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_196",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_196",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001830_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_197",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_197",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001840_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_198",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_198",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001850_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_199",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_199",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001860_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_200",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_200",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001870_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_201",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_201",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001880_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_202",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_202",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001890_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_203",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_203",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001900_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_204",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_204",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001910_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_205",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_205",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001920_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_206",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_206",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001930_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_207",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_207",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001940_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_208",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_208",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001950_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_209",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_209",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001960_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_210",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_210",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001970_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_211",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_211",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001980_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_212",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_212",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001990_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_213",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_213",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002000_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_214",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_214",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002010_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_215",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_215",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002020_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_216",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_216",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002030_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_217",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_217",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002040_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_218",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_218",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002050_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_219",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_219",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002060_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_220",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_220",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002060_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_221",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_221",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002060_02"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_222",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_222",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002070_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_223",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_223",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002080_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_224",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_224",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002090_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_225",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_225",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002100_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_226",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_226",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002110_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_227",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_227",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002120_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_228",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_228",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002130_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_229",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_229",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000080_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_230",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_230",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000090_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_231",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_231",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000100_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_232",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_232",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000110_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_233",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_233",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000120_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_234",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_234",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000130_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_235",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_235",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_236",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_236",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000150_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_237",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_237",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000160_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_238",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_238",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000170_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_0002010_11_ZUKAN_001_A1_239",
+    "FrameID": "MI_CC_FR_0002010_11_ZUKAN_001_A1_239",
+    "TargetType": 0,
+    "TargetIDs": [
+      "TR_10_000180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_001_UNTOCHEDFOREST_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_001_UNTOCHEDFOREST_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002650_00",
+      "PK_10_002160_00",
+      "PK_20_002160_00",
+      "PK_10_002220_00",
+      "PK_10_002750_00",
+      "PK_10_002660_00",
+      "PK_10_002420_00",
+      "PK_10_002540_00",
+      "PK_10_002400_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_002_PACIFICLAKE_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_002_PACIFICLAKE_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002310_00",
+      "PK_10_002380_00",
+      "PK_10_002370_00",
+      "PK_10_002250_00",
+      "PK_10_002320_00",
+      "PK_20_002320_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_003_BURNINGWASTELAND_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_003_BURNINGWASTELAND_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002630_00",
+      "PK_10_002290_00",
+      "PK_20_002290_00",
+      "PK_10_002260_00",
+      "PK_10_002560_00",
+      "PK_10_002280_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_004_FORGOTTENREMAINS_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_004_FORGOTTENREMAINS_001",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000190_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_004_FORGOTTENREMAINS_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_004_FORGOTTENREMAINS_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002610_00",
+      "PK_10_002500_00",
+      "PK_10_002200_00",
+      "PK_20_002200_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_005_INSECTCOLLECT_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_005_INSECTCOLLECT_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002270_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_005_INSECTCOLLECT_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_005_INSECTCOLLECT_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002420_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_005_INSECTCOLLECT_003",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_005_INSECTCOLLECT_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002660_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_005_INSECTCOLLECT_004",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_005_INSECTCOLLECT_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002670_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_005_INSECTCOLLECT_005",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_005_INSECTCOLLECT_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002680_00",
+      "PK_10_002430_00",
+      "PK_10_002280_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_006_FLY_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_006_FLY_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002380_00",
+      "PK_10_002590_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_006_FLY_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_006_FLY_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002700_00",
+      "PK_10_002710_00",
+      "PK_10_002720_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_006_FLY_003",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_006_FLY_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002750_00",
+      "PK_10_002320_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_006_FLY_004",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_006_FLY_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002510_00",
+      "PK_10_002460_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_006_FLY_005",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_006_FLY_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002520_00",
+      "PK_10_002280_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_007_DAMAGE20_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_007_DAMAGE20_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002210_00",
+      "PK_10_002340_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_007_DAMAGE20_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_007_DAMAGE20_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002470_00",
+      "PK_10_002140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_007_DAMAGE20_003",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_007_DAMAGE20_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002490_00",
+      "PK_10_002450_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_007_DAMAGE20_004",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_007_DAMAGE20_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002640_00",
+      "PK_10_002660_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_007_DAMAGE20_005",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_007_DAMAGE20_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002670_00",
+      "PK_10_002700_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_008_SMALL_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_008_SMALL_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002420_00",
+      "PK_10_002440_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_008_SMALL_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_008_SMALL_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002740_00",
+      "PK_10_002750_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_008_SMALL_003",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_008_SMALL_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002210_00",
+      "PK_10_002700_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_008_SMALL_004",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_008_SMALL_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002510_00",
+      "PK_10_002520_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_008_SMALL_005",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_008_SMALL_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002360_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_009_GETTOGETHERRESTBIGTREE_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_009_GETTOGETHERRESTBIGTREE_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002550_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_009_GETTOGETHERRESTBIGTREE_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_009_GETTOGETHERRESTBIGTREE_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002710_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_009_GETTOGETHERRESTBIGTREE_003",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_009_GETTOGETHERRESTBIGTREE_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002440_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_009_GETTOGETHERRESTBIGTREE_004",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_009_GETTOGETHERRESTBIGTREE_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002360_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_010_FLOWERTRAVELER_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_010_FLOWERTRAVELER_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002510_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_010_FLOWERTRAVELER_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_010_FLOWERTRAVELER_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002520_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_010_FLOWERTRAVELER_003",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_010_FLOWERTRAVELER_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002480_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_011_MUSEUM_POKEMONxx_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_011_MUSEUM_POKEMONxx_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002160_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_011_MUSEUM_POKEMONxx_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_011_MUSEUM_POKEMONxx_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002200_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_011_MUSEUM_POKEMONxx_003",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_011_MUSEUM_POKEMONxx_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002290_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_011_MUSEUM_POKEMONxx_004",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_011_MUSEUM_POKEMONxx_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002330_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_011_MUSEUM_POKEMONxx_005",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_011_MUSEUM_POKEMONxx_005",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002440_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_011_MUSEUM_POKEMONxx_006",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_011_MUSEUM_POKEMONxx_006",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002600_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_012_MUSEUM_POKEMONyy_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_012_MUSEUM_POKEMONyy_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002450_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_012_MUSEUM_POKEMONyy_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_012_MUSEUM_POKEMONyy_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002590_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_013_MUSEUM＿MEW_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_013_MUSEUM＿MEW_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002450_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_013_MUSEUM＿MEW_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_013_MUSEUM＿MEW_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002450_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_013_MUSEUM＿MEW_003",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_013_MUSEUM＿MEW_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002450_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_013_MUSEUM＿MEW_004",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_013_MUSEUM＿MEW_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002450_02"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_014_ILLUSIONISLANDADVENTURESTORY_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_014_ILLUSIONISLANDADVENTURESTORY_001",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000220_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_014_ILLUSIONISLANDADVENTURESTORY_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_014_ILLUSIONISLANDADVENTURESTORY_002",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000190_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_014_ILLUSIONISLANDADVENTURESTORY_003",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_014_ILLUSIONISLANDADVENTURESTORY_003",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002450_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_014_ILLUSIONISLANDADVENTURESTORY_004",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_014_ILLUSIONISLANDADVENTURESTORY_004",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_20_002170_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_015_PROFILE_ICON_001",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_015_PROFILE_ICON_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_01_CARD_016_PROFILE_ICON_002",
+    "FrameID": "MI_CC_FR_2408010_01_CARD_016_PROFILE_ICON_002",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000210_00",
+      "TR_20_000210_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_TAIRYOHASSEI_001_MEW_001",
+    "FrameID": "MI_CC_FR_2408010_02_TAIRYOHASSEI_001_MEW_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002450_00",
+      "PK_20_002450_00",
+      "PK_20_002450_01",
+      "PK_20_002450_02"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_TAIRYOHASSEI_001_THUNDER_001",
+    "FrameID": "MI_CC_FR_2408010_02_TAIRYOHASSEI_001_THUNDER_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_001040_00",
+      "PK_20_001040_00",
+      "PK_20_001040_01"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_001_CELEBI_MAIN_001",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_001_CELEBI_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002170"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_001",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002150"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_002",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002160"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_003",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002170"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_004",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002180"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_005",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002190"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_006",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002200"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_007",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002210"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_008",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002220"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_009",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002230"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_010",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000010"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_011",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000060"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_012",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_013",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_002_CELEBI_014",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_002_CELEBI_014",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000230"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_003_GYARADOS_MAIN_001",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_003_GYARADOS_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002320"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_001",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002310"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_002",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002320"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_003",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002330"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_004",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002340"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_005",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002350"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_006",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002360"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_007",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002370"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_008",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002380"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_009",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002740"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_010",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000010"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_011",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_012",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_013",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_004_GYARADOS_014",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_004_GYARADOS_014",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000230"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_005_MEW_MAIN_001",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_005_MEW_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002450"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_001",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002450"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_002",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002460"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_003",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002470"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_004",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002500"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_005",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002510"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_006",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002520"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_007",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002480"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_008",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002490"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_009",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002530"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_010",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000190"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_011",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_012",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000220"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_006_MEW_013",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_006_MEW_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_007_PTERA_MAIN_001",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_007_PTERA_MAIN_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002590"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_001",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002540"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_002",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002550"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_003",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002560"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_004",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002570"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_005",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002580"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_006",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_006",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000100"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_007",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002590"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_008",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002600"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_009",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002610"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_010",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_010",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002730"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_011",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000010"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_012",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_013",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_008_PTERA_014",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_008_PTERA_014",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_009_GREEN_PIGEOT_MAIN_001",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_009_GREEN_PIGEOT_MAIN_001",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000210"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_009_GREEN_PIGEOT_MAIN_002",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_009_GREEN_PIGEOT_MAIN_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002720"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_001",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_001",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002150"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_002",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_002",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002160"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_003",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_003",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002540"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_004",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_004",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002550"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_005",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_005",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002700"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_006",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_006",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002710"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_007",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_007",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002720"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_008",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_008",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002730"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_009",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_009",
+    "TargetType": 2,
+    "TargetIDs": [
+      "PK_002740"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_010",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_010",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000020"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_011",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_011",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000200"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_012",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_012",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000030"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_013",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_013",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000210"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_02_THEMEDECK_010_GREEN_PIGEOT_014",
+    "FrameID": "MI_CC_FR_2408010_02_THEMEDECK_010_GREEN_PIGEOT_014",
+    "TargetType": 3,
+    "TargetIDs": [
+      "TR_000040"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_03_KAMEXGOODS_001_CARD_001",
+    "FrameID": "MI_CC_FR_2408010_03_KAMEXGOODS_001_CARD_001",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_90_000530_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_03_KAMEXGOODS_001_CARD_002",
+    "FrameID": "MI_CC_FR_2408010_03_KAMEXGOODS_001_CARD_002",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_90_000330_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_001",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_001",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1a"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_002",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_002",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1a"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_003",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_003",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1a"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_004",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_004",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1a"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_005",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_005",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1a"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_006",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_006",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1a"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_007",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_007",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1a"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_008",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_008",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1a"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_009",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_009",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1a"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_010",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_010",
+    "TargetType": 11,
+    "TargetIDs": [
+      "A1a"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_011",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_011",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002150_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_012",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_012",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002160_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_013",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_013",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002170_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_014",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_014",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002180_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_015",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_015",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002190_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_016",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_016",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002200_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_017",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_017",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002210_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_018",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_018",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002220_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_019",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_019",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002230_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_020",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_020",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002240_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_021",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_021",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002250_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_022",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_022",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002260_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_023",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_023",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002270_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_024",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_024",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002280_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_025",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_025",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002290_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_026",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_026",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002300_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_027",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_027",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002310_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_028",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_028",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002320_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_029",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_029",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002330_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_030",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_030",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002340_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_031",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_031",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002350_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_032",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_032",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002360_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_033",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_033",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002370_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_034",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_034",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002380_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_035",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_035",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002390_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_036",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_036",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002400_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_037",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_037",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002410_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_038",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_038",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002420_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_039",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_039",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002430_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_040",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_040",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002440_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_041",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_041",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002140_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_042",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_042",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002450_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_043",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_043",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002460_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_044",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_044",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002470_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_045",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_045",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002480_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_046",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_046",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002490_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_047",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_047",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002500_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_048",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_048",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002510_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_049",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_049",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002520_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_050",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_050",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002530_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_051",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_051",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002540_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_052",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_052",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002550_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_053",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_053",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002560_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_054",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_054",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002570_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_055",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_055",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002580_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_056",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_056",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002590_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_057",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_057",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002600_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_058",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_058",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002610_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_059",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_059",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002620_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_060",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_060",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002630_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_061",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_061",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002640_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_062",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_062",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002650_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_063",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_063",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002660_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_064",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_064",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002670_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_065",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_065",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002680_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_066",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_066",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002690_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_067",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_067",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002700_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_068",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_068",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002710_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_069",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_069",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002720_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_070",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_070",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002730_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_071",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_071",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002740_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_072",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_072",
+    "TargetType": 0,
+    "TargetIDs": [
+      "PK_10_002750_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_073",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_073",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000100_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_074",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_074",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000190_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_075",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_075",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000200_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_076",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_076",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000210_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_077",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_077",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000220_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_04_ZUKAN_001_A1a_078",
+    "FrameID": "MI_CC_FR_2408010_04_ZUKAN_001_A1a_078",
+    "TargetType": 1,
+    "TargetIDs": [
+      "TR_10_000230_00"
+    ]
+  },
+  {
+    "CriterionID": "MI_CC_FC_2408010_05_NEWYEAR_001",
+    "FrameID": "MI_CC_FR_2408010_05_NEWYEAR_001",
+    "TargetType": 10,
+    "TargetIDs": [
+      "0"
+    ]
+  }
+]

@@ -1,0 +1,2072 @@
+[
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_01_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 24,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_01_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 40,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_02_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 24,
+    "CompleteCount": 2,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_02_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 41,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_02_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_03_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 103,
+    "CompleteCount": 5,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_03_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_03_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_03_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_04_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_04_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_04_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_04_04",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 103,
+    "CompleteCount": 10,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_01_04_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 103,
+    "CompleteCount": 20,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_01_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 22,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_01_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 40,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_02_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 22,
+    "CompleteCount": 2,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_02_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 11,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_02_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_03_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 103,
+    "CompleteCount": 5,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_03_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_03_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_03_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_04_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_04_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_04_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_04_04",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 103,
+    "CompleteCount": 10,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_0002010_DR_02_04_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 103,
+    "CompleteCount": 20,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_01_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 24,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_01_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 40,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_02_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 24,
+    "CompleteCount": 2,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_02_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 41,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_02_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_EVENT_CHARGER_C60_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_03_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 103,
+    "CompleteCount": 5,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_03_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_03_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_03_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_04_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_04_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_04_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_04_04",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 103,
+    "CompleteCount": 10,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_EV_2408010_DR_01_04_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 103,
+    "CompleteCount": 20,
+    "RewardIDs": [
+      "BT_RW_ONCE_CHARGER_C60_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_01_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 22,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_01_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_01_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_01_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_02_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 23,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_02_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_02_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_02_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_03_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 24,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_03_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_03_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_03_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_04_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 26,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_04_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_04_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_04_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_05_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 27,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_05_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_05_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_05_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_06_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 25,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_06_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_06_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_06_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_07_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 26,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_07_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_07_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_07_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_08_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 22,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_08_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_08_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_08_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_09_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 23,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_09_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_09_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_09_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_10_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 24,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_10_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_10_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_10_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_11_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 26,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_11_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_11_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_11_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_12_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 27,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_12_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_12_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_12_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_13_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 21,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_13_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_13_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_13_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_14_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 21,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_14_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_14_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_14_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_15_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 24,
+    "CompleteCount": 3,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_15_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 30,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 100,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_15_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_ADVANCED_15_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_01_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 22,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_01_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 40,
+    "CompleteCount": 4,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_02_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 23,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_02_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 40,
+    "CompleteCount": 4,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_03_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 24,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_03_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 40,
+    "CompleteCount": 4,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_04_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 26,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_04_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 40,
+    "CompleteCount": 4,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_05_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 27,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_05_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 40,
+    "CompleteCount": 4,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_06_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 21,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_06_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 40,
+    "CompleteCount": 4,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_07_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 26,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_BEGINNER_07_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 40,
+    "CompleteCount": 4,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_3"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_01_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 16,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_01_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_01_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_01_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_01_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 101,
+    "CompleteCount": 1500,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_02_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 11,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_02_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_02_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_02_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_02_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 102,
+    "CompleteCount": 12,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_03_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 12,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_03_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_03_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_03_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_03_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 101,
+    "CompleteCount": 1500,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_04_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 13,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_04_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_04_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_04_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_04_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 102,
+    "CompleteCount": 12,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_05_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 16,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_05_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_05_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_05_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_05_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 101,
+    "CompleteCount": 1500,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_06_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 14,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_06_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_06_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_06_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_06_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 102,
+    "CompleteCount": 12,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_07_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 16,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_07_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_07_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_07_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_07_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 101,
+    "CompleteCount": 1500,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_08_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 16,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_08_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_08_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_08_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_08_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 101,
+    "CompleteCount": 1500,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_09_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 11,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_09_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_09_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_09_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_09_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 102,
+    "CompleteCount": 12,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_10_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 12,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_10_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_10_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_10_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_10_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 101,
+    "CompleteCount": 1500,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_11_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 13,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_11_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_11_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_11_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_11_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 102,
+    "CompleteCount": 12,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_12_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 16,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_12_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_12_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_12_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_12_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 101,
+    "CompleteCount": 1500,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_13_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 14,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_13_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_13_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_13_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_13_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 102,
+    "CompleteCount": 12,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_14_01",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 10,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_14_02",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 105,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_14_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1012,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_14_04",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 60,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_EXPERT_14_05",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 101,
+    "CompleteCount": 1500,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_5"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_01_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 22,
+    "CompleteCount": 2,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_01_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 41,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_01_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_02_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 23,
+    "CompleteCount": 2,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_02_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 41,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_02_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_03_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 24,
+    "CompleteCount": 2,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_03_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 41,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_03_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_04_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 26,
+    "CompleteCount": 2,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_04_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 41,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_04_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_05_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 27,
+    "CompleteCount": 2,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_05_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 41,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_05_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_06_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 21,
+    "CompleteCount": 2,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_06_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 41,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_06_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_07_01",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 26,
+    "CompleteCount": 2,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_07_02",
+    "BinaryOperation": 2,
+    "SoloBattleTryMaxKey": 0,
+    "SoloBattleTrySumKey": 41,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  },
+  {
+    "BattleTryID": "BT_TR_INTERMEDIATE_07_03",
+    "BinaryOperation": 1,
+    "SoloBattleTryMaxKey": 1014,
+    "SoloBattleTrySumKey": 0,
+    "CompleteCount": 1,
+    "RewardIDs": [
+      "BT_RW_ONCE_SHOPTICKET_4"
+    ]
+  }
+]

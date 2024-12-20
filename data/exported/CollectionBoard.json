@@ -1,0 +1,121 @@
+[
+  {
+    "BoardID": "BOARD_100110_EIEVUI",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100110",
+    "ScheduleID": "SC_RELEASE"
+  },
+  {
+    "BoardID": "BOARD_100120_NYARTH",
+    "BoardType": 2,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100120",
+    "ScheduleID": "SC_SH_0002010_01"
+  },
+  {
+    "BoardID": "BOARD_100130_LIZARDON",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100130",
+    "ScheduleID": "SC_SH_2408010_04"
+  },
+  {
+    "BoardID": "BOARD_100140_FUSHIGIBANA",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100140",
+    "ScheduleID": "SC_SH_0002010_07"
+  },
+  {
+    "BoardID": "BOARD_100150_GREEN",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100150",
+    "ScheduleID": "SC_SH_2408010_01"
+  },
+  {
+    "BoardID": "BOARD_100160_MEWTWO",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100160",
+    "ScheduleID": "SC_SH_0002010_05"
+  },
+  {
+    "BoardID": "BOARD_100170_ERIKA",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100170",
+    "ScheduleID": "SC_A1_A2_GLOBAL"
+  },
+  {
+    "BoardID": "BOARD_100180_SIRNIGHT",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100180",
+    "ScheduleID": "SC_A1_A2_GLOBAL"
+  },
+  {
+    "BoardID": "BOARD_100190_PIKACHU",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100190",
+    "ScheduleID": "SC_SH_0002010_06"
+  },
+  {
+    "BoardID": "BOARD_100350_PremiumSet",
+    "BoardType": 2,
+    "CardNum": 7,
+    "IllustrationIconID": "ICON_BOARD_100350",
+    "ScheduleID": "SC_RELEASE"
+  },
+  {
+    "BoardID": "BOARD_100360_Displayframe_cool",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100360",
+    "ScheduleID": "SC_RELEASE"
+  },
+  {
+    "BoardID": "BOARD_100370_Natural_Leaf",
+    "BoardType": 2,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100370",
+    "ScheduleID": "SC_A1a_A2"
+  },
+  {
+    "BoardID": "BOARD_100390_Snow_Crystal",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100390",
+    "ScheduleID": "SC_SH_0002010_07"
+  },
+  {
+    "BoardID": "BOARD_100400_Displayframe_pinkdesk",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100400",
+    "ScheduleID": "SC_SH_0002010_01"
+  },
+  {
+    "BoardID": "BOARD_100410_Miniature_temple",
+    "BoardType": 2,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100410",
+    "ScheduleID": "SC_SH_2408010_01"
+  },
+  {
+    "BoardID": "BOARD_100420_Displayframe_winterholiday",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100420",
+    "ScheduleID": "SC_EV_2408010_MI_05"
+  },
+  {
+    "BoardID": "BOARD_100430_Displayframe_newyear",
+    "BoardType": 1,
+    "CardNum": 1,
+    "IllustrationIconID": "ICON_BOARD_100430",
+    "ScheduleID": "SC_EV_2408010_MI_06"
+  }
+]

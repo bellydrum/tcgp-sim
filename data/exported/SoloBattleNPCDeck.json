@@ -1,0 +1,828 @@
+[
+  {
+    "NPCDeckID": "2001001",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_1",
+    "MainCard": "200100102",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 1,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": ""
+  },
+  {
+    "NPCDeckID": "2001002",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_2",
+    "MainCard": "200100202",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 1,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": ""
+  },
+  {
+    "NPCDeckID": "2001003",
+    "EnergyType": [
+      3
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_3",
+    "MainCard": "200100302",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 3,
+    "AIType": 1,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": ""
+  },
+  {
+    "NPCDeckID": "2001004",
+    "EnergyType": [
+      5
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_4",
+    "MainCard": "200100411",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 5,
+    "AIType": 1,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": ""
+  },
+  {
+    "NPCDeckID": "2001005",
+    "EnergyType": [
+      6
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_5",
+    "MainCard": "200100509",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 6,
+    "AIType": 1,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": ""
+  },
+  {
+    "NPCDeckID": "2001006",
+    "EnergyType": [
+      7
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_6",
+    "MainCard": "200100613",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 7,
+    "AIType": 1,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": ""
+  },
+  {
+    "NPCDeckID": "2001007",
+    "EnergyType": [
+      8
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_7",
+    "MainCard": "200100704",
+    "MainCardSub1": "200100706",
+    "MainCardSub2": "",
+    "DeckCaseType": 8,
+    "AIType": 1,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": ""
+  },
+  {
+    "NPCDeckID": "2001008",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_8",
+    "MainCard": "200100803",
+    "MainCardSub1": "200100809",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 2,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001009",
+    "EnergyType": [
+      3
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_9",
+    "MainCard": "200100903",
+    "MainCardSub1": "200100905",
+    "MainCardSub2": "",
+    "DeckCaseType": 3,
+    "AIType": 2,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001010",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_10",
+    "MainCard": "200101003",
+    "MainCardSub1": "200101007",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 2,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001011",
+    "EnergyType": [
+      5
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_11",
+    "MainCard": "200101102",
+    "MainCardSub1": "200101107",
+    "MainCardSub2": "",
+    "DeckCaseType": 5,
+    "AIType": 2,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001012",
+    "EnergyType": [
+      6
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_12",
+    "MainCard": "200101205",
+    "MainCardSub1": "200101207",
+    "MainCardSub2": "",
+    "DeckCaseType": 6,
+    "AIType": 2,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001013",
+    "EnergyType": [
+      7
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_13",
+    "MainCard": "200101303",
+    "MainCardSub1": "200101306",
+    "MainCardSub2": "",
+    "DeckCaseType": 7,
+    "AIType": 2,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001014",
+    "EnergyType": [
+      8
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_14",
+    "MainCard": "200101403",
+    "MainCardSub1": "200101409",
+    "MainCardSub2": "",
+    "DeckCaseType": 8,
+    "AIType": 2,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001015",
+    "EnergyType": [
+      3
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_15",
+    "MainCard": "200101505",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 3,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001016",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_16",
+    "MainCard": "200101605",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001017",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_17",
+    "MainCard": "200101705",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001018",
+    "EnergyType": [
+      5
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_18",
+    "MainCard": "200101801",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 5,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001019",
+    "EnergyType": [
+      6
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_19",
+    "MainCard": "200101901",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 6,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001020",
+    "EnergyType": [
+      7
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_20",
+    "MainCard": "200102005",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 7,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001021",
+    "EnergyType": [
+      8
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_21",
+    "MainCard": "200102105",
+    "MainCardSub1": "200102111",
+    "MainCardSub2": "",
+    "DeckCaseType": 8,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001022",
+    "EnergyType": [
+      6
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_22",
+    "MainCard": "200102202",
+    "MainCardSub1": "200102208",
+    "MainCardSub2": "",
+    "DeckCaseType": 6,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001023",
+    "EnergyType": [
+      3
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_23",
+    "MainCard": "200102305",
+    "MainCardSub1": "200102307",
+    "MainCardSub2": "",
+    "DeckCaseType": 3,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001024",
+    "EnergyType": [
+      5
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_24",
+    "MainCard": "200102405",
+    "MainCardSub1": "200102403",
+    "MainCardSub2": "",
+    "DeckCaseType": 5,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001025",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_25",
+    "MainCard": "200102505",
+    "MainCardSub1": "200102509",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001026",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_26",
+    "MainCard": "200102603",
+    "MainCardSub1": "200102609",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001027",
+    "EnergyType": [
+      7
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_27",
+    "MainCard": "200102705",
+    "MainCardSub1": "200102709",
+    "MainCardSub2": "",
+    "DeckCaseType": 7,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001028",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_2",
+    "MainCard": "200102803",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 1,
+    "PlayMat": "PLAYMAT_100050_FUSHIGIBANA",
+    "DeckShield": "DECKSHIELD_100050_FUSHIGIBANA",
+    "CoinSkin": "COIN_100060_FUSHIGIBANA"
+  },
+  {
+    "NPCDeckID": "2001029",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_29",
+    "MainCard": "200102905",
+    "MainCardSub1": "200102914",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 2,
+    "PlayMat": "PLAYMAT_100050_FUSHIGIBANA",
+    "DeckShield": "DECKSHIELD_100050_FUSHIGIBANA",
+    "CoinSkin": "COIN_100060_FUSHIGIBANA"
+  },
+  {
+    "NPCDeckID": "2001030",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_16",
+    "MainCard": "200103005",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100050_FUSHIGIBANA",
+    "DeckShield": "DECKSHIELD_100050_FUSHIGIBANA",
+    "CoinSkin": "COIN_100060_FUSHIGIBANA"
+  },
+  {
+    "NPCDeckID": "2001031",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_31",
+    "MainCard": "200103105",
+    "MainCardSub1": "200103109",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100050_FUSHIGIBANA",
+    "DeckShield": "DECKSHIELD_100050_FUSHIGIBANA",
+    "CoinSkin": "COIN_100060_FUSHIGIBANA"
+  },
+  {
+    "NPCDeckID": "2001032",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_32",
+    "MainCard": "200103211",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 1,
+    "PlayMat": "PLAYMAT_100030_NYARTH",
+    "DeckShield": "DECKSHIELD_100030_NYARTH",
+    "CoinSkin": "COIN_100030_NYARTH"
+  },
+  {
+    "NPCDeckID": "2001033",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_33",
+    "MainCard": "200103310",
+    "MainCardSub1": "200103309",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 2,
+    "PlayMat": "PLAYMAT_100030_NYARTH",
+    "DeckShield": "DECKSHIELD_100030_NYARTH",
+    "CoinSkin": "COIN_100030_NYARTH"
+  },
+  {
+    "NPCDeckID": "2001034",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_34",
+    "MainCard": "200103411",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100030_NYARTH",
+    "DeckShield": "DECKSHIELD_100030_NYARTH",
+    "CoinSkin": "COIN_100030_NYARTH"
+  },
+  {
+    "NPCDeckID": "2001035",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_35",
+    "MainCard": "200103509",
+    "MainCardSub1": "200103507",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100030_NYARTH",
+    "DeckShield": "DECKSHIELD_100030_NYARTH",
+    "CoinSkin": "COIN_100030_NYARTH"
+  },
+  {
+    "NPCDeckID": "2001036",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_36",
+    "MainCard": "200103604",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001037",
+    "EnergyType": [
+      3
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_37",
+    "MainCard": "200103713",
+    "MainCardSub1": "200103718",
+    "MainCardSub2": "",
+    "DeckCaseType": 3,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001038",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_38",
+    "MainCard": "200103803",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001039",
+    "EnergyType": [
+      5
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_39",
+    "MainCard": "200103903",
+    "MainCardSub1": "200103920",
+    "MainCardSub2": "",
+    "DeckCaseType": 5,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001040",
+    "EnergyType": [
+      6
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_40",
+    "MainCard": "200104001",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 6,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001041",
+    "EnergyType": [
+      7
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_41",
+    "MainCard": "200104111",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 7,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001042",
+    "EnergyType": [
+      7
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_42",
+    "MainCard": "200104213",
+    "MainCardSub1": "200104218",
+    "MainCardSub2": "",
+    "DeckCaseType": 7,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001043",
+    "EnergyType": [
+      2,
+      7
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_43",
+    "MainCard": "200104318",
+    "MainCardSub1": "200104311",
+    "MainCardSub2": "",
+    "DeckCaseType": 1,
+    "AIType": 3,
+    "PlayMat": "",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001044",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_44",
+    "MainCard": "200104405",
+    "MainCardSub1": "200104411",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001045",
+    "EnergyType": [
+      2
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_45",
+    "MainCard": "200104505",
+    "MainCardSub1": "200104511",
+    "MainCardSub2": "",
+    "DeckCaseType": 2,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001046",
+    "EnergyType": [
+      3
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_46",
+    "MainCard": "200104609",
+    "MainCardSub1": "200104605",
+    "MainCardSub2": "",
+    "DeckCaseType": 3,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001047",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_47",
+    "MainCard": "200104703",
+    "MainCardSub1": "200104705",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001048",
+    "EnergyType": [
+      5
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_48",
+    "MainCard": "200104803",
+    "MainCardSub1": "200104807",
+    "MainCardSub2": "",
+    "DeckCaseType": 5,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001049",
+    "EnergyType": [
+      6
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_49",
+    "MainCard": "200104904",
+    "MainCardSub1": "200104902",
+    "MainCardSub2": "",
+    "DeckCaseType": 6,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001050",
+    "EnergyType": [
+      7
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_50",
+    "MainCard": "200105009",
+    "MainCardSub1": "200105003",
+    "MainCardSub2": "",
+    "DeckCaseType": 7,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001051",
+    "EnergyType": [
+      8
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_43",
+    "MainCard": "200105117",
+    "MainCardSub1": "200105109",
+    "MainCardSub2": "",
+    "DeckCaseType": 1,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  },
+  {
+    "NPCDeckID": "2001052",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_52",
+    "MainCard": "200105203",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 1,
+    "PlayMat": "",
+    "DeckShield": "",
+    "CoinSkin": ""
+  },
+  {
+    "NPCDeckID": "2001053",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_53",
+    "MainCard": "200105305",
+    "MainCardSub1": "200105314",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 2,
+    "PlayMat": "PLAYMAT_100100_PIKACHU",
+    "DeckShield": "DECKSHIELD_100100_PIKACHU",
+    "CoinSkin": "COIN_100140_PIKACHU"
+  },
+  {
+    "NPCDeckID": "2001054",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_54",
+    "MainCard": "200105405",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100090_SIRNIGHT",
+    "DeckShield": "DECKSHIELD_100090_SIRNIGHT",
+    "CoinSkin": "COIN_100130_SIRNIGHT"
+  },
+  {
+    "NPCDeckID": "2001055",
+    "EnergyType": [
+      4
+    ],
+    "DeckNameMSID": "BATTLE_NPC_DECK_55",
+    "MainCard": "200105505",
+    "MainCardSub1": "200105507",
+    "MainCardSub2": "",
+    "DeckCaseType": 4,
+    "AIType": 3,
+    "PlayMat": "PLAYMAT_100160_PremiumSet",
+    "DeckShield": "DECKSHIELD_100160_PremiumSet",
+    "CoinSkin": "COIN_100240_PremiumSet"
+  }
+]

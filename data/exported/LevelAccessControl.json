@@ -1,0 +1,44 @@
+[
+  {
+    "ID": "battle",
+    "Type": 2,
+    "Level": 0,
+    "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_050"
+  },
+  {
+    "ID": "battle_tutorial",
+    "Type": 1,
+    "Level": 3,
+    "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_020"
+  },
+  {
+    "ID": "collection_board",
+    "Type": 3,
+    "Level": 4,
+    "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_060"
+  },
+  {
+    "ID": "collection_file",
+    "Type": 4,
+    "Level": 6,
+    "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_070"
+  },
+  {
+    "ID": "deck",
+    "Type": 5,
+    "Level": 0,
+    "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_040"
+  },
+  {
+    "ID": "deck_mission",
+    "Type": 6,
+    "Level": 3,
+    "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_030"
+  },
+  {
+    "ID": "get_challenge",
+    "Type": 7,
+    "Level": 2,
+    "ConditionDescriptionMSID": "LEVEL_ACCESS_CONTROL_DISCRIPTION_010"
+  }
+]

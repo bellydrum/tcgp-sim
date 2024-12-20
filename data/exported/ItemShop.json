@@ -1,0 +1,102 @@
+[
+  {
+    "ShopID": "EMBLEM",
+    "Type": 1,
+    "NameMSID": "SHOP_TAB_NAME_040",
+    "SortOrderPriority": 30,
+    "ScheduleID": "SC_RELEASE",
+    "IconType": 0,
+    "IconItemID": "",
+    "ShowPremiumLicenseButton": false
+  },
+  {
+    "ShopID": "EVENT_FUSHIGIBANA",
+    "Type": 2,
+    "NameMSID": "SHOP_TAB_NAME_050",
+    "SortOrderPriority": 40,
+    "ScheduleID": "SC_SH_0002010_07",
+    "IconType": 2,
+    "IconItemID": "TICKET_0002010_EV_02",
+    "ShowPremiumLicenseButton": false
+  },
+  {
+    "ShopID": "EVENT_KAMEX",
+    "Type": 2,
+    "NameMSID": "SHOP_TAB_NAME_050",
+    "SortOrderPriority": 50,
+    "ScheduleID": "SC_SH_2408010_01",
+    "IconType": 2,
+    "IconItemID": "TICKET_2408010_EV_01",
+    "ShowPremiumLicenseButton": false
+  },
+  {
+    "ShopID": "EVENT_NYARTH",
+    "Type": 2,
+    "NameMSID": "SHOP_TAB_NAME_050",
+    "SortOrderPriority": 50,
+    "ScheduleID": "SC_SH_0002010_01",
+    "IconType": 2,
+    "IconItemID": "TICKET_0002010_EV_01",
+    "ShowPremiumLicenseButton": false
+  },
+  {
+    "ShopID": "EVENT_OTHER",
+    "Type": 2,
+    "NameMSID": "SHOP_TAB_NAME_070",
+    "SortOrderPriority": 10,
+    "ScheduleID": "SC_RELEASE",
+    "IconType": 0,
+    "IconItemID": "",
+    "ShowPremiumLicenseButton": false
+  },
+  {
+    "ShopID": "OTHER",
+    "Type": 1,
+    "NameMSID": "SHOP_TAB_NAME_070",
+    "SortOrderPriority": 10,
+    "ScheduleID": "SC_RELEASE",
+    "IconType": 0,
+    "IconItemID": "",
+    "ShowPremiumLicenseButton": false
+  },
+  {
+    "ShopID": "POKEGOLD",
+    "Type": 2,
+    "NameMSID": "SHOP_TAB_NAME_010",
+    "SortOrderPriority": 20,
+    "ScheduleID": "SC_RELEASE",
+    "IconType": 1,
+    "IconItemID": "POKEGOLD_FREE",
+    "ShowPremiumLicenseButton": false
+  },
+  {
+    "ShopID": "PREMIUM",
+    "Type": 2,
+    "NameMSID": "SHOP_TAB_NAME_060",
+    "SortOrderPriority": 30,
+    "ScheduleID": "SC_RELEASE",
+    "IconType": 1,
+    "IconItemID": "PREMIUM_TICKET",
+    "ShowPremiumLicenseButton": true
+  },
+  {
+    "ShopID": "SHOP",
+    "Type": 1,
+    "NameMSID": "SHOP_TAB_NAME_020",
+    "SortOrderPriority": 40,
+    "ScheduleID": "SC_RELEASE",
+    "IconType": 1,
+    "IconItemID": "SHOPTICKET",
+    "ShowPremiumLicenseButton": false
+  },
+  {
+    "ShopID": "SPECIAL",
+    "Type": 1,
+    "NameMSID": "SHOP_TAB_NAME_030",
+    "SortOrderPriority": 20,
+    "ScheduleID": "SC_RELEASE",
+    "IconType": 1,
+    "IconItemID": "SHOPTICKET_P",
+    "ShowPremiumLicenseButton": false
+  }
+]

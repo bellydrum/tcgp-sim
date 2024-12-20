@@ -1,0 +1,21 @@
+[
+  {
+    "ID": "HOMEPACK_A1",
+    "DisplayedPackIDs": [
+      "AN001_0020_00_000",
+      "AN001_0010_00_000",
+      "AN001_0030_00_000"
+    ],
+    "ScheduleID": "SC_A1_A1a",
+    "MainPackID": "AN001_0010_00_000"
+  },
+  {
+    "ID": "HOMEPACK_A1a",
+    "DisplayedPackIDs": [
+      "AN001_0010_00_000",
+      "AN002_0010_00_000"
+    ],
+    "ScheduleID": "SC_A1a_A2",
+    "MainPackID": "AN002_0010_00_000"
+  }
+]

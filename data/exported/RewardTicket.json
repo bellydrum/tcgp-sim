@@ -1,0 +1,56 @@
+[
+  {
+    "ID": "ITSUKA_TICKET",
+    "Type": 3,
+    "NameMSID": "ITEM_NAME_TICKET_ITSUKA",
+    "DescriptionMSID": "ITEM_DESC_TICKET_ITSUKA",
+    "SortOrderPriority": 10,
+    "ScheduleID": "SC_RELEASE",
+    "AssetID": "TICKET_ITSUKA"
+  },
+  {
+    "ID": "TICKET_0002010_EV_01",
+    "Type": 0,
+    "NameMSID": "ITEM_NAME_TICKET_EV1",
+    "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+    "SortOrderPriority": 40,
+    "ScheduleID": "SC_SH_0002010_01",
+    "AssetID": "EVENT_SHOPTICKET_01"
+  },
+  {
+    "ID": "TICKET_0002010_EV_02",
+    "Type": 0,
+    "NameMSID": "ITEM_NAME_TICKET_EV2",
+    "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+    "SortOrderPriority": 30,
+    "ScheduleID": "SC_SH_0002010_07",
+    "AssetID": "EVENT_SHOPTICKET_02"
+  },
+  {
+    "ID": "TICKET_2408010_EV_01",
+    "Type": 0,
+    "NameMSID": "ITEM_NAME_TICKET_EV3",
+    "DescriptionMSID": "ITEM_DESC_TICKET_EVENT",
+    "SortOrderPriority": 60,
+    "ScheduleID": "SC_SH_2408010_01",
+    "AssetID": "EVENT_SHOPTICKET_03"
+  },
+  {
+    "ID": "TICKET_EMBLEM_A1",
+    "Type": 2,
+    "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A1",
+    "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+    "SortOrderPriority": 20,
+    "ScheduleID": "SC_RELEASE",
+    "AssetID": "TICKET_EMBLEM_A1"
+  },
+  {
+    "ID": "TICKET_EMBLEM_A1a",
+    "Type": 2,
+    "NameMSID": "ITEM_NAME_TICKET_EMBLEM_A1a",
+    "DescriptionMSID": "ITEM_DESC_TICKET_EMBLEM",
+    "SortOrderPriority": 50,
+    "ScheduleID": "SC_RELEASE_A1a",
+    "AssetID": "TICKET_EMBLEM_A1a"
+  }
+]

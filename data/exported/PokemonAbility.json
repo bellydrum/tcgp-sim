@@ -1,0 +1,170 @@
+[
+  {
+    "PokemonAbilityID": "PK_000070_ABL_01",
+    "Name": "パウダーヒール",
+    "AbilityLogicID": "300200020",
+    "AbilityLogicParameters": [
+      "20"
+    ],
+    "NameMSID": "ABILITY_NAME_1",
+    "DescriptionMSID": "ABILITY_DESC_3"
+  },
+  {
+    "PokemonAbilityID": "PK_000200_ABL_01",
+    "Name": "かおりのわな",
+    "AbilityLogicID": "300200050",
+    "AbilityLogicParameters": [],
+    "NameMSID": "ABILITY_NAME_2",
+    "DescriptionMSID": "ABILITY_DESC_6"
+  },
+  {
+    "PokemonAbilityID": "PK_000610_ABL_01",
+    "Name": "はんげき",
+    "AbilityLogicID": "300100010",
+    "AbilityLogicParameters": [
+      "20"
+    ],
+    "NameMSID": "ABILITY_NAME_3",
+    "DescriptionMSID": "ABILITY_DESC_1"
+  },
+  {
+    "PokemonAbilityID": "PK_000670_ABL_01",
+    "Name": "シェルアーマー",
+    "AbilityLogicID": "300300010",
+    "AbilityLogicParameters": [
+      "10"
+    ],
+    "NameMSID": "ABILITY_NAME_4",
+    "DescriptionMSID": "ABILITY_DESC_11"
+  },
+  {
+    "PokemonAbilityID": "PK_000890_ABL_01",
+    "Name": "みずしゅりけん",
+    "AbilityLogicID": "300200010",
+    "AbilityLogicParameters": [
+      "1",
+      "20"
+    ],
+    "NameMSID": "ABILITY_NAME_5",
+    "DescriptionMSID": "ABILITY_DESC_2"
+  },
+  {
+    "PokemonAbilityID": "PK_000980_ABL_01",
+    "Name": "ボルトチャージ",
+    "AbilityLogicID": "300200060",
+    "AbilityLogicParameters": [
+      "Lightning",
+      "1"
+    ],
+    "NameMSID": "ABILITY_NAME_6",
+    "DescriptionMSID": "ABILITY_DESC_7"
+  },
+  {
+    "PokemonAbilityID": "PK_001230_ABL_01",
+    "Name": "かげのじゅばく",
+    "AbilityLogicID": "300300020",
+    "AbilityLogicParameters": [],
+    "NameMSID": "ABILITY_NAME_7",
+    "DescriptionMSID": "ABILITY_DESC_12"
+  },
+  {
+    "PokemonAbilityID": "PK_001250_ABL_01",
+    "Name": "ねむりのふりこ",
+    "AbilityLogicID": "300200070",
+    "AbilityLogicParameters": [
+      "Asleep"
+    ],
+    "NameMSID": "ABILITY_NAME_8",
+    "DescriptionMSID": "ABILITY_DESC_8"
+  },
+  {
+    "PokemonAbilityID": "PK_001320_ABL_01",
+    "Name": "トランスシェイド",
+    "AbilityLogicID": "300200040",
+    "AbilityLogicParameters": [
+      "Psychic",
+      "1"
+    ],
+    "NameMSID": "ABILITY_NAME_9",
+    "DescriptionMSID": "ABILITY_DESC_5"
+  },
+  {
+    "PokemonAbilityID": "PK_001770_ABL_01",
+    "Name": "もれだすガス",
+    "AbilityLogicID": "300200080",
+    "AbilityLogicParameters": [
+      "Poisoned"
+    ],
+    "NameMSID": "ABILITY_NAME_10",
+    "DescriptionMSID": "ABILITY_DESC_9"
+  },
+  {
+    "PokemonAbilityID": "PK_001820_ABL_01",
+    "Name": "ハードコート",
+    "AbilityLogicID": "300300010",
+    "AbilityLogicParameters": [
+      "20"
+    ],
+    "NameMSID": "ABILITY_NAME_11",
+    "DescriptionMSID": "ABILITY_DESC_11"
+  },
+  {
+    "PokemonAbilityID": "PK_001880_ABL_01",
+    "Name": "おいはらう",
+    "AbilityLogicID": "300200030",
+    "AbilityLogicParameters": [],
+    "NameMSID": "ABILITY_NAME_12",
+    "DescriptionMSID": "ABILITY_DESC_4"
+  },
+  {
+    "PokemonAbilityID": "PK_002070_ABL_01",
+    "Name": "データスキャン",
+    "AbilityLogicID": "300200090",
+    "AbilityLogicParameters": [
+      "1"
+    ],
+    "NameMSID": "ABILITY_NAME_13",
+    "DescriptionMSID": "ABILITY_DESC_10"
+  },
+  {
+    "PokemonAbilityID": "PK_002200_ABL_01",
+    "Name": "みつりんのぬし",
+    "AbilityLogicID": "300300030",
+    "AbilityLogicParameters": [
+      "Grass",
+      "Grass"
+    ],
+    "NameMSID": "ABILITY_NAME_14",
+    "DescriptionMSID": "ABILITY_DESC_13"
+  },
+  {
+    "PokemonAbilityID": "PK_002330_ABL_01",
+    "Name": "おしながす",
+    "AbilityLogicID": "300200100",
+    "AbilityLogicParameters": [
+      "Water",
+      "Water",
+      "Water"
+    ],
+    "NameMSID": "ABILITY_NAME_15",
+    "DescriptionMSID": "ABILITY_DESC_14"
+  },
+  {
+    "PokemonAbilityID": "PK_002590_ABL_01",
+    "Name": "げんしのさだめ",
+    "AbilityLogicID": "300300040",
+    "AbilityLogicParameters": [],
+    "NameMSID": "ABILITY_NAME_16",
+    "DescriptionMSID": "ABILITY_DESC_15"
+  },
+  {
+    "PokemonAbilityID": "PK_002690_ABL_01",
+    "Name": "さめはだ",
+    "AbilityLogicID": "300100010",
+    "AbilityLogicParameters": [
+      "20"
+    ],
+    "NameMSID": "ABILITY_NAME_17",
+    "DescriptionMSID": "ABILITY_DESC_1"
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "ContentID": "SH_CN_BOARD_0001",
+    "ItemType": 9,
+    "ItemID": "BOARD_100350_PremiumSet",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0002",
+    "ItemType": 9,
+    "ItemID": "BOARD_100390_Snow_Crystal",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0003",
+    "ItemType": 9,
+    "ItemID": "BOARD_100400_Displayframe_pinkdesk",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0006",
+    "ItemType": 9,
+    "ItemID": "BOARD_100140_FUSHIGIBANA",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0007",
+    "ItemType": 9,
+    "ItemID": "BOARD_100160_MEWTWO",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0008",
+    "ItemType": 9,
+    "ItemID": "BOARD_100190_PIKACHU",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0010",
+    "ItemType": 9,
+    "ItemID": "BOARD_100120_NYARTH",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0011",
+    "ItemType": 9,
+    "ItemID": "BOARD_100390_Snow_Crystal",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0012",
+    "ItemType": 9,
+    "ItemID": "BOARD_100400_Displayframe_pinkdesk",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0013",
+    "ItemType": 9,
+    "ItemID": "BOARD_100150_GREEN",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0014",
+    "ItemType": 9,
+    "ItemID": "BOARD_100410_Miniature_temple",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0015",
+    "ItemType": 9,
+    "ItemID": "BOARD_100370_Natural_Leaf",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_BOARD_0016",
+    "ItemType": 9,
+    "ItemID": "BOARD_100130_LIZARDON",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CARD_0001",
+    "ItemType": 1,
+    "ItemID": "TR_90_000010_00",
+    "ExpansionID": "PROMO-A",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CARD_0002",
+    "ItemType": 1,
+    "ItemID": "TR_90_000020_00",
+    "ExpansionID": "PROMO-A",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CARD_0003",
+    "ItemType": 1,
+    "ItemID": "TR_90_000030_00",
+    "ExpansionID": "PROMO-A",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CARD_0004",
+    "ItemType": 1,
+    "ItemID": "TR_90_000040_00",
+    "ExpansionID": "PROMO-A",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CARD_0005",
+    "ItemType": 1,
+    "ItemID": "TR_90_000050_00",
+    "ExpansionID": "PROMO-A",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CARD_0006",
+    "ItemType": 1,
+    "ItemID": "TR_90_000060_00",
+    "ExpansionID": "PROMO-A",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CARD_0007",
+    "ItemType": 1,
+    "ItemID": "TR_90_000070_00",
+    "ExpansionID": "PROMO-A",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CARD_0008",
+    "ItemType": 0,
+    "ItemID": "PK_90_000940_02",
+    "ExpansionID": "PROMO-A",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CHARGER_C_0002",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CHARGER_C_0003",
+    "ItemType": 5,
+    "ItemID": "CHALLENGE_CHARGER_110030",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 6
+  },
+  {
+    "ContentID": "SH_CN_CHARGER_P_0002",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_CHARGER_P_0003",
+    "ItemType": 4,
+    "ItemID": "PACK_CHARGER_100030",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 6
+  },
+  {
+    "ContentID": "SH_CN_COIN_0001",
+    "ItemType": 9,
+    "ItemID": "COIN_100240_PremiumSet",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_COIN_0003",
+    "ItemType": 9,
+    "ItemID": "COIN_100060_FUSHIGIBANA",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_COIN_0004",
+    "ItemType": 9,
+    "ItemID": "COIN_100100_MEWTWO",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_COIN_0005",
+    "ItemType": 9,
+    "ItemID": "COIN_100260_ERIKA_RNB",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_COIN_0006",
+    "ItemType": 9,
+    "ItemID": "COIN_100270_ERIKA_HOLO",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_COIN_0007",
+    "ItemType": 9,
+    "ItemID": "COIN_100140_PIKACHU",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_COIN_0008",
+    "ItemType": 9,
+    "ItemID": "COIN_100030_NYARTH",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_COIN_0009",
+    "ItemType": 9,
+    "ItemID": "COIN_100080_KAMEX",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_COIN_0010",
+    "ItemType": 9,
+    "ItemID": "COIN_100040_LIZARDON",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_DECKSHIELD_0001",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100160_PremiumSet",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_DECKSHIELD_0003",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100050_FUSHIGIBANA",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_DECKSHIELD_0004",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100070_MEWTWO",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_DECKSHIELD_0005",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100100_PIKACHU",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_DECKSHIELD_0006",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100030_NYARTH",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_DECKSHIELD_0007",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100060_KAMEX",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_DECKSHIELD_0009",
+    "ItemType": 9,
+    "ItemID": "DECKSHIELD_100040_LIZARDON",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_DUST_0001",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 50
+  },
+  {
+    "ContentID": "SH_CN_DUST_0002",
+    "ItemType": 7,
+    "ItemID": "SHINEDUST",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 50
+  },
+  {
+    "ContentID": "SH_CN_EMBLEM_0001",
+    "ItemType": 6,
+    "ItemID": "EMBLEM_100010_MEWTWO",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_EMBLEM_0002",
+    "ItemType": 6,
+    "ItemID": "EMBLEM_100020_LIZARDON",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_EMBLEM_0003",
+    "ItemType": 6,
+    "ItemID": "EMBLEM_100030_PIKACHU",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_EMBLEM_0004",
+    "ItemType": 6,
+    "ItemID": "EMBLEM_100060_MEW",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_FILE_0001",
+    "ItemType": 9,
+    "ItemID": "FILE_100290_PremiumSet",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_FILE_0002",
+    "ItemType": 9,
+    "ItemID": "FILE_100070_A1_LIZARDON",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_FILE_0003",
+    "ItemType": 9,
+    "ItemID": "FILE_100080_A1_MEWTWO",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_FILE_0004",
+    "ItemType": 9,
+    "ItemID": "FILE_100090_A1_PIKACHU",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_FILE_0006",
+    "ItemType": 9,
+    "ItemID": "FILE_100050_FUSHIGIBANA",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_FILE_0007",
+    "ItemType": 9,
+    "ItemID": "FILE_100100_MEWTWO",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_FILE_0008",
+    "ItemType": 9,
+    "ItemID": "FILE_100130_PIKACHU",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_FILE_0009",
+    "ItemType": 9,
+    "ItemID": "FILE_100030_NYARTH",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_FILE_0010",
+    "ItemType": 9,
+    "ItemID": "FILE_100060_GREEN_KAMEX",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_FILE_0012",
+    "ItemType": 9,
+    "ItemID": "FILE_100040_LIZARDON",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_ICON_0001",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100080_FUSHIGIBANA",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_ICON_0002",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100050_NYARTH",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_ICON_0003",
+    "ItemType": 6,
+    "ItemID": "PROFILE_ICON_100100_KAMEX",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_PLAYMAT_0001",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100160_PremiumSet",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_PLAYMAT_0003",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100050_FUSHIGIBANA",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_PLAYMAT_0004",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100070_MEWTWO",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_PLAYMAT_0005",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100100_PIKACHU",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_PLAYMAT_0006",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100030_NYARTH",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_PLAYMAT_0007",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100060_GREEN_KAMEX",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_PLAYMAT_0009",
+    "ItemType": 9,
+    "ItemID": "PLAYMAT_100040_LIZARDON",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_TICKET_0001",
+    "ItemType": 7,
+    "ItemID": "SHOPTICKET",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  },
+  {
+    "ContentID": "SH_CN_TICKET_0002",
+    "ItemType": 7,
+    "ItemID": "SHOPTICKET_P",
+    "ExpansionID": "",
+    "NameMSID": "",
+    "Amount": 1
+  }
+]

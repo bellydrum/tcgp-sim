@@ -1,0 +1,44 @@
+[
+  {
+    "GroupID": "BT_GR_0002010_01",
+    "ScheduleID": "SC_EV_0002010_DR_01",
+    "GroupNameMSID": "BT_GR_0002010_01",
+    "EventPowerAutoHealLimit": 5,
+    "EventPowerHealSecondsPerPower": 43200,
+    "EventPowerHealSecondsPerPokeGold": 43200,
+    "BannerAssetId": "0002010_04",
+    "PromotionPackId": "AP001_0010_00_000",
+    "ShopRewardTicket": "",
+    "EventPowerManualHealLimit": 8,
+    "EventMissionGroupID": "",
+    "EventShopID": ""
+  },
+  {
+    "GroupID": "BT_GR_0002010_02",
+    "ScheduleID": "SC_EV_0002010_DR_02",
+    "GroupNameMSID": "BT_GR_0002010_02",
+    "EventPowerAutoHealLimit": 5,
+    "EventPowerHealSecondsPerPower": 43200,
+    "EventPowerHealSecondsPerPokeGold": 43200,
+    "BannerAssetId": "0002010_05",
+    "PromotionPackId": "AP001_0020_00_000",
+    "ShopRewardTicket": "",
+    "EventPowerManualHealLimit": 8,
+    "EventMissionGroupID": "",
+    "EventShopID": ""
+  },
+  {
+    "GroupID": "BT_GR_2408010_01",
+    "ScheduleID": "SC_EV_2408010_DR_01",
+    "GroupNameMSID": "BT_GR_2408010_01",
+    "EventPowerAutoHealLimit": 5,
+    "EventPowerHealSecondsPerPower": 43200,
+    "EventPowerHealSecondsPerPokeGold": 43200,
+    "BannerAssetId": "2408010_03",
+    "PromotionPackId": "AP001_0030_00_000",
+    "ShopRewardTicket": "",
+    "EventPowerManualHealLimit": 8,
+    "EventMissionGroupID": "",
+    "EventShopID": ""
+  }
+]

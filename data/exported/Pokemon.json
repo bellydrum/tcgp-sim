@@ -1,0 +1,4821 @@
+[
+  {
+    "PokemonID": "PK_000010",
+    "CharacterID": "FUSHIGIDANE",
+    "HP": 70,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000010_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000020",
+    "CharacterID": "FUSHIGISOU",
+    "HP": 90,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "FUSHIGIDANE",
+    "PokemonAttackIDs": [
+      "PK_000020_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000030",
+    "CharacterID": "FUSHIGIBANA",
+    "HP": 160,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "FUSHIGISOU",
+    "PokemonAttackIDs": [
+      "PK_000030_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000040",
+    "CharacterID": "FUSHIGIBANA_EX",
+    "HP": 190,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "FUSHIGISOU",
+    "PokemonAttackIDs": [
+      "PK_000040_ATK_01",
+      "PK_000040_ATK_02"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_000050",
+    "CharacterID": "CATERPIE",
+    "HP": 50,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000050_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000060",
+    "CharacterID": "TRANSEL",
+    "HP": 80,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "CATERPIE",
+    "PokemonAttackIDs": [
+      "PK_000060_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000070",
+    "CharacterID": "BUTTERFREE",
+    "HP": 120,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "TRANSEL",
+    "PokemonAttackIDs": [
+      "PK_000070_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_000070_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000080",
+    "CharacterID": "BEEDLE",
+    "HP": 50,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000080_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000090",
+    "CharacterID": "COCOON",
+    "HP": 80,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "BEEDLE",
+    "PokemonAttackIDs": [
+      "PK_000090_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000100",
+    "CharacterID": "SPEAR",
+    "HP": 120,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "COCOON",
+    "PokemonAttackIDs": [
+      "PK_000100_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000110",
+    "CharacterID": "NAZONOKUSA",
+    "HP": 60,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000110_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000120",
+    "CharacterID": "KUSAIHANA",
+    "HP": 80,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "NAZONOKUSA",
+    "PokemonAttackIDs": [
+      "PK_000120_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000130",
+    "CharacterID": "RUFFRESIA",
+    "HP": 140,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "KUSAIHANA",
+    "PokemonAttackIDs": [
+      "PK_000130_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000140",
+    "CharacterID": "PARAS",
+    "HP": 70,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000140_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000150",
+    "CharacterID": "PARASECT",
+    "HP": 120,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "PARAS",
+    "PokemonAttackIDs": [
+      "PK_000150_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000160",
+    "CharacterID": "KONGPANG",
+    "HP": 60,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000160_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000170",
+    "CharacterID": "MORPHON",
+    "HP": 80,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "KONGPANG",
+    "PokemonAttackIDs": [
+      "PK_000170_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000180",
+    "CharacterID": "MADATSUBOMI",
+    "HP": 60,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000180_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000190",
+    "CharacterID": "UTSUDON",
+    "HP": 90,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "MADATSUBOMI",
+    "PokemonAttackIDs": [
+      "PK_000190_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000200",
+    "CharacterID": "UTSUBOT",
+    "HP": 140,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "UTSUDON",
+    "PokemonAttackIDs": [
+      "PK_000200_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_000200_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000210",
+    "CharacterID": "TAMATAMA",
+    "HP": 50,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000210_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000220",
+    "CharacterID": "NASSY",
+    "HP": 130,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "TAMATAMA",
+    "PokemonAttackIDs": [
+      "PK_000220_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000230",
+    "CharacterID": "NASSY_EX",
+    "HP": 160,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "TAMATAMA",
+    "PokemonAttackIDs": [
+      "PK_000230_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_000240",
+    "CharacterID": "MONJARA",
+    "HP": 80,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000240_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000250",
+    "CharacterID": "STRIKE",
+    "HP": 70,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000250_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000260",
+    "CharacterID": "KAILIOS",
+    "HP": 90,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000260_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000270",
+    "CharacterID": "MONMEN",
+    "HP": 50,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000270_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000280",
+    "CharacterID": "ELFUUN",
+    "HP": 80,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "MONMEN",
+    "PokemonAttackIDs": [
+      "PK_000280_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000290",
+    "CharacterID": "CHURINE",
+    "HP": 60,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000290_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000300",
+    "CharacterID": "DREDEAR",
+    "HP": 100,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "CHURINE",
+    "PokemonAttackIDs": [
+      "PK_000300_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000310",
+    "CharacterID": "MEECLE",
+    "HP": 70,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000310_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000320",
+    "CharacterID": "GOGOAT",
+    "HP": 120,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "MEECLE",
+    "PokemonAttackIDs": [
+      "PK_000320_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000330",
+    "CharacterID": "HITOKAGE",
+    "HP": 60,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000330_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000340",
+    "CharacterID": "LIZARDO",
+    "HP": 90,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "HITOKAGE",
+    "PokemonAttackIDs": [
+      "PK_000340_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000350",
+    "CharacterID": "LIZARDON",
+    "HP": 150,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "LIZARDO",
+    "PokemonAttackIDs": [
+      "PK_000350_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000360",
+    "CharacterID": "LIZARDON_EX",
+    "HP": 180,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "LIZARDO",
+    "PokemonAttackIDs": [
+      "PK_000360_ATK_01",
+      "PK_000360_ATK_02"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_000370",
+    "CharacterID": "ROKON",
+    "HP": 50,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000370_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000380",
+    "CharacterID": "KYUKON",
+    "HP": 90,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "ROKON",
+    "PokemonAttackIDs": [
+      "PK_000380_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000390",
+    "CharacterID": "GARDIE",
+    "HP": 70,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000390_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000400",
+    "CharacterID": "WINDIE",
+    "HP": 130,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "GARDIE",
+    "PokemonAttackIDs": [
+      "PK_000400_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000410",
+    "CharacterID": "WINDIE_EX",
+    "HP": 150,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "GARDIE",
+    "PokemonAttackIDs": [
+      "PK_000410_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_000420",
+    "CharacterID": "PONYTA",
+    "HP": 60,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000420_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000430",
+    "CharacterID": "GALLOP",
+    "HP": 100,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "PONYTA",
+    "PokemonAttackIDs": [
+      "PK_000430_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000440",
+    "CharacterID": "BOOBER",
+    "HP": 80,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000440_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000450",
+    "CharacterID": "BOOSTER",
+    "HP": 120,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "EIEVUI",
+    "PokemonAttackIDs": [
+      "PK_000450_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000460",
+    "CharacterID": "FIRE",
+    "HP": 100,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000460_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000470",
+    "CharacterID": "FIRE_EX",
+    "HP": 140,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000470_ATK_01",
+      "PK_000470_ATK_02"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_000480",
+    "CharacterID": "KUITARAN",
+    "HP": 80,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000480_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000490",
+    "CharacterID": "YATOUMORI",
+    "HP": 60,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000490_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000500",
+    "CharacterID": "ENNEWT",
+    "HP": 90,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "YATOUMORI",
+    "PokemonAttackIDs": [
+      "PK_000500_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000510",
+    "CharacterID": "YAKUDE",
+    "HP": 60,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000510_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000520",
+    "CharacterID": "MARUYAKUDE",
+    "HP": 130,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "YAKUDE",
+    "PokemonAttackIDs": [
+      "PK_000520_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000530",
+    "CharacterID": "ZENIGAME",
+    "HP": 60,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000530_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000540",
+    "CharacterID": "KAMEIL",
+    "HP": 80,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "ZENIGAME",
+    "PokemonAttackIDs": [
+      "PK_000540_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000550",
+    "CharacterID": "KAMEX",
+    "HP": 150,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "KAMEIL",
+    "PokemonAttackIDs": [
+      "PK_000550_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000560",
+    "CharacterID": "KAMEX_EX",
+    "HP": 180,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "KAMEIL",
+    "PokemonAttackIDs": [
+      "PK_000560_ATK_01",
+      "PK_000560_ATK_02"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_000570",
+    "CharacterID": "KODUCK",
+    "HP": 60,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000570_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000580",
+    "CharacterID": "GOLDUCK",
+    "HP": 90,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "KODUCK",
+    "PokemonAttackIDs": [
+      "PK_000580_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000590",
+    "CharacterID": "NYOROMO",
+    "HP": 60,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000590_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000600",
+    "CharacterID": "NYOROZO",
+    "HP": 90,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "NYOROMO",
+    "PokemonAttackIDs": [
+      "PK_000600_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000610",
+    "CharacterID": "NYOROBON",
+    "HP": 150,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "NYOROZO",
+    "PokemonAttackIDs": [
+      "PK_000610_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_000610_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000620",
+    "CharacterID": "MENOKURAGE",
+    "HP": 60,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000620_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000630",
+    "CharacterID": "DOKUKURAGE",
+    "HP": 110,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "MENOKURAGE",
+    "PokemonAttackIDs": [
+      "PK_000630_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000640",
+    "CharacterID": "PAWOU",
+    "HP": 80,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000640_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000650",
+    "CharacterID": "JUGON",
+    "HP": 120,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "PAWOU",
+    "PokemonAttackIDs": [
+      "PK_000650_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000660",
+    "CharacterID": "SHELLDER",
+    "HP": 60,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000660_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000670",
+    "CharacterID": "PARSHEN",
+    "HP": 120,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "SHELLDER",
+    "PokemonAttackIDs": [
+      "PK_000670_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_000670_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000680",
+    "CharacterID": "CRAB",
+    "HP": 70,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000680_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000690",
+    "CharacterID": "KINGLER",
+    "HP": 120,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "CRAB",
+    "PokemonAttackIDs": [
+      "PK_000690_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000700",
+    "CharacterID": "TATTU",
+    "HP": 60,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000700_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000710",
+    "CharacterID": "SEADRA",
+    "HP": 70,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "TATTU",
+    "PokemonAttackIDs": [
+      "PK_000710_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000720",
+    "CharacterID": "TOSAKINTO",
+    "HP": 60,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000720_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000730",
+    "CharacterID": "AZUMAO",
+    "HP": 100,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "TOSAKINTO",
+    "PokemonAttackIDs": [
+      "PK_000730_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000740",
+    "CharacterID": "HITODEMAN",
+    "HP": 50,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000740_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000750",
+    "CharacterID": "STARMIE",
+    "HP": 90,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 0,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "HITODEMAN",
+    "PokemonAttackIDs": [
+      "PK_000750_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000760",
+    "CharacterID": "STARMIE_EX",
+    "HP": 130,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 0,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "HITODEMAN",
+    "PokemonAttackIDs": [
+      "PK_000760_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_000770",
+    "CharacterID": "KOIKING",
+    "HP": 30,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000770_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000780",
+    "CharacterID": "GYARADOS",
+    "HP": 150,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 4,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "KOIKING",
+    "PokemonAttackIDs": [
+      "PK_000780_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000790",
+    "CharacterID": "LAPLACE",
+    "HP": 100,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000790_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000800",
+    "CharacterID": "SHOWERS",
+    "HP": 130,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "EIEVUI",
+    "PokemonAttackIDs": [
+      "PK_000800_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000810",
+    "CharacterID": "OMNITE",
+    "HP": 90,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "KAINOKASEKI",
+    "PokemonAttackIDs": [
+      "PK_000810_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000820",
+    "CharacterID": "OMSTAR",
+    "HP": 140,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "OMNITE",
+    "PokemonAttackIDs": [
+      "PK_000820_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000830",
+    "CharacterID": "FREEZER",
+    "HP": 100,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000830_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000840",
+    "CharacterID": "FREEZER_EX",
+    "HP": 140,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000840_ATK_01",
+      "PK_000840_ATK_02"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_000850",
+    "CharacterID": "KOARUHIE",
+    "HP": 50,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000850_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000860",
+    "CharacterID": "SWANNA",
+    "HP": 90,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "KOARUHIE",
+    "PokemonAttackIDs": [
+      "PK_000860_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000870",
+    "CharacterID": "KEROMATSU",
+    "HP": 60,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000870_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000880",
+    "CharacterID": "GEKOGASHIRA",
+    "HP": 80,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "KEROMATSU",
+    "PokemonAttackIDs": [
+      "PK_000880_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000890",
+    "CharacterID": "GEKKOUGA",
+    "HP": 120,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "GEKOGASHIRA",
+    "PokemonAttackIDs": [
+      "PK_000890_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_000890_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000900",
+    "CharacterID": "NAMAKOBUSHI",
+    "HP": 70,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000900_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000910",
+    "CharacterID": "HAGIGISHIRI",
+    "HP": 90,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000910_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000920",
+    "CharacterID": "YUKIHAMI",
+    "HP": 50,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 9,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000920_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000930",
+    "CharacterID": "MOTHNOW",
+    "HP": 90,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 9,
+    "PreevolvedCharacterID": "YUKIHAMI",
+    "PokemonAttackIDs": [
+      "PK_000930_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000940",
+    "CharacterID": "PIKACHU",
+    "HP": 60,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000940_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000950",
+    "CharacterID": "RAICHU",
+    "HP": 100,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "PIKACHU",
+    "PokemonAttackIDs": [
+      "PK_000950_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000960",
+    "CharacterID": "PIKACHU_EX",
+    "HP": 120,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000960_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_000970",
+    "CharacterID": "COIL",
+    "HP": 60,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000970_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000980",
+    "CharacterID": "RARECOIL",
+    "HP": 80,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "COIL",
+    "PokemonAttackIDs": [
+      "PK_000980_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_000980_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_000990",
+    "CharacterID": "BIRIRIDAMA",
+    "HP": 60,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_000990_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001000",
+    "CharacterID": "MARUMINE",
+    "HP": 80,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 0,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "BIRIRIDAMA",
+    "PokemonAttackIDs": [
+      "PK_001000_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001010",
+    "CharacterID": "ELEBOO",
+    "HP": 70,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001010_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001020",
+    "CharacterID": "THUNDERS",
+    "HP": 90,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "EIEVUI",
+    "PokemonAttackIDs": [
+      "PK_001020_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001030",
+    "CharacterID": "THUNDER",
+    "HP": 100,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001030_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001040",
+    "CharacterID": "THUNDER_EX",
+    "HP": 130,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001040_ATK_01",
+      "PK_001040_ATK_02"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_001050",
+    "CharacterID": "SHIMAMA",
+    "HP": 60,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001050_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001060",
+    "CharacterID": "ZEBRAIKA",
+    "HP": 90,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "SHIMAMA",
+    "PokemonAttackIDs": [
+      "PK_001060_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001070",
+    "CharacterID": "SHIBISHIRASU",
+    "HP": 30,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001070_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001080",
+    "CharacterID": "SHIBIBEEL",
+    "HP": 80,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "SHIBISHIRASU",
+    "PokemonAttackIDs": [
+      "PK_001080_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001090",
+    "CharacterID": "SHIBIRUDON",
+    "HP": 140,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "SHIBIBEEL",
+    "PokemonAttackIDs": [
+      "PK_001090_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001100",
+    "CharacterID": "ERIKITERU",
+    "HP": 60,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001100_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001110",
+    "CharacterID": "ELEZARD",
+    "HP": 90,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "ERIKITERU",
+    "PokemonAttackIDs": [
+      "PK_001110_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001120",
+    "CharacterID": "BACHINUNI",
+    "HP": 70,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001120_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001130",
+    "CharacterID": "PIPPI",
+    "HP": 60,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 9,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001130_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001140",
+    "CharacterID": "PIXY",
+    "HP": 100,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 9,
+    "PreevolvedCharacterID": "PIPPI",
+    "PokemonAttackIDs": [
+      "PK_001140_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001150",
+    "CharacterID": "CASEY",
+    "HP": 60,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001150_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001160",
+    "CharacterID": "YUNGERER",
+    "HP": 80,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "CASEY",
+    "PokemonAttackIDs": [
+      "PK_001160_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001170",
+    "CharacterID": "FOODIN",
+    "HP": 130,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "YUNGERER",
+    "PokemonAttackIDs": [
+      "PK_001170_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001180",
+    "CharacterID": "YADON",
+    "HP": 70,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001180_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001190",
+    "CharacterID": "YADORAN",
+    "HP": 130,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "YADON",
+    "PokemonAttackIDs": [
+      "PK_001190_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001200",
+    "CharacterID": "GHOS",
+    "HP": 60,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001200_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001210",
+    "CharacterID": "GHOST",
+    "HP": 80,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "GHOS",
+    "PokemonAttackIDs": [
+      "PK_001210_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001220",
+    "CharacterID": "GANGAR",
+    "HP": 130,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "GHOST",
+    "PokemonAttackIDs": [
+      "PK_001220_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001230",
+    "CharacterID": "GANGAR_EX",
+    "HP": 170,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "GHOST",
+    "PokemonAttackIDs": [
+      "PK_001230_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_001230_ABL_01"
+    ],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_001240",
+    "CharacterID": "SLEEPE",
+    "HP": 70,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001240_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001250",
+    "CharacterID": "SLEEPER",
+    "HP": 100,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "SLEEPE",
+    "PokemonAttackIDs": [
+      "PK_001250_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_001250_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001260",
+    "CharacterID": "BARRIERD",
+    "HP": 80,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001260_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001270",
+    "CharacterID": "ROUGELA",
+    "HP": 80,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001270_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001280",
+    "CharacterID": "MEWTWO",
+    "HP": 120,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001280_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001290",
+    "CharacterID": "MEWTWO_EX",
+    "HP": 150,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001290_ATK_01",
+      "PK_001290_ATK_02"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_001300",
+    "CharacterID": "RALTS",
+    "HP": 60,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001300_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001310",
+    "CharacterID": "KIRLIA",
+    "HP": 80,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "RALTS",
+    "PokemonAttackIDs": [
+      "PK_001310_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001320",
+    "CharacterID": "SIRNIGHT",
+    "HP": 110,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "KIRLIA",
+    "PokemonAttackIDs": [
+      "PK_001320_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_001320_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001330",
+    "CharacterID": "KOROMORI",
+    "HP": 60,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001330_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001340",
+    "CharacterID": "KOKOROMORI",
+    "HP": 90,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "KOROMORI",
+    "PokemonAttackIDs": [
+      "PK_001340_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001350",
+    "CharacterID": "GOBIT",
+    "HP": 90,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 3,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001350_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001360",
+    "CharacterID": "GOLOOG",
+    "HP": 140,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 4,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "GOBIT",
+    "PokemonAttackIDs": [
+      "PK_001360_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001370",
+    "CharacterID": "SAND",
+    "HP": 70,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001370_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001380",
+    "CharacterID": "SANDPAN",
+    "HP": 100,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "SAND",
+    "PokemonAttackIDs": [
+      "PK_001380_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001390",
+    "CharacterID": "DIGDA",
+    "HP": 50,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001390_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001400",
+    "CharacterID": "DUGTRIO",
+    "HP": 70,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "DIGDA",
+    "PokemonAttackIDs": [
+      "PK_001400_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001410",
+    "CharacterID": "MANKEY",
+    "HP": 60,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001410_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001420",
+    "CharacterID": "OKORIZARU",
+    "HP": 90,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "MANKEY",
+    "PokemonAttackIDs": [
+      "PK_001420_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001430",
+    "CharacterID": "WANRIKY",
+    "HP": 70,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001430_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001440",
+    "CharacterID": "GORIKY",
+    "HP": 100,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "WANRIKY",
+    "PokemonAttackIDs": [
+      "PK_001440_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001450",
+    "CharacterID": "KAIRIKY",
+    "HP": 150,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "GORIKY",
+    "PokemonAttackIDs": [
+      "PK_001450_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001460",
+    "CharacterID": "KAIRIKY_EX",
+    "HP": 180,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "GORIKY",
+    "PokemonAttackIDs": [
+      "PK_001460_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_001470",
+    "CharacterID": "ISITSUBUTE",
+    "HP": 70,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001470_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001480",
+    "CharacterID": "GOLONE",
+    "HP": 100,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "ISITSUBUTE",
+    "PokemonAttackIDs": [
+      "PK_001480_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001490",
+    "CharacterID": "GOLONYA",
+    "HP": 160,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 4,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "GOLONE",
+    "PokemonAttackIDs": [
+      "PK_001490_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001500",
+    "CharacterID": "IWARK",
+    "HP": 110,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 4,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001500_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001510",
+    "CharacterID": "KARAKARA",
+    "HP": 60,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001510_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001520",
+    "CharacterID": "GARAGARA",
+    "HP": 100,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "KARAKARA",
+    "PokemonAttackIDs": [
+      "PK_001520_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001530",
+    "CharacterID": "GARAGARA_EX",
+    "HP": 140,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "KARAKARA",
+    "PokemonAttackIDs": [
+      "PK_001530_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_001540",
+    "CharacterID": "SAWAMULAR",
+    "HP": 80,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001540_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001550",
+    "CharacterID": "EBIWALAR",
+    "HP": 80,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001550_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001560",
+    "CharacterID": "SIHORN",
+    "HP": 80,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 3,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001560_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001570",
+    "CharacterID": "SIDON",
+    "HP": 120,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 4,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "SIHORN",
+    "PokemonAttackIDs": [
+      "PK_001570_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001580",
+    "CharacterID": "KABUTO",
+    "HP": 90,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "KOURANOKASEKI",
+    "PokemonAttackIDs": [
+      "PK_001580_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001590",
+    "CharacterID": "KABUTOPS",
+    "HP": 140,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 1,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "KABUTO",
+    "PokemonAttackIDs": [
+      "PK_001590_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001600",
+    "CharacterID": "KOJOFU",
+    "HP": 60,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001600_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001610",
+    "CharacterID": "KOJONDO",
+    "HP": 80,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "KOJOFU",
+    "PokemonAttackIDs": [
+      "PK_001610_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001620",
+    "CharacterID": "TATAKKO",
+    "HP": 80,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001620_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001630",
+    "CharacterID": "OTOSUPUS",
+    "HP": 130,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "TATAKKO",
+    "PokemonAttackIDs": [
+      "PK_001630_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001640",
+    "CharacterID": "ARBO",
+    "HP": 60,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001640_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001650",
+    "CharacterID": "ARBOK",
+    "HP": 100,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "ARBO",
+    "PokemonAttackIDs": [
+      "PK_001650_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001660",
+    "CharacterID": "NIDORAN♀",
+    "HP": 60,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001660_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001670",
+    "CharacterID": "NIDORINA",
+    "HP": 80,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "NIDORAN♀",
+    "PokemonAttackIDs": [
+      "PK_001670_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001680",
+    "CharacterID": "NIDOQUEEN",
+    "HP": 140,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "NIDORINA",
+    "PokemonAttackIDs": [
+      "PK_001680_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001690",
+    "CharacterID": "NIDORAN♂",
+    "HP": 60,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001690_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001700",
+    "CharacterID": "NIDORINO",
+    "HP": 90,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "NIDORAN♂",
+    "PokemonAttackIDs": [
+      "PK_001700_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001710",
+    "CharacterID": "NIDOKING",
+    "HP": 150,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "NIDORINO",
+    "PokemonAttackIDs": [
+      "PK_001710_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001720",
+    "CharacterID": "ZUBAT",
+    "HP": 50,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001720_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001730",
+    "CharacterID": "GOLBAT",
+    "HP": 70,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "ZUBAT",
+    "PokemonAttackIDs": [
+      "PK_001730_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001740",
+    "CharacterID": "BETBETER",
+    "HP": 70,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 3,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001740_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001750",
+    "CharacterID": "BETBETON",
+    "HP": 130,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "BETBETER",
+    "PokemonAttackIDs": [
+      "PK_001750_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001760",
+    "CharacterID": "DOGARS",
+    "HP": 70,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001760_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001770",
+    "CharacterID": "MATADOGAS",
+    "HP": 110,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "DOGARS",
+    "PokemonAttackIDs": [
+      "PK_001770_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_001770_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001780",
+    "CharacterID": "KUCHEAT",
+    "HP": 70,
+    "PokemonTypes": [
+      9
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001780_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001790",
+    "CharacterID": "KOMATANA",
+    "HP": 50,
+    "PokemonTypes": [
+      9
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001790_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001800",
+    "CharacterID": "KIRIKIZAN",
+    "HP": 90,
+    "PokemonTypes": [
+      9
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "KOMATANA",
+    "PokemonAttackIDs": [
+      "PK_001800_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001810",
+    "CharacterID": "MELTAN",
+    "HP": 60,
+    "PokemonTypes": [
+      9
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001810_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001820",
+    "CharacterID": "MELMETAL",
+    "HP": 130,
+    "PokemonTypes": [
+      9
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "MELTAN",
+    "PokemonAttackIDs": [
+      "PK_001820_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_001820_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001830",
+    "CharacterID": "MINIRYU",
+    "HP": 70,
+    "PokemonTypes": [
+      10
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 0,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001830_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001840",
+    "CharacterID": "HAKURYU",
+    "HP": 100,
+    "PokemonTypes": [
+      10
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 0,
+    "PreevolvedCharacterID": "MINIRYU",
+    "PokemonAttackIDs": [
+      "PK_001840_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001850",
+    "CharacterID": "KAIRYU",
+    "HP": 160,
+    "PokemonTypes": [
+      10
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 0,
+    "PreevolvedCharacterID": "HAKURYU",
+    "PokemonAttackIDs": [
+      "PK_001850_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001860",
+    "CharacterID": "POPPO",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001860_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001870",
+    "CharacterID": "PIGEON",
+    "HP": 80,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "POPPO",
+    "PokemonAttackIDs": [
+      "PK_001870_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001880",
+    "CharacterID": "PIGEOT",
+    "HP": 130,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "PIGEON",
+    "PokemonAttackIDs": [
+      "PK_001880_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_001880_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001890",
+    "CharacterID": "KORATTA",
+    "HP": 40,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001890_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001900",
+    "CharacterID": "RATTA",
+    "HP": 80,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "KORATTA",
+    "PokemonAttackIDs": [
+      "PK_001900_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001910",
+    "CharacterID": "ONISUZUME",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001910_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001920",
+    "CharacterID": "ONIDRILL",
+    "HP": 100,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "ONISUZUME",
+    "PokemonAttackIDs": [
+      "PK_001920_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001930",
+    "CharacterID": "PURIN",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001930_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001940",
+    "CharacterID": "PUKURIN",
+    "HP": 100,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "PURIN",
+    "PokemonAttackIDs": [
+      "PK_001940_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001950",
+    "CharacterID": "PUKURIN_EX",
+    "HP": 140,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "PURIN",
+    "PokemonAttackIDs": [
+      "PK_001950_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_001960",
+    "CharacterID": "NYARTH",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001960_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001970",
+    "CharacterID": "PERSIAN",
+    "HP": 90,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "NYARTH",
+    "PokemonAttackIDs": [
+      "PK_001970_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001980",
+    "CharacterID": "KAMONEGI",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001980_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_001990",
+    "CharacterID": "DODO",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_001990_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002000",
+    "CharacterID": "DODORIO",
+    "HP": 80,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 0,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "DODO",
+    "PokemonAttackIDs": [
+      "PK_002000_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002010",
+    "CharacterID": "BERORINGA",
+    "HP": 90,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 3,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002010_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002020",
+    "CharacterID": "LUCKY",
+    "HP": 120,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 3,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002020_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002030",
+    "CharacterID": "GARURA",
+    "HP": 100,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 3,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002030_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002040",
+    "CharacterID": "KENTAUROS",
+    "HP": 100,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002040_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002050",
+    "CharacterID": "METAMON",
+    "HP": 70,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002050_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002060",
+    "CharacterID": "EIEVUI",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002060_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002070",
+    "CharacterID": "PORYGON",
+    "HP": 50,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002070_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_002070_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002080",
+    "CharacterID": "PTERA",
+    "HP": 100,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "HIMITSUNOKOHAKU",
+    "PokemonAttackIDs": [
+      "PK_002080_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002090",
+    "CharacterID": "KABIGON",
+    "HP": 150,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 4,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002090_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002100",
+    "CharacterID": "CHILLARMY",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002100_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002110",
+    "CharacterID": "CHILLACCINO",
+    "HP": 90,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "CHILLARMY",
+    "PokemonAttackIDs": [
+      "PK_002110_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002120",
+    "CharacterID": "WOOLUU",
+    "HP": 70,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002120_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002130",
+    "CharacterID": "BAIWOOLUU",
+    "HP": 120,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "WOOLUU",
+    "PokemonAttackIDs": [
+      "PK_002130_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002140",
+    "CharacterID": "MEW",
+    "HP": 60,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002140_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002150",
+    "CharacterID": "TAMATAMA",
+    "HP": 50,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002150_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002160",
+    "CharacterID": "NASSY",
+    "HP": 130,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "TAMATAMA",
+    "PokemonAttackIDs": [
+      "PK_002160_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002170",
+    "CharacterID": "CELEBI_EX",
+    "HP": 130,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002170_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_002180",
+    "CharacterID": "TSUTARJA",
+    "HP": 70,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002180_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002190",
+    "CharacterID": "JANOVY",
+    "HP": 80,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "TSUTARJA",
+    "PokemonAttackIDs": [
+      "PK_002190_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002200",
+    "CharacterID": "JALORDA",
+    "HP": 110,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "JANOVY",
+    "PokemonAttackIDs": [
+      "PK_002200_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_002200_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002210",
+    "CharacterID": "NEMASYU",
+    "HP": 60,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002210_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002220",
+    "CharacterID": "MASHADE",
+    "HP": 90,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "NEMASYU",
+    "PokemonAttackIDs": [
+      "PK_002220_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002230",
+    "CharacterID": "DADARIN",
+    "HP": 100,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002230_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002240",
+    "CharacterID": "PONYTA",
+    "HP": 60,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002240_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002250",
+    "CharacterID": "GALLOP",
+    "HP": 100,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "PONYTA",
+    "PokemonAttackIDs": [
+      "PK_002250_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002260",
+    "CharacterID": "BOOBER",
+    "HP": 80,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002260_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002270",
+    "CharacterID": "MERLARVA",
+    "HP": 80,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002270_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002280",
+    "CharacterID": "ULGAMOTH",
+    "HP": 120,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "MERLARVA",
+    "PokemonAttackIDs": [
+      "PK_002280_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002290",
+    "CharacterID": "YATOUMORI",
+    "HP": 60,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002290_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002300",
+    "CharacterID": "ENNEWT",
+    "HP": 80,
+    "PokemonTypes": [
+      3
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 4,
+    "PreevolvedCharacterID": "YATOUMORI",
+    "PokemonAttackIDs": [
+      "PK_002300_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002310",
+    "CharacterID": "KOIKING",
+    "HP": 30,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002310_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002320",
+    "CharacterID": "GYARADOS_EX",
+    "HP": 180,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "KOIKING",
+    "PokemonAttackIDs": [
+      "PK_002320_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_002330",
+    "CharacterID": "SHOWERS",
+    "HP": 120,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "EIEVUI",
+    "PokemonAttackIDs": [
+      "PK_002330_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_002330_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002340",
+    "CharacterID": "KEIKOUO",
+    "HP": 60,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002340_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002350",
+    "CharacterID": "NEOLANT",
+    "HP": 80,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 0,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "KEIKOUO",
+    "PokemonAttackIDs": [
+      "PK_002350_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002360",
+    "CharacterID": "KAMUKAME",
+    "HP": 80,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002360_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002370",
+    "CharacterID": "KAJIRIGAME",
+    "HP": 130,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "KAMUKAME",
+    "PokemonAttackIDs": [
+      "PK_002370_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002380",
+    "CharacterID": "UU",
+    "HP": 80,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002380_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002390",
+    "CharacterID": "PIKACHU",
+    "HP": 60,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002390_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002400",
+    "CharacterID": "RAICHU",
+    "HP": 120,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "PIKACHU",
+    "PokemonAttackIDs": [
+      "PK_002400_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002410",
+    "CharacterID": "ELEBOO",
+    "HP": 70,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002410_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002420",
+    "CharacterID": "BACHURU",
+    "HP": 40,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002420_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002430",
+    "CharacterID": "DENTULA",
+    "HP": 80,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "BACHURU",
+    "PokemonAttackIDs": [
+      "PK_002430_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002440",
+    "CharacterID": "DEDENNE",
+    "HP": 60,
+    "PokemonTypes": [
+      5
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002440_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002450",
+    "CharacterID": "MEW_EX",
+    "HP": 130,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002450_ATK_01",
+      "PK_002450_ATK_02"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_002460",
+    "CharacterID": "SYMBOLER",
+    "HP": 80,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002460_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002470",
+    "CharacterID": "LIGRAY",
+    "HP": 60,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002470_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002480",
+    "CharacterID": "FLORGES",
+    "HP": 120,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 1,
+    "WeaknessType": 9,
+    "PreevolvedCharacterID": "FLOETTE",
+    "PokemonAttackIDs": [
+      "PK_002480_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002490",
+    "CharacterID": "PEROPPAFU",
+    "HP": 60,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 9,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002490_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002500",
+    "CharacterID": "OHBEM",
+    "HP": 90,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "LIGRAY",
+    "PokemonAttackIDs": [
+      "PK_002500_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002510",
+    "CharacterID": "FLABEBE",
+    "HP": 40,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 9,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002510_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002520",
+    "CharacterID": "FLOETTE",
+    "HP": 70,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 9,
+    "PreevolvedCharacterID": "FLABEBE",
+    "PokemonAttackIDs": [
+      "PK_002520_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002530",
+    "CharacterID": "PEROREAM",
+    "HP": 100,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 9,
+    "PreevolvedCharacterID": "PEROPPAFU",
+    "PokemonAttackIDs": [
+      "PK_002530_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002540",
+    "CharacterID": "MANKEY",
+    "HP": 50,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002540_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002550",
+    "CharacterID": "OKORIZARU",
+    "HP": 80,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "MANKEY",
+    "PokemonAttackIDs": [
+      "PK_002550_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002560",
+    "CharacterID": "ISITSUBUTE",
+    "HP": 70,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002560_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002570",
+    "CharacterID": "GOLONE",
+    "HP": 100,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "ISITSUBUTE",
+    "PokemonAttackIDs": [
+      "PK_002570_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002580",
+    "CharacterID": "GOLONYA",
+    "HP": 160,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 3,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "GOLONE",
+    "PokemonAttackIDs": [
+      "PK_002580_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002590",
+    "CharacterID": "PTERA_EX",
+    "HP": 140,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "HIMITSUNOKOHAKU",
+    "PokemonAttackIDs": [
+      "PK_002590_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_002590_ABL_01"
+    ],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_002600",
+    "CharacterID": "MARSHADOW",
+    "HP": 80,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002600_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002610",
+    "CharacterID": "ISHIHENGIN",
+    "HP": 120,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 3,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002610_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002620",
+    "CharacterID": "DOGARS",
+    "HP": 70,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002620_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002630",
+    "CharacterID": "MATADOGAS",
+    "HP": 110,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 3,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "DOGARS",
+    "PokemonAttackIDs": [
+      "PK_002630_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002640",
+    "CharacterID": "CHORONEKO",
+    "HP": 60,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002640_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002650",
+    "CharacterID": "LEPARDAS",
+    "HP": 90,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 2,
+    "PreevolvedCharacterID": "CHORONEKO",
+    "PokemonAttackIDs": [
+      "PK_002650_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002660",
+    "CharacterID": "FUSHIDE",
+    "HP": 60,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002660_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002670",
+    "CharacterID": "WHEEGA",
+    "HP": 90,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "FUSHIDE",
+    "PokemonAttackIDs": [
+      "PK_002670_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002680",
+    "CharacterID": "PENDROR",
+    "HP": 140,
+    "PokemonTypes": [
+      8
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "WHEEGA",
+    "PokemonAttackIDs": [
+      "PK_002680_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002690",
+    "CharacterID": "CRIMGAN",
+    "HP": 100,
+    "PokemonTypes": [
+      10
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 0,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002690_ATK_01"
+    ],
+    "PokemonAbilityIDs": [
+      "PK_002690_ABL_01"
+    ],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002700",
+    "CharacterID": "POPPO",
+    "HP": 50,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002700_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002710",
+    "CharacterID": "PIGEON",
+    "HP": 90,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "POPPO",
+    "PokemonAttackIDs": [
+      "PK_002710_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002720",
+    "CharacterID": "PIGEOT_EX",
+    "HP": 170,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 3,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "PIGEON",
+    "PokemonAttackIDs": [
+      "PK_002720_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_002730",
+    "CharacterID": "KENTAUROS",
+    "HP": 100,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 2,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002730_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002740",
+    "CharacterID": "EIEVUI",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002740_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002750",
+    "CharacterID": "PERAP",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002750_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002760",
+    "CharacterID": "LAPLACE_EX",
+    "HP": 140,
+    "PokemonTypes": [
+      4
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 3,
+    "WeaknessType": 5,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002760_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": true
+  },
+  {
+    "PokemonID": "PK_002770",
+    "CharacterID": "MANKEY",
+    "HP": 50,
+    "PokemonTypes": [
+      7
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 6,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002770_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002780",
+    "CharacterID": "GHOST",
+    "HP": 70,
+    "PokemonTypes": [
+      6
+    ],
+    "EvolutionStage": 2,
+    "RetreatAmount": 1,
+    "WeaknessType": 8,
+    "PreevolvedCharacterID": "GHOS",
+    "PokemonAttackIDs": [
+      "PK_002780_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002790",
+    "CharacterID": "PURIN",
+    "HP": 50,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002790_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002800",
+    "CharacterID": "TSUTARJA",
+    "HP": 60,
+    "PokemonTypes": [
+      2
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 3,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002800_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  },
+  {
+    "PokemonID": "PK_002810",
+    "CharacterID": "EIEVUI",
+    "HP": 60,
+    "PokemonTypes": [
+      1
+    ],
+    "EvolutionStage": 1,
+    "RetreatAmount": 1,
+    "WeaknessType": 7,
+    "PreevolvedCharacterID": "",
+    "PokemonAttackIDs": [
+      "PK_002810_ATK_01"
+    ],
+    "PokemonAbilityIDs": [],
+    "IsEX": false
+  }
+]

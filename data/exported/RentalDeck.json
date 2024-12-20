@@ -1,0 +1,256 @@
+[
+  {
+    "RentalDeckID": "1001004",
+    "EnergyType": [
+      2
+    ],
+    "DeckCaseType": 2,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100100405",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_1",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001007",
+    "EnergyType": [
+      3
+    ],
+    "DeckCaseType": 3,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100100705",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_2",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001010",
+    "EnergyType": [
+      4
+    ],
+    "DeckCaseType": 4,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100101005",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_3",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001014",
+    "EnergyType": [
+      5
+    ],
+    "DeckCaseType": 5,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100101401",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_4",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001016",
+    "EnergyType": [
+      6
+    ],
+    "DeckCaseType": 6,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100101601",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_5",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001019",
+    "EnergyType": [
+      7
+    ],
+    "DeckCaseType": 7,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100101905",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_6",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001022",
+    "EnergyType": [
+      8
+    ],
+    "DeckCaseType": 8,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100102205",
+    "MainCardSub1": "100102211",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_7",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001023",
+    "EnergyType": [
+      4,
+      7
+    ],
+    "DeckCaseType": 4,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100102305",
+    "MainCardSub1": "100102310",
+    "MainCardSub2": "100102316",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_8",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001024",
+    "EnergyType": [
+      3
+    ],
+    "DeckCaseType": 3,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100102401",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_9",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001025",
+    "EnergyType": [
+      5
+    ],
+    "DeckCaseType": 5,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100102501",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_10",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001026",
+    "EnergyType": [
+      7
+    ],
+    "DeckCaseType": 7,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100102601",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_11",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001027",
+    "EnergyType": [
+      8
+    ],
+    "DeckCaseType": 8,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100102701",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_12",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001035",
+    "EnergyType": [
+      6
+    ],
+    "DeckCaseType": 6,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100103501",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_14",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001036",
+    "EnergyType": [
+      2
+    ],
+    "DeckCaseType": 2,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100103604",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_15",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001037",
+    "EnergyType": [
+      4
+    ],
+    "DeckCaseType": 4,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100103703",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_16",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001042",
+    "EnergyType": [
+      7
+    ],
+    "DeckCaseType": 7,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100104211",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_17",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001043",
+    "EnergyType": [
+      2,
+      7
+    ],
+    "DeckCaseType": 1,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100104318",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_18",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  },
+  {
+    "RentalDeckID": "1001044",
+    "EnergyType": [
+      5
+    ],
+    "DeckCaseType": 5,
+    "IsUsableCountLimited": true,
+    "UsableLimitCount": 10,
+    "MainCard": "100104403",
+    "MainCardSub1": "",
+    "MainCardSub2": "",
+    "RentalDeckNameMSID": "BATTLE_RENTAL_DECK_13",
+    "RentalDeckDescriptionMSID": "BATTLE_RENTAL_DECK_DESCRIPTION_1"
+  }
+]
