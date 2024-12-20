@@ -5,7 +5,7 @@ from pprint import pprint
 
 from cards.enums import *
 from cards.models import *
-from scripts.webscraping.site_scrapers.formatting_tools.text_tools import standardize_string
+from scripts.webscraping.site_scrapers.formatting_tools.text_tools import remove_html_tags, standardize_string
 
 
 """
@@ -53,7 +53,31 @@ pokemonAttack: {
 """
 
 def format_card(card_object):
+    # capitalize EX
+    if type(card_object.get("name")) == str and card_object.get("name").endswith(" ex"):
+        card_object["name"] = card_object["name"].removesuffix(" ex") + " EX"
+
     formatted_card = {
+        "active": True,
+        "card_id": card_object.get("cardId"),                                           # "TR_10_000090_00"
+        "card_type": None,                                                              # "pokemon" | "trainer"
+        "character_id": card_object.get("characterId"),                                 # "PARSHEN"
+        "collection_number": card_object.get("collectionNumber"),                       # 67
+        "description": remove_html_tags(card_object.get("description")),                # ""
+        "dust_cost": card_object.get("dust_cost"),                                      # 70
+        "expansion": card_object.get("expansion", {}).get("expansionId"),               # "A1"
+        "flavor_text": remove_html_tags(card_object.get("flavorText")),                 # ""
+        "is_promo": card_object.get("isPromotion"),                                     # False
+        "is_serial": card_object.get("isSerial"),                                       # False
+        "name": standardize_string(card_object.get("name")),                            # "cloyster"
+        "name_display": card_object.get("name"),                                        # "Cloyster"
+        "pokedex_number": card_object.get("pokedexNumber"),                             # 267
+        "pokemon": card_object.get("pokemon"),                                          # <Pokemon object> | None
+        "promotion_name": card_object.get("promotionName"),                             # ""
+        "rarity": card_object.get("rarity"),                                            # "U"
+        "rules_description": remove_html_tags(card_object.get("rulesDescription")),     # ""
+        "series_id": card_object.get("seriesId"),                                       # "A"
+        "trainer": card_object.get("trainer"),                                          # <Trainer object> | None
         "available_packs": [],
         "illustrators": [],
         "variants": []
@@ -70,64 +94,10 @@ def format_card(card_object):
         for pack in card_object.get("availablePacks"):
             formatted_card["available_packs"].append(pack.get("packId"))
 
-    # get card_id - "TR_10_000090_00"
-    formatted_card["card_id"] = card_object.get("cardId")
-
-    # get character_id - "PARSHEN"
-    formatted_card["character_id"] = card_object.get("characterId")
-
-    # get collection_number - 67
-    formatted_card["collection_number"] = card_object.get("collectionNumber")
-
-    # get description - ""
-    formatted_card["description"] = card_object.get("description")
-
-    # get dust_cost - 70
-    formatted_card["dust_cost"] = card_object.get("dust_cost")
-
-    # get expansion - "A1"
-    formatted_card["expansion"] = card_object.get("expansion", {}).get("expansionId")
-
-    # get flavor_text
-    formatted_card["flavor_text"] = card_object.get("flavorText")
-
     # get illustrators
     if card_object.get("illustratorNames"):
         for illustrator in card_object.get("illustratorNames"):
             formatted_card["illustrators"].append(illustrator)
-
-    # get is_promotion
-    formatted_card["is_promo"] = card_object.get("isPromotion")
-
-    # get is_serial
-    formatted_card["is_serial"] = card_object.get("isSerial")
-
-    # get name
-    formatted_card["name"] = standardize_string(card_object.get("name"))
-
-    # get name_display
-    formatted_card["name_display"] = card_object.get("name")
-
-    # get pokedex_number
-    formatted_card["pokedex_number"] = card_object.get("pokedexNumber")
-
-    # get pokemon
-    formatted_card["pokemon"] = card_object.get("pokemon")
-
-    # get promotion_name
-    formatted_card["promotion_name"] = card_object.get("promotionName")
-
-    # get rarity
-    formatted_card["rarity"] = card_object.get("rarity")
-
-    # get rules_description
-    formatted_card["rules_description"] = card_object.get("rulesDescription")
-
-    # get series_id
-    formatted_card["series_id"] = card_object.get("seriesId")
-
-    # get trainer
-    formatted_card["trainer"] = card_object.get("trainer")
 
     # get variants
     if card_object.get("variants"):
@@ -137,10 +107,7 @@ def format_card(card_object):
     return formatted_card
 
 
-def format_response_cards(response_cards):
-    # view incoming card structure
-    # pprint(response_cards[0])
-
+def format_cards(response_cards):
     formatted_pokemon_cards = []
     formatted_trainer_cards = []
 
@@ -154,11 +121,4 @@ def format_response_cards(response_cards):
         
         formatted_pokemon_cards.append(formatted_card) if formatted_card["card_type"] == "pokemon" else formatted_trainer_cards.append(formatted_card)
 
-    # view outgoing card structure
-    print("\n")
-    pprint(formatted_pokemon_cards[0])
-
-    return {
-        "pokemon": formatted_pokemon_cards,
-        "trainers": formatted_trainer_cards
-    }
+    return formatted_pokemon_cards, formatted_trainer_cards

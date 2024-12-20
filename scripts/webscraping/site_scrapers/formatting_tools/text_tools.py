@@ -1,5 +1,8 @@
 # /usr/bin/env python3
 
+import re
+
+
 def standardize_string(string):
     """
     Original Text       ->      "original_text"
@@ -23,3 +26,10 @@ def remove_unsafe_chars(unsafe_string):
         unsafe_string = unsafe_string.replace(unsafe_char, replacement_dict[unsafe_char])
 
     return unsafe_string.strip()
+
+
+def remove_html_tags(text):
+    """
+    Original <strong>text</strong>          ->          Original text
+    """
+    return text if text is None else re.sub(re.compile("<.*?>"), " ", text)

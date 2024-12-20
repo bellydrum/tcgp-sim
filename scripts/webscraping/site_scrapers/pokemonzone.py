@@ -5,7 +5,10 @@ import requests
 from pprint import pprint
 
 from cards.models import *
-from scripts.webscraping.site_scrapers.conversion_tools.pokemonzone_converter import format_response_cards
+from scripts.webscraping.site_scrapers.conversion_tools.pokemonzone.check_for_updates import get_removed_and_new_card_ids
+from scripts.webscraping.site_scrapers.conversion_tools.pokemonzone.format_cards import format_cards
+from scripts.webscraping.site_scrapers.conversion_tools.pokemonzone.format_pokemon import extract_pokemon_from_card_objects
+from scripts.webscraping.site_scrapers.conversion_tools.pokemonzone.format_trainers import extract_trainers_from_card_objects
 
 
 SOURCE_URL = "https://www.pokemon-zone.com/api/game/game-data/"
@@ -13,23 +16,26 @@ SOURCE_URL = "https://www.pokemon-zone.com/api/game/game-data/"
 
 # gather existing local JSON data
 
-with open("data/imports/cards/items.json", "r") as f:
-    existing_items = json.loads(f.read())
+with open("data/imports/cards.json", "r") as f:
+    existing_cards = json.loads(f.read())
 
 with open("data/imports/cards/pokemon.json", "r") as f:
     existing_pokemon = json.loads(f.read())
 
-with open("data/imports/cards/supporters.json", "r") as f:
-    existing_supporters = json.loads(f.read())
+with open("data/imports/cards/trainers.json", "r") as f:
+    existing_trainers = json.loads(f.read())
 
 with open("data/imports/attacks.json", "r") as f:
     existing_attacks = json.loads(f.read())
 
+with open("data/imports/expansions.json", "r") as f:
+    existing_expansions = json.loads(f.read())
+
 with open("data/imports/illustrators.json", "r") as f:
     existing_illustrators = json.loads(f.read())
 
-with open("data/imports/sets.json", "r") as f:
-    existing_sets = json.loads(f.read())
+with open("data/imports/packs.json", "r") as f:
+    existing_packs = json.loads(f.read())
 
 
 def scrape():
@@ -39,35 +45,11 @@ def scrape():
     response_data = json.loads(response.content.decode("utf-8")).get("data")
 
     # card
-    """
-    {
-        "availablePacks": [{...},],                             # list[ <Pack object> ]
-        "cardId": "TR_10_000090_00",                            # str                       UID
-        "characterId": "KOURANOKASEKI",                         # str
-        "collectionNumber": 217,                                # int
-        "description": "Play this card as if...",               # str
-        "dustCost": 35,                                         # int
-        "expansion: {...},                                      # <Expansion object>
-        "flavorText": "Cloyster that live in seas...",          # str | None
-        "illustratorNames": [str,],                             # list[ str ]
-        "isInAllExpansionPacks": False,                         # bool
-        "isPromotion": False,                                   # bool
-        "isSerial": False,                                      # bool
-        "name": "Cloyster",                                     # str
-        "pokedexNumber": 91,                                    # int
-        "pokemon": {...},                                       # None | <Pokemon object>
-        "promotionCardSource": "Obtained from a promo pack",    # str | None
-        "promotionName": "PROMO-A",                             # str | None
-        "rarity": "U",                                          # str
-        "rulesDescription": "You may play any number...",       # str | None
-        "seriesId": "A",                                        # str
-        "trainer": None,                                        # None | <Trainer object>
-    }
-    """
-    formatted_response_cards = format_response_cards(response_data.get("cards"))
-    formatted_pokemon_cards = formatted_response_cards["pokemon"]
-    formatted_trainer_cards = formatted_response_cards["trainers"]
+    formatted_pokemon_cards, formatted_trainer_cards = format_cards(response_data.get("cards"))
 
+    formatted_pokemon_cards, formatted_pokemon = extract_pokemon_from_card_objects(formatted_pokemon_cards)
+    formatted_trainer_cards, formatted_trainers = extract_trainers_from_card_objects(formatted_trainer_cards)
+ 
     # pack
     """
     {
@@ -108,3 +90,46 @@ def scrape():
     }
     """
     response_pack_card_ids = response_data.get("packCardIds")
+
+
+    removed_pokemon_card_ids, new_pokemon_card_ids = get_removed_and_new_card_ids(existing_pokemon, formatted_pokemon_cards)
+    removed_trainer_card_ids, new_trainer_card_ids = get_removed_and_new_card_ids(existing_trainers, formatted_trainer_cards)
+
+
+    """
+    update existing data objects
+    """
+
+    """ UPDATE CARDS """
+
+    # create map for accessing formatted cards - { "TR_90_000060_01": {...}, }
+    existing_card_id_map = {card["card_id"]: card for card in existing_cards}
+    incoming_card_id_map = {card["card_id"]: card for card in formatted_pokemon_cards + formatted_trainer_cards}
+
+    # refresh existing card objects with the incoming card data
+    for card_object in existing_cards:
+        card_id = card_object.get("card_id")
+        if updated_card_object := incoming_card_id_map.get(card_id):
+            existing_card_id_map[card_id] = updated_card_object
+    
+    # deactivate existing cards objects not present in the incoming card data
+    for card_id in removed_pokemon_card_ids + removed_trainer_card_ids:
+        card_to_deactivate = existing_card_id_map.get(card_id)
+        card_to_deactivate["active"] = False
+
+        existing_card_id_map[card_id] = card_to_deactivate
+    
+    # add new card objects from the incoming card data
+    for card_id in new_pokemon_card_ids + new_trainer_card_ids:
+        existing_card_id_map[card_id] = incoming_card_id_map[card_id]
+
+    updated_cards = list(existing_card_id_map.values())
+
+    # finally, update the data file
+    with open("data/imports/cards.json", "w") as f:
+        f.write(json.dumps(updated_cards, indent=4))
+
+    with open("data/imports/cards.json", "r") as f:
+        cards_latest = json.loads(f.read())
+
+    print(f"CARDS COUNT: {len(cards_latest)}")

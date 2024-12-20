@@ -4,7 +4,7 @@ import threading
 from django.http import HttpResponse
 from django.shortcuts import render
 
-from scripts.db.reset_db import reset
+from scripts.reset_db import reset
 
 
 async def reset_db(request):

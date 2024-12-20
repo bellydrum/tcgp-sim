@@ -37,24 +37,27 @@ class Illustrator(models.Model):
 
 class Card(models.Model):
     id = models.BigAutoField(primary_key=True)
-    card_id = models.CharField(max_length=200, blank=False, null=True)                          # "PK_10_000670_00"
-    card_type = models.CharField(max_length=1, choices=CardTypes.choices)                       # "pokemon"
-    character_id = models.CharField(max_length=200, blank=False, null=True)                     # "PARSHEN"
-    collection_number = models.SmallIntegerField(blank=False, null=True)                        # 67
-    description = models.CharField(max_length=512, blank=False, null=True)                      # ""
-    dust_cost = models.IntegerField(blank=False, null=True)                                     # 70
-    effect = models.JSONField(blank=False, null=True, verbose_name="card_effect")               # 
-    flavor_text = models.CharField(max_length=1024, blank=False, null=True)                     # "Cloyster that live in seas..."
-    is_promo = models.BooleanField(blank=False, null=True)                                      # False
-    is_serial = models.BooleanField(blank=False, null=True)                                     # False
-    name = models.CharField(max_length=200)                                                     # "cloyster"
-    name_display = models.CharField(max_length=200, blank=False)                                # "Cloyster"
-    pokedex_number = models.SmallIntegerField(blank=False, null=True)                           # 91
-    promotion_name = models.CharField(max_length=512, blank=False, null=True)                   # None
-    rarity = models.CharField(max_length=32, null=True, choices=Rarities.choices)               # "U"
-    rules_description = models.CharField(max_length=1024, blank=False, null=True)               # "..."
-    trainer_type = models.CharField(max_length=1, null=True, choices=TrainerTypes.choices)      # None ("supporter", "item")
-    series_id = models.CharField(max_length=8, blank=False, null=True)                          # "A"
+    active = models.BooleanField(blank=False, null=False, default=True)                             # True
+    card_id = models.CharField(max_length=200, blank=False, null=True)                              # "PK_10_000670_00"
+    card_type = models.CharField(max_length=128, choices=CardTypes.choices)                         # "pokemon"
+    character_id = models.CharField(max_length=200, blank=False, null=True)                         # "PARSHEN"
+    collection_number = models.SmallIntegerField(blank=False, null=True)                            # 67
+    description = models.CharField(max_length=2048, blank=False, null=True)                         # ""
+    dust_cost = models.IntegerField(blank=False, null=True)                                         # 70
+    effect = models.JSONField(blank=False, null=True, verbose_name="card_effect")                   #
+    expansion_id = models.CharField(max_length=64, blank=False, null=True)                          # "A1"
+    flavor_text = models.CharField(max_length=2048, blank=False, null=True)                         # "Cloyster that live in seas..."
+    is_promo = models.BooleanField(blank=False, null=True)                                          # False
+    is_serial = models.BooleanField(blank=False, null=True)                                         # False
+    name = models.CharField(max_length=200)                                                         # "cloyster"
+    name_display = models.CharField(max_length=200, blank=False)                                    # "Cloyster"
+    pokedex_number = models.SmallIntegerField(blank=False, null=True)                               # 91
+    promotion_name = models.CharField(max_length=512, blank=False, null=True)                       # None
+    rarity = models.CharField(max_length=32, null=True, choices=Rarities.choices)                   # "U"
+    rules_description = models.CharField(max_length=2048, blank=False, null=True)                   # "..."
+    trainer_type = models.CharField(max_length=1, null=True, choices=TrainerTypes.choices)          # None ("supporter", "item")
+    series_id = models.CharField(max_length=8, blank=False, null=True)                              # "A"
+    variants = models.JSONField(blank=False, null=True, verbose_name="card_variants")               # "['PK_10_000670_00', 'PK_10_000671_00']"
 
 class Attack(models.Model):
     class Meta:
@@ -113,10 +116,10 @@ class CardPack(models.Model):
     card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False)
     pack = models.ForeignKey(Pack, on_delete=models.RESTRICT, blank=False, null=False)
 
-class CardExpansion(models.Model):
-    id = models.BigAutoField(primary_key=True)
-    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False)
-    expansion = models.ForeignKey(Expansion, on_delete=models.RESTRICT, blank=False, null=False)
+# class CardExpansion(models.Model):
+#     id = models.BigAutoField(primary_key=True)
+#     card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False)
+#     expansion = models.ForeignKey(Expansion, on_delete=models.RESTRICT, blank=False, null=False)
 
 class CardSet(models.Model):
     class Meta:
