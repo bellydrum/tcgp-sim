@@ -141,16 +141,20 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
-STATIC_URL = "static/"
+"""
+    Make sure that each app/static/ directory includes a redundant app/ folder.
 
-STATICFILES_DIRS = [
-    # BASE_DIR / "static",
-    ("base", "base/static"),
-]
+    For example,
 
-print(f"{BASE_DIR / 'static'}")
+    #   INCORRECT:  /app/static/css/main.css
+    #   CORRECT:    /app/static/app/css/main.css
+"""
 
-STATIC_ROOT = "staticfiles/"
+STATIC_URL = "static/"  # alias used when referencing files stored in the STATIC_ROOT
+
+STATIC_ROOT = "staticfiles/"  # the folder into which static files are collected
+
+STATICFILES_DIRS = []  # we don't need to add anything to this right now
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field

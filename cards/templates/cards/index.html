@@ -1,10 +1,11 @@
+{% extends "base.html" %}
+{% load static %}
+
 {% load format %}
 
 {% if card_records %}
     <ul>
     {% for card_record in card_records %}
-        <!-- <li>{{ card_record.card.name_display }}</li> -->
-
         <li>
             <a href="https://www.pokemon-zone.com/cards/{{ card_record.card_set.set.code }}/{{ card_record.card_set.number }}/{{ card_record.card.name|to_hyphen:'_'|no_unsafe }}/">{{ card_record.card.name_display }}</a>
         </li>
