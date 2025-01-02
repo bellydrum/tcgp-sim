@@ -1,6 +1,9 @@
 # environment and credentials
 .env
 
+# static files
+staticfiles/*
+
 # app utilities
 **test.py
 

@@ -11,15 +11,13 @@ def index(request):
         "cards_list": cards
     }
 
-    print(cards)
-
     context = {
-        "card_records": [
-            {
-                "card": card,
-                "card_set": card.cardset_set.filter(card=card)[0],
-            } for card in cards
-        ]
+        # "card_records": [
+        #     {
+        #         "card": card,
+        #         "card_set": card.cardset_set.filter(card=card)[0],
+        #     } for card in cards
+        # ]
     }
 
     return render(request, "cards/index.html", context)
