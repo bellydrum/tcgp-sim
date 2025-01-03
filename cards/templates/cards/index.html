@@ -3,14 +3,23 @@
 
 {% load format %}
 
-{% if card_records %}
+{% block content-header-title %}
+Cards
+{% endblock %}
+
+{% block content%}
+
+{% if cards_list %}
     <ul>
-    {% for card_record in card_records %}
+    {% for card_record in cards_list %}
         <li>
-            <a href="https://www.pokemon-zone.com/cards/{{ card_record.card_set.set.code }}/{{ card_record.card_set.number }}/{{ card_record.card.name|to_hyphen:'_'|no_unsafe }}/">{{ card_record.card.name_display }}</a>
+            {{ card_record.name_display }}
+            <!-- <a href="https://www.pokemon-zone.com/cards/{{ card_record.card_set.set.code }}/{{ card_record.card_set.number }}/{{ card_record.card.name|to_hyphen:'_'|no_unsafe }}/">{{ card_record.card.name_display }}</a> -->
         </li>
     {% endfor %}
     </ul>
 {% else %}
     <p>No cards are available.</p>
 {% endif %}
+
+{% endblock %}

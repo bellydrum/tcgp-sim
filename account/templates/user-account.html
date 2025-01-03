@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content-header-title %}
+Your account
+{% endblock %}
+
+{% block content%}
+<div class="account-info">
+    <div class="account-info-username">Username: {{account_info.username}}</div>
+    <div class="account-info-email">Email: {{account_info.email}}</div>
+</div>
+{% endblock %}

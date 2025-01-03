@@ -1,9 +1,11 @@
+from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse
-from django.shortcuts import render
+from django.shortcuts import redirect, render
 
 from cards.models import *
 
 
+@login_required
 def index(request):
     cards = Card.objects.all()
 
@@ -11,13 +13,6 @@ def index(request):
         "cards_list": cards
     }
 
-    context = {
-        # "card_records": [
-        #     {
-        #         "card": card,
-        #         "card_set": card.cardset_set.filter(card=card)[0],
-        #     } for card in cards
-        # ]
-    }
+    print(cards)
 
-    return render(request, "cards/index.html", context)
+    return render(request, "cards/index.html", context=context)

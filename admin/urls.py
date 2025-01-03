@@ -1,7 +1,9 @@
 from django.urls import path
 
-from . import views
+from admin import views as admin_views
+from account import views as account_views
 
 urlpatterns = [
-    path("reset_db", views.reset_db, name="reset_db"),
+    path("", account_views.index, name="index"),
+    path("reset_db", admin_views.reset_db, name="reset_db"),
 ]

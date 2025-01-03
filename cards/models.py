@@ -118,5 +118,5 @@ class CardIllustrator(models.Model):
 
 class CardPack(models.Model):
     id = models.BigAutoField(primary_key=True)
-    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False)
-    pack = models.ForeignKey(Pack, on_delete=models.RESTRICT, blank=False, null=False)
+    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_packs_card")
+    pack = models.ForeignKey(Pack, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_packs_pack")

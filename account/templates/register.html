@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content-header-title %}
+Create an account
+{% endblock %}
+
+{% block content%}
+<div class="register-page-container">
+    <form class="register-form" action="{% url 'account:register' %}" method="POST" autocomplete="off">
+        {% csrf_token %}
+        <input type="text" name="username" placeholder="username" />
+        <input type="text" name="email" placeholder="email" />
+        <input type="password" name="password" placeholder="password" />
+        <input type="password" name="password-verify" placeholder="password again" data-lpignore="true" />
+        <input type="submit" value="Submit" />
+    </form>
+</div>
+{% endblock %}

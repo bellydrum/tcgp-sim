@@ -160,3 +160,12 @@ STATICFILES_DIRS = []  # we don't need to add anything to this right now
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+# Sessions
+
+SESSION_EXPIRE_AT_BROWSER_CLOSE = True
+
+# Login
+
+LOGIN_URL = "/account/register"

@@ -4,23 +4,84 @@
 <html lang="en">
 
 <head>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <!-- material icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=menu" />
     <link rel="stylesheet" href="{% static 'base/css/main.css' %}">
     <title>{% block title %}tcgp sim{% endblock %}</title>
 </head>
 
 <body>
-    <div id="sidebar">
-        {% block sidebar %}
-        <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/blog/">Blog</a></li>
-        </ul>
-        {% endblock %}
-    </div>
+    <div class="page-container">
+        <div class="base-header">
+            {% include "base-header.html" %}
+        </div>
+        <div class="base-sidebar">
+            {% include "base-sidebar.html" %}
+        </div>
 
-    <div id="content">
-        {% block content %}{% endblock %}
+        <div class="base-content">
+            <div class="content-header">
+                <div class="content-header-title">{% block content-header-title %}{% endblock %}</div>
+                <div class="content-header-content">{% block content-header-content %}{% endblock %}</div>
+            </div>
+            {% block content %}{% endblock %}
+        </div>
     </div>
 </body>
+
+<script>
+    // TODO -- move this to a main scripts.js file!
+
+    /**
+     * 
+     * toggle sidebar visibility when sidebar toggle is clicked
+     * 
+     */
+
+    const mediaQueryList = window.matchMedia("(max-width: 1200px)")
+
+    const sidebar = document.querySelector(".base-sidebar")
+    const sidebarToggle = document.querySelector(".sidebar-toggle-container")
+
+    function toggleVisibility(e) {
+        console.log("Toggling visibility!")
+
+        const sidebar = document.querySelector(".base-sidebar")
+
+        if (sidebar.hasAttribute("hidden")) {
+            sidebar.removeAttribute("hidden")
+            sidebar.setAttribute("visible", "")
+        } else {
+            sidebar.removeAttribute("visible")
+            sidebar.setAttribute("hidden", "")
+        }
+    }
+    function applyOrRemoveVisibilityToggle(e) {
+        console.log(typeof e)
+
+        const sidebar = document.querySelector(".base-sidebar")
+        const sidebarToggle = document.querySelector(".sidebar-toggle-container")
+
+        if (e.matches) {
+            if (!sidebar.hasAttribute("visible")) {
+                sidebar.setAttribute("hidden", "")
+            }
+
+            sidebarToggle.addEventListener("click", toggleVisibility)
+        } else {
+            sidebar.removeAttribute("hidden")
+            sidebarToggle.removeEventListener("click", toggleVisibility)
+        }
+    }
+
+    if (mediaQueryList.matches) {
+        applyOrRemoveVisibilityToggle(mediaQueryList)
+    }
+
+    mediaQueryList.addListener(applyOrRemoveVisibilityToggle)
+
+    // TODO -- remove this entire scripts section!
+</script>
 
 </html>
