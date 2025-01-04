@@ -20,6 +20,7 @@
         "rarity": "C",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0030_00_000"
@@ -55,6 +56,7 @@
         "rarity": "C",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0020_00_000"
@@ -90,6 +92,7 @@
         "rarity": "C",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN002_0010_00_000",
@@ -126,6 +129,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0020_00_000"
@@ -163,6 +167,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0030_00_000"
@@ -200,6 +205,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0020_00_000"
@@ -237,6 +243,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0010_00_000"
@@ -274,6 +281,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0010_00_000"
@@ -311,6 +319,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0030_00_000"
@@ -348,6 +357,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0020_00_000"
@@ -385,6 +395,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0030_00_000"
@@ -422,6 +433,7 @@
         "rarity": "U",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN002_0010_00_000"
@@ -457,6 +469,7 @@
         "rarity": "U",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN002_0010_00_000"
@@ -492,6 +505,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN002_0010_00_000"
@@ -529,6 +543,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN002_0010_00_000"
@@ -566,6 +581,7 @@
         "rarity": "U",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN002_0010_00_000"
@@ -603,6 +619,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0020_00_000"
@@ -640,6 +657,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0030_00_000"
@@ -677,6 +695,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0020_00_000"
@@ -714,6 +733,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0010_00_000"
@@ -751,6 +771,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0010_00_000"
@@ -788,6 +809,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0030_00_000"
@@ -825,6 +847,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0020_00_000"
@@ -862,6 +885,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN001_0030_00_000"
@@ -899,6 +923,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN002_0010_00_000"
@@ -936,6 +961,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN002_0010_00_000"
@@ -973,6 +999,7 @@
         "rarity": "SR",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [
             "AN002_0010_00_000"
@@ -1010,6 +1037,7 @@
         "rarity": "C",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [],
         "illustrators": [
@@ -1043,6 +1071,7 @@
         "rarity": "C",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [],
         "illustrators": [
@@ -1076,6 +1105,7 @@
         "rarity": "C",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [],
         "illustrators": [
@@ -1109,6 +1139,7 @@
         "rarity": "C",
         "rules_description": "You may play only 1 Supporter card during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [],
         "illustrators": [
@@ -1142,6 +1173,7 @@
         "rarity": "C",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [],
         "illustrators": [
@@ -1175,6 +1207,7 @@
         "rarity": "C",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [],
         "illustrators": [
@@ -1210,6 +1243,7 @@
         "rarity": "C",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [],
         "illustrators": [
@@ -1245,6 +1279,7 @@
         "rarity": "C",
         "rules_description": "You may play any number of Item cards during your turn.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [],
         "available_packs": [],
         "illustrators": [

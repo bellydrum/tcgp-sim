@@ -38,6 +38,7 @@ def format_card(card_object):
         "rarity": card_object.get("rarity"),                                                                            # "U"
         "rules_description": standardize_string(card_object.get("rulesDescription")),                                   # ""
         "series_id": card_object.get("seriesId"),                                                                       # "A"
+        "ability_ids": [],  # populated below
         "attack_ids": [],  # populated below
         "available_packs": [],  # populated below
         "illustrators": [],  # populated below
@@ -54,8 +55,11 @@ def format_card(card_object):
     elif card_object.get("trainer"):
         formatted_card["card_type"] = "trainer"
 
-    # get attack_ids
     if card_object.get("pokemon"):
+        # get ability_ids
+        for ability_object in formatted_card.get("pokemon_object").get("abilities"):
+            formatted_card["ability_ids"].append(ability_object.get("ability_id"))
+        # get attack_ids
         for attack_object in formatted_card.get("pokemon_object").get("attacks"):
             formatted_card["attack_ids"].append(attack_object.get("attack_id"))
 

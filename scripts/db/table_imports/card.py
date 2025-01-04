@@ -31,6 +31,7 @@ def import_objects():
                 new_object = Pokemon(
                     # Card (parent) model attributes
                     active = object_to_import.get("active"),
+                    ability_ids = object_to_import.get("ability_ids"),
                     attack_ids = object_to_import.get("attack_ids"),
                     card_id = object_to_import.get("card_id"),
                     card_pokemon_id = object_to_import.get("card_pokemon_id"),

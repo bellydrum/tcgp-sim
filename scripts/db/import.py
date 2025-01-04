@@ -10,9 +10,10 @@ from scripts.db.table_imports.card import import_objects as import_cards
 from scripts.db.table_imports.card_illustrator import import_objects as import_card_illustrators
 from scripts.db.table_imports.expansion import import_objects as import_expansions
 from scripts.db.table_imports.illustrator import import_objects as import_illustrators
+from scripts.db.table_imports.card_ability import import_objects as import_card_abilities
+from scripts.db.table_imports.card_attack import import_objects as import_card_attacks
 from scripts.db.table_imports.card_pack import import_objects as import_card_packs
 from scripts.db.table_imports.pack import import_objects as import_packs
-from scripts.db.table_imports.card_attack import import_objects as import_card_attacks
 
 
 print(f"\nStarting import procedure...\n")
@@ -26,6 +27,7 @@ import_abilities()
 import_attacks()
 import_illustrators()
 import_cards()
+import_card_abilities()
 import_card_attacks()
 import_card_illustrators()
 import_card_packs()
@@ -41,6 +43,7 @@ total_illustrators = Illustrator.objects.count()
 total_packs = Pack.objects.count()
 total_pokemon = Pokemon.objects.count()
 total_trainers = Trainer.objects.count()
+total_card_abilities = CardAbility.objects.count()
 total_card_attacks = CardAttack.objects.count()
 total_card_illustrators = CardIllustrator.objects.count()
 total_card_packs = CardPack.objects.count()
@@ -56,6 +59,7 @@ print(f"- Illustrators: {total_illustrators}")
 print(f"- Packs: {total_packs}")
 print(f"- Pokemon: {total_pokemon}")
 print(f"- Trainers: {total_trainers}")
+print(f"- CardAbilities: {total_card_abilities}")
 print(f"- CardAttacks: {total_card_attacks}")
 print(f"- CardIllustrators: {total_card_illustrators}")
 print(f"- CardPacks: {total_card_packs}")

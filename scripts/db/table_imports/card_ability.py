@@ -1,20 +1,20 @@
 import json
 from pprint import pprint
-from cards.models import Attack, Card, CardAttack
+from cards.models import Ability, Card, CardAbility
 
 
-ATTACKS_FILEPATH = "data/imports/attacks.json"
+ABILITIES_FILEPATH = "data/imports/abilities.json"
 POKEMON_FILEPATH = "data/imports/cards/pokemon.json"
 
 def import_objects():
     """
-    Import CardAttack relationship objects
+    Import CardAbility relationship objects
     """
 
-    print(f"""Creating CardAttack relation objects...""")
+    print(f"""Creating CardAbility relation objects...""")
 
     # STEP 1. Truncate the current database table
-    CardAttack.objects.all().delete()
+    CardAbility.objects.all().delete()
 
     # STEP 2. Gather Pokemon Card objects
     with open(POKEMON_FILEPATH, "r") as f:
@@ -22,11 +22,11 @@ def import_objects():
 
     # STEP 3. Create Card Ability relationship objects
     for pokemon_card in existing_pokemon_cards:
-        for attack_id in pokemon_card.get("attack_ids"):
+        for ability_id in pokemon_card.get("ability_ids"):
             try:
-                new_relation = CardAttack(
+                new_relation = CardAbility(
                     card = Card.objects.get(card_id=pokemon_card.get("card_id")),
-                    attack = Attack.objects.get(attack_id=attack_id)
+                    ability = Ability.objects.get(ability_id=ability_id)
                 )
             except Exception as e:
                 pprint(str(e))

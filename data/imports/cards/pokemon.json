@@ -20,6 +20,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000010_ATK_01"
         ],
@@ -83,6 +84,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000020_ATK_01"
         ],
@@ -144,6 +146,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000030_ATK_01"
         ],
@@ -208,6 +211,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000040_ATK_01",
             "PK_000040_ATK_02"
@@ -284,6 +288,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000050_ATK_01"
         ],
@@ -344,6 +349,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000060_ATK_01"
         ],
@@ -405,6 +411,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_000070_ABL_01"
+        ],
         "attack_ids": [
             "PK_000070_ATK_01"
         ],
@@ -475,6 +484,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000080_ATK_01"
         ],
@@ -535,6 +545,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000090_ATK_01"
         ],
@@ -596,6 +607,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000100_ATK_01"
         ],
@@ -656,6 +668,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000110_ATK_01"
         ],
@@ -716,6 +729,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000120_ATK_01"
         ],
@@ -779,6 +793,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000130_ATK_01"
         ],
@@ -841,6 +856,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000140_ATK_01"
         ],
@@ -901,6 +917,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000150_ATK_01"
         ],
@@ -962,6 +979,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000160_ATK_01"
         ],
@@ -1022,6 +1040,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000170_ATK_01"
         ],
@@ -1082,6 +1101,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000180_ATK_01"
         ],
@@ -1142,6 +1162,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000190_ATK_01"
         ],
@@ -1203,6 +1224,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_000200_ABL_01"
+        ],
         "attack_ids": [
             "PK_000200_ATK_01"
         ],
@@ -1272,6 +1296,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000210_ATK_01"
         ],
@@ -1332,6 +1357,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000220_ATK_01"
         ],
@@ -1394,6 +1420,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000230_ATK_01"
         ],
@@ -1458,6 +1485,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000240_ATK_01"
         ],
@@ -1519,6 +1547,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000250_ATK_01"
         ],
@@ -1579,6 +1608,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000260_ATK_01"
         ],
@@ -1644,6 +1674,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000270_ATK_01"
         ],
@@ -1706,6 +1737,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000280_ATK_01"
         ],
@@ -1768,6 +1800,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000290_ATK_01"
         ],
@@ -1830,6 +1863,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000300_ATK_01"
         ],
@@ -1892,6 +1926,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000310_ATK_01"
         ],
@@ -1952,6 +1987,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000320_ATK_01"
         ],
@@ -2013,6 +2049,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000330_ATK_01"
         ],
@@ -2076,6 +2113,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000340_ATK_01"
         ],
@@ -2137,6 +2175,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000350_ATK_01"
         ],
@@ -2198,6 +2237,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000360_ATK_01",
             "PK_000360_ATK_02"
@@ -2275,6 +2315,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000370_ATK_01"
         ],
@@ -2335,6 +2376,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000380_ATK_01"
         ],
@@ -2395,6 +2437,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000390_ATK_01"
         ],
@@ -2455,6 +2498,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000400_ATK_01"
         ],
@@ -2516,6 +2560,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000410_ATK_01"
         ],
@@ -2579,6 +2624,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000420_ATK_01"
         ],
@@ -2641,6 +2687,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000430_ATK_01"
         ],
@@ -2705,6 +2752,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000440_ATK_01"
         ],
@@ -2766,6 +2814,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000450_ATK_01"
         ],
@@ -2827,6 +2876,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000460_ATK_01"
         ],
@@ -2887,6 +2937,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000470_ATK_01",
             "PK_000470_ATK_02"
@@ -2964,6 +3015,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000480_ATK_01"
         ],
@@ -3026,6 +3078,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000490_ATK_01"
         ],
@@ -3086,6 +3139,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000500_ATK_01"
         ],
@@ -3146,6 +3200,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000510_ATK_01"
         ],
@@ -3208,6 +3263,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000520_ATK_01"
         ],
@@ -3272,6 +3328,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000530_ATK_01"
         ],
@@ -3335,6 +3392,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000540_ATK_01"
         ],
@@ -3395,6 +3453,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000550_ATK_01"
         ],
@@ -3459,6 +3518,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000560_ATK_01",
             "PK_000560_ATK_02"
@@ -3535,6 +3595,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000570_ATK_01"
         ],
@@ -3597,6 +3658,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000580_ATK_01"
         ],
@@ -3659,6 +3721,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000590_ATK_01"
         ],
@@ -3719,6 +3782,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000600_ATK_01"
         ],
@@ -3780,6 +3844,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_000610_ABL_01"
+        ],
         "attack_ids": [
             "PK_000610_ATK_01"
         ],
@@ -3849,6 +3916,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000620_ATK_01"
         ],
@@ -3909,6 +3977,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000630_ATK_01"
         ],
@@ -3970,6 +4039,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000640_ATK_01"
         ],
@@ -4031,6 +4101,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000650_ATK_01"
         ],
@@ -4093,6 +4164,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000660_ATK_01"
         ],
@@ -4153,6 +4225,9 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_000670_ABL_01"
+        ],
         "attack_ids": [
             "PK_000670_ATK_01"
         ],
@@ -4223,6 +4298,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000680_ATK_01"
         ],
@@ -4284,6 +4360,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000690_ATK_01"
         ],
@@ -4346,6 +4423,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000700_ATK_01"
         ],
@@ -4406,6 +4484,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000710_ATK_01"
         ],
@@ -4466,6 +4545,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000720_ATK_01"
         ],
@@ -4526,6 +4606,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000730_ATK_01"
         ],
@@ -4586,6 +4667,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000740_ATK_01"
         ],
@@ -4646,6 +4728,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000750_ATK_01"
         ],
@@ -4704,6 +4787,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000760_ATK_01"
         ],
@@ -4764,6 +4848,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000770_ATK_01"
         ],
@@ -4824,6 +4909,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000780_ATK_01"
         ],
@@ -4889,6 +4975,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000790_ATK_01"
         ],
@@ -4952,6 +5039,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000800_ATK_01"
         ],
@@ -5013,6 +5101,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000810_ATK_01"
         ],
@@ -5073,6 +5162,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000820_ATK_01"
         ],
@@ -5134,6 +5224,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000830_ATK_01"
         ],
@@ -5194,6 +5285,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000840_ATK_01",
             "PK_000840_ATK_02"
@@ -5270,6 +5362,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000850_ATK_01"
         ],
@@ -5330,6 +5423,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000860_ATK_01"
         ],
@@ -5390,6 +5484,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000870_ATK_01"
         ],
@@ -5450,6 +5545,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000880_ATK_01"
         ],
@@ -5510,6 +5606,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_000890_ABL_01"
+        ],
         "attack_ids": [
             "PK_000890_ATK_01"
         ],
@@ -5580,6 +5679,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000900_ATK_01"
         ],
@@ -5640,6 +5740,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000910_ATK_01"
         ],
@@ -5702,6 +5803,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000920_ATK_01"
         ],
@@ -5764,6 +5866,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000930_ATK_01"
         ],
@@ -5826,6 +5929,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000940_ATK_01"
         ],
@@ -5890,6 +5994,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000950_ATK_01"
         ],
@@ -5950,6 +6055,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000960_ATK_01"
         ],
@@ -6014,6 +6120,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000970_ATK_01"
         ],
@@ -6076,6 +6183,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_000980_ABL_01"
+        ],
         "attack_ids": [
             "PK_000980_ATK_01"
         ],
@@ -6145,6 +6255,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000990_ATK_01"
         ],
@@ -6205,6 +6316,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001000_ATK_01"
         ],
@@ -6265,6 +6377,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001010_ATK_01"
         ],
@@ -6325,6 +6438,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001020_ATK_01"
         ],
@@ -6385,6 +6499,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001030_ATK_01"
         ],
@@ -6445,6 +6560,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001040_ATK_01",
             "PK_001040_ATK_02"
@@ -6520,6 +6636,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001050_ATK_01"
         ],
@@ -6582,6 +6699,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001060_ATK_01"
         ],
@@ -6644,6 +6762,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001070_ATK_01"
         ],
@@ -6704,6 +6823,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001080_ATK_01"
         ],
@@ -6765,6 +6885,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001090_ATK_01"
         ],
@@ -6827,6 +6948,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001100_ATK_01"
         ],
@@ -6889,6 +7011,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001110_ATK_01"
         ],
@@ -6951,6 +7074,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001120_ATK_01"
         ],
@@ -7013,6 +7137,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001130_ATK_01"
         ],
@@ -7075,6 +7200,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001140_ATK_01"
         ],
@@ -7135,6 +7261,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001150_ATK_01"
         ],
@@ -7195,6 +7322,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001160_ATK_01"
         ],
@@ -7255,6 +7383,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001170_ATK_01"
         ],
@@ -7318,6 +7447,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001180_ATK_01"
         ],
@@ -7383,6 +7513,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001190_ATK_01"
         ],
@@ -7447,6 +7578,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001200_ATK_01"
         ],
@@ -7507,6 +7639,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001210_ATK_01"
         ],
@@ -7567,6 +7700,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001220_ATK_01"
         ],
@@ -7628,6 +7762,9 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [
+            "PK_001230_ABL_01"
+        ],
         "attack_ids": [
             "PK_001230_ATK_01"
         ],
@@ -7700,6 +7837,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001240_ATK_01"
         ],
@@ -7761,6 +7899,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_001250_ABL_01"
+        ],
         "attack_ids": [
             "PK_001250_ATK_01"
         ],
@@ -7830,6 +7971,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001260_ATK_01"
         ],
@@ -7890,6 +8032,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001270_ATK_01"
         ],
@@ -7950,6 +8093,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001280_ATK_01"
         ],
@@ -8013,6 +8157,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001290_ATK_01",
             "PK_001290_ATK_02"
@@ -8090,6 +8235,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001300_ATK_01"
         ],
@@ -8150,6 +8296,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001310_ATK_01"
         ],
@@ -8210,6 +8357,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_001320_ABL_01"
+        ],
         "attack_ids": [
             "PK_001320_ATK_01"
         ],
@@ -8279,6 +8429,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001330_ATK_01"
         ],
@@ -8341,6 +8492,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001340_ATK_01"
         ],
@@ -8403,6 +8555,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001350_ATK_01"
         ],
@@ -8467,6 +8620,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001360_ATK_01"
         ],
@@ -8532,6 +8686,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001370_ATK_01"
         ],
@@ -8594,6 +8749,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001380_ATK_01"
         ],
@@ -8657,6 +8813,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001390_ATK_01"
         ],
@@ -8719,6 +8876,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001400_ATK_01"
         ],
@@ -8779,6 +8937,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001410_ATK_01"
         ],
@@ -8839,6 +8998,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001420_ATK_01"
         ],
@@ -8899,6 +9059,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001430_ATK_01"
         ],
@@ -8960,6 +9121,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001440_ATK_01"
         ],
@@ -9021,6 +9183,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001450_ATK_01"
         ],
@@ -9083,6 +9246,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001460_ATK_01"
         ],
@@ -9148,6 +9312,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001470_ATK_01"
         ],
@@ -9209,6 +9374,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001480_ATK_01"
         ],
@@ -9271,6 +9437,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001490_ATK_01"
         ],
@@ -9334,6 +9501,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001500_ATK_01"
         ],
@@ -9399,6 +9567,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001510_ATK_01"
         ],
@@ -9461,6 +9630,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001520_ATK_01"
         ],
@@ -9521,6 +9691,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001530_ATK_01"
         ],
@@ -9583,6 +9754,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001540_ATK_01"
         ],
@@ -9643,6 +9815,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001550_ATK_01"
         ],
@@ -9703,6 +9876,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001560_ATK_01"
         ],
@@ -9765,6 +9939,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001570_ATK_01"
         ],
@@ -9828,6 +10003,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001580_ATK_01"
         ],
@@ -9888,6 +10064,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001590_ATK_01"
         ],
@@ -9948,6 +10125,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001600_ATK_01"
         ],
@@ -10008,6 +10186,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001610_ATK_01"
         ],
@@ -10068,6 +10247,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001620_ATK_01"
         ],
@@ -10131,6 +10311,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001630_ATK_01"
         ],
@@ -10195,6 +10376,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001640_ATK_01"
         ],
@@ -10257,6 +10439,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001650_ATK_01"
         ],
@@ -10320,6 +10503,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001660_ATK_01"
         ],
@@ -10380,6 +10564,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001670_ATK_01"
         ],
@@ -10440,6 +10625,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001680_ATK_01"
         ],
@@ -10503,6 +10689,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001690_ATK_01"
         ],
@@ -10563,6 +10750,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001700_ATK_01"
         ],
@@ -10624,6 +10812,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001710_ATK_01"
         ],
@@ -10688,6 +10877,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001720_ATK_01"
         ],
@@ -10748,6 +10938,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001730_ATK_01"
         ],
@@ -10810,6 +11001,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001740_ATK_01"
         ],
@@ -10872,6 +11064,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001750_ATK_01"
         ],
@@ -10934,6 +11127,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001760_ATK_01"
         ],
@@ -10994,6 +11188,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_001770_ABL_01"
+        ],
         "attack_ids": [
             "PK_001770_ATK_01"
         ],
@@ -11066,6 +11263,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001780_ATK_01"
         ],
@@ -11126,6 +11324,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001790_ATK_01"
         ],
@@ -11188,6 +11387,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001800_ATK_01"
         ],
@@ -11250,6 +11450,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001810_ATK_01"
         ],
@@ -11310,6 +11511,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_001820_ABL_01"
+        ],
         "attack_ids": [
             "PK_001820_ATK_01"
         ],
@@ -11380,6 +11584,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001830_ATK_01"
         ],
@@ -11440,6 +11645,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001840_ATK_01"
         ],
@@ -11500,6 +11706,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001850_ATK_01"
         ],
@@ -11564,6 +11771,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001860_ATK_01"
         ],
@@ -11624,6 +11832,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001870_ATK_01"
         ],
@@ -11684,6 +11893,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_001880_ABL_01"
+        ],
         "attack_ids": [
             "PK_001880_ATK_01"
         ],
@@ -11754,6 +11966,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001890_ATK_01"
         ],
@@ -11816,6 +12029,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001900_ATK_01"
         ],
@@ -11878,6 +12092,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001910_ATK_01"
         ],
@@ -11938,6 +12153,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001920_ATK_01"
         ],
@@ -11998,6 +12214,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001930_ATK_01"
         ],
@@ -12058,6 +12275,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001940_ATK_01"
         ],
@@ -12119,6 +12337,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001950_ATK_01"
         ],
@@ -12183,6 +12402,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001960_ATK_01"
         ],
@@ -12246,6 +12466,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001970_ATK_01"
         ],
@@ -12306,6 +12527,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001980_ATK_01"
         ],
@@ -12368,6 +12590,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001990_ATK_01"
         ],
@@ -12430,6 +12653,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002000_ATK_01"
         ],
@@ -12490,6 +12714,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002010_ATK_01"
         ],
@@ -12552,6 +12777,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002020_ATK_01"
         ],
@@ -12616,6 +12842,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002030_ATK_01"
         ],
@@ -12678,6 +12905,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002040_ATK_01"
         ],
@@ -12739,6 +12967,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002050_ATK_01"
         ],
@@ -12801,6 +13030,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002060_ATK_01"
         ],
@@ -12865,6 +13095,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002060_ATK_01"
         ],
@@ -12929,6 +13160,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002060_ATK_01"
         ],
@@ -12993,6 +13225,9 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_002070_ABL_01"
+        ],
         "attack_ids": [
             "PK_002070_ATK_01"
         ],
@@ -13063,6 +13298,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002080_ATK_01"
         ],
@@ -13123,6 +13359,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002090_ATK_01"
         ],
@@ -13188,6 +13425,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002100_ATK_01"
         ],
@@ -13250,6 +13488,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002110_ATK_01"
         ],
@@ -13314,6 +13553,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002120_ATK_01"
         ],
@@ -13376,6 +13616,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002130_ATK_01"
         ],
@@ -13439,6 +13680,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002140_ATK_01"
         ],
@@ -13501,6 +13743,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002150_ATK_01"
         ],
@@ -13561,6 +13804,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002160_ATK_01"
         ],
@@ -13625,6 +13869,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002170_ATK_01"
         ],
@@ -13688,6 +13933,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002180_ATK_01"
         ],
@@ -13748,6 +13994,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002190_ATK_01"
         ],
@@ -13808,6 +14055,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_002200_ABL_01"
+        ],
         "attack_ids": [
             "PK_002200_ATK_01"
         ],
@@ -13879,6 +14129,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002210_ATK_01"
         ],
@@ -13939,6 +14190,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002220_ATK_01"
         ],
@@ -14000,6 +14252,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002230_ATK_01"
         ],
@@ -14061,6 +14314,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002240_ATK_01"
         ],
@@ -14121,6 +14375,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002250_ATK_01"
         ],
@@ -14181,6 +14436,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002260_ATK_01"
         ],
@@ -14242,6 +14498,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002270_ATK_01"
         ],
@@ -14303,6 +14560,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002280_ATK_01"
         ],
@@ -14366,6 +14624,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002290_ATK_01"
         ],
@@ -14428,6 +14687,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002300_ATK_01"
         ],
@@ -14488,6 +14748,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002310_ATK_01"
         ],
@@ -14548,6 +14809,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002320_ATK_01"
         ],
@@ -14612,6 +14874,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_002330_ABL_01"
+        ],
         "attack_ids": [
             "PK_002330_ATK_01"
         ],
@@ -14683,6 +14948,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002340_ATK_01"
         ],
@@ -14743,6 +15009,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002350_ATK_01"
         ],
@@ -14801,6 +15068,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002360_ATK_01"
         ],
@@ -14862,6 +15130,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002370_ATK_01"
         ],
@@ -14924,6 +15193,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002380_ATK_01"
         ],
@@ -14984,6 +15254,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002390_ATK_01"
         ],
@@ -15044,6 +15315,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002400_ATK_01"
         ],
@@ -15105,6 +15377,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002410_ATK_01"
         ],
@@ -15165,6 +15438,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002420_ATK_01"
         ],
@@ -15225,6 +15499,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002430_ATK_01"
         ],
@@ -15285,6 +15560,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002440_ATK_01"
         ],
@@ -15347,6 +15623,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002450_ATK_01",
             "PK_002450_ATK_02"
@@ -15423,6 +15700,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002460_ATK_01"
         ],
@@ -15483,6 +15761,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002470_ATK_01"
         ],
@@ -15543,6 +15822,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002480_ATK_01"
         ],
@@ -15603,6 +15883,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002490_ATK_01"
         ],
@@ -15663,6 +15944,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002500_ATK_01"
         ],
@@ -15723,6 +16005,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002510_ATK_01"
         ],
@@ -15783,6 +16066,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002520_ATK_01"
         ],
@@ -15843,6 +16127,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002530_ATK_01"
         ],
@@ -15904,6 +16189,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002540_ATK_01"
         ],
@@ -15964,6 +16250,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002550_ATK_01"
         ],
@@ -16024,6 +16311,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002560_ATK_01"
         ],
@@ -16085,6 +16373,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002570_ATK_01"
         ],
@@ -16147,6 +16436,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002580_ATK_01"
         ],
@@ -16209,6 +16499,9 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [
+            "PK_002590_ABL_01"
+        ],
         "attack_ids": [
             "PK_002590_ATK_01"
         ],
@@ -16280,6 +16573,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002600_ATK_01"
         ],
@@ -16342,6 +16636,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002610_ATK_01"
         ],
@@ -16404,6 +16699,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002620_ATK_01"
         ],
@@ -16465,6 +16761,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002630_ATK_01"
         ],
@@ -16527,6 +16824,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002640_ATK_01"
         ],
@@ -16587,6 +16885,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002650_ATK_01"
         ],
@@ -16647,6 +16946,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002660_ATK_01"
         ],
@@ -16707,6 +17007,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002670_ATK_01"
         ],
@@ -16768,6 +17069,7 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002680_ATK_01"
         ],
@@ -16829,6 +17131,9 @@
         "rarity": "U",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_002690_ABL_01"
+        ],
         "attack_ids": [
             "PK_002690_ATK_01"
         ],
@@ -16898,6 +17203,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002700_ATK_01"
         ],
@@ -16958,6 +17264,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002710_ATK_01"
         ],
@@ -17018,6 +17325,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002720_ATK_01"
         ],
@@ -17080,6 +17388,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002730_ATK_01"
         ],
@@ -17141,6 +17450,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002740_ATK_01"
         ],
@@ -17201,6 +17511,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002750_ATK_01"
         ],
@@ -17261,6 +17572,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000010_ATK_01"
         ],
@@ -17324,6 +17636,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000040_ATK_01",
             "PK_000040_ATK_02"
@@ -17400,6 +17713,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000120_ATK_01"
         ],
@@ -17463,6 +17777,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000230_ATK_01"
         ],
@@ -17527,6 +17842,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000260_ATK_01"
         ],
@@ -17590,6 +17906,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000330_ATK_01"
         ],
@@ -17653,6 +17970,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000360_ATK_01",
             "PK_000360_ATK_02"
@@ -17730,6 +18048,7 @@
         "rarity": "IM",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000360_ATK_01",
             "PK_000360_ATK_02"
@@ -17807,6 +18126,7 @@
         "rarity": "UR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000360_ATK_01",
             "PK_000360_ATK_02"
@@ -17886,6 +18206,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000410_ATK_01"
         ],
@@ -17949,6 +18270,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000430_ATK_01"
         ],
@@ -18011,6 +18333,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000470_ATK_01",
             "PK_000470_ATK_02"
@@ -18088,6 +18411,7 @@
         "rarity": "SAR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000470_ATK_01",
             "PK_000470_ATK_02"
@@ -18165,6 +18489,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000530_ATK_01"
         ],
@@ -18228,6 +18553,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000560_ATK_01",
             "PK_000560_ATK_02"
@@ -18304,6 +18630,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000760_ATK_01"
         ],
@@ -18364,6 +18691,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000780_ATK_01"
         ],
@@ -18429,6 +18757,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000790_ATK_01"
         ],
@@ -18492,6 +18821,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000840_ATK_01",
             "PK_000840_ATK_02"
@@ -18568,6 +18898,7 @@
         "rarity": "SAR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000840_ATK_01",
             "PK_000840_ATK_02"
@@ -18644,6 +18975,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000960_ATK_01"
         ],
@@ -18708,6 +19040,7 @@
         "rarity": "IM",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000960_ATK_01"
         ],
@@ -18772,6 +19105,7 @@
         "rarity": "UR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000960_ATK_01"
         ],
@@ -18838,6 +19172,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001000_ATK_01"
         ],
@@ -18898,6 +19233,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001040_ATK_01",
             "PK_001040_ATK_02"
@@ -18973,6 +19309,7 @@
         "rarity": "SAR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001040_ATK_01",
             "PK_001040_ATK_02"
@@ -19048,6 +19385,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001170_ATK_01"
         ],
@@ -19111,6 +19449,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001180_ATK_01"
         ],
@@ -19174,6 +19513,9 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [
+            "PK_001230_ABL_01"
+        ],
         "attack_ids": [
             "PK_001230_ATK_01"
         ],
@@ -19246,6 +19588,9 @@
         "rarity": "SAR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [
+            "PK_001230_ABL_01"
+        ],
         "attack_ids": [
             "PK_001230_ATK_01"
         ],
@@ -19318,6 +19663,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001290_ATK_01",
             "PK_001290_ATK_02"
@@ -19395,6 +19741,7 @@
         "rarity": "IM",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001290_ATK_01",
             "PK_001290_ATK_02"
@@ -19472,6 +19819,7 @@
         "rarity": "UR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001290_ATK_01",
             "PK_001290_ATK_02"
@@ -19551,6 +19899,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001390_ATK_01"
         ],
@@ -19613,6 +19962,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001460_ATK_01"
         ],
@@ -19678,6 +20028,7 @@
         "rarity": "SAR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001460_ATK_01"
         ],
@@ -19743,6 +20094,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001510_ATK_01"
         ],
@@ -19805,6 +20157,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001530_ATK_01"
         ],
@@ -19867,6 +20220,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001680_ATK_01"
         ],
@@ -19930,6 +20284,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001710_ATK_01"
         ],
@@ -19994,6 +20349,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001730_ATK_01"
         ],
@@ -20056,6 +20412,9 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_001770_ABL_01"
+        ],
         "attack_ids": [
             "PK_001770_ATK_01"
         ],
@@ -20128,6 +20487,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001850_ATK_01"
         ],
@@ -20192,6 +20552,9 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_001880_ABL_01"
+        ],
         "attack_ids": [
             "PK_001880_ATK_01"
         ],
@@ -20262,6 +20625,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001950_ATK_01"
         ],
@@ -20326,6 +20690,7 @@
         "rarity": "SAR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001950_ATK_01"
         ],
@@ -20390,6 +20755,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001960_ATK_01"
         ],
@@ -20453,6 +20819,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002050_ATK_01"
         ],
@@ -20515,6 +20882,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002060_ATK_01"
         ],
@@ -20579,6 +20947,9 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_002070_ABL_01"
+        ],
         "attack_ids": [
             "PK_002070_ATK_01"
         ],
@@ -20649,6 +21020,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002090_ATK_01"
         ],
@@ -20714,6 +21086,7 @@
         "rarity": "IM",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002140_ATK_01"
         ],
@@ -20774,6 +21147,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002160_ATK_01"
         ],
@@ -20838,6 +21212,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002170_ATK_01"
         ],
@@ -20901,6 +21276,7 @@
         "rarity": "IM",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002170_ATK_01"
         ],
@@ -20964,6 +21340,9 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_002200_ABL_01"
+        ],
         "attack_ids": [
             "PK_002200_ATK_01"
         ],
@@ -21035,6 +21414,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002290_ATK_01"
         ],
@@ -21097,6 +21477,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002320_ATK_01"
         ],
@@ -21161,6 +21542,9 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_002330_ABL_01"
+        ],
         "attack_ids": [
             "PK_002330_ATK_01"
         ],
@@ -21232,6 +21616,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002440_ATK_01"
         ],
@@ -21294,6 +21679,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002450_ATK_01",
             "PK_002450_ATK_02"
@@ -21370,6 +21756,7 @@
         "rarity": "SAR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002450_ATK_01",
             "PK_002450_ATK_02"
@@ -21446,6 +21833,7 @@
         "rarity": "UR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002450_ATK_01",
             "PK_002450_ATK_02"
@@ -21522,6 +21910,9 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [
+            "PK_002590_ABL_01"
+        ],
         "attack_ids": [
             "PK_002590_ATK_01"
         ],
@@ -21593,6 +21984,9 @@
         "rarity": "SAR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [
+            "PK_002590_ABL_01"
+        ],
         "attack_ids": [
             "PK_002590_ATK_01"
         ],
@@ -21664,6 +22058,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002600_ATK_01"
         ],
@@ -21726,6 +22121,7 @@
         "rarity": "SR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002720_ATK_01"
         ],
@@ -21788,6 +22184,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000010_ATK_01"
         ],
@@ -21849,6 +22246,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000030_ATK_01"
         ],
@@ -21913,6 +22311,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_000070_ABL_01"
+        ],
         "attack_ids": [
             "PK_000070_ATK_01"
         ],
@@ -21983,6 +22384,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000330_ATK_01"
         ],
@@ -22044,6 +22446,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000470_ATK_01",
             "PK_000470_ATK_02"
@@ -22119,6 +22522,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000530_ATK_01"
         ],
@@ -22180,6 +22584,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000550_ATK_01"
         ],
@@ -22244,6 +22649,9 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [
+            "PK_000890_ABL_01"
+        ],
         "attack_ids": [
             "PK_000890_ATK_01"
         ],
@@ -22314,6 +22722,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000940_ATK_01"
         ],
@@ -22376,6 +22785,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000940_ATK_01"
         ],
@@ -22440,6 +22850,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000940_ATK_01"
         ],
@@ -22502,6 +22913,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_000970_ATK_01"
         ],
@@ -22562,6 +22974,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001130_ATK_01"
         ],
@@ -22624,6 +23037,7 @@
         "rarity": "AR",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001280_ATK_01"
         ],
@@ -22685,6 +23099,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001500_ATK_01"
         ],
@@ -22750,6 +23165,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_001960_ATK_01"
         ],
@@ -22811,6 +23227,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002020_ATK_01"
         ],
@@ -22873,6 +23290,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002110_ATK_01"
         ],
@@ -22935,6 +23353,7 @@
         "rarity": "R",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002280_ATK_01"
         ],
@@ -22998,6 +23417,7 @@
         "rarity": "RR",
         "rules_description": "When your Pokemon ex is Knocked Out , your opponent gets 2 points.",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002760_ATK_01"
         ],
@@ -23060,6 +23480,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002770_ATK_01"
         ],
@@ -23120,6 +23541,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002780_ATK_01"
         ],
@@ -23180,6 +23602,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002790_ATK_01"
         ],
@@ -23240,6 +23663,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002800_ATK_01"
         ],
@@ -23300,6 +23724,7 @@
         "rarity": "C",
         "rules_description": "",
         "series_id": "A",
+        "ability_ids": [],
         "attack_ids": [
             "PK_002810_ATK_01"
         ],

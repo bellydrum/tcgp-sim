@@ -17,6 +17,7 @@ class Card(models.Model):
     name = models.CharField(max_length=128)                                                                     # "cloyster"
     name_display = models.CharField(max_length=128, blank=False)                                                # "Cloyster"
     active = models.BooleanField(blank=False, null=False, default=True)                                         # True
+    ability_ids = models.JSONField(blank=False, null=True, verbose_name="card_ability_ids")
     attack_ids = models.JSONField(blank=False, null=True, verbose_name="card_attack_ids")                       # ["PK_01_00010_01"]
     card_id = models.CharField(max_length=64, blank=False, null=True)                                           # "PK_10_000670_00"
     card_pokemon_id = models.CharField(max_length=64, blank=False, null=True)                                   # "PK_10_000670_00"
@@ -107,6 +108,15 @@ class Trainer(Card, models.Model):
 ##################################
 # relational models (many-to-many)
 ##################################
+
+class CardAbility(models.Model):
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(fields=["card", "ability"], name="unique_card_ability")
+        ]
+    id = models.BigAutoField(primary_key=True)
+    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_abilities_card")
+    ability = models.ForeignKey(Ability, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_abilities_ability")
 
 class CardAttack(models.Model):
     class Meta:
