@@ -4,6 +4,7 @@ from cards.models import *
 
 from scripts.db.table_imports.energy_type import import_objects as import_energy_types
 from scripts.db.table_imports.rarity import import_objects as import_rarities
+from scripts.db.table_imports.ability import import_objects as import_abilities
 from scripts.db.table_imports.attack import import_objects as import_attacks
 from scripts.db.table_imports.card import import_objects as import_cards
 from scripts.db.table_imports.card_illustrator import import_objects as import_card_illustrators
@@ -21,6 +22,7 @@ import_rarities()
 import_energy_types()
 import_expansions()
 import_packs()
+import_abilities()
 import_attacks()
 import_illustrators()
 import_cards()
@@ -31,6 +33,7 @@ import_card_packs()
 # gather totals for each table
 total_rarities = Rarity.objects.count()
 total_cards = Card.objects.count()
+total_abilities = Ability.objects.count()
 total_attacks = Attack.objects.count()
 total_energy_types = EnergyType.objects.count()
 total_expansions = Expansion.objects.count()
@@ -45,6 +48,7 @@ total_card_packs = CardPack.objects.count()
 print(f"\nImport scripts have completed. Here are the total records now found in each table:")
 print(f"- Rarities: {total_rarities}")
 print(f"- Cards: {total_cards}")
+print(f"- Abilities: {total_abilities}")
 print(f"- Attacks: {total_attacks}")
 print(f"- EnergyTypes: {total_energy_types}")
 print(f"- Expansions: {total_expansions}")

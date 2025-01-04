@@ -7,8 +7,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000020_ATK_01",
@@ -18,8 +18,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000030_ATK_01",
@@ -29,8 +29,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Heal 30 damage from this Pokemon."
+        "description": "Heal 30 damage from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000040_ATK_01",
@@ -40,8 +40,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000040_ATK_02",
@@ -51,8 +51,8 @@
         "damage": 100,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Heal 30 damage from this Pokemon."
+        "description": "Heal 30 damage from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000050_ATK_01",
@@ -62,8 +62,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Put 1 random Pokemon from your deck into your hand."
+        "description": "Put 1 random Pokemon from your deck into your hand.",
+        "effect": null
     },
     {
         "attack_id": "PK_000060_ATK_01",
@@ -73,8 +73,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000070_ATK_01",
@@ -84,8 +84,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000080_ATK_01",
@@ -95,8 +95,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000090_ATK_01",
@@ -106,8 +106,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000100_ATK_01",
@@ -117,8 +117,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000110_ATK_01",
@@ -128,8 +128,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000120_ATK_01",
@@ -139,8 +139,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000130_ATK_01",
@@ -150,8 +150,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Asleep."
+        "description": "Your opponent's Active Pokemon is now Asleep.",
+        "effect": null
     },
     {
         "attack_id": "PK_000140_ATK_01",
@@ -161,8 +161,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000150_ATK_01",
@@ -172,8 +172,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000160_ATK_01",
@@ -183,8 +183,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000170_ATK_01",
@@ -194,8 +194,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Poisoned."
+        "description": "Your opponent's Active Pokemon is now Poisoned.",
+        "effect": null
     },
     {
         "attack_id": "PK_000180_ATK_01",
@@ -205,8 +205,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000190_ATK_01",
@@ -216,8 +216,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000200_ATK_01",
@@ -227,8 +227,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000210_ATK_01",
@@ -238,8 +238,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000220_ATK_01",
@@ -249,8 +249,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, this attack does 30 more damage."
+        "description": "Flip a coin. If heads, this attack does 30 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_000230_ATK_01",
@@ -260,8 +260,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, this attack does 40 more damage."
+        "description": "Flip a coin. If heads, this attack does 40 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_000240_ATK_01",
@@ -271,8 +271,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Heal 10 damage from this Pokemon."
+        "description": "Heal 10 damage from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000250_ATK_01",
@@ -282,8 +282,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000260_ATK_01",
@@ -293,8 +293,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "Flip 2 coins. This attack does 50 damage for each heads."
+        "description": "Flip 2 coins. This attack does 50 damage for each heads.",
+        "effect": null
     },
     {
         "attack_id": "PK_000270_ATK_01",
@@ -304,8 +304,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000280_ATK_01",
@@ -315,8 +315,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000290_ATK_01",
@@ -326,8 +326,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Heal 10 damage from this Pokemon."
+        "description": "Heal 10 damage from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000300_ATK_01",
@@ -337,8 +337,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Take a Energy from your Energy Zone and attach it to 1 of your Benched Pokemon."
+        "description": "Take a Energy from your Energy Zone and attach it to 1 of your Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000310_ATK_01",
@@ -348,8 +348,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If tails, this attack does nothing."
+        "description": "Flip a coin. If tails, this attack does nothing.",
+        "effect": null
     },
     {
         "attack_id": "PK_000320_ATK_01",
@@ -359,8 +359,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000330_ATK_01",
@@ -370,8 +370,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard a Energy from this Pokemon."
+        "description": "Discard a Energy from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000340_ATK_01",
@@ -381,8 +381,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000350_ATK_01",
@@ -392,8 +392,8 @@
         "damage": 150,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard 2 Energy from this Pokemon."
+        "description": "Discard 2 Energy from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000360_ATK_01",
@@ -403,8 +403,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000360_ATK_02",
@@ -414,8 +414,8 @@
         "damage": 200,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard 2 Energy from this Pokemon."
+        "description": "Discard 2 Energy from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000370_ATK_01",
@@ -425,8 +425,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, the Defending Pokemon can't attack during your opponent's next turn."
+        "description": "Flip a coin. If heads, the Defending Pokemon can't attack during your opponent's next turn.",
+        "effect": null
     },
     {
         "attack_id": "PK_000380_ATK_01",
@@ -436,8 +436,8 @@
         "damage": 90,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard a Energy from this Pokemon."
+        "description": "Discard a Energy from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000390_ATK_01",
@@ -447,8 +447,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000400_ATK_01",
@@ -458,8 +458,8 @@
         "damage": 100,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This Pokemon also does 20 damage to itself."
+        "description": "This Pokemon also does 20 damage to itself.",
+        "effect": null
     },
     {
         "attack_id": "PK_000410_ATK_01",
@@ -469,8 +469,8 @@
         "damage": 120,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This Pokemon also does 20 damage to itself."
+        "description": "This Pokemon also does 20 damage to itself.",
+        "effect": null
     },
     {
         "attack_id": "PK_000420_ATK_01",
@@ -480,8 +480,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000430_ATK_01",
@@ -491,8 +491,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000440_ATK_01",
@@ -502,8 +502,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000450_ATK_01",
@@ -513,8 +513,8 @@
         "damage": 110,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard a Energy from this Pokemon."
+        "description": "Discard a Energy from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000460_ATK_01",
@@ -524,8 +524,8 @@
         "damage": 130,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If tails, this attack does nothing."
+        "description": "Flip a coin. If tails, this attack does nothing.",
+        "effect": null
     },
     {
         "attack_id": "PK_000470_ATK_01",
@@ -535,8 +535,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip 3 coins. Take an amount of Energy from your Energy Zone equal to the number of heads and attach it to your Benched Pokemon in any way you like."
+        "description": "Flip 3 coins. Take an amount of Energy from your Energy Zone equal to the number of heads and attach it to your Benched Pokemon in any way you like.",
+        "effect": null
     },
     {
         "attack_id": "PK_000470_ATK_02",
@@ -546,8 +546,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000480_ATK_01",
@@ -557,8 +557,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000490_ATK_01",
@@ -568,8 +568,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000500_ATK_01",
@@ -579,8 +579,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000510_ATK_01",
@@ -590,8 +590,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000520_ATK_01",
@@ -601,8 +601,8 @@
         "damage": 130,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard a Energy from this Pokemon."
+        "description": "Discard a Energy from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000530_ATK_01",
@@ -612,8 +612,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000540_ATK_01",
@@ -623,8 +623,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000550_ATK_01",
@@ -634,8 +634,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If this Pokemon has at least 2 extra Energy attached, this attack does 60 more damage."
+        "description": "If this Pokemon has at least 2 extra Energy attached, this attack does 60 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_000560_ATK_01",
@@ -645,8 +645,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000560_ATK_02",
@@ -656,8 +656,8 @@
         "damage": 100,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If this Pokemon has at least 2 extra Energy attached, this attack does 60 more damage."
+        "description": "If this Pokemon has at least 2 extra Energy attached, this attack does 60 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_000570_ATK_01",
@@ -667,8 +667,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent can't use any Supporter cards from their hand during their next turn."
+        "description": "Your opponent can't use any Supporter cards from their hand during their next turn.",
+        "effect": null
     },
     {
         "attack_id": "PK_000580_ATK_01",
@@ -678,8 +678,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000590_ATK_01",
@@ -689,8 +689,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000600_ATK_01",
@@ -700,8 +700,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000610_ATK_01",
@@ -711,8 +711,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000620_ATK_01",
@@ -722,8 +722,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000630_ATK_01",
@@ -733,8 +733,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Poisoned."
+        "description": "Your opponent's Active Pokemon is now Poisoned.",
+        "effect": null
     },
     {
         "attack_id": "PK_000640_ATK_01",
@@ -744,8 +744,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000650_ATK_01",
@@ -755,8 +755,8 @@
         "damage": 90,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000660_ATK_01",
@@ -766,8 +766,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000670_ATK_01",
@@ -777,8 +777,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000680_ATK_01",
@@ -788,8 +788,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000690_ATK_01",
@@ -799,8 +799,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "Flip 2 coins. If both of them are heads, this attack does 80 more damage."
+        "description": "Flip 2 coins. If both of them are heads, this attack does 80 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_000700_ATK_01",
@@ -810,8 +810,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000710_ATK_01",
@@ -821,8 +821,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This attack does 50 damage to 1 of your opponent's Pokemon."
+        "description": "This attack does 50 damage to 1 of your opponent's Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000720_ATK_01",
@@ -832,8 +832,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000730_ATK_01",
@@ -843,8 +843,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If tails, this attack does nothing."
+        "description": "Flip a coin. If tails, this attack does nothing.",
+        "effect": null
     },
     {
         "attack_id": "PK_000740_ATK_01",
@@ -854,8 +854,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000750_ATK_01",
@@ -865,8 +865,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000760_ATK_01",
@@ -876,8 +876,8 @@
         "damage": 90,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000770_ATK_01",
@@ -887,8 +887,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000780_ATK_01",
@@ -898,8 +898,8 @@
         "damage": 100,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard a random Energy from your opponent's Active Pokemon."
+        "description": "Discard a random Energy from your opponent's Active Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000790_ATK_01",
@@ -909,8 +909,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If this Pokemon has at least 3 extra Energy attached, this attack does 70 more damage."
+        "description": "If this Pokemon has at least 3 extra Energy attached, this attack does 70 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_000800_ATK_01",
@@ -920,8 +920,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Heal 30 damage from this Pokemon."
+        "description": "Heal 30 damage from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000810_ATK_01",
@@ -931,8 +931,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000820_ATK_01",
@@ -942,8 +942,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "During your opponent's next turn, the Defending Pokemon can't attack."
+        "description": "During your opponent's next turn, the Defending Pokemon can't attack.",
+        "effect": null
     },
     {
         "attack_id": "PK_000830_ATK_01",
@@ -953,8 +953,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+        "description": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+        "effect": null
     },
     {
         "attack_id": "PK_000840_ATK_01",
@@ -964,8 +964,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000840_ATK_02",
@@ -975,8 +975,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This attack also does 10 damage to each of your opponent's Benched Pokemon."
+        "description": "This attack also does 10 damage to each of your opponent's Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000850_ATK_01",
@@ -986,8 +986,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000860_ATK_01",
@@ -997,8 +997,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000870_ATK_01",
@@ -1008,8 +1008,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000880_ATK_01",
@@ -1019,8 +1019,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000890_ATK_01",
@@ -1030,8 +1030,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000900_ATK_01",
@@ -1041,8 +1041,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000910_ATK_01",
@@ -1052,8 +1052,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If your opponent's Active Pokemon has damage on it, this attack does 60 more damage."
+        "description": "If your opponent's Active Pokemon has damage on it, this attack does 60 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_000920_ATK_01",
@@ -1063,8 +1063,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000930_ATK_01",
@@ -1074,8 +1074,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Asleep."
+        "description": "Your opponent's Active Pokemon is now Asleep.",
+        "effect": null
     },
     {
         "attack_id": "PK_000940_ATK_01",
@@ -1085,8 +1085,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000950_ATK_01",
@@ -1096,8 +1096,8 @@
         "damage": 140,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard all Energy from this Pokemon."
+        "description": "Discard all Energy from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000960_ATK_01",
@@ -1107,8 +1107,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "This attack does 30 damage for each of your Benched Pokemon."
+        "description": "This attack does 30 damage for each of your Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_000970_ATK_01",
@@ -1118,8 +1118,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000980_ATK_01",
@@ -1129,8 +1129,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_000990_ATK_01",
@@ -1140,8 +1140,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001000_ATK_01",
@@ -1151,8 +1151,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001010_ATK_01",
@@ -1162,8 +1162,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokemon also does 20 damage to itself."
+        "description": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokemon also does 20 damage to itself.",
+        "effect": null
     },
     {
         "attack_id": "PK_001020_ATK_01",
@@ -1173,8 +1173,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "Flip 4 coins. This attack does 40 damage for each heads."
+        "description": "Flip 4 coins. This attack does 40 damage for each heads.",
+        "effect": null
     },
     {
         "attack_id": "PK_001030_ATK_01",
@@ -1184,8 +1184,8 @@
         "damage": 100,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This attack also does 30 damage to 1 of your Benched Pokemon."
+        "description": "This attack also does 30 damage to 1 of your Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001040_ATK_01",
@@ -1195,8 +1195,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001040_ATK_02",
@@ -1206,8 +1206,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "Flip 4 coins. This attack does 50 damage for each heads."
+        "description": "Flip 4 coins. This attack does 50 damage for each heads.",
+        "effect": null
     },
     {
         "attack_id": "PK_001050_ATK_01",
@@ -1217,8 +1217,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001060_ATK_01",
@@ -1228,8 +1228,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This attack does 30 damage to 1 of your opponent's Pokemon."
+        "description": "This attack does 30 damage to 1 of your opponent's Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001070_ATK_01",
@@ -1239,8 +1239,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001080_ATK_01",
@@ -1250,8 +1250,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001090_ATK_01",
@@ -1261,8 +1261,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+        "description": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+        "effect": null
     },
     {
         "attack_id": "PK_001100_ATK_01",
@@ -1272,8 +1272,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001110_ATK_01",
@@ -1283,8 +1283,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, this attack does 40 more damage."
+        "description": "Flip a coin. If heads, this attack does 40 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_001120_ATK_01",
@@ -1294,8 +1294,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+        "description": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+        "effect": null
     },
     {
         "attack_id": "PK_001130_ATK_01",
@@ -1305,8 +1305,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001140_ATK_01",
@@ -1316,8 +1316,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001150_ATK_01",
@@ -1327,8 +1327,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Switch this Pokemon with 1 of your Benched Pokemon."
+        "description": "Switch this Pokemon with 1 of your Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001160_ATK_01",
@@ -1338,8 +1338,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001170_ATK_01",
@@ -1349,8 +1349,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokemon."
+        "description": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001180_ATK_01",
@@ -1360,8 +1360,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001190_ATK_01",
@@ -1371,8 +1371,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001200_ATK_01",
@@ -1382,8 +1382,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001210_ATK_01",
@@ -1393,8 +1393,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001220_ATK_01",
@@ -1404,8 +1404,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent can't use any Supporter cards from their hand during their next turn."
+        "description": "Your opponent can't use any Supporter cards from their hand during their next turn.",
+        "effect": null
     },
     {
         "attack_id": "PK_001230_ATK_01",
@@ -1415,8 +1415,8 @@
         "damage": 100,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001240_ATK_01",
@@ -1426,8 +1426,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001250_ATK_01",
@@ -1437,8 +1437,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001260_ATK_01",
@@ -1448,8 +1448,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "During your opponent's next turn, this Pokemon takes \u221220 damage from attacks."
+        "description": "During your opponent's next turn, this Pokemon takes -20 damage from attacks.",
+        "effect": null
     },
     {
         "attack_id": "PK_001270_ATK_01",
@@ -1459,8 +1459,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokemon."
+        "description": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001280_ATK_01",
@@ -1470,8 +1470,8 @@
         "damage": 120,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard 2 Energy from this Pokemon."
+        "description": "Discard 2 Energy from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001290_ATK_01",
@@ -1481,8 +1481,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001290_ATK_02",
@@ -1492,8 +1492,8 @@
         "damage": 150,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard 2 Energy from this Pokemon."
+        "description": "Discard 2 Energy from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001300_ATK_01",
@@ -1503,8 +1503,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001310_ATK_01",
@@ -1514,8 +1514,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001320_ATK_01",
@@ -1525,8 +1525,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001330_ATK_01",
@@ -1536,8 +1536,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001340_ATK_01",
@@ -1547,8 +1547,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001350_ATK_01",
@@ -1558,8 +1558,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001360_ATK_01",
@@ -1569,8 +1569,8 @@
         "damage": 100,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "Flip 2 coins. This attack does 100 damage for each heads."
+        "description": "Flip 2 coins. This attack does 100 damage for each heads.",
+        "effect": null
     },
     {
         "attack_id": "PK_001370_ATK_01",
@@ -1580,8 +1580,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001380_ATK_01",
@@ -1591,8 +1591,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001390_ATK_01",
@@ -1602,8 +1602,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001400_ATK_01",
@@ -1613,8 +1613,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from\u2014and effects of\u2014attacks done to this Pokemon."
+        "description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from\u2014and effects of\u2014attacks done to this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001410_ATK_01",
@@ -1624,8 +1624,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001420_ATK_01",
@@ -1635,8 +1635,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If this Pokemon has damage on it, this attack does 60 more damage."
+        "description": "If this Pokemon has damage on it, this attack does 60 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_001430_ATK_01",
@@ -1646,8 +1646,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001440_ATK_01",
@@ -1657,8 +1657,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001450_ATK_01",
@@ -1668,8 +1668,8 @@
         "damage": 100,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001460_ATK_01",
@@ -1679,8 +1679,8 @@
         "damage": 120,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001470_ATK_01",
@@ -1690,8 +1690,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001480_ATK_01",
@@ -1701,8 +1701,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001490_ATK_01",
@@ -1712,8 +1712,8 @@
         "damage": 150,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This Pokemon also does 50 damage to itself."
+        "description": "This Pokemon also does 50 damage to itself.",
+        "effect": null
     },
     {
         "attack_id": "PK_001500_ATK_01",
@@ -1723,8 +1723,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001510_ATK_01",
@@ -1734,8 +1734,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "During your opponent's next turn, attacks used by the Defending Pokemon do \u221220 damage."
+        "description": "During your opponent's next turn, attacks used by the Defending Pokemon do -20 damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_001520_ATK_01",
@@ -1745,8 +1745,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001530_ATK_01",
@@ -1756,8 +1756,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "Flip 2 coins. This attack does 80 damage for each heads."
+        "description": "Flip 2 coins. This attack does 80 damage for each heads.",
+        "effect": null
     },
     {
         "attack_id": "PK_001540_ATK_01",
@@ -1767,8 +1767,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This attack does 30 damage to 1 of your opponent's Benched Pokemon."
+        "description": "This attack does 30 damage to 1 of your opponent's Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001550_ATK_01",
@@ -1778,8 +1778,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001560_ATK_01",
@@ -1789,8 +1789,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001570_ATK_01",
@@ -1800,8 +1800,8 @@
         "damage": 100,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001580_ATK_01",
@@ -1811,8 +1811,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001590_ATK_01",
@@ -1822,8 +1822,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Heal from this Pokemon the same amount of damage you did to your opponent's Active Pokemon."
+        "description": "Heal from this Pokemon the same amount of damage you did to your opponent's Active Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001600_ATK_01",
@@ -1833,8 +1833,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001610_ATK_01",
@@ -1844,8 +1844,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001620_ATK_01",
@@ -1855,8 +1855,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001630_ATK_01",
@@ -1866,8 +1866,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Switch out your opponent's Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.) "
+        "description": "Switch out your opponent's Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.) ",
+        "effect": null
     },
     {
         "attack_id": "PK_001640_ATK_01",
@@ -1877,8 +1877,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001650_ATK_01",
@@ -1888,8 +1888,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "During your opponent's next turn, the Defending Pokemon can't retreat."
+        "description": "During your opponent's next turn, the Defending Pokemon can't retreat.",
+        "effect": null
     },
     {
         "attack_id": "PK_001660_ATK_01",
@@ -1899,8 +1899,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Put 1 random Nidoran from your deck onto your Bench."
+        "description": "Put 1 random Nidoran from your deck onto your Bench.",
+        "effect": null
     },
     {
         "attack_id": "PK_001670_ATK_01",
@@ -1910,8 +1910,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001680_ATK_01",
@@ -1921,8 +1921,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "This attack does 50 more damage for each of your Benched Nidoking ."
+        "description": "This attack does 50 more damage for each of your Benched Nidoking .",
+        "effect": null
     },
     {
         "attack_id": "PK_001690_ATK_01",
@@ -1932,8 +1932,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001700_ATK_01",
@@ -1943,8 +1943,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001710_ATK_01",
@@ -1954,8 +1954,8 @@
         "damage": 90,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Poisoned."
+        "description": "Your opponent's Active Pokemon is now Poisoned.",
+        "effect": null
     },
     {
         "attack_id": "PK_001720_ATK_01",
@@ -1965,8 +1965,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001730_ATK_01",
@@ -1976,8 +1976,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001740_ATK_01",
@@ -1987,8 +1987,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Poisoned."
+        "description": "Your opponent's Active Pokemon is now Poisoned.",
+        "effect": null
     },
     {
         "attack_id": "PK_001750_ATK_01",
@@ -1998,8 +1998,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If your opponent's Active Pokemon is Poisoned, this attack does 50 more damage."
+        "description": "If your opponent's Active Pokemon is Poisoned, this attack does 50 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_001760_ATK_01",
@@ -2009,8 +2009,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001770_ATK_01",
@@ -2020,8 +2020,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001780_ATK_01",
@@ -2031,8 +2031,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon."
+        "description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001790_ATK_01",
@@ -2042,8 +2042,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001800_ATK_01",
@@ -2053,8 +2053,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001810_ATK_01",
@@ -2064,8 +2064,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Take a Energy from your Energy Zone and attach it to this Pokemon."
+        "description": "Take a Energy from your Energy Zone and attach it to this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001820_ATK_01",
@@ -2075,8 +2075,8 @@
         "damage": 120,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001830_ATK_01",
@@ -2086,8 +2086,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001840_ATK_01",
@@ -2097,8 +2097,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001850_ATK_01",
@@ -2108,8 +2108,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "1 of your opponent's Pokemon is chosen at random 4 times. For each time a Pokemon was chosen, do 50 damage to it."
+        "description": "1 of your opponent's Pokemon is chosen at random 4 times. For each time a Pokemon was chosen, do 50 damage to it.",
+        "effect": null
     },
     {
         "attack_id": "PK_001860_ATK_01",
@@ -2119,8 +2119,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001870_ATK_01",
@@ -2130,8 +2130,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001880_ATK_01",
@@ -2141,8 +2141,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001890_ATK_01",
@@ -2152,8 +2152,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001900_ATK_01",
@@ -2163,8 +2163,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001910_ATK_01",
@@ -2174,8 +2174,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001920_ATK_01",
@@ -2185,8 +2185,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon."
+        "description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_001930_ATK_01",
@@ -2196,8 +2196,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001940_ATK_01",
@@ -2207,8 +2207,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001950_ATK_01",
@@ -2218,8 +2218,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Asleep."
+        "description": "Your opponent's Active Pokemon is now Asleep.",
+        "effect": null
     },
     {
         "attack_id": "PK_001960_ATK_01",
@@ -2229,8 +2229,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Draw a card."
+        "description": "Draw a card.",
+        "effect": null
     },
     {
         "attack_id": "PK_001970_ATK_01",
@@ -2240,8 +2240,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, discard a random card from your opponent's hand."
+        "description": "Flip a coin. If heads, discard a random card from your opponent's hand.",
+        "effect": null
     },
     {
         "attack_id": "PK_001980_ATK_01",
@@ -2251,8 +2251,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_001990_ATK_01",
@@ -2262,8 +2262,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002000_ATK_01",
@@ -2273,8 +2273,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002010_ATK_01",
@@ -2284,8 +2284,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "Flip a coin until you get tails. This attack does 60 damage for each heads."
+        "description": "Flip a coin until you get tails. This attack does 60 damage for each heads.",
+        "effect": null
     },
     {
         "attack_id": "PK_002020_ATK_01",
@@ -2295,8 +2295,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002030_ATK_01",
@@ -2306,8 +2306,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "Flip 2 coins. This attack does 30 damage for each heads."
+        "description": "Flip 2 coins. This attack does 30 damage for each heads.",
+        "effect": null
     },
     {
         "attack_id": "PK_002040_ATK_01",
@@ -2317,8 +2317,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002050_ATK_01",
@@ -2328,8 +2328,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Choose 1 of your opponent's Pokemon's attacks and use it as this attack. If this Pokemon doesn't have the necessary Energy to use that attack, this attack does nothing."
+        "description": "Choose 1 of your opponent's Pokemon's attacks and use it as this attack. If this Pokemon doesn't have the necessary Energy to use that attack, this attack does nothing.",
+        "effect": null
     },
     {
         "attack_id": "PK_002060_ATK_01",
@@ -2339,8 +2339,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002070_ATK_01",
@@ -2350,8 +2350,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002080_ATK_01",
@@ -2361,8 +2361,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, your opponent shuffles their Active Pokemon into their deck."
+        "description": "Flip a coin. If heads, your opponent shuffles their Active Pokemon into their deck.",
+        "effect": null
     },
     {
         "attack_id": "PK_002090_ATK_01",
@@ -2372,8 +2372,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002100_ATK_01",
@@ -2383,8 +2383,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002110_ATK_01",
@@ -2394,8 +2394,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "This attack does 30 damage for each of your Benched Pokemon."
+        "description": "This attack does 30 damage for each of your Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002120_ATK_01",
@@ -2405,8 +2405,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002130_ATK_01",
@@ -2416,8 +2416,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002140_ATK_01",
@@ -2427,8 +2427,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent reveals their hand."
+        "description": "Your opponent reveals their hand.",
+        "effect": null
     },
     {
         "attack_id": "PK_002150_ATK_01",
@@ -2438,8 +2438,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Take a Energy from your Energy Zone and attach it to this Pokemon."
+        "description": "Take a Energy from your Energy Zone and attach it to this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002160_ATK_01",
@@ -2449,8 +2449,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokemon."
+        "description": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002170_ATK_01",
@@ -2460,8 +2460,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "Flip a coin for each Energy attached to this Pokemon. This attack does 50 damage for each heads."
+        "description": "Flip a coin for each Energy attached to this Pokemon. This attack does 50 damage for each heads.",
+        "effect": null
     },
     {
         "attack_id": "PK_002180_ATK_01",
@@ -2471,8 +2471,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002190_ATK_01",
@@ -2482,8 +2482,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002200_ATK_01",
@@ -2493,8 +2493,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002210_ATK_01",
@@ -2504,8 +2504,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002220_ATK_01",
@@ -2515,8 +2515,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Asleep."
+        "description": "Your opponent's Active Pokemon is now Asleep.",
+        "effect": null
     },
     {
         "attack_id": "PK_002230_ATK_01",
@@ -2526,8 +2526,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If this Pokemon has at least 3 extra Energy attached, this attack does 70 more damage."
+        "description": "If this Pokemon has at least 3 extra Energy attached, this attack does 70 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_002240_ATK_01",
@@ -2537,8 +2537,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, this attack does 30 more damage."
+        "description": "Flip a coin. If heads, this attack does 30 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_002250_ATK_01",
@@ -2548,8 +2548,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, this attack does 60 more damage."
+        "description": "Flip a coin. If heads, this attack does 60 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_002260_ATK_01",
@@ -2559,8 +2559,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard 2 Energy from this Pokemon."
+        "description": "Discard 2 Energy from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002270_ATK_01",
@@ -2570,8 +2570,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002280_ATK_01",
@@ -2581,8 +2581,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard 2 Energy from this Pokemon. This attack does 80 damage to 1 of your opponent's Pokemon."
+        "description": "Discard 2 Energy from this Pokemon. This attack does 80 damage to 1 of your opponent's Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002290_ATK_01",
@@ -2592,8 +2592,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If your opponent's Active Pokemon is Poisoned, this attack does 40 more damage."
+        "description": "If your opponent's Active Pokemon is Poisoned, this attack does 40 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_002300_ATK_01",
@@ -2603,8 +2603,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Poisoned."
+        "description": "Your opponent's Active Pokemon is now Poisoned.",
+        "effect": null
     },
     {
         "attack_id": "PK_002310_ATK_01",
@@ -2614,8 +2614,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Switch this Pokemon with 1 of your Benched Pokemon."
+        "description": "Switch this Pokemon with 1 of your Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002320_ATK_01",
@@ -2625,8 +2625,8 @@
         "damage": 140,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Discard a random Energy from among the Energy attached to all Pokemon (both yours and your opponent's)."
+        "description": "Discard a random Energy from among the Energy attached to all Pokemon (both yours and your opponent's).",
+        "effect": null
     },
     {
         "attack_id": "PK_002330_ATK_01",
@@ -2636,8 +2636,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002340_ATK_01",
@@ -2647,8 +2647,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002350_ATK_01",
@@ -2658,8 +2658,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This attack does 50 damage to 1 of your opponent's Benched Pokemon."
+        "description": "This attack does 50 damage to 1 of your opponent's Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002360_ATK_01",
@@ -2669,8 +2669,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002370_ATK_01",
@@ -2680,8 +2680,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon."
+        "description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002380_ATK_01",
@@ -2691,8 +2691,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from\u2014and effects of\u2014attacks done to this Pokemon."
+        "description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from\u2014and effects of\u2014attacks done to this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002390_ATK_01",
@@ -2702,8 +2702,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "This attack does 10 damage for each of your Benched Pokemon."
+        "description": "This attack does 10 damage for each of your Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002400_ATK_01",
@@ -2713,8 +2713,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This attack also does 20 damage to each of your opponent's Benched Pokemon."
+        "description": "This attack also does 20 damage to each of your opponent's Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002410_ATK_01",
@@ -2724,8 +2724,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This attack does 40 damage to 1 of your opponent's Pokemon."
+        "description": "This attack does 40 damage to 1 of your opponent's Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002420_ATK_01",
@@ -2735,8 +2735,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002430_ATK_01",
@@ -2746,8 +2746,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "During your opponent's next turn, the Defending Pokemon can't retreat."
+        "description": "During your opponent's next turn, the Defending Pokemon can't retreat.",
+        "effect": null
     },
     {
         "attack_id": "PK_002440_ATK_01",
@@ -2757,8 +2757,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+        "description": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+        "effect": null
     },
     {
         "attack_id": "PK_002450_ATK_01",
@@ -2768,8 +2768,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002450_ATK_02",
@@ -2779,8 +2779,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Choose 1 of your opponent's Active Pokemon's attacks and use it as this attack."
+        "description": "Choose 1 of your opponent's Active Pokemon's attacks and use it as this attack.",
+        "effect": null
     },
     {
         "attack_id": "PK_002460_ATK_01",
@@ -2790,8 +2790,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Draw a card."
+        "description": "Draw a card.",
+        "effect": null
     },
     {
         "attack_id": "PK_002470_ATK_01",
@@ -2801,8 +2801,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002480_ATK_01",
@@ -2812,8 +2812,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Heal 20 damage from each of your Pokemon."
+        "description": "Heal 20 damage from each of your Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002490_ATK_01",
@@ -2823,8 +2823,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002500_ATK_01",
@@ -2834,8 +2834,8 @@
         "damage": 10,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "This attack does 20 more damage for each of your opponent's Benched Pokemon."
+        "description": "This attack does 20 more damage for each of your opponent's Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002510_ATK_01",
@@ -2845,8 +2845,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Asleep."
+        "description": "Your opponent's Active Pokemon is now Asleep.",
+        "effect": null
     },
     {
         "attack_id": "PK_002520_ATK_01",
@@ -2856,8 +2856,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Heal 10 damage from this Pokemon."
+        "description": "Heal 10 damage from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002530_ATK_01",
@@ -2867,8 +2867,8 @@
         "damage": 60,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002540_ATK_01",
@@ -2878,8 +2878,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If tails, this attack does nothing."
+        "description": "Flip a coin. If tails, this attack does nothing.",
+        "effect": null
     },
     {
         "attack_id": "PK_002550_ATK_01",
@@ -2889,8 +2889,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002560_ATK_01",
@@ -2900,8 +2900,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002570_ATK_01",
@@ -2911,8 +2911,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002580_ATK_01",
@@ -2922,8 +2922,8 @@
         "damage": 120,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "During your opponent's next turn, this Pokemon takes \u221230 damage from attacks."
+        "description": "During your opponent's next turn, this Pokemon takes -30 damage from attacks.",
+        "effect": null
     },
     {
         "attack_id": "PK_002590_ATK_01",
@@ -2933,8 +2933,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002600_ATK_01",
@@ -2944,8 +2944,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If any of your Pokemon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+        "description": "If any of your Pokemon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_002610_ATK_01",
@@ -2955,8 +2955,8 @@
         "damage": 90,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002620_ATK_01",
@@ -2966,8 +2966,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Put 1 random Koffing from your deck onto your Bench."
+        "description": "Put 1 random Koffing from your deck onto your Bench.",
+        "effect": null
     },
     {
         "attack_id": "PK_002630_ATK_01",
@@ -2977,8 +2977,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "During your opponent's next turn, if the Defending Pokemon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+        "description": "During your opponent's next turn, if the Defending Pokemon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+        "effect": null
     },
     {
         "attack_id": "PK_002640_ATK_01",
@@ -2988,8 +2988,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002650_ATK_01",
@@ -2999,8 +2999,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002660_ATK_01",
@@ -3010,8 +3010,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002670_ATK_01",
@@ -3021,8 +3021,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Poisoned."
+        "description": "Your opponent's Active Pokemon is now Poisoned.",
+        "effect": null
     },
     {
         "attack_id": "PK_002680_ATK_01",
@@ -3032,8 +3032,8 @@
         "damage": 70,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If your opponent's Active Pokemon is Poisoned, this attack does 50 more damage."
+        "description": "If your opponent's Active Pokemon is Poisoned, this attack does 50 more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_002690_ATK_01",
@@ -3043,8 +3043,8 @@
         "damage": 90,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002700_ATK_01",
@@ -3054,8 +3054,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002710_ATK_01",
@@ -3065,8 +3065,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002720_ATK_01",
@@ -3076,8 +3076,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "This attack does 20 more damage for each of your opponent's Benched Pokemon."
+        "description": "This attack does 20 more damage for each of your opponent's Benched Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002730_ATK_01",
@@ -3087,8 +3087,8 @@
         "damage": 40,
         "is_no_damage": false,
         "damage_symbol": "+",
-        "effect": null,
-        "attack_description": "If your opponent's Active Pokemon is a Pokemon more damage."
+        "description": "If your opponent's Active Pokemon is a Pokemon more damage.",
+        "effect": null
     },
     {
         "attack_id": "PK_002740_ATK_01",
@@ -3098,8 +3098,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": "x",
-        "effect": null,
-        "attack_description": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+        "description": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+        "effect": null
     },
     {
         "attack_id": "PK_002750_ATK_01",
@@ -3109,8 +3109,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand."
+        "description": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.",
+        "effect": null
     },
     {
         "attack_id": "PK_002760_ATK_01",
@@ -3120,8 +3120,8 @@
         "damage": 80,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Heal 20 damage from this Pokemon."
+        "description": "Heal 20 damage from this Pokemon.",
+        "effect": null
     },
     {
         "attack_id": "PK_002770_ATK_01",
@@ -3131,8 +3131,8 @@
         "damage": 30,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "This Pokemon also does 10 damage to itself."
+        "description": "This Pokemon also does 10 damage to itself.",
+        "effect": null
     },
     {
         "attack_id": "PK_002780_ATK_01",
@@ -3142,8 +3142,8 @@
         "damage": 50,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Flip a coin. If tails, this attack does nothing."
+        "description": "Flip a coin. If tails, this attack does nothing.",
+        "effect": null
     },
     {
         "attack_id": "PK_002790_ATK_01",
@@ -3153,8 +3153,8 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "Your opponent's Active Pokemon is now Asleep."
+        "description": "Your opponent's Active Pokemon is now Asleep.",
+        "effect": null
     },
     {
         "attack_id": "PK_002800_ATK_01",
@@ -3164,8 +3164,8 @@
         "damage": 20,
         "is_no_damage": false,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": ""
+        "description": "",
+        "effect": null
     },
     {
         "attack_id": "PK_002810_ATK_01",
@@ -3175,7 +3175,7 @@
         "damage": 0,
         "is_no_damage": true,
         "damage_symbol": null,
-        "effect": null,
-        "attack_description": "During your opponent's next turn, attacks used by the Defending Pokemon do \u221220 damage."
+        "description": "During your opponent's next turn, attacks used by the Defending Pokemon do -20 damage.",
+        "effect": null
     }
 ]

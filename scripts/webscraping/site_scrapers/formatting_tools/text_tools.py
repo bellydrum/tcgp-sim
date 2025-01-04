@@ -14,10 +14,10 @@ def standardize_string(string, no_spaces=False, lower=False):
     string = remove_html_characters(string)
 
     # Step 3. Remove consecutive whitespace characters
-    string = re.sub('\s{2,}', ' ', string)
+    string = re.sub("\s{2,}", " ", string)
 
     # Step 4. Remove consecutive whitespace characters
-    string = re.sub('\s{2,}', ' ', string)
+    string = re.sub("\s{2,}", " ", string)
 
     # Step 4 (OPTIONAL). Replace spaces with underscores
     if no_spaces == True:
@@ -39,6 +39,8 @@ def remove_unsafe_chars(unsafe_string):
         "♂": "",
         "♀": "",
         "’": "'",
+        "\u002B": "+",
+        "\u2212": "-",
     }
 
     for unsafe_char in replacement_dict:

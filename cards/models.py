@@ -40,6 +40,14 @@ class Card(models.Model):
 
 """ import destinations """
 
+class Ability(models.Model):
+    id = models.BigAutoField(primary_key=True)
+    ability_id = models.CharField(max_length=512, blank=False, null=False)
+    name = models.CharField(max_length=200, blank=False, null=False)                                            # "gas_leak"
+    name_display = models.CharField(max_length=200, blank=False, null=True)                                     # "Gas Leak"
+    description = models.CharField(max_length=512, blank=False, null=True)
+    effect = models.CharField(max_length=512, blank=False, null=True)
+
 class Attack(models.Model):
     id = models.BigAutoField(primary_key=True)
     attack_id = models.CharField(max_length=512, blank=False, null=False)                                       # "PK_002780_ATK_01"
@@ -50,7 +58,7 @@ class Attack(models.Model):
     is_no_damage = models.BooleanField(null=True)                                                               # False
     damage_symbol = models.CharField(max_length=8, blank=False, null=True)                                      # "+"
     effect = models.JSONField(blank=False, null=True, verbose_name="attack_effect")                             # <function_name>
-    attack_description = models.CharField(max_length=512, blank=False, null=True)                               # "Flip a coin. If tails, this attack does nothing."
+    description = models.CharField(max_length=512, blank=False, null=True)                                      # "Flip a coin. If tails, this attack does nothing."
 
 class EnergyType(models.Model):
     id = models.BigAutoField(primary_key=True)
@@ -84,6 +92,8 @@ class Pokemon(Card, models.Model):
     stage_name = models.CharField(max_length=16, null=True, choices=Stages.choices)                             # "Stage 1"
     hp = models.SmallIntegerField(blank=False, null=True)                                                       # 90
     is_ex = models.BooleanField(blank=False, null=True)                                                         # False
+    ability = models.CharField(max_length=64, blank=False, null=True)
+    ability_description = models.CharField(max_length=1024, blank=False, null=True)
     previous_evolution = models.CharField(max_length=512, blank=False, null=True)                               # "PK_000339"
     retreat_cost_number = models.SmallIntegerField(blank=False, null=True)                                      # 2
     retreat_cost_type = models.ForeignKey(EnergyType, on_delete=models.RESTRICT, blank=False, null=True, related_name="pokemon_retreat_cost_type")

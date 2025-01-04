@@ -17,7 +17,7 @@ body {
 }
 
 div {
-    /* border: var(--standard-border-width) dotted red; */
+    border: var(--standard-border-width) dotted red;
     box-sizing: inherit;
 }
 

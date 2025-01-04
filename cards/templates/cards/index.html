@@ -1,25 +1,35 @@
 {% extends "base.html" %}
 {% load static %}
-
 {% load format %}
+
+{% block title %}Cards {% endblock %}
 
 {% block content-header-title %}
 Cards
 {% endblock %}
 
+{% block head %}<link rel="stylesheet" href="{% static 'cards/css/main.css' %}">{% endblock %}
+
 {% block content%}
 
-{% if cards_list %}
-    <ul>
-    {% for card_record in cards_list %}
-        <li>
-            {{ card_record.name_display }}
-            <!-- <a href="https://www.pokemon-zone.com/cards/{{ card_record.card_set.set.code }}/{{ card_record.card_set.number }}/{{ card_record.card.name|to_hyphen:'_'|no_unsafe }}/">{{ card_record.card.name_display }}</a> -->
-        </li>
-    {% endfor %}
-    </ul>
+{% if card_list %}
+    <div class="cards-display-page-container">
+        {% for card_record in card_list %}
+        <div class="cards-display-card-container">
+        {% if card_record.card_type == "pokemon" %}
+            <div class="card-display-row">
+                <div class="card-stage">{{ card_record.stage_name }}</div>
+                <div class="card-name">{{ card_record.name_display }}</div>
+                <div class="card-hp">HP: {{ card_record.hp }}</div>
+            </div>
+        {% elif card_record.card_ptr.card_type == "trainer" %}
+
+        {% endif %}
+     </div>
+        {% endfor %}
+    </div>
 {% else %}
-    <p>No cards are available.</p>
+    <p>Cards are currently unavailable.</p>
 {% endif %}
 
 {% endblock %}

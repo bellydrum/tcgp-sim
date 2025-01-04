@@ -7,12 +7,15 @@ from cards.models import *
 
 @login_required
 def index(request):
-    cards = Card.objects.all()
+    cards = [i for i in Card.objects.all()]
+    pokemon_cards = [i for i in Pokemon.objects.all()]
+    trainer_cards = [i for i in Trainer.objects.all()]
 
     context = {
-        "cards_list": cards
+        # "card_list": cards[:3],
+        "card_list": [i for i in pokemon_cards][:3],
+        "pokemon_list": pokemon_cards[:3],
+        "trainer_cards": trainer_cards[:3]
     }
-
-    print(cards)
 
     return render(request, "cards/index.html", context=context)

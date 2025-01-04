@@ -6,6 +6,7 @@ import requests
 
 from cards.models import *
 from scripts.webscraping.site_scrapers.conversion_tools.pokemonzone.check_for_updates import get_removed_and_new_card_ids
+from scripts.webscraping.site_scrapers.conversion_tools.pokemonzone.format_abilities import format_abilities
 from scripts.webscraping.site_scrapers.conversion_tools.pokemonzone.format_attacks import format_attacks
 from scripts.webscraping.site_scrapers.conversion_tools.pokemonzone.format_cards import format_cards
 from scripts.webscraping.site_scrapers.conversion_tools.pokemonzone.format_energy_types import format_energy_types
@@ -87,6 +88,18 @@ def scrape():
 
     with open("data/imports/expansions.json", "w") as f:
         f.write(json.dumps(formatted_expansions, indent=4))
+
+
+    # abilities
+
+    response_abilities = [ability for abilities in [card.get("pokemon_object").get("abilities") for card in formatted_pokemon_cards] for ability in abilities]
+    formatted_abilities = format_abilities(response_abilities)
+
+    with open("data/imports/abilities.json", "w") as f:
+        f.write(json.dumps(formatted_abilities, indent=4))
+    
+
+    # attacks
 
     response_attacks = [attack for attacks in [card.get("pokemon_object").get("attacks") for card in formatted_pokemon_cards] for attack in attacks]
     formatted_attacks = format_attacks(response_attacks)

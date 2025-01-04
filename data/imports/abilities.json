@@ -1,0 +1,121 @@
+[
+    {
+        "ability_id": "PK_000070_ABL_01",
+        "name": "powder_heal",
+        "name_display": "Powder Heal",
+        "description": "Once during your turn, you may heal 20 damage from each of your Pokemon.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_000200_ABL_01",
+        "name": "fragrance_trap",
+        "name_display": "Fragrance Trap",
+        "description": "If this Pokemon is in the Active Spot, once during your turn, you may switch in 1 of your opponent's Benched Basic Pokemon to the Active Spot.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_000610_ABL_01",
+        "name": "counterattack",
+        "name_display": "Counterattack",
+        "description": "If this Pokemon is in the Active Spot and is damaged by an attack from your opponent's Pokemon, do 20 damage to the Attacking Pokemon.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_000670_ABL_01",
+        "name": "shell_armor",
+        "name_display": "Shell Armor",
+        "description": "This Pokemon takes -10 damage from attacks.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_000890_ABL_01",
+        "name": "water_shuriken",
+        "name_display": "Water Shuriken",
+        "description": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokemon.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_000980_ABL_01",
+        "name": "volt_charge",
+        "name_display": "Volt Charge",
+        "description": "Once during your turn, you may take a Energy from your Energy Zone and attach it to this Pokemon.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_001230_ABL_01",
+        "name": "shadowy_spellbind",
+        "name_display": "Shadowy Spellbind",
+        "description": "As long as this Pokemon is in the Active Spot, your opponent can't use any Supporter cards from their hand.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_001250_ABL_01",
+        "name": "sleep_pendulum",
+        "name_display": "Sleep Pendulum",
+        "description": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokemon is now Asleep.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_001320_ABL_01",
+        "name": "psy_shadow",
+        "name_display": "Psy Shadow",
+        "description": "Once during your turn, you may take a Energy from your Energy Zone and attach it to the Pokemon in the Active Spot.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_001770_ABL_01",
+        "name": "gas_leak",
+        "name_display": "Gas Leak",
+        "description": "Once during your turn, if this Pokemon is in the Active Spot, you may make your opponent's Active Pokemon Poisoned.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_001820_ABL_01",
+        "name": "hard_coat",
+        "name_display": "Hard Coat",
+        "description": "This Pokemon takes -20 damage from attacks.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_001880_ABL_01",
+        "name": "drive_off",
+        "name_display": "Drive Off",
+        "description": "Once during your turn, you may switch out your opponent's Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.) ",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_002070_ABL_01",
+        "name": "data_scan",
+        "name_display": "Data Scan",
+        "description": "Once during your turn, you may look at the top card of your deck.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_002200_ABL_01",
+        "name": "jungle_totem",
+        "name_display": "Jungle Totem",
+        "description": "Each Energy attached to your Pokemon provides 2 Energy. This effect doesn't stack.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_002330_ABL_01",
+        "name": "wash_out",
+        "name_display": "Wash Out",
+        "description": "As often as you like during your turn, you may move a Energy from 1 of your Benched Pokemon to your Active Pokemon.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_002590_ABL_01",
+        "name": "primeval_law",
+        "name_display": "Primeval Law",
+        "description": "Your opponent can't play any Pokemon from their hand to evolve their Active Pokemon.",
+        "effect": null
+    },
+    {
+        "ability_id": "PK_002690_ABL_01",
+        "name": "rough_skin",
+        "name_display": "Rough Skin",
+        "description": "If this Pokemon is in the Active Spot and is damaged by an attack from your opponent's Pokemon, do 20 damage to the Attacking Pokemon.",
+        "effect": null
+    }
+]

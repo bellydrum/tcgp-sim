@@ -1,0 +1,26 @@
+.cards-display-page-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}
+
+.cards-display-card-container {
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.card-display-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.card-stage {
+    font-size: 0.7rem;
+}
+.card-name {
+    width: 70%;
+    font-weight: 800;
+}
