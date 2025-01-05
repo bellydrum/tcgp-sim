@@ -2,6 +2,21 @@
 
 import re
 
+from cards.models import EnergyType
+
+
+# TODO -- move this shit.
+energy_type_text = [
+    "colorless",
+    "darkness",
+    "fighting",
+    "fire",
+    "grass",
+    "lightning",
+    "metal",
+    "psychic",
+    "water"
+]
 
 def standardize_string(string, no_spaces=False, lower=False):
     """
@@ -9,6 +24,8 @@ def standardize_string(string, no_spaces=False, lower=False):
     """
     # Step 1. Remove all unsafe characters
     string = remove_unsafe_chars(string)
+
+    string = replace_icon_html_with_icon_name(string)
 
     # Step 2. Remove HTML tags
     string = remove_html_characters(string)
@@ -26,6 +43,21 @@ def standardize_string(string, no_spaces=False, lower=False):
     # Step 5 (OPTIONAL). Lowercase the string
     if lower == True:
         string = string.lower()
+
+    return string
+
+def replace_icon_html_with_icon_name(string):
+    """
+    Looks for a specific instance of an HTML reference to an Energy icon and replaces it with the icon name.
+    """
+    if """<span class="energy-text energy-text--type-""" in string:
+        for energy_type in energy_type_text:
+            if f"""<span class="energy-text energy-text--type-{energy_type}""" in string:
+                string = re.sub(
+                    f"""<span class="energy-text energy-text--type-{energy_type}"></span>""",
+                    energy_type.title(),
+                    string
+                )
 
     return string
 
@@ -53,4 +85,10 @@ def remove_html_characters(text):
     """
     Original <strong>text</strong>          ->          Original text
     """
-    return text if text is None else re.sub(re.compile("<.*?>"), " ", text)
+    fixed_text = text if text is None else re.sub(re.compile("<.*?>"), " ", text)
+
+    text = re.sub(" \,", ",", fixed_text)
+    text = re.sub(" \.", "", text)
+    text = re.sub(" \:", "", text)
+    
+    return text

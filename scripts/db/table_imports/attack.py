@@ -47,7 +47,7 @@ def import_objects():
             cost = attack_object.get("cost"),
             damage = attack_object.get("damage"),
             is_no_damage = attack_object.get("is_no_damage"),
-            description = attack_object.get("attack_description")
+            description = attack_object.get("description")
         )
 
         new_object.save()

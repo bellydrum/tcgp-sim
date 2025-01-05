@@ -2,6 +2,7 @@
 
 import json
 import os
+from pprint import pprint
 import requests
 
 from cards.models import *
@@ -102,6 +103,7 @@ def scrape():
     # attacks
 
     response_attacks = [attack for attacks in [card.get("pokemon_object").get("attacks") for card in formatted_pokemon_cards] for attack in attacks]
+
     formatted_attacks = format_attacks(response_attacks)
 
     with open("data/imports/attacks.json", "w") as f:

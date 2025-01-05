@@ -12,24 +12,71 @@ Cards
 
 {% block content%}
 
-{% if card_list %}
-    <div class="cards-display-page-container">
-        {% for card_record in card_list %}
-        <div class="cards-display-card-container">
-        {% if card_record.card_type == "pokemon" %}
-            <div class="card-display-row">
-                <div class="card-stage">{{ card_record.stage_name }}</div>
-                <div class="card-name">{{ card_record.name_display }}</div>
-                <div class="card-hp">HP: {{ card_record.hp }}</div>
-            </div>
-        {% elif card_record.card_ptr.card_type == "trainer" %}
 
+{% if card_list %}
+<div class=""></div>
+
+<div class="cards-display-page-container">
+
+    {% for card_record in card_list %}
+    <div class="cards-display-card-container{% if not show_card_images %} show-border{% endif %}">
+
+        {% if not show_card_images %}
+            {% if card_record.card_type == "pokemon" %}
+                <div class="card-display-row even">
+                    <div class="card-display-content small">{{ card_record.pokemon.stage_name }}</div>
+                    <div class="card-display-content strong">{{ card_record.name_display }}</div>
+                    {% if card_record.pokemon.hp %}
+                        <div class="card-display-content">HP: {{ card_record.pokemon.hp }}</div>
+                    {% endif %}
+                </div>
+                {% for card_attack in card_record.cards_cardattack_related.all %}
+                <div class="card-display-row">
+                    <div class="card-display-content fixed-third small">
+                        {% for energy_type in card_attack.attack.get_cost_icons_html %}
+                        <img src="{% get_static_prefix %}cards/images/{{ energy_type }}.png" class="card-display-energy small" />
+                        {% endfor %}
+                    </div>
+                    <div class="card-display-content">{{ card_attack.attack.name_display }}</div>
+                    <div class="card-display-content end">
+                        {% if card_attack.attack.damage %}
+                            {{ card_attack.attack.damage }}
+                        {% else %}{% endif %}
+                    </div>
+                    {% if card_attack.attack.description %}
+                    <div class="card-display-content full small">{{ card_attack.attack.description }}</div>
+                    {% endif %}
+                </div>
+                {% empty %}
+                <div class="card-display-row"></div>
+                {% endfor %}
+            {% elif card_record.card_type == "trainer" %}
+                <div class="card-display-row">
+                    <div class="card-display-content small">{{ card_record.trainer.trainer_type_label }}</div>
+                    <div class="card-display-content right em">Trainer</div>
+                </div>
+                <div class="card-display-row">
+                    <div class="card-display-content strong">{{ card_record.name_display }}</div>
+                </div>
+                <div class="card-display-row">
+                    <div class="card-display-content">{{ card_record.description }}</div>
+                </div>
+            {% endif %}
+
+            {% if card_record.rules_description %}
+            <div class="card-display-row em small right">
+                {{ card_record.rules_description }}
+            </div>
+            {% endif %}
+        {% else %}
+            <img src="{{ card_record.image_url }}" class="card-image medium" />
         {% endif %}
-     </div>
-        {% endfor %}
     </div>
+
+    {% endfor %}
+</div>
 {% else %}
-    <p>Cards are currently unavailable.</p>
+<p>Cards are currently unavailable.</p>
 {% endif %}
 
 {% endblock %}

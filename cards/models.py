@@ -1,3 +1,4 @@
+import json
 from django.db import models
 
 from cards.enums import *
@@ -31,6 +32,7 @@ class Card(models.Model):
     effect = models.JSONField(blank=False, null=True, verbose_name="card_effect")                               # "{...}"
     expansion_id = models.CharField(max_length=64, blank=False, null=True)                                      # "A1"
     flavor_text = models.CharField(max_length=2048, blank=False, null=True)                                     # "Cloyster that live in seas..."
+    image_url = models.CharField(max_length=5096, blank=False, null=True)
     is_promo = models.BooleanField(blank=False, null=True)                                                      # False
     is_serial = models.BooleanField(blank=False, null=True)                                                     # False
     promotion_name = models.CharField(max_length=512, blank=False, null=True)                                   # None
@@ -60,6 +62,17 @@ class Attack(models.Model):
     damage_symbol = models.CharField(max_length=8, blank=False, null=True)                                      # "+"
     effect = models.JSONField(blank=False, null=True, verbose_name="attack_effect")                             # <function_name>
     description = models.CharField(max_length=512, blank=False, null=True)                                      # "Flip a coin. If tails, this attack does nothing."
+
+    def get_cost_icons_html(self):
+        cost_object = json.loads(self.cost)
+
+        cost_icon_links = []
+
+        for energy_type, amount in cost_object.items():
+            for i in range(amount):
+                cost_icon_links.append(energy_type.lower())
+
+        return cost_icon_links
 
 class EnergyType(models.Model):
     id = models.BigAutoField(primary_key=True)
@@ -115,8 +128,8 @@ class CardAbility(models.Model):
             models.UniqueConstraint(fields=["card", "ability"], name="unique_card_ability")
         ]
     id = models.BigAutoField(primary_key=True)
-    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_abilities_card")
-    ability = models.ForeignKey(Ability, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_abilities_ability")
+    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False, related_name="%(app_label)s_%(class)s_related", related_query_name="%(app_label)s_%(class)ss")
+    ability = models.ForeignKey(Ability, on_delete=models.RESTRICT, blank=False, null=False, related_name="%(app_label)s_%(class)s_related", related_query_name="%(app_label)s_%(class)ss")
 
 class CardAttack(models.Model):
     class Meta:
@@ -124,8 +137,8 @@ class CardAttack(models.Model):
             models.UniqueConstraint(fields=["card", "attack"], name="unique_card_attack")
         ]
     id = models.BigAutoField(primary_key=True)
-    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_attacks_card")
-    attack = models.ForeignKey(Attack, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_attacks_attack")
+    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False, related_name="%(app_label)s_%(class)s_related", related_query_name="%(app_label)s_%(class)ss")
+    attack = models.ForeignKey(Attack, on_delete=models.RESTRICT, blank=False, null=False, related_name="%(app_label)s_%(class)s_related", related_query_name="%(app_label)s_%(class)ss")
 
 class CardIllustrator(models.Model):
     class Meta:
@@ -133,10 +146,10 @@ class CardIllustrator(models.Model):
             models.UniqueConstraint(fields=["card", "illustrator"], name="unique_card_illustrator")
         ]
     id = models.BigAutoField(primary_key=True)
-    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False)
-    illustrator = models.ForeignKey(Illustrator, on_delete=models.RESTRICT, blank=False, null=False)
+    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False, related_name="%(app_label)s_%(class)s_related", related_query_name="%(app_label)s_%(class)ss")
+    illustrator = models.ForeignKey(Illustrator, on_delete=models.RESTRICT, blank=False, null=False, related_name="%(app_label)s_%(class)s_related", related_query_name="%(app_label)s_%(class)ss")
 
 class CardPack(models.Model):
     id = models.BigAutoField(primary_key=True)
-    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_packs_card")
-    pack = models.ForeignKey(Pack, on_delete=models.RESTRICT, blank=False, null=False, related_name="card_packs_pack")
+    card = models.ForeignKey(Card, on_delete=models.RESTRICT, blank=False, null=False, related_name="%(app_label)s_%(class)s_related", related_query_name="%(app_label)s_%(class)ss")
+    pack = models.ForeignKey(Pack, on_delete=models.RESTRICT, blank=False, null=False, related_name="%(app_label)s_%(class)s_related", related_query_name="%(app_label)s_%(class)ss")

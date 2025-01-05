@@ -2,11 +2,14 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 40px;
+    gap: 20px;
 }
 
 .cards-display-card-container {
-    width: 30%;
+    /* width: 30%; */
+}
+
+.cards-display-card-container.show-border {
     border: 1px solid black;
     border-radius: 8px;
 }
@@ -14,13 +17,52 @@
 .card-display-row {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 15px;
+    flex-flow: wrap;
 }
 
-.card-stage {
+.card-display-content {
+    align-items: center;
+}
+
+.card-display-row.even {
+    justify-content: space-between !important;
+}
+
+.card-display-row.small, .card-display-row .small {
     font-size: 0.7rem;
 }
-.card-name {
-    width: 70%;
+
+.card-display-row.right, .card-display-row .right {
+    text-align: right;
+    justify-content: flex-end;
+}
+
+.card-display-row.strong, .card-display-row .strong {
     font-weight: 800;
+}
+
+.card-display-row.em, .card-display-row .em {
+    font-style: italic;
+}
+
+.card-display-content.fixed-third {
+    width: 33%;
+}
+
+.card-display-content.full {
+    flex-basis: 100%;
+}
+
+.card-display-energy.small {
+    width: 13px;
+}
+
+.card-display-row.end, .card-display-row .end {
+    margin-left: auto;
+}
+
+.card-image.medium {
+    width: 110px;
 }

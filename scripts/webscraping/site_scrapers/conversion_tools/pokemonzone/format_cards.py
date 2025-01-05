@@ -29,6 +29,7 @@ def format_card(card_object):
         "dust_cost": card_object.get("dust_cost"),                                                                      # 70
         "expansion": card_object.get("expansion", {}).get("expansionId"),                                               # "A1"
         "flavor_text": standardize_string(card_object.get("flavorText")),                                               # ""
+        "image_url": card_object.get("illustrationUrl"),                                                                # "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_90_000070_00_REDCARD_C.webp"
         "is_promo": card_object.get("isPromotion"),                                                                     # False
         "is_serial": card_object.get("isSerial"),                                                                       # False
         "name": standardize_string(card_object.get("name"), no_spaces=True, lower=True),                                # "cloyster"

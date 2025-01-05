@@ -38,7 +38,7 @@
         "ability_id": "PK_000980_ABL_01",
         "name": "volt_charge",
         "name_display": "Volt Charge",
-        "description": "Once during your turn, you may take a Energy from your Energy Zone and attach it to this Pokemon.",
+        "description": "Once during your turn, you may take a Lightning Energy from your Energy Zone and attach it to this Pokemon.",
         "effect": null
     },
     {
@@ -59,7 +59,7 @@
         "ability_id": "PK_001320_ABL_01",
         "name": "psy_shadow",
         "name_display": "Psy Shadow",
-        "description": "Once during your turn, you may take a Energy from your Energy Zone and attach it to the Pokemon in the Active Spot.",
+        "description": "Once during your turn, you may take a Psychic Energy from your Energy Zone and attach it to the Psychic Pokemon in the Active Spot.",
         "effect": null
     },
     {
@@ -94,14 +94,14 @@
         "ability_id": "PK_002200_ABL_01",
         "name": "jungle_totem",
         "name_display": "Jungle Totem",
-        "description": "Each Energy attached to your Pokemon provides 2 Energy. This effect doesn't stack.",
+        "description": "Each Grass Energy attached to your Grass Pokemon provides 2 Grass Energy. This effect doesn't stack.",
         "effect": null
     },
     {
         "ability_id": "PK_002330_ABL_01",
         "name": "wash_out",
         "name_display": "Wash Out",
-        "description": "As often as you like during your turn, you may move a Energy from 1 of your Benched Pokemon to your Active Pokemon.",
+        "description": "As often as you like during your turn, you may move a Water Energy from 1 of your Benched Water Pokemon to your Active Water Pokemon.",
         "effect": null
     },
     {

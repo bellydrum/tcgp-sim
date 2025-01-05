@@ -44,6 +44,7 @@ def import_objects():
                     effect = object_to_import.get("effect"),
                     expansion_id = object_to_import.get("expansion"),
                     flavor_text = object_to_import.get("flavor_text"),
+                    image_url = object_to_import.get("image_url"),
                     is_promo = object_to_import.get("is_promo"),
                     is_serial = object_to_import.get("is_serial"),
                     name = object_to_import.get("name"),
@@ -71,7 +72,7 @@ def import_objects():
                 print(error_message)
 
                 raise Exception(e)
-        
+
             try:
                 new_object.save()
             except Exception as e:
@@ -79,7 +80,7 @@ def import_objects():
                 print(error_message)
 
                 raise Exception(e)
-        
+
         elif object_to_import.get("card_type") == "trainer":
             trainer_object = object_to_import.get("trainer_object")
 
@@ -108,6 +109,7 @@ def import_objects():
                     effect = object_to_import.get("effect"),
                     expansion_id = object_to_import.get("expansion"),
                     flavor_text = object_to_import.get("flavor_text"),
+                    image_url = object_to_import.get("image_url"),
                     is_promo = object_to_import.get("is_promo"),
                     is_serial = object_to_import.get("is_serial"),
                     name = object_to_import.get("name"),
@@ -127,7 +129,7 @@ def import_objects():
                 print(error_message)
 
                 raise Exception(e)
-        
+
             try:
                 new_object.save()
             except Exception as e:

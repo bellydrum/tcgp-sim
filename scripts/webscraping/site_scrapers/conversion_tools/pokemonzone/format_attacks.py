@@ -34,7 +34,7 @@ from scripts.webscraping.site_scrapers.formatting_tools.text_tools import standa
     is_no_damage = models.BooleanField(null=True)                                                               # False
     damage_symbol = models.CharField(max_length=8, blank=False, null=True)                                      # "+"
     effect = models.JSONField(blank=False, null=True, verbose_name="attack_effect")                             # <function_name>
-    effect_description = models.CharField(max_length=512, blank=False, null=True)                               # "Flip a coin. If tails, this attack does nothing."
+    description = models.CharField(max_length=512, blank=False, null=True)                               # "Flip a coin. If tails, this attack does nothing."
 """
 
 
