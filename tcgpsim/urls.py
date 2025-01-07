@@ -23,6 +23,7 @@ urlpatterns = [
     path("", include("admin.urls")),
     path("admin/", admin.site.urls),
     path("account/", include("account.urls")),
+    path("battle/", include("battle.urls")),
     path("cards/", include("cards.urls")),
     path("log_out", account_views.log_out, name="log_out")
 ]

@@ -20,7 +20,12 @@ async def reset():
             alert(f"Deleted and recreated database {DATABASE_NAME}.")
 
             os.system("rm -r admin/migrations/0*")
+            os.system("rm -r account/migrations/0*")
+            os.system("rm -r base/migrations/0*")
+            os.system("rm -r battle/migrations/0*")
             os.system("rm -r cards/migrations/0*")
+            os.system("rm -r collection/migrations/0*")
+            os.system("rm -r admin/migrations/0*")
             os.system("python3 manage.py makemigrations")
             os.system("python3 manage.py migrate")
 

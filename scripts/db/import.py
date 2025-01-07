@@ -14,6 +14,7 @@ from scripts.db.table_imports.card_ability import import_objects as import_card_
 from scripts.db.table_imports.card_attack import import_objects as import_card_attacks
 from scripts.db.table_imports.card_pack import import_objects as import_card_packs
 from scripts.db.table_imports.pack import import_objects as import_packs
+from scripts.db.static_imports.cards import import_files as import_card_images
 
 
 print(f"\nStarting import procedure...\n")
@@ -31,6 +32,7 @@ import_card_abilities()
 import_card_attacks()
 import_card_illustrators()
 import_card_packs()
+import_card_images()
 
 # gather totals for each table
 total_rarities = Rarity.objects.count()

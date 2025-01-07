@@ -37,6 +37,7 @@ ALLOWED_HOSTS = ["*"]
 INSTALLED_APPS = [
     "admin.apps.AdminConfig",
     "account.apps.AccountConfig",
+    "battle.apps.BattleConfig",
     "base.apps.BaseConfig",
     "cards.apps.CardsConfig",
     'django.contrib.admin',

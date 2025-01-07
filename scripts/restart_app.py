@@ -8,7 +8,7 @@ import time
 def restart():
     os.system("clear")
     os.system("python3 manage.py collectstatic --no-input")
-    os.system("python3 manage.py runserver")
+    os.system("python3 manage.py runserver --noreload")
 
 if __name__ == "django.core.management.commands.shell":
     restart()

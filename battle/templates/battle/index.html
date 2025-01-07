@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% load static %}
+{% load format %}
+
+{% block title %}Battle{% endblock %}
+
+{% block content-header-hidden %}hidden{% endblock %}
+{% block content-header-title %}
+    {% if not battle_active %}
+        Find a battle
+    {% endif %}
+{% endblock %}
+
+{% block head %}
+<link rel="stylesheet" href="{% static 'battle/css/main.css' %}">
+{% if battle_active %}
+<link rel="stylesheet" href="{% static 'battle/css/battle.css' %}">
+{% endif %}
+{% endblock %}
+
+{% block content%}
+    {% if battle_active %}
+    <!-- BATTLE IS ACTIVE!!! -->
+
+    {% include "battle/scene.html" %}
+
+    {% else %}
+    <!-- BATTLE IS NOT ACTIVE!!! -->
+
+    <div class="battle-start-button-container">
+        <form action="/battle/" method="POST">
+            {% csrf_token %}
+            <input type="submit" value="Start battle!" />
+        </form>
+    </div>
+
+    {% endif %}
+
+{% endblock %}
+
+{% block scripts %}
+<script src="{% static 'battle/js/scripts.js' %}" type="text/javascript"></script>
+{% if battle_active %}
+<script src="{% static 'battle/js/battle.js' %}" type="text/javascript"></script>
+{% endif %}
+{% endblock %}

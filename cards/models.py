@@ -33,6 +33,7 @@ class Card(models.Model):
     expansion_id = models.CharField(max_length=64, blank=False, null=True)                                      # "A1"
     flavor_text = models.CharField(max_length=2048, blank=False, null=True)                                     # "Cloyster that live in seas..."
     image_url = models.CharField(max_length=5096, blank=False, null=True)
+    image_path = models.CharField(max_length=5096, blank=False, null=True)                                      # "cards/static/cards/images/<card_id>.png"
     is_promo = models.BooleanField(blank=False, null=True)                                                      # False
     is_serial = models.BooleanField(blank=False, null=True)                                                     # False
     promotion_name = models.CharField(max_length=512, blank=False, null=True)                                   # None
@@ -45,7 +46,7 @@ class Card(models.Model):
 
 class Ability(models.Model):
     id = models.BigAutoField(primary_key=True)
-    ability_id = models.CharField(max_length=512, blank=False, null=False)
+    ability_id = models.CharField(max_length=512, blank=False, null=False, unique=True)
     name = models.CharField(max_length=200, blank=False, null=False)                                            # "gas_leak"
     name_display = models.CharField(max_length=200, blank=False, null=True)                                     # "Gas Leak"
     description = models.CharField(max_length=512, blank=False, null=True)

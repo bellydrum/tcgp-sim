@@ -2,7 +2,7 @@
 {% load static %}
 {% load format %}
 
-{% block title %}Cards {% endblock %}
+{% block title %}Cards{% endblock %}
 
 {% block content-header-title %}
 Cards
@@ -34,7 +34,7 @@ Cards
                 <div class="card-display-row">
                     <div class="card-display-content fixed-third small">
                         {% for energy_type in card_attack.attack.get_cost_icons_html %}
-                        <img src="{% get_static_prefix %}cards/images/{{ energy_type }}.png" class="card-display-energy small" />
+                        <img src="{% get_static_prefix %}cards/images/energy/{{ energy_type }}.png" class="card-display-energy small" />
                         {% endfor %}
                     </div>
                     <div class="card-display-content">{{ card_attack.attack.name_display }}</div>

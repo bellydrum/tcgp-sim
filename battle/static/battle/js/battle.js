@@ -1,0 +1,1 @@
+console.log("battle.js running")

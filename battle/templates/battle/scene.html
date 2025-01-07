@@ -1,0 +1,171 @@
+{% load static %}
+<div class="battle-scene-container">
+    <div class="battle-playmat">
+
+        <div class="battle-scene-row battle-scene-row-outer battle-scene-row-outer-opponent">
+            <div class="user-info-bar opponent-info-bar">
+                <div class="user-points opponent-points user-info-left">
+                    <div class="user-points-icon opponent-points-icon">X</div>
+                    <div class="user-points-icon opponent-points-icon">X</div>
+                    <div class="user-points-icon opponent-points-icon">X</div>
+                </div>
+                <div class="user-username opponent-username">
+                    {% if opponent.username %}{{ opponent.username }}{% else %}Opponent{% endif %}
+                </div>
+            </div>
+        </div>
+
+        <div class="battle-scene-row battle-scene-row-middle">
+            <div class="energy-zone opponent-energy-zone">
+                <div class="current-energy opponent-current-energy"><div>Curr:</div><div>N/A</div></div>
+                <div class="next-energy opponent-next-energy"><div>Next:</div><div>N/A</div></div>
+            </div>
+
+            <div class="hand-container opponent-hand-container {% if not opponent.hand %}empty{% endif %}">
+                {% for card in opponent.hand %}
+                    <div class="card-slot card-slot-small">
+                        <img class="card card-small card-hidden card-user-hand card-opponent-hand" src="{% static 'cards/images/card-back.png' %}" class="card-image"/>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="energy-zone-padding-offset opponent-energy-zone-padding-offset"></div>
+        </div>
+
+        <div class="battle-scene-row battle-scene-row-inner">
+            <div class="user-area-section user-area-section-side opponent-area-section-side">
+                <div class="user-discard-pile-container">
+                    <div class="user-discard-pile">
+                        <div class="card-slot card-slot-small {% if not opponent.discard_pile %}empty{% endif %}">
+                            <div class="card card-small"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="user-draw-pile-container">
+                    <div class="user-draw-pile">
+                        <div class="card-slot card-slot-small {% if not opponent.draw_pile %}empty{% else%}card-hidden{% endif %}"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="user-area-section user-area-section-center">
+                <div class="user-bench-container">
+                    <div class="card-slot card-slot-medium user-bench-card-slot-3 {% if not opponent.bench_3_card %}empty{% endif %}">
+                        {% if opponent.object.bench_3_card %}
+                        <img class="card card-medium user-bench-card-3" src="{% static opponent.object.bench_3_card.image_path %}" />
+                        {% endif %}
+                    </div>
+                    <div class="card-slot card-slot-medium user-bench-card-slot-2 {% if not opponent.bench_2_card %}empty{% endif %}">
+                        {% if opponent.object.bench_2_card %}
+                        <img class="card card-medium user-bench-card-2" src="{% static opponent.object.bench_2_card.image_path %}" />
+                        {% endif %}
+                    </div>
+                    <div class="card-slot card-slot-medium user-bench-card-slot-1 {% if not opponent.bench_1_card %}empty{% endif %}">
+                        {% if opponent.object.bench_1_card %}
+                        <img class="card card-medium user-bench-card-1" src="{% static opponent.object.bench_1_card.image_path %}" />
+                        {% endif %}
+                    </div>
+                </div>
+
+                <div class="user-active-card-container">
+                    <div class="card-slot card-slot-large user-active-card-slot opponent-active-card-slot">
+                        <img class="card card-large user-active-card opponent-active-card" src="{% static opponent.object.active_card.image_path %}" />
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="user-area-section user-area-section-side opponent-area-section-side"></div>
+        </div>
+
+        <!--------------------------->
+
+        <div class="battle-scene-row battle-scene-row-center-divider">
+            <div class="divider-area-section divider-area-section-side"></div>
+            <div class="divider-area-section divider-area-section-side autoplay-button-container">
+                <div class="autoplay-button">Auto?</div>
+            </div>
+        </div>
+
+        <!--------------------------->
+
+        <div class="battle-scene-row battle-scene-row-inner">
+            <div class="user-area-section user-area-section-side player-area-section-side"></div>
+
+            <div class="user-area-section user-area-section-center">
+
+                <div class="user-active-card-container">
+                    <div class="card-slot card-slot-large user-active-card-slot player-active-card-slot">
+                        <img class="card card-large user-active-card player-active-card" src="{% static player.object.active_card.image_path %}" />
+                    </div>
+                </div>
+
+                <div class="user-bench-container">
+                    <div class="card-slot card-slot-medium user-bench-card-slot-1 {% if not player.object.bench_1_card %}empty{% endif %}">
+                        {% if player.object.bench_1_card %}
+                        <img class="card card-medium user-bench-card-1" src="{% static player.object.bench_1_card.image_path %}" />
+                        {% endif %}
+                    </div>
+                    <div class="card-slot card-slot-medium user-bench-card-slot-2 {% if not player.object.bench_2_card %}empty{% endif %}">
+                        {% if player.object.bench_2_card %}
+                        <img class="card card-medium user-bench-card-2" src="{% static player.object.bench_2_card.image_path %}" />
+                        {% endif %}
+                    </div>
+                    <div class="card-slot card-slot-medium user-bench-card-slot-3 {% if not player.object.bench_3_card %}empty{% endif %}">
+                        {% if player.object.bench_3_card %}
+                        <img class="card card-medium user-bench-card-3" src="{% static player.object.bench_3_card.image_path %}" />
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+
+            <div class="user-area-section user-area-section-side player-area-section-side">
+                <div class="user-draw-pile-container">
+                    <div class="user-draw-pile">
+                        <div class="card-slot card-slot-small {% if not user.draw_pile %}empty{% else %}card-hidden{% endif %}"></div>
+                    </div>
+                </div>
+                <div class="user-discard-pile-container">
+                    <div class="user-discard-pile">
+                        <div class="card-slot card-slot-small {% if not user.discard_pile %}empty{% endif %}">
+                            <div class="card card-small"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="battle-scene-row battle-scene-row-middle">
+            <div class="energy-zone-padding-offset user-energy-zone-padding-offset"></div>
+
+            <div class="hand-container user-hand-container">
+                {% for card in player.hand %}
+                    <div class="card-slot card-slot-small">
+                        <div class="card card-small card-hidden card-user-hand card-player-hand">
+                            <img src="{% static card.image_path %}" class="card-image"/>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="energy-zone user-energy-zone">
+                <div class="current-energy user-current-energy"><div>Curr:</div><div>N/A</div></div>
+                <div class="next-energy user-next-energy"><div>Next:</div><div>N/A</div></div>
+            </div>
+        </div>
+
+        <div class="battle-scene-row battle-scene-row-outer battle-scene-row-outer-player">
+            <div class="user-info-bar player-info-bar">
+                <div class="player-username user-username user-info-left">
+                    {% if player.username %}{{ player.username }}{% else %}You{% endif %}
+                </div>
+                <div class="user-points player-points">
+                    <div class="user-points-icon player-points-icon">X</div>
+                    <div class="user-points-icon player-points-icon">X</div>
+                    <div class="user-points-icon player-points-icon">X</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

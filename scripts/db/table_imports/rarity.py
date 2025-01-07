@@ -1,6 +1,6 @@
 import json
 from pprint import pprint
-from cards.models import Card, Rarity
+from cards.models import Card, CardAbility, CardAttack, CardIllustrator, CardPack, Pack, Rarity
 
 
 DATA_FILEPATH = "data/imports/rarities.json"
@@ -13,6 +13,11 @@ def import_objects():
     print(f"""Importing Rarity objects from {DATA_FILEPATH}""")
 
     # STEP 1. Truncate the current database table
+    CardPack.objects.all().delete()
+    Pack.objects.all().delete()
+    CardAbility.objects.all().delete()
+    CardAttack.objects.all().delete()
+    CardIllustrator.objects.all().delete()
     Card.objects.all().delete()
     Rarity.objects.all().delete()
 

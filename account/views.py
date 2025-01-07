@@ -63,18 +63,13 @@ def register(request):
 
         request.session["username"] = validated_username
         request.session["email"] = validated_email
+        request.session["user_id"] = new_user.id
 
         print(f"\nREDIRECTING TO ACCOUNT_DETAILS....\n")
 
         print(f"account_id: {new_user.id}")
 
         return redirect("account:account_details", account_id=new_user.id)
-
-        # return render(
-        #     request=request,
-        #     template_name="user-account.html",
-        #     context={"username": request.POST.get("username")}
-        # )
 
     if not request.user.is_authenticated:
         return render(request, "register.html")

@@ -1,0 +1,318 @@
+div {
+    /* border: 1px dotted red; */
+
+    --font-tiny-value: 0.5;
+    --font-small-value: 0.7;
+    --font-large-value: 1.2;
+
+    --card-small-height-value: 70;
+    --card-medium-height-value: 100;
+    --card-large-height-value: 160;
+    --card-margin-value: 2;
+
+    --font-tiny: calc(var(--font-tiny-value) * 1rem);
+    --font-small: calc(var(--font-small-value) * 1rem);
+    --font-large: calc(var(--font-large-value) * 1rem);
+    --card-small-width-value: calc(var(--card-small-height-value) * 0.714);
+    --card-small-height: calc(var(--card-small-height-value) * 1px);
+    --card-small-width: calc(var(--card-small-width-value) * 1px);
+    --card-medium-width-value: calc(var(--card-medium-height-value) * 0.714);
+    --card-medium-height: calc(var(--card-medium-height-value) * 1px);
+    --card-medium-width: calc(var(--card-medium-width-value) * 1px);
+    --card-large-width-value: calc(var(--card-large-height-value) * 0.714);
+    --card-large-height: calc(var(--card-large-height-value) * 1px);
+    --card-large-width: calc(var(--card-large-width-value) * 1px);
+    --card-margin: calc(var(--card-margin-value) * 1px);
+}
+
+.battle-playmat {
+    background: linear-gradient(#e68290, 10%, #c3d7f2)
+}
+
+
+/** CARDs **/
+
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* padding: 3px; */
+    border-radius: 5px;
+}
+
+.card-slot {
+    border-radius: 5px;
+}
+
+.card-slot.empty {
+    border: 1px solid gray;
+}
+
+.card-image {
+    width: 100%;
+    height: 100%;
+}
+
+.card:not(.card-hidden):hover {
+    cursor: pointer;
+}
+
+.card-slot-small {
+    height: var(--card-small-height);
+    width: var(--card-small-width);
+    margin: var(--card-margin);
+}
+
+.card-small {
+    font-size: var(--font-tiny);
+    height: 100%;
+    width: 100%;
+}
+
+.card-slot-medium {
+    height: var(--card-medium-height);
+    width: var(--card-medium-width);
+    margin: var(--card-margin);
+}
+
+.card-medium {
+    font-size: var(--font-small);
+    height: 100%;
+    width: 100%;
+}
+
+.card-slot-large {
+    height: var(--card-large-height);
+    width: var(--card-large-width);
+    margin: var(--card-margin);
+}
+
+.card-large {
+    font-size: var(--font-small);
+    height: 100%;
+    width: 100%;
+}
+
+.card-hidden {
+    background-color: darkgray;
+}
+
+.card-user-hand {}
+
+/** PAGE LAYOUT **/
+
+.battle-scene-container {
+    --battle-screen-width: 80;
+    --battle-screen-vw: calc(var(--battle-screen-width) * 1%);
+
+    display: flex;
+    width: var(--battle-screen-vw);
+    margin-left: calc(calc(calc(100 - var(--battle-screen-width)) / 2) * 1%);
+    flex-wrap: wrap;  /** ensure .battle-scene-row takes up full width of container **/
+}
+
+.battle-scene-row {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.battle-scene-row:not(.battle-scene-row-outer) {
+    width: 96%;
+    margin-left: 2%;
+}
+
+.battle-scene-row-center-divider {
+    /* justify-content: space-between; */
+}
+
+.autoplay-button {
+    width: auto !important;  /** overrides ".user-area-section-side > div" **/
+}
+
+.autoplay-button:hover {
+    cursor: pointer;
+}
+
+.battle-scene-row-outer {}
+
+.battle-scene-row-outer-opponent {
+    margin-bottom:8px;
+}
+
+.battle-scene-row-outer-player {
+    margin-top: 8px;
+}
+
+.battle-scene-row-middle {
+    /* justify-content: space-between; */
+}
+
+.battle-scene-row-inner {
+    /* justify-content: space-between; */
+}
+
+.user-area-section {
+    --user-area-side-section-width-value: 30;  /** defines size ratio of sections **/
+    --user-area-side-section-width: calc(var(--user-area-side-section-width-value) * 1%);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-area-section-side {
+    flex-direction: column;
+    width: 20vw;
+}
+
+.opponent-area-section-side {
+    justify-content: center;
+}
+
+.user-area-section-side {
+    justify-content: center;
+}
+
+.user-area-section-side > div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-area-section-center {
+    display: flex;
+    width: 100%;
+    /* height: 200px; */
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.user-area-section-center > div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* .user-bench-container {
+    flex-wrap: nowrap;
+} */
+
+.autoplay-button {
+    font-size: var(--font-small);
+}
+
+.user-info-bar {
+    display: flex;
+    width: 100%;
+    background-color: #4a5d74;
+    color: #f3f0f1;
+    padding: 5px;
+}
+
+.opponent-info-bar {
+    justify-content: flex-end;
+    background: linear-gradient(90deg, rgba(74, 93, 116, 0), rgba(74, 93, 116, 1)
+    );
+}
+
+.player-info-bar {
+    justify-content: flex-start;
+    background: linear-gradient(90deg, rgba(74, 93, 116, 1)
+    , rgba(74, 93, 116, 0));
+}
+
+.user-info-left {
+    margin-right: 20px;  /** distance between points and username **/
+}
+
+.user-points {
+    display: flex;
+}
+
+.user-points > .user-points-icon {
+    width: 20px;  /** TODO -- remove when image is used **/
+    text-align: center;
+}
+
+.user-username {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+
+.energy-zone {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 10vw;  /** TODO -- let contents define this **/ /** defines size ratio of sections **/
+    font-size: var(--font-small);;
+    text-align: center;
+}
+
+.hand-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.hand-container.empty {
+    --card-margin-value-double: calc(var(--card-margin-value) * 2);
+    --card-margin-double: calc(var(--card-margin-value-double) * 1px);
+    height: calc(var(--card-small-height) + var(--card-margin-double));
+}
+
+/* .user-hand-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+} */
+
+.energy-zone-padding-offset {
+    width: 10vw;
+}
+
+/** for all non-browser devices **/
+@media (max-width: 1200px) {
+    .battle-scene-container {
+        --battle-screen-width: 100;
+        /* --battle-screen-vw: calc(var(--battle-screen-width) * 1vw);
+
+        width: var(--battle-screen-vw); */
+        margin-left: 0;
+        /* margin-left: calc(calc(calc(100 - var(--battle-screen-width)) / 2) * 1%); */
+        display: block;
+    }
+
+    .card {
+        --card-small-height-value: 50;
+    }
+}
+
+/** for very thin screens **/
+@media (width < 440px) {
+    .user-points > .user-points-icon {
+        width: auto;
+    }
+
+    .user-info-bar {
+        justify-content: space-between;
+    }
+}
+
+/* .card:hover {
+    --updated-card-image-width-md: calc(var(--card-image-width-md) * var(--card-resize-ratio));
+    --updated-card-image-height-md: calc(var(--card-image-height-md) * var(--card-resize-ratio));
+    top: -15px;
+    left: -15px;
+    width: var(--updated-card-image-width-md);
+    height: var(--updated-card-image-height-md);
+    z-index: 200;
+} */
